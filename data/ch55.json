@@ -121,7 +121,7 @@
         "d": "\b Uncountable Nouns"
       },
       "correct": "a",
-      "explanation": "\"have\" osQ LFkku ij \"has\" dk use gksxk D;ksafd \"monsoon\" singular noun gSA",
+      "explanation": "\"have\" in place of \"has\" dk use will be because \"monsoon\" singular Noun are",
       "format": "error_spotting"
     },
     {
@@ -135,7 +135,7 @@
         "d": "\b"
       },
       "correct": "a",
-      "explanation": "\"reduce\" osQ LFkku ij \"reduces\" dk use gksxk D;ksafd \"friction\" uncountable singular noun gSA",
+      "explanation": "\"reduce\" in place of \"reduces\" dk use will be because \"friction\" uncountable singular Noun are",
       "format": "error_spotting"
     },
     {
@@ -162,7 +162,7 @@
         "d": "\b"
       },
       "correct": "b",
-      "explanation": "\"advices\" osQ LFkku ij \"advice\" dk use gksxk D;ksafd \"advice\" uncountable noun gS] ftldk plural form ugha gksrkA",
+      "explanation": "\"advices\" in place of \"advice\" dk use will be because \"advice\" uncountable Noun is ] ftldk plural form ugha gksrkA",
       "format": "error_spotting"
     },
     {
@@ -176,7 +176,7 @@
         "d": "\b"
       },
       "correct": "c",
-      "explanation": "\"were\" osQ LFkku ij \"was\" dk use gksxk D;ksafd \"news\" uncountable singular noun gSA",
+      "explanation": "\"were\" in place of \"was\" dk use will be because \"news\" uncountable singular Noun are",
       "format": "error_spotting"
     },
     {
@@ -189,7 +189,7 @@
         "c": "/ during the cultural event."
       },
       "correct": "b",
-      "explanation": "\"a beautiful music\" osQ LFkku ij \"beautiful music\" dk use gksxk D;ksafd \"music\" uncountable noun gS] ftlosQ lkFk article (\"a/an\") dk use ugha gksrkA",
+      "explanation": "\"a beautiful music\" in place of \"beautiful music\" dk use will be because \"music\" uncountable Noun is ] ftlosQ lkFk article (\"a/an\") dk use ugha gksrkA",
       "format": "error_spotting"
     },
     {
@@ -215,7 +215,7 @@
         "d": "uring the press conference."
       },
       "correct": "a",
-      "explanation": "\"a relevant information\" osQ LFkku ij \"relevantha information\" dk use gksxk D;ksafd \"information\" farticle uncountable noun gS] ftlosQ lkFk @ (\"a/ an\") dk use ugha gksrkA n o ear",
+      "explanation": "\"a relevant information\" in place of \"relevantha information\" dk use will be because \"information\" farticle uncountable Noun is ] ftlosQ lkFk @ (\"a/ an\") dk use ugha gksrkA n o ear",
       "format": "error_spotting"
     },
     {

@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 249,
   "end_page": 250,
-  "theory": " There are some words that look like plural and are used as Plural.\n dqN 'kCn ,sls gksrs gSa tks ns•us esa Plural yxrs gSa vkSj mudk ç;ksx Hkh plural ds :i esa gh fd;k tkrk gSA\n\n English Word Hindi Meaning English Word Hindi Meaning\n Scissors dSaph Glasses p'ek\n Eatables •k| inkFkZ @ •kus dh phtsa Spectacles p'ek\n Valuables dherh lkeku Binoculars nwjchu\n Goods eky @ lkeku Bellows /kSaduh\n Belongings laifÙk @ viuk lkeku Shorts fuDdj @ gkiQ iSaV\n Surroundings vkl&iM+ksl @ okrkoj.k Pants iSaV\n Movables py laifÙk Pliers Iykl\n Congratulations /kbZ Pincers fpeVh\n Thanks /U;okn @ 'kqfØ;k Tongs fpeVk\n Arrears cdk;k Outskirts ljgn @ ckgjh bykdk\n Dues cdk;k jkf'k Archives ,sfrgkfld fjdkWMZ\n Savings cpr Earnings dekbZ @ vk;\n Proceeds equkiQk @ vk; @ çkfIr Premises ifjlj\n Riches /u&nkSyr @ vehjh Annals okf\"kZd fooj.k\n Alms Hkh• @ nku Tidings lekpkj @ •cj\n Embers vaxkjs Contents lkexzh @ fo\"k;&lwph\n Ashes jk• Headquarters eq[;ky;\n Regards lEeku @ 'kqHkdkeuk,a Whereabouts vrk&irk @ fBdkuk\n Trousers irywu Pyjamas iktkek\n Note\n Salary/Payment (Plural)\n Wages\n Result (Singular)",
+  "theory": " There are some words that look like plural and are used as Plural.\ndqN word,sls are which ns•us esa Plural yxrs are and mudk ç;ksx also plural ds:i esa only did tkrk are\n\n English Word Hindi Meaning English Word Hindi Meaning\n Scissors dSaph Glasses p'ek\n Eatables •k| inkFkZ @ •kus dh phtsa Spectacles p'ek\n Valuables dherh lkeku Binoculars nwjchu\n Goods eky @ lkeku Bellows /kSaduh\n Belongings laifÙk @ viuk lkeku Shorts fuDdj @ gkiQ iSaV\n Surroundings vkl&iM+ksl @ okrkoj.k Pants iSaV\n Movables py laifÙk Pliers Iykl\n Congratulations /kbZ Pincers fpeVh\n Thanks /U;okn @ 'kqfØ;k Tongs fpeVk\n Arrears cdk;k Outskirts ljgn @ ckgjh bykdk\n Dues cdk;k jkf'k Archives ,sfrgkfld fjdkWMZ\n Savings cpr Earnings dekbZ @ vk;\n Proceeds equkiQk @ vk; @ çkfIr Premises ifjlj\n Riches /u&nkSyr @ vehjh Annals okf\"kZd fooj.k\n Alms Hkh• @ nku Tidings lekpkj @ •cj\n Embers vaxkjs Contents lkexzh @ fo\"k;&lwph\n Ashes jk• Headquarters eq[;ky;\n Regards lEeku @ 'kqHkdkeuk,a Whereabouts vrk&irk @ fBdkuk\n Trousers irywu Pyjamas iktkek\n Note\n Salary/Payment (Plural)\n Wages\n Result (Singular)",
   "mcqs": [
     {
       "qno": 1,
@@ -133,7 +133,7 @@
         "c": "/ No"
       },
       "correct": "b",
-      "explanation": "\"is\" osQ LFkku ij \"are\" dk use gksxk D;ksafd \"Premises\" dks , Plural Noun ekuk tkrk gS vkSj blosQ lkFk Plural Verb dk use gksrk gSA",
+      "explanation": "\"is\" in place of \"are\" dk use will be because \"Premises\" dks, Plural Noun ekuk tkrk is and blosQ lkFk Plural Verb dk use is",
       "format": "error_spotting"
     },
     {
@@ -159,7 +159,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "\"has\" osQ LFkku ij \"have\" dk use gksxk D;ksafd \"Archives\" dks , Plural Noun ekuk tkrk gS vkSj blosQ lkFk Plural Verb dk use gksrk gSA",
+      "explanation": "\"has\" in place of \"have\" dk use will be because \"Archives\" dks, Plural Noun ekuk tkrk is and blosQ lkFk Plural Verb dk use is",
       "format": "error_spotting"
     },
     {
@@ -172,7 +172,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "\"contains\" osQ LFkku ij \"contain\" dk use gksxk D;ksafd \"Annals\" dks , Plural Noun ekuk tkrk gS vkSj blosQ lkFk Plural Verb dk use gksrk gSA",
+      "explanation": "\"contains\" in place of \"contain\" dk use will be because \"Annals\" dks, Plural Noun ekuk tkrk is and blosQ lkFk Plural Verb dk use is",
       "format": "error_spotting"
     },
     {
@@ -184,7 +184,7 @@
         "c": "/ No error"
       },
       "correct": "c",
-      "explanation": "\"has\" osQ LFkku ij \"have\" dk use gksxk D;ksafd \"Arrears\" dks , Plural Noun ekuk tkrk gS vkSj blosQ lkFk Plural Verb dk use gksrk gSA",
+      "explanation": "\"has\" in place of \"have\" dk use will be because \"Arrears\" dks, Plural Noun ekuk tkrk is and blosQ lkFk Plural Verb dk use is",
       "format": "error_spotting"
     },
     {
@@ -198,7 +198,7 @@
         "b": "7."
       },
       "correct": "a",
-      "explanation": "\"congratulation\" osQ LFkku ij \"congratulations\" dk use gksxkA all - @ ear",
+      "explanation": "\"congratulation\" in place of \"congratulations\" dk use gksxkA all - @ ear",
       "format": "error_spotting"
     }
   ]

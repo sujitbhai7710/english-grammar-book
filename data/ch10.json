@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 40,
   "end_page": 41,
-  "theory": "1 Hardly/ Scarcely\n\n Hardly/ Scarcely + H.V + Subject1 + M. V + Object + When + Subject2 + Verb + Object\n\n Clause1 Clause2\n  Used to show that one action takes place immediately after the other.\n ;g n'kkZrk gS fd , dk;Z lekIr gksrs gh rqjar nwljk dk;Z ?kfVr gksrk gSA\n\n 2 No Sooner\n\n No Sooner + H.V + Subject1 + M. V + Object + Than + Subject2 + Verb + Object\n\n Clause1 Clause2\n  Used to show that two actions take place together.\n ;g n'kkZrk gS fd nks dk;Z , lkFk ?kfVr gksrs gSA",
+  "theory": "1 Hardly/ Scarcely\n\n Hardly/ Scarcely + H.V + Subject1 + M. V + Object + When + Subject2 + Verb + Object\n\n Clause1 Clause2\n  Used to show that one action takes place immediately after the other.\n;g n'kkZrk is fd, work lekIr gksrs only rqjar nwljk work?kfVr is\n\n 2 No Sooner\n\n No Sooner + H.V + Subject1 + M. V + Object + Than + Subject2 + Verb + Object\n\n Clause1 Clause2\n  Used to show that two actions take place together.\n;g n'kkZrk is fd two work, lkFk?kfVr are",
   "mcqs": [
     {
       "qno": 1,
@@ -29,7 +29,7 @@
         "d": "\b"
       },
       "correct": "b",
-      "explanation": "\"Then” osQ LFkku ij “when” gksxk] D;ksafd Hardly/Scarcely osQ lkFk when vkrk gSA",
+      "explanation": "\"Then” in place of “when” will be ] because Hardly/Scarcely with when comes are",
       "format": "error_spotting"
     },
     {
@@ -43,7 +43,7 @@
         "d": "\b"
       },
       "correct": "d",
-      "explanation": "No error 4. (a) No sooner he had arrived osQ LFkku ij “No sooner had he arrived” gksxk] D;ksafd No sooner sentence dh 'kq:vkr esa vkus ij inversion ysrk gSA",
+      "explanation": "No error 4. (a) No sooner he had arrived in place of “No sooner had he arrived” will be ] because No sooner sentence dh 'kq:vkr esa vkus ij inversion ysrk are",
       "format": "error_spotting"
     },
     {
@@ -69,7 +69,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "“than” osQ LFkku ij “when” gksxk] D;ksafd Scarcely osQ lkFk when vkrk gSA",
+      "explanation": "“than” in place of “when” will be ] because Scarcely with when comes are",
       "format": "error_spotting"
     },
     {
@@ -82,7 +82,7 @@
         "d": "\b"
       },
       "correct": "b",
-      "explanation": "“that” osQ LFkku ij “than” gksxk] D;ksafd No sooner osQ lkFk than vkrk gSA",
+      "explanation": "“that” in place of “than” will be ] because No sooner with than comes are",
       "format": "error_spotting"
     },
     {
@@ -96,7 +96,7 @@
         "d": "\b"
       },
       "correct": "c",
-      "explanation": "“have” osQ LFkku ij “had” gksxk] D;ksafd guest singular gS vkSj past perfect esa had arrived vkrk gSA 21. Scarcely had the satellite deployed ................. it transmitted its first data packet.  (SSC CGL, 2025) (a) than (b) when () before () until 22. Hardly had she entered the room ................. the phone rang. (SSC Phase XIII, 2025) (a) when (b) than () then () while 23. No sooner had he entered the room ................. the fire alarm went off.  (SSC CGL, 2025) (a) when (b) than () but () and then 24. Hardly had the meeting begun ................. the auditors requested additional documentation.  (SSC CGL, 2025) (a) when (b) before () than () then 25. He had ........ spoken for two minutes when there was a commotion in the crowd.  (UPSC NDA, 2018) (a) even (b) hardly () often () little",
+      "explanation": "“have” in place of “had” will be ] because guest singular is and Past Perfect esa had arrived comes are 21. Scarcely had the satellite deployed................. it transmitted its first data packet. (SSC CGL, 2025) (a) than (b) when () before () until 22. Hardly had she entered the room................. the phone rang. (SSC Phase XIII, 2025) (a) when (b) than () then () while 23. No sooner had he entered the room................. the fire alarm went off. (SSC CGL, 2025) (a) when (b) than () but () and then 24. Hardly had the meeting begun................. the auditors requested additional documentation. (SSC CGL, 2025) (a) when (b) before () than () then 25. He had........ spoken for two minutes when there was a commotion in the crowd. (UPSC NDA, 2018) (a) even (b) hardly () often () little",
       "format": "error_spotting"
     },
     {
@@ -110,7 +110,7 @@
         "d": "\b"
       },
       "correct": "c",
-      "explanation": "“when” osQ LFkku ij “than” gksxk] D;ksafd No sooner osQ lkFk than vkrk gSA",
+      "explanation": "“when” in place of “than” will be ] because No sooner with than comes are",
       "format": "error_spotting"
     },
     {

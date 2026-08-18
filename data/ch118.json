@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 307,
   "end_page": 308,
-  "theory": " Parallelism is a grammatical device in which words, phrases or clauses are arranged in a\n similar structure to ensure balance, clarity, and smooth flow in a sentence.\n Parallelism , grammatical device gS ftlesa words, phrases ;k clauses dks , leku\n grammatical stucture esa arrange fd;k tkrk gS rkfd sentence esa balance, clarity vkSj smooth\n flow cuk jgsA\n Examples\n 1 My brother likes books reading, watching movies and playing games. ()\n My brother likes reading books, watching movies and playing games. ()\n 2 Mukesh is not only intelligent but also works hard. ()\n Mukesh is not only intelligent but also hard-working. ()\n 3 Anuradha is good at singing, dance and paint painting. ()\n Anuradha is good at singing, dancing and painting. ()",
+  "theory": " Parallelism is a grammatical device in which words, phrases or clauses are arranged in a\n similar structure to ensure balance, clarity, and smooth flow in a sentence.\n Parallelism , grammatical device gS ftlesa words, phrases ;k clauses dks , leku\ngrammatical stucture esa arrange did tkrk is rkfd sentence esa balance, clarity and smooth\n flow cuk jgsA\n Examples\n 1 My brother likes books reading, watching movies and playing games. ()\n My brother likes reading books, watching movies and playing games. ()\n 2 Mukesh is not only intelligent but also works hard. ()\n Mukesh is not only intelligent but also hard-working. ()\n 3 Anuradha is good at singing, dance and paint painting. ()\n Anuradha is good at singing, dancing and painting. ()",
   "mcqs": [
     {
       "qno": 1,
@@ -217,7 +217,7 @@
         "d": "G"
       },
       "correct": "c",
-      "explanation": "17. () 18. () 19. () 20. () tions igys Gerund Phrase (\"for speaking clearly\") gS, blfy, \"and\" osQ ckn Hkh for + Noun Phrase vk,xhA",
+      "explanation": "17. () 18. () 19. () 20. () tions first Gerund Phrase (\"for speaking clearly\") is, therefore \"and\" after also for + Noun Phrase come,xhA",
       "format": "error_spotting"
     },
     {
@@ -272,7 +272,7 @@
         "d": "\b 6."
       },
       "correct": "c",
-      "explanation": "“but also addressing” osQ LFkku ij “but also address” dk use gksxk D;ksafd not only intended to -@ esa but also streamline osQ lkFk parallel structure to address vk,xkA",
+      "explanation": "“but also addressing” in place of “but also address” dk use will be because not only intended to -@ esa but also streamline with parallel structure to address come,xkA",
       "format": "error_spotting"
     }
   ]

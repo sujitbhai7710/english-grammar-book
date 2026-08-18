@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 286,
   "end_page": 287,
-  "theory": " A cleft sentence is a sentence divided into two parts to emphasize a particular element\n (subject, object, time, place, etc.).\n Cleft sentence og okD; gksrk gS] ftls nks Hkkxksa esa ck¡Vdj fdlh , fgLls ij tksj (emphasis) fn;k tkrk gSA\n\n Structures\n 1 It-cleft structure: It + be (is/was) + emphasized part + that/who + rest of the sentence\n 2 Wh-cleft (Pseudo-cleft) structure: Wh-word (what/where/why etc.) + clause + be +\n emphasized part\n Note\n  When a noun clause performs the function of the subject of a verb, a singular verb is\n used. Noun Clause as subject usually begins with (that, what, who, whoever, whether,\n how, etc).\n tc dksbZ Noun Clause, verb osQ Subject osQ :i esa dk;Z djrk gS] rc singular verb dk iz;ksx\n fd;k tkrk gS] vkSj Noun Clause as a subject, lkekU;% that, what, who, whoever, whether,\n how vkfn ls 'kq: gksrk gSA",
+  "theory": " A cleft sentence is a sentence divided into two parts to emphasize a particular element\n (subject, object, time, place, etc.).\nCleft sentence og sentence gksrk is ] which two Hkkxksa esa ck¡Vdj any/some, fgLls ij tksj (emphasis) fn;k tkrk are\n\n Structures\n 1 It-cleft structure: It + be (is/was) + emphasized part + that/who + rest of the sentence\n 2 Wh-cleft (Pseudo-cleft) structure: Wh-word (what/where/why etc.) + clause + be +\n emphasized part\n Note\n  When a noun clause performs the function of the subject of a verb, a singular verb is\n used. Noun Clause as subject usually begins with (that, what, who, whoever, whether,\n how, etc).\ntc dksbZ Noun Clause, Verb of Subject in the form of work djrk is ] rc singular Verb use of\ndid tkrk is ] and Noun Clause as a Subject, lkekU;% that, what, who, whoever, whether,\nhow etc. ls 'kq: is",
   "mcqs": [
     {
       "qno": 1,
@@ -182,7 +182,7 @@
         "c": "/ and financial"
       },
       "correct": "a",
-      "explanation": "‘Were’ osQ LFkku ij ‘was’ dk use gksxk, D;ksafd what + clause ;gk¡ singular subject dk dk;Z dj jgk gSA",
+      "explanation": "‘Were’ in place of ‘was’ dk use will be, because what + clause;gk¡ singular Subject does the work of jgk are",
       "format": "error_spotting"
     },
     {
@@ -209,7 +209,7 @@
         "d": "\b Answers"
       },
       "correct": "b",
-      "explanation": "‘Were’ osQ LFkku ij ‘was’ dk use gksxk, D;ksafd sentence esa iwjk that-clause singular subject dh rjg dk;Z dj jgk gSA",
+      "explanation": "‘Were’ in place of ‘was’ dk use will be, because sentence esa complete that-clause singular Subject dh functions as jgk are",
       "format": "error_spotting"
     },
     {
@@ -222,7 +222,7 @@
         "c": "/ between policy rhetoric and"
       },
       "correct": "c",
-      "explanation": "Indicate’ osQ LFkku ij ‘indicates’ dk use gksxk, D;ksafd sentence esa iwjk that-clause singular subject dh rjg dk;Z dj jgk gSA",
+      "explanation": "Indicate’ in place of ‘indicates’ dk use will be, because sentence esa complete that-clause singular Subject dh functions as jgk are",
       "format": "error_spotting"
     },
     {
@@ -236,7 +236,7 @@
         "d": "\b"
       },
       "correct": "b",
-      "explanation": "‘Are’ osQ LFkku ij ‘is’ dk use gksxk, D;ksafd subject l ‘all that is needed’ , complete idea fhdks al singular :i esa fn•k jgk gSA",
+      "explanation": "‘Are’ in place of ‘is’ dk use will be, because Subject l ‘all that is needed’, complete idea fhdks al singular:i esa fn•k jgk are",
       "format": "error_spotting"
     },
     {
@@ -250,7 +250,7 @@
         "d": "\b 6."
       },
       "correct": "b",
-      "explanation": "‘Where’ osQ LFkku ij ‘that’ dk use @ gksxk, D;ksafd - phrase’ osQ cleft sentence esa ‘It was + place/time ckn generally ‘that’ dk use fd;k tkrk gSA",
+      "explanation": "‘Where’ in place of ‘that’ dk use @ will be, because - phrase’ of cleft sentence esa ‘It was + place/time after generally ‘that’ dk use did tkrk are",
       "format": "error_spotting"
     }
   ]

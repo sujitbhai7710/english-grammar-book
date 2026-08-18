@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 229,
   "end_page": 230,
-  "theory": "if/ whether\n (Conjunctions)\n That\n Asked/ Enquired Superfluous\n (Incorrect)\n why/where/\n how/when\n (Conjunctions)\n\n Note\n\n When WH-words (who, what, where, when, why, how, etc.) are used in the middle of\n sentences, they are called conjunctions.\n tc WH-words (who, what, where, when, why, how vkfn) fdlh okD; ds chp esa gksrs gSa] rks\n\n os ç'u iwNus dk dk;Z ugha djrs] cfYd nks clauses dks tksM+us dk dk;Z djrs gSaA bUgsa Conjunctions\n dgk tkrk gSA\n Structure\n Subject +...........+ asked/enquired/wondered + (if/whether/WH-word) + Subject + Verb…\n\n Examples",
+  "theory": "if/ whether\n (Conjunctions)\n That\n Asked/ Enquired Superfluous\n (Incorrect)\n why/where/\n how/when\n (Conjunctions)\n\n Note\n\n When WH-words (who, what, where, when, why, how, etc.) are used in the middle of\n sentences, they are called conjunctions.\ntc WH-words (who, what, where, when, why, how etc.) any/some sentence ds chp esa are ] rks\n\nos ç'u iwNus dk work ugha djrs] cfYd two clauses dks tksM+us dk work djrs gSaA bUgsa Conjunctions\ndgk tkrk are\n Structure\n Subject +...........+ asked/enquired/wondered + (if/whether/WH-word) + Subject + Verb…\n\n Examples",
   "mcqs": [
     {
       "qno": 1,
@@ -122,7 +122,7 @@
         "c": "/ No error"
       },
       "correct": "a",
-      "explanation": "Enquired that’ osQ LFkku ij osQoy ‘enquired’ dk use gksxk A",
+      "explanation": "Enquired that’ in place of osQoy ‘enquired’ dk use will be A",
       "format": "error_spotting"
     },
     {
@@ -149,7 +149,7 @@
         "d": "Answers"
       },
       "correct": "a",
-      "explanation": "‘Whether what’ osQ LFkku ij osQoy ‘whether’ dk use gksxk A",
+      "explanation": "‘Whether what’ in place of osQoy ‘whether’ dk use will be A",
       "format": "error_spotting"
     },
     {
@@ -162,7 +162,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "‘That how’ osQ LFkku ij osQoy ‘how’ dk use gksxkAll",
+      "explanation": "‘That how’ in place of osQoy ‘how’ dk use gksxkAll",
       "format": "error_spotting"
     },
     {

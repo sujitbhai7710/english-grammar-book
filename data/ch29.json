@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 84,
   "end_page": 86,
-  "theory": " The third conditional is used to talk about imaginary situation in the past, things that\n did not happen and their hypothetical results. It expresses regret, criticism, or missed\n opportunities related to the past.\n Third Conditional dk ç;ksx Past dh ,slh fLFkfr dks crkus ds fy, fd;k tkrk gS tks okLro esa ugha\n\n gqbZ] ysfdu ge mlds dkYifud ifj.kke dh dYiuk djrs gSaA ;g vDlj Regret, Criticism ;k Missed\n opportunity dks n'kkZrk gSA\n\n Structure\n\n If + Subject1 + had + V3 + Object , Subject2 + would have + V3 + Object.\n Clause1 Clause2\n\n Inversion\n\n Had + Subject1 + V3 + Object , Subject2 + would have + V3 + Object.\n Clause1 Clause2\n\n Note\n dHkh&dHkh Would osQ LFkku ij ‘could/might’ dk iz;ksx ability, possibility vkSj uncertainty dks\n fn[kkus osQ fy, fd;k tk ldrk gSA",
+  "theory": " The third conditional is used to talk about imaginary situation in the past, things that\n did not happen and their hypothetical results. It expresses regret, criticism, or missed\n opportunities related to the past.\nThird Conditional dk ç;ksx Past dh,slh fLFkfr dks crkus ds fy, did tkrk is which okLro esa ugha\n\n gqbZ] ysfdu ge mlds dkYifud ifj.kke dh dYiuk djrs gSaA ;g vDlj Regret, Criticism ;k Missed\n opportunity dks n'kkZrk gSA\n\n Structure\n\n If + Subject1 + had + V3 + Object , Subject2 + would have + V3 + Object.\n Clause1 Clause2\n\n Inversion\n\n Had + Subject1 + V3 + Object , Subject2 + would have + V3 + Object.\n Clause1 Clause2\n\n Note\ndHkh&dHkh Would in place of ‘could/might’ use of ability, possibility and uncertainty dks\nfn[kkus of fy, did tk ldrk are",
   "mcqs": [
     {
       "qno": 1,
@@ -59,7 +59,7 @@
         "d": "\b"
       },
       "correct": "a",
-      "explanation": "Inversion esa 'Had he responded' gksuk pkfg,A D;ksafd main clause esa ‘could have been averted’ gSA",
+      "explanation": "Inversion esa 'Had he responded' should be,A because main clause esa ‘could have been averted’ are",
       "format": "error_spotting"
     },
     {
@@ -73,7 +73,7 @@
         "d": "\b"
       },
       "correct": "a",
-      "explanation": "Main clause esa 'would have told' gS] blfy, conditional clause esa 'have asked' osQ LFkku ij 'had asked' vk,xkA",
+      "explanation": "Main clause esa 'would have told' is ] therefore conditional clause esa 'have asked' in place of 'had asked' come,xkA",
       "format": "error_spotting"
     },
     {
@@ -99,7 +99,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "Conditional clause esa 'Had... been' (V3) gS] blfy, main clause esa 'will reach' osQ LFkku ij 'would have reached' vk,xkA",
+      "explanation": "Conditional clause esa 'Had... been' (V3) is ] therefore main clause esa 'will reach' in place of 'would have reached' come,xkA",
       "format": "error_spotting"
     },
     {
@@ -113,7 +113,7 @@
         "d": "9. If you have"
       },
       "correct": "c",
-      "explanation": "Conditional clause esa 'had seen' gS] blfy, 'may not crossed' osQ LFkku ij 'might/may not have crossed' vk,xkA",
+      "explanation": "Conditional clause esa 'had seen' is ] therefore 'may not crossed' in place of 'might/may not have crossed' come,xkA",
       "format": "error_spotting"
     },
     {
@@ -150,7 +150,7 @@
         "c": "/ No"
       },
       "correct": "b",
-      "explanation": "'Had' osQ ckn V3 vkrk gS] blfy, 'end' osQ LFkku ij 'ended' vk,xkA",
+      "explanation": "'Had' after V3 comes is ] therefore 'end' in place of 'ended' come,xkA",
       "format": "error_spotting"
     },
     {
@@ -163,7 +163,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "Conditional clause esa 'had taken' gS] blfy, main clause esa 'would be' osQ LFkku ij 'would have been' vk,xkA",
+      "explanation": "Conditional clause esa 'had taken' is ] therefore main clause esa 'would be' in place of 'would have been' come,xkA",
       "format": "error_spotting"
     },
     {
@@ -176,7 +176,7 @@
         "c": "/ No error"
       },
       "correct": "a",
-      "explanation": "'If' clause esa 'would have' dk ç;ksx ugha gksrk; blfy, 'would have informed' osQ LFkku ij 'had informed' vk,xkA",
+      "explanation": "'If' clause esa 'would have' dk ç;ksx ugha gksrk; therefore 'would have informed' in place of 'had informed' come,xkA",
       "format": "error_spotting"
     },
     {
@@ -189,7 +189,7 @@
         "d": "G"
       },
       "correct": "a",
-      "explanation": "had nipped osQ LFkku ij had been nipped gksxk] D;ksafd okD; passive esa gSA",
+      "explanation": "had nipped in place of had been nipped will be ] because sentence passive esa are",
       "format": "error_spotting"
     },
     {
@@ -201,7 +201,7 @@
         "c": "/ No error"
       },
       "correct": "c",
-      "explanation": "'Would have' osQ ckn V3 vkrk gS] blfy, 'succeed' osQ LFkku ij 'succeeded' vk,xkA hall - @ ear",
+      "explanation": "'Would have' after V3 comes is ] therefore 'succeed' in place of 'succeeded' come,xkA hall - @ ear",
       "format": "error_spotting"
     },
     {

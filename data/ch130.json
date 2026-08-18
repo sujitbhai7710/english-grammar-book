@@ -2880,7 +2880,7 @@
         "c": "/ is"
       },
       "correct": "a",
-      "explanation": "\"blosQ vykok\" osQ vFkZ esa lgh Phrase \"In addition to\" gksrk gSA",
+      "explanation": "\"blosQ vykok\" of meaning esa lgh Phrase \"In addition to\" is",
       "format": "error_spotting"
     },
     {
@@ -2995,7 +2995,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "consonant sound from 'kq: to be okys 'kCnksa before",
+      "explanation": "consonant sound from 'kq: to be okys words before",
       "format": "error_spotting"
     },
     {
@@ -3074,7 +3074,7 @@
         "c": "242."
       },
       "correct": "b",
-      "explanation": "consonant sound from 'kq: to be okys 'kCnksa before",
+      "explanation": "consonant sound from 'kq: to be okys words before",
       "format": "error_spotting"
     },
     {
@@ -3100,7 +3100,7 @@
         "c": "/ profusely"
       },
       "correct": "b",
-      "explanation": "tc ge fdlh Instrument/Tool dk use djosQ dksbZ dke djrs gSa, rks mlosQ fy, \"with\" dk use gksrk gS, \"by\" dk ughaA",
+      "explanation": "tc ge any/some Instrument/Tool dk use djosQ dksbZ dke djrs are, rks mlosQ fy, \"with\" dk use gksrk is, \"by\" dk ughaA",
       "format": "error_spotting"
     },
     {
@@ -3242,7 +3242,7 @@
         "c": "/ to reach"
       },
       "correct": "a",
-      "explanation": "consonants sound from 'kq: to be okys 'kCnksa before",
+      "explanation": "consonants sound from 'kq: to be okys words before",
       "format": "error_spotting"
     },
     {
@@ -3612,7 +3612,7 @@
         "c": "/ No"
       },
       "correct": "b",
-      "explanation": "okD; Past Time dh ckr dj jgk gSA blosQ vykok vkxs \"leaked\" (V2) dk use Hkh gqvk gSA blfy, \"postulate\" dh txg Past Tense (postulated) dk use gksxkA",
+      "explanation": "sentence Past Time dh ckr do jgk are blosQ vykok vkxs \"leaked\" (V2) dk use also gqvk are therefore \"postulate\" dh txg Past Tense (postulated) dk use gksxkA",
       "format": "error_spotting"
     },
     {
@@ -3802,7 +3802,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "consonant sound from 'kq: to be okys 'kCnksa before",
+      "explanation": "consonant sound from 'kq: to be okys words before",
       "format": "error_spotting"
     },
     {
