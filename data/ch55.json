@@ -162,7 +162,7 @@
         "d": "\b"
       },
       "correct": "b",
-      "explanation": "\"advices\" in place of \"advice\" dk use will be because \"advice\" uncountable Noun is ] ftldk plural form ugha gksrkA",
+      "explanation": "\"advices\" in place of \"advice\" will be used because \"advice\" is an uncountable noun whose plural form does not exist.",
       "format": "error_spotting"
     },
     {
@@ -215,7 +215,7 @@
         "d": "uring the press conference."
       },
       "correct": "a",
-      "explanation": "\"a relevant information\" in place of \"relevantha information\" dk use will be because \"information\" farticle uncountable Noun is ] ftlosQ lkFk @ (\"a/ an\") dk use ugha gksrkA n o ear",
+      "explanation": "\"a relevant information\" in place of \"relevantha information\" will be used because \"information\" is an uncountable noun and therefore (\"a/ an\") is not used with it.",
       "format": "error_spotting"
     },
     {
