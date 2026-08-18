@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 141,
   "end_page": 142,
-  "theory": " Causative verbs are those verbs that show that the Subject does not perform the action\n    itself, but causes someone else to do it.\n Causative Verbs os Verbs gSa ftuesa subject Lo;a dk;Z ugha djrk] cfYd fdlh vU; O;fDr ls dk;Z\n\n      djokrk gSA\n   1 Make dk use fdlh dks etcwj djosQ ;k ncko                            2 Get dk use fdlh dks le>kdj ;k fdlh rjg\n       Mkydj dke djokus osQ fy, fd;k tkrk gSA                               O;oLFkk djosQ dke djokus osQ fy, fd;k tkrk gSA\n                                 Make                                                                Get\n                                      Pa                                                                    Pa\n                          i ve            ss                                               t  i ve                ss\n\n                    A  ct                    iv\n                                                   e                                    Ac                                 e\n\n               VBase                        To+V1                                To+V1                            V3\n           Bare Infinitive                 Infinitive                           Infinitive                  Past Participle\n\n   3 Have dk use fdlh ls dke djokus osQ fy,                               4 \u0007Let dk use fdlh dks permission nsdj\n       fd;k tkrk gS] tgk¡ u rks force gksrk gS vkSj u gh                      dke djus nsus osQ fy, fd;k tkrk gSA\n       eukuk 'kkfey gksrk gSA                                                                        Let\n\n                              Have                                                             e             ss\n                                                                                          tiv                     iv\n\n                                     Pa                                                Ac                              e\n                       iv               ss\n                   Act                     iv\n\n                                                                                 VBase                                     VBase\n             VBase                       V3                                  Bare Infinitive\n         Bare Infinitive           Past Participle",
+  "theory": " Causative verbs are those verbs that show that the Subject does not perform the action\n itself, but causes someone else to do it.\n Causative Verbs os Verbs gSa ftuesa subject Lo;a dk;Z ugha djrk] cfYd fdlh vU; O;fDr ls dk;Z\n\n djokrk gSA\n 1 Make dk use fdlh dks etcwj djosQ ;k ncko 2 Get dk use fdlh dks le>kdj ;k fdlh rjg\n Mkydj dke djokus osQ fy, fd;k tkrk gSA O;oLFkk djosQ dke djokus osQ fy, fd;k tkrk gSA\n Make Get\n Pa Pa\n i ve ss t i ve ss\n\n A ct iv\n Ac \n\n VBase To+V1 To+V1 V3\n Bare Infinitive Infinitive Infinitive Past Participle\n\n 3 Have dk use fdlh ls dke djokus osQ fy, 4 \u0007Let dk use fdlh dks permission nsdj\n fd;k tkrk gS] tgk¡ u rks force gksrk gS vkSj u gh dke djus nsus osQ fy, fd;k tkrk gSA\n eukuk 'kkfey gksrk gSA Let\n\n Have ss\n tiv iv\n\n Pa Ac \n iv ss\n Act iv\n\n VBase VBase\n VBase V3 Bare Infinitive\n Bare Infinitive Past Participle",
   "mcqs": [
     {
       "qno": 1,
@@ -51,7 +51,7 @@
       "exam_source": "",
       "options": {
         "a": "/ to be examined carefully by the",
-        "b": "/ before taking any final decision on",
+        "b": "/ before taking any final decision",
         "c": "/ in the upcoming meeting."
       },
       "correct": "b",
@@ -105,7 +105,7 @@
         "a": "/ after completing the test",
         "b": "/ successfully",
         "c": "/ No error",
-        "d": "d f"
+        "d": "d"
       },
       "correct": "a",
       "explanation": "\"to have left\" should be replaced with \"leave\" of use will be",
@@ -117,7 +117,7 @@
       "exam_source": "",
       "options": {
         "b": "/ arrived unexpectedly",
-        "d": "h c"
+        "d": "h"
       },
       "correct": "a",
       "explanation": "\"started\" should be replaced with \"start\" of use will be because",
@@ -132,7 +132,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -181,10 +181,10 @@
       "question": "Shailesh finally decided to take a back seat and let his son .......... the family business.",
       "exam_source": "(SSC MTS, 2019)",
       "options": {
-        "a": "running",
+        "a": "unning",
         "b": "to run",
         "c": "will run",
-        "d": "run"
+        "d": "un"
       },
       "correct": "d",
       "explanation": "",

@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 92,
   "end_page": 94,
-  "theory": "Not only ..... But also, Neither ..... Nor,\n\n        Part-A\n         When two subjects are connected by (Neither...nor, Either...or, or Not only...but\n             also), the verb agrees with the subject nearest to it.\n     \t\t ;fn nks subjects (Neither...nor, Either...or, ;k Not only...but also) ls tqM+s gksa, rks verb vius\n        ikl okys subject osQ vuqlkj vk,xhA\n                           Neither                      Nor\n                           Either + Subject1 +          Or       + Subject2 + Verb\n                           Not only                     But also\n\n        Part-B\n         When two clauses or parts of a sentence are joined by Correlative Conjunctions\n             such as (Either … or, Neither … nor, Not only … but also), the common part of\n             speech must be placed before these conjunctions.\n     \t\t;fn nks clauses or parts of a sentence tc Correlative Conjunctions tSls (Either…\n       or, Neither…nor, Not only…but also) ls tqM+s gksrs gSa, rc common part of speech bu\n       Conjunctions ls igys j[kk tkuk pkfg,A\n         The sentence should maintain parallel structure.\n\n                                         Neither                         Nor\n                    Common Part\n                                         Either                          Or\n                                         Not only           Phrase1      But also       Phrase2",
+  "theory": "Not only ..... But also, Neither ..... Nor,\n\n Part-A\n  When two subjects are connected by (Neither...nor, Either...or, or Not only...but\n also), the verb agrees with the subject nearest to it.\n ;fn nks subjects (Neither...nor, Either...or, ;k Not only...but also) ls tqM+s gksa, rks verb vius\n ikl okys subject osQ vuqlkj vk,xhA\n Neither Nor\n Either + Subject1 + Or + Subject2 + Verb\n Not only But also\n\n Part-B\n  When two clauses or parts of a sentence are joined by Correlative Conjunctions\n such as (Either … or, Neither … nor, Not only … but also), the common part of\n speech must be placed before these conjunctions.\n ;fn nks clauses or parts of a sentence tc Correlative Conjunctions tSls (Either…\n or, Neither…nor, Not only…but also) ls tqM+s gksrs gSa, rc common part of speech bu\n Conjunctions ls igys j[kk tkuk pkfg,A\n  The sentence should maintain parallel structure.\n\n Neither Nor\n Common Part\n Either Or\n Not only Phrase1 But also Phrase2",
   "mcqs": [
     {
       "qno": 1,
@@ -86,7 +86,7 @@
         "d": "\b"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -152,7 +152,7 @@
         "a": "/ hasll",
         "b": "/ their performance logs",
         "c": "/ forfthe",
-        "d": "No error p d"
+        "d": "No error p"
       },
       "correct": "b",
       "explanation": "\"has\" should be replaced with \"have\" of use will be because",
@@ -252,7 +252,7 @@
     },
     {
       "qno": 19,
-      "question": "Neither the manager nor the employees was available. \b?",
+      "question": "Neither the manager nor the employees was available. ?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "was not available",
@@ -266,12 +266,12 @@
     },
     {
       "qno": 20,
-      "question": "Neither the chairman nor the members of the committee was able to find a solution to the pressing issue. \b?",
+      "question": "Neither the chairman nor the members of the committee was able to find a solution to the pressing issue. ?",
       "exam_source": "(SSC MTS, 2025)",
       "options": {
         "a": "was able to find out a solution",
         "b": "No improvement",
-        "c": "had been able to find for a solution",
+        "c": "been able to find for a solution",
         "d": "were able to find a solution"
       },
       "correct": "d",
@@ -280,27 +280,27 @@
     },
     {
       "qno": 21,
-      "question": "Neither the editor nor the contributors ............ willing to accept the changes unconditionally. \b?",
+      "question": "Neither the editor nor the contributors ............ willing to accept the changes unconditionally. ?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "were",
         "b": "was",
-        "c": "has been",
+        "c": "s been",
         "d": "is"
       },
       "correct": "a",
-      "explanation": "22. (a) 23. (a) 24. (a) 25. (a) 31 (b) 32. (c) Solut Part-A",
+      "explanation": "",
       "format": "fill_blank"
     },
     {
       "qno": 22,
-      "question": "Neither the director nor the senior analysts ............ inclined to support the merger in its proposed form. \b (SSC Phase XIII, 2025)",
+      "question": "Neither the director nor the senior analysts ............ inclined to support the merger in its proposed form.  (SSC Phase XIII, 2025)",
       "exam_source": "",
       "options": {
         "a": "were",
         "b": "was",
         "c": "being",
-        "d": "has been"
+        "d": "s been"
       },
       "correct": "a",
       "explanation": "",
@@ -429,7 +429,7 @@
     },
     {
       "qno": 32,
-      "question": "Choose the best option that is grammatically correct. Not only is Virat Kohli a good captain, but he is also a great batsman. \b?",
+      "question": "Choose the best option that is grammatically correct. Not only is Virat Kohli a good captain, but he is also a great batsman. ?",
       "exam_source": "(DP HCM, 2026)",
       "options": {
         "a": "Not only is Virat Kohli a good captain, but",
@@ -438,7 +438,7 @@
         "d": "Virat Kohli not only is a good captain, but is"
       },
       "correct": "c",
-      "explanation": "hoose the best option that is grammatically correct. Not only is Virat Kohli a good captain, but he is also a great batsman. \b (DP HCM, 2026) (a) Not only is Virat Kohli a good captain, but he is also a great batsman. (b) Virat Kohli is not only a good captain, but he is also a great batsman. (c) Virat Kohli is not only a good captain, but also a great batsman. (d) Virat Kohli not only is a good captain, but is also a great batsman. all h -@f ear Answers",
+      "explanation": "hoose the best option that is grammatically correct. Not only is Virat Kohli a good captain, but he is also a great batsman.  (DP HCM, 2026) (a) Not only is Virat Kohli a good captain, but he is also a great batsman. (b) Virat Kohli is not only a good captain, but he is also a great batsman. () Virat Kohli is not only a good captain, but also a great batsman. () Virat Kohli not only is a good captain, but is also a great batsman. all -@ ear Answers",
       "format": "regular"
     }
   ]

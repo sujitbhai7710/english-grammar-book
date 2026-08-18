@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 112,
   "end_page": 113,
-  "theory": "Timeline Comparison\n\n      1    Future Perfect                 igys gh\n                                                                                               Time/Action\n                                                              Future Perfect\n                                                    (dk;Z igys iwjk gks pqdk gksxk)\n                       Present                                                                   Future\n\n     2     Future Perfect Continuous\n\n                                From/for Time\n                     Present                                                                   Future\n\n                                           Future Perfect Continuous\n                    (dk;Z ,d vof/ rd pyrk jgsxk vkSj Hkfo\"; osQ fdlh fcanq rd tkjh jgsxk)\n\n   Future Perfect — Action completed before a specific time or another action in the future\n       comes under future perfect tense.\n ;fn dksbZ dk;Z Hkfo\"; esa fdlh fuf'pr le; ;k nwljs dk;Z ls igys iwjk gks pqdk gksxk rks mls future\n\n perfect tense esa fy•saxsA\n     Subject + will/shall + have + V3 + Object\n\n Future Perfect Continuous — Action continuing for a period of time before a specific\n  time in the future comes under future perfect continuous.\n       ;fn dksbZ dk;Z Hkfo\"; esa fdlh fuf'pr le; rd yxkrkj tkjh jgsxk rks mls future perfect continuous\n       esa fy•saxsA\n           Subject + will/shall + have + been + V1+ing + Object + For/From + Time",
+  "theory": "Timeline Comparison\n\n 1 Future Perfect igys gh\n Time/Action\n Future Perfect\n (dk;Z igys iwjk gks pqdk gksxk)\n Present Future\n\n 2 Future Perfect Continuous\n\n From/for Time\n Present Future\n\n Future Perfect Continuous\n (dk;Z , vof/ rd pyrk jgsxk vkSj Hkfo\"; osQ fdlh fcanq rd tkjh jgsxk)\n\n  Future Perfect — Action completed before a specific time or another action in the future\n comes under future perfect tense.\n ;fn dksbZ dk;Z Hkfo\"; esa fdlh fuf'pr le; ;k nwljs dk;Z ls igys iwjk gks pqdk gksxk rks mls future\n\n perfect tense esa fy•saxsA\n Subject + will/shall + have + V3 + Object\n\n Future Perfect Continuous — Action continuing for a period of time before a specific\n time in the future comes under future perfect continuous.\n ;fn dksbZ dk;Z Hkfo\"; esa fdlh fuf'pr le; rd yxkrkj tkjh jgsxk rks mls future perfect continuous\n esa fy•saxsA\n Subject + will/shall + have + been + V1+ing + Object + For/From + Time",
   "mcqs": [
     {
       "qno": 1,
@@ -53,7 +53,7 @@
         "a": "/ has monitored the progress",
         "b": "/ to",
         "c": "/ No error",
-        "d": "erfect Vs Future Perfect Continuous"
+        "d": "t Vs Future Perfect Continuous"
       },
       "correct": "b",
       "explanation": "Has monitored should be replaced with will have",
@@ -81,7 +81,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -102,7 +102,7 @@
       "question": "By the end of this century, scientists surely must discover a cure for AIDS.",
       "exam_source": "",
       "options": {
-        "a": "have discovered",
+        "a": "ve discovered",
         "b": "must be discovered",
         "c": "will have discovered",
         "d": "No improvement"
@@ -113,7 +113,7 @@
     },
     {
       "qno": 15,
-      "question": "By next week I will have been made all the reservations for the trip to Europe. \b?",
+      "question": "By next week I will have been made all the reservations for the trip to Europe. ?",
       "exam_source": "(SSC CHSL, 2019)",
       "options": {
         "a": "will had make",
@@ -127,7 +127,7 @@
     },
     {
       "qno": 16,
-      "question": "By the time we will reach, the concert will have started.\b Answers 1.",
+      "question": "By the time we will reach, the concert will have started. Answers 1.",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
         "a": "2.",
@@ -136,18 +136,18 @@
         "c": "15."
       },
       "correct": "b",
-      "explanation": "17. (c) 18. (c) 19. (c) 20. (d) tions",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {
       "qno": 17,
-      "question": "By the time the audit concludes, the firm .......... its compliance report.\b?",
+      "question": "By the time the audit concludes, the firm .......... its compliance report.?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
-        "a": "files",
+        "a": "iles",
         "b": "will file",
         "c": "will have filed",
-        "d": "had filed"
+        "d": "iled"
       },
       "correct": "c",
       "explanation": "",
@@ -155,13 +155,13 @@
     },
     {
       "qno": 18,
-      "question": "By next year, she .......... completed her research.\b?",
+      "question": "By next year, she .......... completed her research.?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "will be",
-        "b": "has",
+        "b": "s",
         "c": "will have",
-        "d": "had"
+        "d": "d"
       },
       "correct": "c",
       "explanation": "",
@@ -169,7 +169,7 @@
     },
     {
       "qno": 19,
-      "question": "By next month, she .......... in this company for five years.\b?",
+      "question": "By next month, she .......... in this company for five years.?",
       "exam_source": "(SSC PHASE XIII, 2025)",
       "options": {
         "a": "work",
@@ -183,12 +183,12 @@
     },
     {
       "qno": 20,
-      "question": "By the time they arrive, the team .......... the project and will be ready for the final presentation.\b?",
+      "question": "By the time they arrive, the team .......... the project and will be ready for the final presentation.?",
       "exam_source": "(IB ACIO, 2025)",
       "options": {
         "a": "will complete",
-        "b": "completes",
-        "c": "had complete",
+        "b": "ompletes",
+        "c": "omplete",
         "d": "will have completed"
       },
       "correct": "d",

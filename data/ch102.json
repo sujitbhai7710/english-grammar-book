@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 269,
   "end_page": 271,
-  "theory": "Present Participle\n   Present participle verb dk \"-ing\" :i gksrk gSA bldk mi;ksx adjective ;k connector dh rjg\n      gksrk gS vkSj ;g ongoing action (tks py jgk gS) dks fn[kkrk gSA\n Ex. 1. India is a developing country.\n\n  \t\tUsed as Adjective\n    2. The crying baby needs help.\n\n  \t\tUsed as Adjective\n    3. Walking along the road, I saw a snake.\n\n  Used as Connector\n    4. Being a rainy day, we did not go out.\n\n  Used as Connector\n\n    Past Participle\n   Past Participle verb dk 3rd (v3) :i gksrk gSA bldk mi;ksx adjective ;k connector dh rjg\n      gksrk gS vkSj ;g completed action (tks iwjk gks pqdk gS) dks fn[kkrk gSA\n Ex. 1. A broken chair was lying on the floor.\n\n \t\t  Used as Adjective",
+  "theory": "Present Participle\n  Present participle verb dk \"-ing\" :i gksrk gSA bldk mi;ksx adjective ;k connector dh rjg\n gksrk gS vkSj ;g ongoing action (tks py jgk gS) dks fn[kkrk gSA\n Ex. 1. India is a developing country.\n\n Used as Adjective\n 2. The crying baby needs help.\n\n Used as Adjective\n 3. Walking along the road, I saw a snake.\n\n Used as Connector\n 4. Being a rainy day, we did not go out.\n\n Used as Connector\n\n Past Participle\n  Past Participle verb dk 3rd (v3) :i gksrk gSA bldk mi;ksx adjective ;k connector dh rjg\n gksrk gS vkSj ;g completed action (tks iwjk gks pqdk gS) dks fn[kkrk gSA\n Ex. 1. A broken chair was lying the floor.\n\n Used as Adjective",
   "mcqs": [
     {
       "qno": 1,
@@ -43,7 +43,7 @@
         "d": "\b"
       },
       "correct": "d",
-      "explanation": "\"Being a doctor\" of logical doer \"I\" gS, u fd",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -92,7 +92,7 @@
       "options": {
         "a": "/ who",
         "b": "/ to make important decisions",
-        "c": "/ without relying heavily on"
+        "c": "/ without relying heavily"
       },
       "correct": "a",
       "explanation": "\"self-direct individuals\" should be replaced with \"self-",
@@ -283,7 +283,7 @@
     },
     {
       "qno": 22,
-      "question": "Have taken permission, Shivam went horse riding.\b?",
+      "question": "Have taken permission, Shivam went horse riding.?",
       "exam_source": "(SSC CPO, 2020)",
       "options": {
         "a": "Having taking permission",
@@ -297,10 +297,10 @@
     },
     {
       "qno": 23,
-      "question": "Learning a poem by heart is meaningless if you do not understand it.\b?",
+      "question": "Learning a poem by heart is meaningless if you do not understand it.?",
       "exam_source": "(SSC CGL, 2022)",
       "options": {
-        "a": "To learning a poem at heart",
+        "a": "o learning a poem at heart",
         "b": "No improvement required",
         "c": "Learning a poem in heart",
         "d": "Learn a poem by heart"
@@ -311,13 +311,13 @@
     },
     {
       "qno": 24,
-      "question": "Gel ingredients work well on waved, curled, relax and texture hair in the long run. \b?",
+      "question": "Gel ingredients work well waved, curled, relax and texture hair in the long run. ?",
       "exam_source": "(SSC MTS, 2022)",
       "options": {
-        "a": "relaxed and textured",
+        "a": "laxed and textured",
         "b": "No substitution textured",
-        "c": "relaxed and texturing",
-        "d": "relaxing and textured"
+        "c": "laxed and texturing",
+        "d": "laxing and textured"
       },
       "correct": "a",
       "explanation": "",
@@ -325,13 +325,13 @@
     },
     {
       "qno": 25,
-      "question": "The Arabian Sea region is very important for India as several major ports are locating there. \b?",
+      "question": "The Arabian Sea region is very important for India as several major ports are locating there. ?",
       "exam_source": "(SSC CHSL, 2020)",
       "options": {
-        "a": "have been locating",
+        "a": "ve been locating",
         "b": "No improvement",
         "c": "was locating hall",
-        "d": "are located ep"
+        "d": "located"
       },
       "correct": "d",
       "explanation": "",

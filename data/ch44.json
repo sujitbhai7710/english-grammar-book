@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 120,
   "end_page": 121,
-  "theory": "Rule\n                                                                Plural Noun + Plural Verb\n                                                                 e.g. Half of the girls are here.\n       Half / Half of / Some / Some of /\n                                                                Singular Noun + Singular Verb\n       Enough / Enough of / A lot of / Lots of\n                                                                 e.g. Half of the apple is fresh.\n                                                                Uncountable Noun + Singular Verb\n                                                                 e.g. Half of the water is cold.",
+  "theory": "Rule\n  Plural Noun + Plural Verb\n .g. Half of the girls are here.\n Half / Half of / Some / Some of /\n  Singular Noun + Singular Verb\n Enough / Enough of / A lot of / Lots of\n .g. Half of the apple is fresh.\n  Uncountable Noun + Singular Verb\n .g. Half of the water is cold.",
   "mcqs": [
     {
       "qno": 1,
@@ -65,7 +65,7 @@
         "d": "\b"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -110,13 +110,13 @@
     },
     {
       "qno": 10,
-      "question": "Half of the candidates who appeared for the h all examination?",
+      "question": "Half of the candidates who appeared for the all examination?",
       "exam_source": "",
       "options": {
-        "a": "/ has failed to qualify due f",
+        "a": "/ has failed to qualify due",
         "b": "/ in the evaluation",
         "c": "/@f by the",
-        "d": "T G"
+        "d": "T"
       },
       "correct": "b",
       "explanation": "has should be replaced with have of use will because",
@@ -145,7 +145,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -164,7 +164,7 @@
     },
     {
       "qno": 14,
-      "question": "My professor gave me a lot of useful advices when I was writing my research paper.\b?",
+      "question": "My professor gave me a lot of useful advices when I was writing my research paper.?",
       "exam_source": "(SSC\n           CHSL, 2019)",
       "options": {
         "a": "gave me a lots of useful advices",
@@ -178,7 +178,7 @@
     },
     {
       "qno": 15,
-      "question": "Lot of times she advised him for not being lazy for completing such a tough task. \b?",
+      "question": "Lot of times she advised him for not being lazy for completing such a tough task. ?",
       "exam_source": "(SSC CHSL, 2020)",
       "options": {
         "a": "No improvement",

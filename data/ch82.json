@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 214,
   "end_page": 215,
-  "theory": "1 When words like hundred, thousand, million, dozen are used after a specific number,\n           they remain singular in form and function as adjective.\n    \t\t     tc Hundred, thousand, million, dozen ds igys dksbZ la[;k vkrh gS] rks ;g Singular form esa\n           jgrs gS vkSj Adjective dh rjg dke djrs gSA\n    Ex. 1. Three hundred students attended the seminar.\n        2. Five dozen eggs were bought from the market.\n      2 When these words are used with preposition \"of\" they remain plural in form and function\n           as noun.\n    \t\t     tc buds lkFk Preposition \"of\" vkrk gS rks ;s Plural form esa gks tkrs gS vkSj Noun dh rjg dke\n           djrk gSA\n    Ex. 1. Hundreds of students attended the seminar.",
+  "theory": "1 When words like hundred, thousand, million, dozen are used after a specific number,\n they remain singular in form and function as adjective.\n tc Hundred, thousand, million, dozen ds igys dksbZ la[;k vkrh gS] rks ;g Singular form esa\n jgrs gS vkSj Adjective dh rjg dke djrs gSA\n Ex. 1. Three hundred students attended the seminar.\n 2. Five dozen eggs were bought from the market.\n 2 When these words are used with preposition \"of\" they remain plural in form and function\n as noun.\n tc buds lkFk Preposition \"of\" vkrk gS rks ;s Plural form esa gks tkrs gS vkSj Noun dh rjg dke\n djrk gSA\n Ex. 1. Hundreds of students attended the seminar.",
   "mcqs": [
     {
       "qno": 1,
@@ -108,7 +108,7 @@
         "d": "Concept of Adjectives"
       },
       "correct": "d",
-      "explanation": "No error.",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -182,7 +182,7 @@
       "options": {
         "a": "/ signed a bilateral",
         "b": "/ ensuring a five years peace accord",
-        "d": "ee"
+        "d": "e"
       },
       "correct": "c",
       "explanation": "five years peace accord should be replaced with",
@@ -195,7 +195,7 @@
       "options": {
         "a": "/ analyzing the performance T G of employees",
         "b": "and suggesting improvements",
-        "c": "for better",
+        "c": "or better",
         "d": "a"
       },
       "correct": "a",
@@ -228,7 +228,7 @@
     },
     {
       "qno": 18,
-      "question": "Forty lakhs are the amount one needs in order to pursue overseas education.\b?",
+      "question": "Forty lakhs are the amount one needs in order to pursue overseas education.?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
         "a": "Forty lakhs is the amount",
@@ -245,9 +245,9 @@
       "question": "I bought four dozen of mangoes.",
       "exam_source": "",
       "options": {
-        "a": "dozens of mango",
-        "b": "dozens of mangoes",
-        "c": "dozen mangoes",
+        "a": "ozens of mango",
+        "b": "ozens of mangoes",
+        "c": "ozen mangoes",
         "d": "No improvement"
       },
       "correct": "c",
@@ -256,7 +256,7 @@
     },
     {
       "qno": 20,
-      "question": "The class teacher gave me two dozens pencils, along with a new Parker pen. \b AIRFORCE Intake 01, 2027 (30/March/2026)",
+      "question": "The class teacher gave me two dozens pencils, along with a new Parker pen.  AIRFORCE Intake 01, 2027 (30/March/2026)",
       "exam_source": "",
       "options": {
         "a": "two a dozens pencils",

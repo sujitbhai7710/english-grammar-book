@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 90,
   "end_page": 91,
-  "theory": " Using two comparative forms or two superlative forms together in the same clause\n            is grammatically incorrect.\n    \t\t ,d gh okD; esa nks comparative ;k superlative forms dk ,d lkFk ç;ksx djuk grammatically\n       incorrect gksrk gSA\n\n                  Incorrect Forms                                                Correct Forms\n                     More Better                                                      Better\n                    Most Highest                                                     Highest\n                     More Faster                                                      Faster\n                      Most Best                                                        Best",
+  "theory": " Using two comparative forms or two superlative forms together in the same clause\n is grammatically incorrect.\n , gh okD; esa nks comparative ;k superlative forms dk , lkFk ç;ksx djuk grammatically\n incorrect gksrk gSA\n\n Incorrect Forms Correct Forms\n More Better Better\n Most Highest Highest\n More Faster Faster\n Most Best Best",
   "mcqs": [
     {
       "qno": 1,
@@ -30,7 +30,7 @@
         "d": "\b"
       },
       "correct": "a",
-      "explanation": "'more highest' of 'the highest'",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -126,7 +126,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "'very heavier' of 'much heavier'",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "qno": 13,
-      "question": "According to many experienced mountaineers uble Comparatives and Superlatives perlative forms together in the same clause ve forms dk ,d lkFk ç;ksx djuk grammatically Correct Forms Better Highest Faster Best?",
+      "question": "According to many experienced mountaineers uble Comparatives and Superlatives perlative forms together in the same clause ve forms dk , lkFk ç;ksx djuk grammatically Correct Forms Better Highest Faster Best?",
       "exam_source": "",
       "options": {
         "a": "/ Mount Everest is the most highest peak in",
@@ -239,8 +239,8 @@
       "question": "Nisha is more funnier than Natasha.",
       "exam_source": "",
       "options": {
-        "a": "funnier",
-        "b": "funniest",
+        "a": "unnier",
+        "b": "unniest",
         "c": "quite funny",
         "d": "No improvement"
       },
@@ -250,7 +250,7 @@
     },
     {
       "qno": 19,
-      "question": "It is more better to take this route than the other one.\b (SSC Phase XIII, 2025)",
+      "question": "It is more better to take this route than the other one. (SSC Phase XIII, 2025)",
       "exam_source": "",
       "options": {
         "a": "good",
@@ -264,13 +264,13 @@
     },
     {
       "qno": 20,
-      "question": "He is more tall than his brother. \b?",
+      "question": "He is more tall than his brother. ?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "taller to hall",
-        "b": "much taller than ep",
+        "b": "much taller than",
         "c": "taller than",
-        "d": "more taller than G"
+        "d": "more taller than"
       },
       "correct": "c",
       "explanation": "",
@@ -278,7 +278,7 @@
     },
     {
       "qno": 21,
-      "question": "The book is more better than nT o the previous one. ar?",
+      "question": "The book is more better than nT o the previous one. ?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "much better than",
@@ -287,12 +287,12 @@
         "d": "better than"
       },
       "correct": "d",
-      "explanation": "22. (b) 23. (d) 24. (d) 25. (b) Solut",
+      "explanation": "",
       "format": "regular"
     },
     {
       "qno": 22,
-      "question": "This is the most toughest exam that I have ever taken.\b?",
+      "question": "This is the most toughest exam that I have ever taken.?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
         "a": "the most tough exam",
@@ -306,7 +306,7 @@
     },
     {
       "qno": 23,
-      "question": "He is more wiser than his brother . \b?",
+      "question": "He is more wiser than his brother . ?",
       "exam_source": "(SSC CPO, 2025)",
       "options": {
         "a": "very wise than",
@@ -320,7 +320,7 @@
     },
     {
       "qno": 24,
-      "question": "Of the three paths, this is the most shortest. \b (SSC Selection Post Phase 13, 2025)",
+      "question": "Of the three paths, this is the most shortest.  (SSC Selection Post Phase 13, 2025)",
       "exam_source": "",
       "options": {
         "a": "more short",
@@ -338,7 +338,7 @@
       "exam_source": "",
       "options": {
         "a": "more better",
-        "b": "far better",
+        "b": "better",
         "c": "most better",
         "d": "No improvement"
       },

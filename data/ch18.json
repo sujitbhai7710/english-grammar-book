@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 59,
   "end_page": 61,
-  "theory": " Superfluous words are unnecessary or extra words used in a sentence that gives the\n      same meaning or are not required for grammatically correct expression.\n (Superfluous 'kCn okD; esa fcuk t:jr osQ use fd;s tkrs gS rFkk grammatically vko';d\n\n      ugha gksrsA)\n Common Superfluous Expression\n  1   Return back                              Return\n\n  2   Recede back                              Recede\n  3   Reimburse back                           Reimburse\n  4   Recall back                              Recall\n  5   Revert back                              Revert\n  6   Repeat again                             Repeat\n  7   Retreat again                            Retreat\n  8   Equally as good as                       As good as\n  9   Final conclusion                         Conclusion / Final\n 10 Two twins                                  Twins\n 11 The Reason why ...... Because              The reason why ...... that\n 12 Despite of                                 Despite\n 13 With bag and baggage                       Bag and baggage\n 14 With tooth and nail                        Tooth and nail\n  15 With heart and soul                       Heart and soul\n  16 Like cats and dogs                        Cats and dogs\n  17 Supposing if                              Suppose or If\n  18 In case if                                In case or If\n  19 Illustrate about                          Illustrate\n  20 Kindly requested                          Requested\n  21 And + Relative pronoun                    Relative pronoun\n  22 Exceed More than                          Exceed or More than                                          ll\n\n  23 Sufficient enough                         Sufficient or Enough                             ep\n\n                                                                                        -  @f\n  24 Can / could able to                       Can / could or Be able to               G\n\n  25 May / might possibly                      May / might                    ch\n\n    26 Relatively / comparatively +                         Use positive degree instead of Comparative\n         Comparative degree                                 degree\n    27 Completely full                                      Full\n    28 More preferable                                      Preferable\n    29 More Junior / Superior                               Junior / Superior\n    30 Free gift                                            Gift\n    31 As well as also                                      As well as\n    32 Come across with                                     Come across\n    33 Quite too                                            Quite\n    34 Cope up with                                         Cope with\n    35 Kindly please                                        Kindly or Please\n    36 On the contrary .... but                             On the contrary\n    37 Cousin sister/brother                                Cousin\n    38 Will / Shall likely to + V1                          Will / Shall + V1 or Be likely to + V1\n       Until, Unless, Lest, Deny, Forbid,\n                                                            Until, Unless, Lest, Deny, Forbid,\n    39 Nothing, Without, Never, Barely,\n                                                            Nothing, Without, Never, Barely, Seldom\n       Seldom ....... + Not\n    40 Await for                                            Await",
+  "theory": " Superfluous words are unnecessary or extra words used in a sentence that gives the\n same meaning or are not required for grammatically correct expression.\n (Superfluous 'kCn okD; esa fcuk t:jr osQ use fd;s tkrs gS rFkk grammatically vko';\n\n ugha gksrsA)\n Common Superfluous Expression\n 1 Return back Return\n\n 2 Recede back Recede\n 3 Reimburse back Reimburse\n 4 Recall back Recall\n 5 Revert back Revert\n 6 Repeat again Repeat\n 7 Retreat again Retreat\n 8 Equally as good as As good as\n 9 Final conclusion Conclusion / Final\n 10 Two twins Twins\n 11 The Reason why ...... Because The reason why ...... that\n 12 Despite of Despite\n 13 With bag and baggage Bag and baggage\n 14 With tooth and nail Tooth and nail\n 15 With heart and soul Heart and soul\n 16 Like cats and dogs Cats and dogs\n 17 Supposing if Suppose or If\n 18 In case if In case or If\n 19 Illustrate about Illustrate\n 20 Kindly requested Requested\n 21 And + Relative pronoun Relative pronoun\n 22 Exceed More than Exceed or More than \n\n 23 Sufficient enough Sufficient or Enough \n\n - @\n 24 Can / could able to Can / could or Be able to \n\n 25 May / might possibly May / might \n\n 26 Relatively / comparatively + Use positive degree instead of Comparative\n Comparative degree degree\n 27 Completely full Full\n 28 More preferable Preferable\n 29 More Junior / Superior Junior / Superior\n 30 Free gift Gift\n 31 As well as also As well as\n 32 Come across with Come across\n 33 Quite too Quite\n 34 Cope up with Cope with\n 35 Kindly please Kindly or Please\n 36 On the contrary .... but On the contrary\n 37 Cousin sister/brother Cousin\n 38 Will / Shall likely to + V1 Will / Shall + V1 or Be likely to + V1\n Until, Unless, Lest, Deny, Forbid,\n Until, Unless, Lest, Deny, Forbid,\n 39 Nothing, Without, Never, Barely,\n Nothing, Without, Never, Barely, Seldom\n Seldom ....... + Not\n 40 Await for Await",
   "mcqs": [
     {
       "qno": 1,
@@ -153,11 +153,11 @@
     },
     {
       "qno": 12,
-      "question": "Anuj completed the assignment yesterday d?",
+      "question": "Anuj completed the assignment yesterday ?",
       "exam_source": "",
       "options": {
         "b": "@/f before the",
-        "c": "deadline.",
+        "c": "adline.",
         "d": "nT o"
       },
       "correct": "c",
@@ -174,7 +174,7 @@
         "c": "/ by the research community."
       },
       "correct": "b",
-      "explanation": "Final conclusion of",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -186,7 +186,7 @@
         "c": "/ without"
       },
       "correct": "b",
-      "explanation": "Reimburse back of",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -198,7 +198,7 @@
         "c": "/ in the affected areas."
       },
       "correct": "a",
-      "explanation": "17. (c) 18. (b) 19. (b) 20. (b) tions",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -239,7 +239,7 @@
         "d": "6."
       },
       "correct": "b",
-      "explanation": "At the place of 'Quite too' only 'too' will be used because Too expresses sufficient degree, therefore quite is considered superfluous -@f n TG c ho",
+      "explanation": "At the place of 'Quite too' only 'too' will be used because Too expresses sufficient degree, therefore quite is considered superfluous -@ n ho",
       "format": "error_spotting"
     }
   ]

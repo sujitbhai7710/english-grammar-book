@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 77,
   "end_page": 78,
-  "theory": " There are some verbs that remain same in all their forms (V1, V2, V3)\n               V1                   V2                   V3               Hindi Meaning\n 1            Cut                   Cut                  Cut                    dkVuk\n 2            Put                   Put                  Put                     j•uk\n 3            Set                   Set                  Set                 LFkkfir djuk\n 4            Shut                 Shut                 Shut                   can djuk\n 5            Hit                   Hit                  Hit                     ekjuk\n 6            Let                   Let                  Let                  vuqefr nsuk\n 7            Cost                 Cost                  Cost                 dher gksuk\n 8           Hurt                  Hurt                 Hurt                 pksV igq¡pkuk\n 9           Burst                 Burst                Burst                      iQVuk\n 10           Cast                 Cast                  Cast               iQsaduk @ Mkyuk\n 11           Bet                   Bet                  Bet                    'krZ yxkuk\n 12           Bid                   Bid                  Bid                  cksyh yxkuk\n 13        Broadcast             Broadcast            Broadcast              çlkfjr djuk\n 14           Split                Split                Split               foHkkftr djuk\n 15         Spread                Spread               Spread                     iSQykuk\n 16         Thrust                Thrust               Thrust              tksj ls /Ddk nsuk\n 17          Upset                 Upset                Upset                ijs'kku djuk\n 18           Quit                 Quit                  Quit                   NksM+uk\n 19           Slit                  Slit                 Slit               phjuk @ dkVuk\n 20          Read                  Read                 Read                     i<+uk\n 21          Shed                  Shed                 Shed                fxjuk @ >M+uk\n 22            Fit                  Fit                  Fit               lgh eki dk gksuk\n 23           Wet                   Wet                  Wet                  xhyk djuk\n 24         Telecast              Telecast             Telecast              izlkfjr djuk\n 25          Offset               Offset                Offset              {kfr iwfrZ djuk\n 26          Preset               Preset                Preset             igys ls r; djuk\n\n             Sublet               Sublet                Sublet          nwljs dks fdjk, ij nsuk fha\n\n 28          Input                 Input                Input                  MsVk Mkyukfree\n\n 29           Rid                   Rid                  Rid                 NqVdkjk\n                                                                                   T Gfnykuk\n\n 30         Forecast             Forecast              Forecast            rchvuqeku yxkuk",
+  "theory": " There are some verbs that remain same in all their forms (V1, V2, V3)\n V1 V2 V3 Hindi Meaning\n 1 Cut Cut Cut dkVuk\n 2 Put Put Put j•uk\n 3 Set Set Set LFkkfir djuk\n 4 Shut Shut Shut can djuk\n 5 Hit Hit Hit ekjuk\n 6 Let Let Let vuqefr nsuk\n 7 Cost Cost Cost dher gksuk\n 8 Hurt Hurt Hurt pksV igq¡pkuk\n 9 Burst Burst Burst iQVuk\n 10 Cast Cast Cast iQsaduk @ Mkyuk\n 11 Bet Bet Bet 'krZ yxkuk\n 12 Bid Bid Bid cksyh yxkuk\n 13 Broadcast Broadcast Broadcast çlkfjr djuk\n 14 Split Split Split foHkkftr djuk\n 15 Spread Spread Spread iSQykuk\n 16 Thrust Thrust Thrust tksj ls /Ddk nsuk\n 17 Upset Upset Upset ijs'kku djuk\n 18 Quit Quit Quit NksM+uk\n 19 Slit Slit Slit phjuk @ dkVuk\n 20 Read Read Read i<+uk\n 21 Shed Shed Shed fxjuk @ >M+uk\n 22 Fit Fit Fit lgh eki dk gksuk\n 23 Wet Wet Wet xhyk djuk\n 24 Telecast Telecast Telecast izlkfjr djuk\n 25 Offset Offset Offset {kfr iwfrZ djuk\n 26 Preset Preset Preset igys ls ; djuk\n\n Sublet Sublet Sublet nwljs dks fdjk, ij nsuk fha\n\n 28 Input Input Input MsVk Mkyukfree\n\n 29 Rid Rid Rid NqVdkjk\n Gfnykuk\n\n 30 Forecast Forecast Forecast rchvuqeku yxkuk",
   "mcqs": [
     {
       "qno": 1,
@@ -149,7 +149,7 @@
         "d": "spreading"
       },
       "correct": "a",
-      "explanation": "12. (b) 13. (a) 14. (d) Solut",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {
@@ -157,10 +157,10 @@
       "question": "She casted her vote in the election yesterday.",
       "exam_source": "",
       "options": {
-        "a": "casts",
-        "b": "cast",
+        "a": "asts",
+        "b": "ast",
         "c": "No improvement",
-        "d": "casting"
+        "d": "asting"
       },
       "correct": "b",
       "explanation": "",

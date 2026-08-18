@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 79,
   "end_page": 79,
-  "theory": "Apparently Plural but Functionally\n           There are some nouns that look plural because they end with ‘-s’, but they are singular\n      in meaning and therefore take a singular verb.\n      oqQN Nouns ,ls gksrs gSa tks fn[kus esa Plural yxrs gS D;ksafd muosQ var esa ‘–s’ gksrk gS] ysfdu mudk\n\n      vFkZ Singular gksrk gSA\n          Important Words\n          Mathematics, Economics, Statistics, Civics, Politics, Linguistics, Measles, Mumps, Rickets,\n          Diabetes, Rabies, Shingles, Billiards, Darts, Draughts, Gymnastics, Athletics, The United\n          Nations, The Netherlands, The Arabian Nights, Three Idiots, The Three Musketeers,\n          Summons, Ethics, Mechanics, News, Innings etc.",
+  "theory": "Apparently Plural but Functionally\n  There are some nouns that look plural because they end with ‘-s’, but they are singular\n in meaning and therefore take a singular verb.\n oqQN Nouns ,ls gksrs gSa tks fn[kus esa Plural yxrs gS D;ksafd muosQ var esa ‘–s’ gksrk gS] ysfdu mudk\n\n vFkZ Singular gksrk gSA\n Important Words\n Mathematics, Economics, Statistics, Civics, Politics, Linguistics, Measles, Mumps, Rickets,\n Diabetes, Rabies, Shingles, Billiards, Darts, Draughts, Gymnastics, Athletics, The United\n Nations, The Netherlands, The Arabian Nights, Three Idiots, The Three Musketeers,\n Summons, Ethics, Mechanics, News, Innings etc.",
   "mcqs": [
     {
       "qno": 1,
@@ -116,8 +116,8 @@
       "exam_source": "",
       "options": {
         "a": "is",
-        "b": "are",
-        "c": "have",
+        "b": "e",
+        "c": "ve",
         "d": "were"
       },
       "correct": "a",
@@ -130,12 +130,12 @@
       "exam_source": "",
       "options": {
         "a": "provide",
-        "b": "have providing",
+        "b": "ve providing",
         "c": "provides",
         "d": "were providing"
       },
       "correct": "c",
-      "explanation": "12. (a) 13. (b) Solut",
+      "explanation": "",
       "format": "fill_blank"
     },
     {
@@ -144,9 +144,9 @@
       "exam_source": "",
       "options": {
         "a": "is considered",
-        "b": "have considered",
+        "b": "ve considered",
         "c": "were considered",
-        "d": "are considered"
+        "d": "sidered"
       },
       "correct": "c",
       "explanation": "",
@@ -154,12 +154,12 @@
     },
     {
       "qno": 13,
-      "question": "Ethics ................ guidance on what is right and wrong.",
+      "question": "Ethics ................ guidance what is right and wrong.",
       "exam_source": "",
       "options": {
         "a": "provide",
         "b": "provides",
-        "c": "have provided",
+        "c": "ve provided",
         "d": "was providing"
       },
       "correct": "b",

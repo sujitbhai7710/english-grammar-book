@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 163,
   "end_page": 164,
-  "theory": " There are some words that appear to be adverbs because they end in \"ly\", but they actually\n       function as adjectives.\n             Cowardly                 Scholarly                   Deadly                 Lively             Monthly\n            Niggardly                  Friendly                   Costly                 Manly              Princely\n              Miserly                   Lovely                    Timely               Womanly              Masterly\n              Elderly                 Heavenly                   Leisurely              Weekly              Worldly\n                Holy                   Comely                     Godly                  Kingly             Motherly\n              Fatherly                  Yearly\n\n   Note\n   Noun + ly = Adjective\n   Adjective + ly = Adverb\n\n   Note\n   Coward (Noun) + ly = Cowardly (Adjective)\n                                                                    Love (Noun)         + ly = Lovely (Adjective)\n   Niggard (Noun) + ly = Niggardly (Adjective)\n                                                                    Friend (Noun) + ly = Friendly (Adjective)\n   Scholar (Noun) + ly = Scholarly (Adjective)\n\n   Note\n   yearly, weekly and monthly are used as both adjective and adverb.",
+  "theory": " There are some words that appear to be adverbs because they end in \"ly\", but they actually\n function as adjectives.\n Cowardly Scholarly Deadly Lively Monthly\n Niggardly Friendly Costly Manly Princely\n Miserly Lovely Timely Womanly Masterly\n Elderly Heavenly Leisurely Weekly Worldly\n Holy Comely Godly Kingly Motherly\n Fatherly Yearly\n\n Note\n Noun + ly = Adjective\n Adjective + ly = Adverb\n\n Note\n  Coward (Noun) + ly = Cowardly (Adjective)\n  Love (Noun) + ly = Lovely (Adjective)\n  Niggard (Noun) + ly = Niggardly (Adjective)\n  Friend (Noun) + ly = Friendly (Adjective)\n  Scholar (Noun) + ly = Scholarly (Adjective)\n\n Note\n yearly, weekly and monthly are used as both adjective and adverb.",
   "mcqs": [
     {
       "qno": 1,
@@ -171,7 +171,7 @@
         "a": "/ and speaks very",
         "b": "/ which makes",
         "c": "/ No error",
-        "d": "eas"
+        "d": "as"
       },
       "correct": "b",
       "explanation": "lovely should be replaced with lovingly of use will be, because",
@@ -187,7 +187,7 @@
         "c": "/ No error"
       },
       "correct": "c",
-      "explanation": "freely of charge osQ LFkku ij free of rcharge -@ gksrk gSA use gksxk, D;ksafd lgh phrase free of charge n TG cho",
+      "explanation": "freely of charge osQ LFkku ij free of rcharge -@ gksrk gSA use gksxk, D;ksafd lgh phrase free of charge n cho",
       "format": "error_spotting"
     },
     {
@@ -197,7 +197,7 @@
       "options": {
         "a": "very hard",
         "b": "much hardly",
-        "c": "hardly",
+        "c": "ly",
         "d": "No improvement"
       },
       "correct": "a",
@@ -209,13 +209,13 @@
       "question": "After the long trek, the exhausted traveller felt miserably in the cold wind.",
       "exam_source": "",
       "options": {
-        "a": "feel miserable",
-        "b": "felt miserable",
+        "a": "l miserable",
+        "b": "lt miserable",
         "c": "was feeling miserably",
         "d": "No improvement"
       },
       "correct": "b",
-      "explanation": "17. (d) 18. (b) 19. (a) 20. (b) tions",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {
@@ -224,7 +224,7 @@
       "exam_source": "",
       "options": {
         "a": "No improvement",
-        "b": "cowardice",
+        "b": "owardice",
         "c": "with cowardly",
         "d": "in a cowardly manner"
       },

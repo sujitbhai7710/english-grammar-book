@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 80,
   "end_page": 81,
-  "theory": "1     Although / Though\n       Although and though are subordinating conjunctions used to join two clauses that\n          express contrast.\n     Although vkSj though subordinating conjunctions gSA budk use nks foijhr clauses dks tksM+us\n\n          osQ fy, gksrk gSA\n\n                                                   Conjunction\n\n                      Clause1                 Although / Though                     Clause2\n\n                                                     Contrary\n\n     2     Despite / In spite of\n       Despite and In spite of are prepositions. Both are used to show contrast and are followed\n          by a phrase/noun/pronoun.\n     Despite vkSj In spite of Preposition gS] budk mi;ksx Contrast fn[kkus osQ fy, gksrk gS vkSj buosQ\n\n     ckn Noun/Pronoun/Phrase vkrs gSaA\n\n                                                    Preposition\n\n                      Clause                 Despite / In spite of                  Phrase\n\n                                                     Contrary",
+  "theory": "1 Although / Though\n  Although and though are subordinating conjunctions used to join two clauses that\n express contrast.\n Although vkSj though subordinating conjunctions gSA budk use nks foijhr clauses dks tksM+us\n\n osQ fy, gksrk gSA\n\n Conjunction\n\n Clause1 Although / Though Clause2\n\n Contrary\n\n 2 Despite / In spite of\n  Despite and In spite of are prepositions. Both are used to show contrast and are followed\n by a phrase/noun/pronoun.\n Despite vkSj In spite of Preposition gS] budk mi;ksx Contrast fn[kkus osQ fy, gksrk gS vkSj buosQ\n\n ckn Noun/Pronoun/Phrase vkrs gSaA\n\n Preposition\n\n Clause Despite / In spite of Phrase\n\n Contrary",
   "mcqs": [
     {
       "qno": 1,
@@ -57,7 +57,7 @@
         "d": "\b"
       },
       "correct": "b",
-      "explanation": "Though/Although\" with \"but\" of use",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -71,12 +71,12 @@
         "d": "gh / Though Vs Despite / In spite of"
       },
       "correct": "b",
-      "explanation": "\"as\" \"though/although\" of sense in",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
       "qno": 6,
-      "question": "He continued working on the project?",
+      "question": "He continued working the project?",
       "exam_source": "",
       "options": {
         "a": "/ and",
@@ -89,13 +89,13 @@
     },
     {
       "qno": 7,
-      "question": "In spite of my niece’s dog Casper is very mischievous, he is lovable. \b?",
+      "question": "In spite of my niece’s dog Casper is very mischievous, he is lovable. ?",
       "exam_source": "(SSC CGL, 2022)",
       "options": {
         "a": "Nevertheless my niece",
         "b": "Although my niece’s",
         "c": "However my nieces",
-        "d": "No substitution required d f"
+        "d": "No substitution required"
       },
       "correct": "b",
       "explanation": "",
@@ -103,7 +103,7 @@
     },
     {
       "qno": 8,
-      "question": "Despite of the heavy rain, they decided continue their trek. \b n TPhase XIII, 2025) (SSC c ho?",
+      "question": "Despite of the heavy rain, they decided continue their trek.  n TPhase XIII, 2025) (SSC ho?",
       "exam_source": "",
       "options": {
         "a": "In spite of",
@@ -117,7 +117,7 @@
     },
     {
       "qno": 9,
-      "question": "Because she didn’t love him, she had to marry him.\b?",
+      "question": "Because she didn’t love him, she had to marry him.?",
       "exam_source": "(SSC CPO, 2020)",
       "options": {
         "a": "Despite",
@@ -137,7 +137,7 @@
         "a": "As",
         "b": "When",
         "c": "No improvement",
-        "d": "Though"
+        "d": "ough"
       },
       "correct": "d",
       "explanation": "",
@@ -145,7 +145,7 @@
     },
     {
       "qno": 11,
-      "question": "Strenuous as it was, they went on with their task.",
+      "question": "Strenuous as it was, they went with their task.",
       "exam_source": "",
       "options": {
         "a": "Since it was",
@@ -154,12 +154,12 @@
         "d": "No improvement"
       },
       "correct": "d",
-      "explanation": "12. (a) 13. (c) 14. (b) 15. (a) Solut",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {
       "qno": 12,
-      "question": "He was determined to win, .......... the odds were clearly stacked against him. \b?",
+      "question": "He was determined to win, .......... the odds were clearly stacked against him. ?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
         "a": "although",
@@ -173,13 +173,13 @@
     },
     {
       "qno": 13,
-      "question": "Harish wanted to report on the war .......... the danger involved. \b?",
+      "question": "Harish wanted to report the war .......... the danger involved. ?",
       "exam_source": "(UPSC CDS, 2026)",
       "options": {
         "a": "though",
         "b": "although",
         "c": "in spite of",
-        "d": "even though"
+        "d": "ven though"
       },
       "correct": "c",
       "explanation": "",

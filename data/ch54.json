@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 143,
   "end_page": 145,
-  "theory": " A/An dk use singular countable noun ls igys fd;k tkrk gS vkSj bldk use vxys word\n          dh sound ij fuHkZj djrk gS uk fd spelling ijA\n    Article A → Consonant Sound.\n\n    Article An → Vowel Sound.\n\n                           A                                                   An\n    X A University        X A European                  X An X-ray              X An S.D.O\n                            Country                       Machine\n    X A Union             X A unanimous                 X An F.I.R              X An I.A.S officer\n                            decision\n    X A unique            X A Euphemism                 X An N.G.O              X An N.C.C Cadet\n      idea\n    X A unit              X A Eureka Moment             X An M.P                X An N.R.I\n    X A united            X A one-day Match             X An M.L.A              X An L.I.C Agent\n      team\n    X A useful book       X A one-eyed man              X An M.B.A              X An S.P\n    X A user              X A Ewe                       X An hour               X An S.B.I employee\n    X A Unicorn           X A U-turn                    X An heir               X An honest teacher\n    X A universal         X A USB device                X An umbrella           X An honorarium\n      truth\n    X A eulogy            X A UGC guideline             X An honor              X An L.L.B graduate\n    X A U.P.S.C           X A Uranium mine              X An honourable         X An R.B.I employee\n      aspirant                                            person\n    X A Eucalyptus        X A Utopian idea              X An MSc degree         X An S.O.S message\n      tree                                                holder\n    X A Eugenics          X A UNESCO Project            X An XUV vehicle        X An H.D.M.I port\n      theory\n    X A Usurper           X A Year                      X An heirloom           X An S.H.O\n      king",
+  "theory": " A/An dk use singular countable noun ls igys fd;k tkrk gS vkSj bldk use vxys word\n dh sound ij fuHkZj djrk gS uk fd spelling ijA\n Article A → Consonant Sound.\n\n Article An → Vowel Sound.\n\n A An\n X A University X A European X An X-ray X An S.D.O\n Country Machine\n X A Union X A unanimous X An F.I.R X An I.A.S officer\n decision\n X A unique X A Euphemism X An N..O X An N.C.C Cadet\n idea\n X A unit X A Eureka Moment X An M.P X An N.R.I\n X A united X A one-day Match X An M.L.A X An L.I.C Agent\n team\n X A useful book X A one-eyed man X An M.B.A X An S.P\n X A user X A Ewe X An hour X An S.B.I employee\n X A Unicorn X A U-turn X An heir X An honest teacher\n X A universal X A USB device X An umbrella X An honorarium\n truth\n X A eulogy X A UGC guideline X An honor X An L.L.B graduate\n X A U.P.S.C X A Uranium mine X An honourable X An R.B.I employee\n aspirant person\n X A Eucalyptus X A Utopian idea X An MSc degree X An S.O.S message\n tree holder\n X A Eugenics X A UNESCO Project X An XUV vehicle X An H.D.M.I port\n theory\n X A Usurper X A Year X An heirloom X An S.H.O\n king",
   "mcqs": [
     {
       "qno": 1,
@@ -57,7 +57,7 @@
         "d": "l l"
       },
       "correct": "d",
-      "explanation": "\"on a environment\" should be replaced with \"on the",
+      "explanation": "\" a environment\" should be replaced with \" the",
       "format": "error_spotting"
     },
     {
@@ -66,7 +66,7 @@
       "exam_source": "",
       "options": {
         "a": "/ lending me",
-        "b": "/ your df",
+        "b": "/ your",
         "c": "/ for a hour?"
       },
       "correct": "d",
@@ -181,7 +181,7 @@
     },
     {
       "qno": 14,
-      "question": "She aspires to become .......... UN envoy for climate affairs.\b?",
+      "question": "She aspires to become .......... UN envoy for climate affairs.?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "an",
@@ -195,7 +195,7 @@
     },
     {
       "qno": 15,
-      "question": "There was .......... robbery in .......... university campus. .......... thief entered .......... boy's hostel and took away .......... laptop. .......... FIR was lodged by .......... Principal.\b?",
+      "question": "There was .......... robbery in .......... university campus. .......... thief entered .......... boy's hostel and took away .......... laptop. .......... FIR was lodged by .......... Principal.?",
       "exam_source": "(DP HCM, 2026)",
       "options": {
         "a": "a, the, a, the, a, an, the",
@@ -209,7 +209,7 @@
     },
     {
       "qno": 16,
-      "question": "He mentioned that a colleague had recommended .......... excellent movie. \b AIRFORCE Intake 01, 2027 (30/March/2026)",
+      "question": "He mentioned that a colleague had recommended .......... excellent movie.  AIRFORCE Intake 01, 2027 (30/March/2026)",
       "exam_source": "",
       "options": {
         "a": "a",
@@ -218,7 +218,7 @@
         "d": "no article required"
       },
       "correct": "c",
-      "explanation": "17. (b) 18. (d) 19. (b) 20. (d)",
+      "explanation": "",
       "format": "fill_blank"
     },
     {
@@ -251,7 +251,7 @@
     },
     {
       "qno": 19,
-      "question": "All I need is .......... hour and I'll be finished with .......... work. \b AIRFORCE Intake 01, 2027 (30/March/2026)",
+      "question": "All I need is .......... hour and I' be finished with .......... work.  AIRFORCE Intake 01, 2027 (30/March/2026)",
       "exam_source": "",
       "options": {
         "a": "an, an",
@@ -279,7 +279,7 @@
     },
     {
       "qno": 21,
-      "question": "Shyam's hostel mate has become .......... IAS officer.\b (CUET, 1/June/2023)",
+      "question": "Shyam's hostel mate has become .......... IAS officer. (CUET, 1/June/2023)",
       "exam_source": "",
       "options": {
         "a": "a",
@@ -288,12 +288,12 @@
         "d": "zero article"
       },
       "correct": "c",
-      "explanation": "22. (a) 23. (c) 24. (c) 25. (d) Solut",
+      "explanation": "",
       "format": "fill_blank"
     },
     {
       "qno": 22,
-      "question": "She has always wanted to be .......... university professor.\b?",
+      "question": "She has always wanted to be .......... university professor.?",
       "exam_source": "(IB ACIO, 2025)",
       "options": {
         "a": "a",
@@ -321,7 +321,7 @@
     },
     {
       "qno": 24,
-      "question": "You have to do .......... intensive training to become a nurse.\b?",
+      "question": "You have to do .......... intensive training to become a nurse.?",
       "exam_source": "(SSC MTS, 2019)",
       "options": {
         "a": "the",
@@ -335,10 +335,10 @@
     },
     {
       "qno": 25,
-      "question": "There is .......... apple on the table.",
+      "question": "There is .......... apple the table.",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
-        "a": "one",
+        "a": "e",
         "b": "a",
         "c": "the",
         "d": "an"
@@ -349,16 +349,16 @@
     },
     {
       "qno": 26,
-      "question": "A woman is more sensitive than .......... man. \b (CUET, 1/June/2023) h all?",
+      "question": "A woman is more sensitive than .......... man.  (CUET, 1/June/2023) all?",
       "exam_source": "",
       "options": {
         "a": "a",
-        "b": "an f",
+        "b": "an",
         "c": "the",
-        "d": "some ee"
+        "d": "some"
       },
       "correct": "a",
-      "explanation": "27. (a) 28. (c) 29. (a) 30. (d) tions",
+      "explanation": "",
       "format": "fill_blank"
     },
     {
@@ -367,7 +367,7 @@
       "exam_source": "",
       "options": {
         "a": "a",
-        "b": "Tan",
+        "b": "an",
         "c": "the o n",
         "d": "No article"
       },
@@ -377,7 +377,7 @@
     },
     {
       "qno": 28,
-      "question": "It was ......... honour of seema to be selected as a teacher trainer.\b?",
+      "question": "It was ......... honour of seema to be selected as a teacher trainer.?",
       "exam_source": "(SSC MTS, 2019)",
       "options": {
         "a": "the",
@@ -391,7 +391,7 @@
     },
     {
       "qno": 29,
-      "question": "Educators have .............. unique responsibility towards the empowerment of their students. Answers 1. (b) 2. (b) 3. (b) 4. (d) 5. (d) 11.",
+      "question": "Educators have .............. unique responsibility towards the empowerment of their students. Answers 1. (b) 2. (b) 3. (b) 4. () 5. () 11.",
       "exam_source": "(SSC CPO, 2019)",
       "options": {
         "b": "2.",

@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 244,
   "end_page": 246,
-  "theory": " A gerund is a verb form ending in (-ing) that functions as a Noun. It can function as a subject\n        as well as an object. It is a non-finite verb. It does not show tense, person, or number.\n Gerund og verb form gS ftlesa verb ds lkFk (-ing) tqM+k gksrk gS vkSj og sentence esa Noun (laKk)\n\n dk dk;Z djrk gSA ;g subject vkSj object nksuksa dh rjg dk;Z dj ldrk gSA ;g ,d non-finite verb gS]\n D;ksafd ;g tense, person vkSj number ugha crkrkA\n           Verbs that take gerund\n\n    defer, enjoy, avoid, mind, resist, miss, delay, risk, consider, postpone, engage, admit, suggest,\n    deny, finish, forgive, appreciate, detest, excuse, propose, recollect, resent, admire, forget\n\n            Preposition + Gerund\n\n    tc fdlh preposition (in, on, at, for, by, without, after, before, etc.) ds ckn verb vkrk gS] rks verb\n    dh (-ing) form (Gerund) ç;ksx gksrh gSA\n          Confusing expressions that take Gerund\n\n    Be used to, Get used to, Look forward to, Be Accustomed to, Be addicted to, Be opposed to, Be\n    Committed to, With a view to\n\n             Important Phrases that take Gerund\n    Can't help, Can't stand, Can't resist, Can't stop, It is no use, It is no good, There is no point in\n          Go + Gerund (Activities)\n\n    Go swimming, Go shopping, Go dancing\n\n         Note: Gerund takes Possessive Case\n\n                      V1 + ing → fdlh pht dks jksduk                                V1 + ing → Past event\n      Stop                                                      Remember/\n                                                                  forget\n                      to + v1 → [kqn :duk fdlh dk;Z                                 to + v1 → Future event\n                      osQ fy,",
+  "theory": " A gerund is a verb form ending in (-ing) that functions as a Noun. It can function as a subject\n as well as an object. It is a non-finite verb. It does not show tense, person, or number.\n Gerund og verb form gS ftlesa verb ds lkFk (-ing) tqM+k gksrk gS vkSj og sentence esa Noun (laKk)\n\n dk dk;Z djrk gSA ;g subject vkSj object nksuksa dh rjg dk;Z dj ldrk gSA ;g , non-finite verb gS]\n D;ksafd ;g tense, person vkSj number ugha crkrkA\n Verbs that take gerund\n\n defer, enjoy, avoid, mind, resist, miss, delay, risk, consider, postpone, engage, admit, suggest,\n deny, finish, forgive, appreciate, detest, excuse, propose, recollect, resent, admire, forget\n\n Preposition + Gerund\n\n tc fdlh preposition (in, , at, for, by, without, after, before, etc.) ds ckn verb vkrk gS] rks verb\n dh (-ing) form (Gerund) ç;ksx gksrh gSA\n Confusing expressions that take Gerund\n\n Be used to, Get used to, Look forward to, Be Accustomed to, Be addicted to, Be opposed to, Be\n Committed to, With a view to\n\n Important Phrases that take Gerund\n Can't help, Can't stand, Can't resist, Can't stop, It is no use, It is no good, There is no point in\n Go + Gerund (Activities)\n\n Go swimming, Go shopping, Go dancing\n\n Note: Gerund takes Possessive Case\n\n V1 + ing → fdlh pht dks jksduk V1 + ing → Past event\n Stop Remember/\n forget\n to + v1 → [kqn :duk fdlh dk;Z to + v1 → Future event\n osQ fy,",
   "mcqs": [
     {
       "qno": 1,
@@ -39,7 +39,7 @@
       "options": {
         "a": "/ her at the party",
         "c": "/ No error",
-        "d": "Gerund"
+        "d": "und"
       },
       "correct": "a",
       "explanation": "\"to meet\" should be replaced with \"meeting\" of use will be",
@@ -64,8 +64,8 @@
       "exam_source": "",
       "options": {
         "a": "/ she should bell",
-        "b": "/ careful while executed the f",
-        "d": "p d"
+        "b": "/ careful while executed the",
+        "d": "p"
       },
       "correct": "c",
       "explanation": "\"executed\" should be replaced with \"executing\" of use will be",
@@ -78,7 +78,7 @@
       "options": {
         "a": "/ used to driveTon the busy",
         "c": "/ No error",
-        "d": "\b ar"
+        "d": "\b"
       },
       "correct": "b",
       "explanation": "\"drive\" should be replaced with \"driving\" of use will be because",
@@ -94,7 +94,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -211,7 +211,7 @@
         "c": "/ No"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -281,12 +281,12 @@
     },
     {
       "qno": 22,
-      "question": "He denied to help me. \b?",
+      "question": "He denied to help me. ?",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
-        "a": "help to me",
-        "b": "for helping me",
-        "c": "helping me",
+        "a": "lp to me",
+        "b": "or helping me",
+        "c": "lping me",
         "d": "to helping me"
       },
       "correct": "c",
@@ -295,13 +295,13 @@
     },
     {
       "qno": 23,
-      "question": "She prevented me to go there. \b?",
+      "question": "She prevented me to go there. ?",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
-        "a": "for going",
+        "a": "or going",
         "b": "against going",
         "c": "going to",
-        "d": "from going"
+        "d": "om going"
       },
       "correct": "d",
       "explanation": "",
@@ -313,7 +313,7 @@
       "exam_source": "",
       "options": {
         "a": "to have met you",
-        "b": "for meeting you",
+        "b": "or meeting you",
         "c": "No improvement required",
         "d": "to meeting you"
       },
@@ -323,7 +323,7 @@
     },
     {
       "qno": 25,
-      "question": "She has been working here since 2010, and she just told me she is considering .......... for a different position. \b?",
+      "question": "She has been working here since 2010, and she just told me she is considering .......... for a different position. ?",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
         "a": "applying",

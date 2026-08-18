@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 84,
   "end_page": 86,
-  "theory": " The third conditional is used to talk about imaginary situation in the past, things that\n           did not happen and their hypothetical results. It expresses regret, criticism, or missed\n           opportunities related to the past.\n     Third Conditional dk ç;ksx Past dh ,slh fLFkfr dks crkus ds fy, fd;k tkrk gS tks okLro esa ugha\n\n     gqbZ] ysfdu ge mlds dkYifud ifj.kke dh dYiuk djrs gSaA ;g vDlj Regret, Criticism ;k Missed\n     opportunity dks n'kkZrk gSA\n\n          Structure\n\n      If + Subject1 + had + V3         + Object , Subject2 + would have + V3 + Object.\n                          Clause1                                        Clause2\n\n                        Inversion\n\n       Had + Subject1 + V3 + Object , Subject2 + would have + V3 + Object.\n                    Clause1                                             Clause2\n\n         Note\n       dHkh&dHkh Would osQ LFkku ij ‘could/might’ dk iz;ksx ability, possibility vkSj uncertainty dks\n       fn[kkus osQ fy, fd;k tk ldrk gSA",
+  "theory": " The third conditional is used to talk about imaginary situation in the past, things that\n did not happen and their hypothetical results. It expresses regret, criticism, or missed\n opportunities related to the past.\n Third Conditional dk ç;ksx Past dh ,slh fLFkfr dks crkus ds fy, fd;k tkrk gS tks okLro esa ugha\n\n gqbZ] ysfdu ge mlds dkYifud ifj.kke dh dYiuk djrs gSaA ;g vDlj Regret, Criticism ;k Missed\n opportunity dks n'kkZrk gSA\n\n Structure\n\n If + Subject1 + had + V3 + Object , Subject2 + would have + V3 + Object.\n Clause1 Clause2\n\n Inversion\n\n Had + Subject1 + V3 + Object , Subject2 + would have + V3 + Object.\n Clause1 Clause2\n\n Note\n dHkh&dHkh Would osQ LFkku ij ‘could/might’ dk iz;ksx ability, possibility vkSj uncertainty dks\n fn[kkus osQ fy, fd;k tk ldrk gSA",
   "mcqs": [
     {
       "qno": 1,
@@ -31,7 +31,7 @@
         "d": "\b"
       },
       "correct": "c",
-      "explanation": "Conditional clause in 'had spoken'",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -86,7 +86,7 @@
         "c": "/ No error"
       },
       "correct": "a",
-      "explanation": "7. (b) 8. (c) 9. (a) fre e",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -125,7 +125,7 @@
         "b": "/ the accident might have been avoided."
       },
       "correct": "b",
-      "explanation": "16. (c) 17. (c) 18. (a) 19. -@ 20. G(a) (d)",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -137,7 +137,7 @@
         "c": "/ No error"
       },
       "correct": "a",
-      "explanation": "12. (b) 13. (b) 14. (a) 15. (a)",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -184,9 +184,9 @@
       "question": "If Naxalism had nipped?",
       "exam_source": "",
       "options": {
-        "a": "/ in the bud e",
+        "a": "/ in the bud",
         "b": "/ become such a serious - @",
-        "d": "TG"
+        "d": "G"
       },
       "correct": "a",
       "explanation": "had nipped osQ LFkku ij had been nipped gksxk] D;ksafd okD; passive esa gSA",
@@ -201,7 +201,7 @@
         "c": "/ No error"
       },
       "correct": "c",
-      "explanation": "'Would have' osQ ckn V3 vkrk gS] blfy, 'succeed' osQ LFkku ij 'succeeded' vk,xkA hall - @f ear",
+      "explanation": "'Would have' osQ ckn V3 vkrk gS] blfy, 'succeed' osQ LFkku ij 'succeeded' vk,xkA hall - @ ear",
       "format": "error_spotting"
     },
     {
@@ -209,8 +209,8 @@
       "question": "We had helped him if he had frequested us earlier.",
       "exam_source": "",
       "options": {
-        "a": "have been help him if he had",
-        "b": "had been helped him if he had",
+        "a": "ve been help him if he had",
+        "b": "been helped him if he had",
         "c": "would have helped him if he had",
         "d": "No improvement"
       },
@@ -220,12 +220,12 @@
     },
     {
       "qno": 18,
-      "question": "Had I known about the traffic, I will leave early. \b?",
+      "question": "Had I known about the traffic, I will leave early. ?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "would have left earlier",
         "b": "would leave early",
-        "c": "had left earlier",
+        "c": "left earlier",
         "d": "would left earlier"
       },
       "correct": "a",
@@ -234,7 +234,7 @@
     },
     {
       "qno": 19,
-      "question": "Had I known about the delay, I will wait. \b?",
+      "question": "Had I known about the delay, I will wait. ?",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
         "a": "would have waited",
@@ -248,7 +248,7 @@
     },
     {
       "qno": 20,
-      "question": "If the government had taken stronger action earlier, the economy would have been in a much better position to recover from the crisis. \b?",
+      "question": "If the government had taken stronger action earlier, the economy would have been in a much better position to recover from the crisis. ?",
       "exam_source": "(SSC MTS, 2025)",
       "options": {
         "a": "took stronger action earlier",
@@ -262,7 +262,7 @@
     },
     {
       "qno": 21,
-      "question": "If you asked for directions at the petrol pump, you would not be lost now. \b?",
+      "question": "If you asked for directions at the petrol pump, you would not be lost now. ?",
       "exam_source": "(SSC MTS, 2025)",
       "options": {
         "a": "If you had asked for directions",
@@ -271,18 +271,18 @@
         "d": "No improvement required"
       },
       "correct": "a",
-      "explanation": "22. (a) 23. (c) 24. (b) 25. (b) 23. If we had moved to Italy when I was a child, I will had an Italian accent. \b (SSC CHSL, 2023) (a) I will have (b) I would has (c) I would have had (d) I am having 24. If I had the money I would have bought the house. (a) If I have had the money I would have bought the house. (b) If I had had the money I would have bought the house. (c) If I have the money I would have bought the house. (d) No improvement 25. Had they submitted the proposal earlier, they .......... the funding. \b (SSC CGL, 2025) (a) would get (b) would have received (c) had received (d) will have received 26. Had I known the conference was postponed, I .......... my flight \b (SSC CPO, 2025) (a) would cancel (b) had cancelled (c) will have cancelled (d) would have cancelled 27. If I .......... him, I would not have believed it. \b (SSC Phase XIII, 2025) (a) wouldn't see (b) didn't see (c) hadn't seen (d) haven't seen 28. I didn't know Rahul was in the hospital. If I…….. , I would………… him. \b (CUET, 15/May/2024) (a) knew, go (b) had known, have visited (c) have known, be going (d) know, had gone hall",
+      "explanation": "22. (a) 23. () 24. (b) 25. (b) 23. If we had moved to Italy when I was a child, I will had an Italian accent.  (SSC CHSL, 2023) (a) I will have (b) I would has () I would have had () I am having 24. If I had the money I would have bought the house. (a) If I have had the money I would have bought the house. (b) If I had had the money I would have bought the house. () If I have the money I would have bought the house. () No improvement 25. Had they submitted the proposal earlier, they .......... the funding.  (SSC CGL, 2025) (a) would get (b) would have received () had received () will have received 26. Had I known the conference was postponed, I .......... my flight  (SSC CPO, 2025) (a) would cancel (b) had cancelled () will have cancelled () would have cancelled 27. If I .......... him, I would not have believed it.  (SSC Phase XIII, 2025) (a) wouldn't see (b) didn't see () hadn't seen () haven't seen 28. I didn't know Rahul was in the hospital. If I…….. , I would………… him.  (CUET, 15/May/2024) (a) knew, go (b) had known, have visited () have known, be going () know, had gone hall",
       "format": "sentence_improve"
     },
     {
       "qno": 22,
-      "question": "Had the research data been verified earlier, the project could complete within the deadline. \b (SSC Phase XIII, 2025)",
+      "question": "Had the research data been verified earlier, the project could complete within the deadline.  (SSC Phase XIII, 2025)",
       "exam_source": "",
       "options": {
-        "a": "could have been completed",
-        "b": "had completed",
-        "c": "could completed",
-        "d": "could had been complete"
+        "a": "ould have been completed",
+        "b": "ompleted",
+        "c": "ould completed",
+        "d": "ould had been complete"
       },
       "correct": "a",
       "explanation": "",
@@ -290,7 +290,7 @@
     },
     {
       "qno": 23,
-      "question": "If we had moved to Italy when I was a child, I will had an Italian accent. \b?",
+      "question": "If we had moved to Italy when I was a child, I will had an Italian accent. ?",
       "exam_source": "(SSC CHSL, 2023)",
       "options": {
         "a": "I will have",
@@ -318,12 +318,12 @@
     },
     {
       "qno": 25,
-      "question": "Had they submitted the proposal earlier, they .......... the funding. \b?",
+      "question": "Had they submitted the proposal earlier, they .......... the funding. ?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "would get",
         "b": "would have received",
-        "c": "had received",
+        "c": "ived",
         "d": "will have received"
       },
       "correct": "a",
@@ -332,27 +332,27 @@
     },
     {
       "qno": 26,
-      "question": "Had I known the conference was postponed, I .......... my flight \b?",
+      "question": "Had I known the conference was postponed, I .......... my flight ?",
       "exam_source": "(SSC CPO, 2025)",
       "options": {
         "a": "would cancel",
-        "b": "had cancelled",
+        "b": "ancelled",
         "c": "will have cancelled",
         "d": "would have cancelled"
       },
       "correct": "d",
-      "explanation": "27. (c) 28. (b) c ho Solut",
+      "explanation": "",
       "format": "fill_blank"
     },
     {
       "qno": 27,
-      "question": "If I .......... him, I would not have believed it. \b (SSC Phase XIII, 2025)",
+      "question": "If I .......... him, I would not have believed it.  (SSC Phase XIII, 2025)",
       "exam_source": "",
       "options": {
         "a": "wouldn't see",
-        "b": "didn't see",
-        "c": "hadn't seen",
-        "d": "haven't seen"
+        "b": "idn't see",
+        "c": "n't seen",
+        "d": "ven't seen"
       },
       "correct": "c",
       "explanation": "",
@@ -360,12 +360,12 @@
     },
     {
       "qno": 28,
-      "question": "I didn't know Rahul was in the hospital. If I…….. , I would………… him. \b (CUET, 15/May/2024)",
+      "question": "I didn't know Rahul was in the hospital. If I…….. , I would………… him.  (CUET, 15/May/2024)",
       "exam_source": "",
       "options": {
         "a": "knew, go",
-        "b": "had known, have visited",
-        "c": "have known, be going",
+        "b": "known, have visited",
+        "c": "ve known, be going",
         "d": "know, had gone"
       },
       "correct": "b",

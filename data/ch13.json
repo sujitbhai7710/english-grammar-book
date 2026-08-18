@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 46,
   "end_page": 48,
-  "theory": "Semi-Modals\n\n                  Necessity                               Need/Dare                              Courage\n\n                                                      l                 n\n                                                 o da                       Ve\n\n                                               M                                b\n\n                                      V Base                                         to + V1\n\n                                 Bare infinitive                                    Infinitive\n\n       1    NEED as a Modal Verb vius ckn verb dh 1st form ysrk gSA\n\n                  Example\n                     1. You need not worry. (rqEgsa fpark djus dh vko';drk ugha gSA)\n\n     \b               2. Need I say more? (D;k eq>s vkSj oqQN dgus dh vko';drk gS\\)\n\n       2    NEED as a Main Verb vius ckn verb dh to + V1 (Infinitive) ysrk gSA\n                  Example",
+  "theory": "Semi-Modals\n\n Necessity Need/Dare Courage\n\n l n\n o da Ve\n\n M b\n\n V Base to + V1\n\n Bare infinitive Infinitive\n\n 1 NEED as a Modal Verb vius ckn verb dh 1st form ysrk gSA\n\n Example\n 1. You need not worry. (rqEgsa fpark djus dh vko';drk ugha gSA)\n\n \b 2. Need I say more? (D;k eq>s vkSj oqQN dgus dh vko';drk gS\\)\n\n 2 NEED as a Main Verb vius ckn verb dh to + V1 (Infinitive) ysrk gSA\n Example",
   "mcqs": [
     {
       "qno": 1,
@@ -88,8 +88,8 @@
       "exam_source": "",
       "options": {
         "a": "/ wait for",
-        "b": "/ the permission f ha",
-        "d": "re"
+        "b": "/ the permission",
+        "d": "e"
       },
       "correct": "a",
       "explanation": "\"needs not\" should be replaced with \"need not\" of use",
@@ -101,9 +101,9 @@
       "exam_source": "",
       "options": {
         "a": "/ need finish the",
-        "b": "T G-/ assignment",
+        "b": "/ assignment",
         "c": "/ leaving the office? n",
-        "d": "ear"
+        "d": "ar"
       },
       "correct": "b",
       "explanation": "\"need finish\" should be replaced with \"need to finish\" of",
@@ -204,12 +204,12 @@
       "exam_source": "",
       "options": {
         "a": "need not work",
-        "b": "does not need work",
+        "b": "oes not need work",
         "c": "needs not work",
         "d": "No improvement"
       },
       "correct": "a",
-      "explanation": "17. (b) 18. (c) 19. (a) 20. (c) tions because \"dare\" is a modal verb, which after takes bare infinitive",
+      "explanation": "17. (b) 18. () 19. (a) 20. () tions because \"dare\" is a modal verb, which after takes bare infinitive",
       "format": "sentence_improve"
     },
     {
@@ -217,9 +217,9 @@
       "question": "Did he dare to challenging the authority of the senior commander during the assembly?",
       "exam_source": "",
       "options": {
-        "a": "dare challenge",
-        "b": "dare to challenge",
-        "c": "dared challenge",
+        "a": "allenge",
+        "b": "to challenge",
+        "c": "allenge",
         "d": "No improvement"
       },
       "correct": "b",
@@ -231,8 +231,8 @@
       "question": "No one dare to go out in the dark forest because of the leopard's presence.",
       "exam_source": "",
       "options": {
-        "a": "dare go",
-        "b": "dares go",
+        "a": "go",
+        "b": "s go",
         "c": "12.",
         "d": "23."
       },
@@ -247,7 +247,7 @@
       "options": {
         "a": "need not have shouted",
         "b": "needed not to shout",
-        "c": "did not need shout",
+        "c": "id not need shout",
         "d": "No improvement"
       },
       "correct": "a",
@@ -260,8 +260,8 @@
       "exam_source": "",
       "options": {
         "a": "to explain",
-        "b": "explained",
-        "c": "explain",
+        "b": "xplained",
+        "c": "xplain",
         "d": "should"
       },
       "correct": "c",
@@ -273,13 +273,13 @@
       "question": "You .......... have woken me up. I don’t have to go to work.",
       "exam_source": "",
       "options": {
-        "a": "could not",
+        "a": "ould not",
         "b": "may not",
         "c": "need not",
-        "d": "dare not"
+        "d": "not"
       },
       "correct": "c",
-      "explanation": "22. (d) 23. (c) 24. (d) 25. (c) Solut",
+      "explanation": "",
       "format": "fill_blank"
     },
     {
@@ -287,10 +287,10 @@
       "question": "I .......... not to take such a risk.",
       "exam_source": "",
       "options": {
-        "a": "do",
-        "b": "can",
+        "a": "o",
+        "b": "an",
         "c": "would",
-        "d": "dare"
+        "d": "e"
       },
       "correct": "d",
       "explanation": "",
@@ -304,7 +304,7 @@
         "a": "to intervene",
         "b": "to have intervened",
         "c": "intervene",
-        "d": "have to intervene"
+        "d": "ve to intervene"
       },
       "correct": "c",
       "explanation": "",
@@ -315,10 +315,10 @@
       "question": "No Sooner .......... Raj dare .......... the policy than she was warned by the management.",
       "exam_source": "",
       "options": {
-        "a": "do, to oppose",
-        "b": "does, oppose",
-        "c": "did, oppose",
-        "d": "did, to oppose"
+        "a": "o, to oppose",
+        "b": "oes, oppose",
+        "c": "id, oppose",
+        "d": "id, to oppose"
       },
       "correct": "d",
       "explanation": "",
@@ -329,10 +329,10 @@
       "question": "No one .......... to challenge the authority of the principal during the meeting.",
       "exam_source": "",
       "options": {
-        "a": "does not dare",
-        "b": "dare",
-        "c": "dared",
-        "d": "did not dare"
+        "a": "oes not dare",
+        "b": "e",
+        "c": "d",
+        "d": "id not dare"
       },
       "correct": "c",
       "explanation": "",

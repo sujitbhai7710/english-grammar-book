@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 38,
   "end_page": 39,
-  "theory": " MODALS (Helping Verbs): Auxiliary verbs that are used with main verbs to show possibility,\n      ability, permission, obligation, advice, etc.\n       Helping Verbs, eq[; fØ;k ds lkFk iz;ksx gksus okyh lgk;d fØ;k,¡ gSa] tks laHkkouk] {kerk] vuqefr]\n       drZO;] lykg vkfn dks n'kkZrh gSaA\n     COMMON MODALS: can, could, may, might, shall, should, will, would, must, ought to,\n       need, dare, used to\n\n                                                    Modals\n\n                  Modal Indefinite                                      Modal Perfect\n\n       Modal + V1             Modal + be + V3          Modal + have + V3        Modal + have + been + V3\n       Active Voice            Passive Voice             Active Voice                  Passive Voice\n\n     Modal Indefinite – It is used to express present or future possibility, ability, permission,\n      obligation, etc.\n\t\tbldk mi;ksx orZeku ;k Hkfo\"; dh laHkkouk] {kerk] vuqefr] drZO; vkfn crkus osQ fy, fd;k tkrk gSA\n Modal Perfect – It is used to express past possibility, regret, criticism, deduction etc.\n        bldk mi;ksx Hkwrdky dh laHkkouk] iNrkok] vkykspuk vkfn crkus osQ fy, fd;k tkrk gSA",
+  "theory": " MODALS (Helping Verbs): Auxiliary verbs that are used with main verbs to show possibility,\n ability, permission, obligation, advice, etc.\n Helping Verbs, eq[; fØ;k ds lkFk iz;ksx gksus okyh lgk; fØ;k,¡ gSa] tks laHkkouk] {kerk] vuqefr]\n drZO;] lykg vkfn dks n'kkZrh gSaA\n  COMMON MODALS: can, could, may, might, shall, should, will, would, must, ought to,\n need, dare, used to\n\n Modals\n\n Modal Indefinite Modal Perfect\n\n Modal + V1 Modal + be + V3 Modal + have + V3 Modal + have + been + V3\n Active Voice Passive Voice Active Voice Passive Voice\n\n  Modal Indefinite – It is used to express present or future possibility, ability, permission,\n obligation, etc.\n bldk mi;ksx orZeku ;k Hkfo\"; dh laHkkouk] {kerk] vuqefr] drZO; vkfn crkus osQ fy, fd;k tkrk gSA\n Modal Perfect – It is used to express past possibility, regret, criticism, deduction etc.\n bldk mi;ksx Hkwrdky dh laHkkouk] iNrkok] vkykspuk vkfn crkus osQ fy, fd;k tkrk gSA",
   "mcqs": [
     {
       "qno": 1,
@@ -109,12 +109,12 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
       "qno": 9,
-      "question": "He could not be able to finish the work on time?",
+      "question": "He could not be able to finish the work time?",
       "exam_source": "",
       "options": {
         "a": "/ due to the lack of proper resources",
@@ -128,11 +128,11 @@
     },
     {
       "qno": 10,
-      "question": "If he continues to work hard and fr remains focused?",
+      "question": "If he continues to work hard and remains focused?",
       "exam_source": "",
       "options": {
         "a": "/ on his goals throughout",
-        "b": "/ he will likely n T",
+        "b": "/ he will likely n",
         "c": "/ No errorc"
       },
       "correct": "c",
@@ -141,25 +141,25 @@
     },
     {
       "qno": 11,
-      "question": "My younger brother will teaches English language to the graduate students. \b?",
+      "question": "My younger brother will teaches English language to the graduate students. ?",
       "exam_source": "(SSC CPO, 2025)",
       "options": {
         "a": "will teach",
-        "b": "can teach",
-        "c": "could teach",
+        "b": "an teach",
+        "c": "ould teach",
         "d": "would have teach"
       },
       "correct": "a",
-      "explanation": "12. (b) 13. (d) 14. (d) 15. (a) Solut",
+      "explanation": "",
       "format": "regular"
     },
     {
       "qno": 12,
-      "question": "I wish I can help you with this difficult problem.\b?",
+      "question": "I wish I can help you with this difficult problem.?",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
         "a": "No substitution required",
-        "b": "could",
+        "b": "ould",
         "c": "may",
         "d": "would"
       },
@@ -169,7 +169,7 @@
     },
     {
       "qno": 13,
-      "question": "The snowstorm in that region will effect thousands of travellers.\b?",
+      "question": "The snowstorm in that region will effect thousands of travellers.?",
       "exam_source": "(SSC MTS, 2022)",
       "options": {
         "a": "would affecting thousand",
@@ -183,7 +183,7 @@
     },
     {
       "qno": 14,
-      "question": "Don't try to force the window open, or you might broken it.\b?",
+      "question": "Don't try to force the window open, or you might broken it.?",
       "exam_source": "(SSC MTS, 2023)",
       "options": {
         "a": "you might breaks",
@@ -192,7 +192,7 @@
         "d": "you might break"
       },
       "correct": "d",
-      "explanation": "on't try to force the window open, or you might broken it.\b (SSC MTS, 2023) (a) you might breaks (b) you have break (c) No improvement (d) you might break 15. He decided to take the help of a guide lest he may miss the way. (a) he should miss (b) he will miss Answers",
+      "explanation": "'t try to force the window open, or you might broken it. (SSC MTS, 2023) (a) you might breaks (b) you have break () No improvement () you might break 15. He decided to take the help of a guide lest he may miss the way. (a) he should miss (b) he will miss Answers",
       "format": "sentence_improve"
     },
     {
@@ -200,8 +200,8 @@
       "question": "He decided to take the help of a guide lest he may miss the way.",
       "exam_source": "",
       "options": {
-        "a": "he should miss",
-        "b": "he will miss",
+        "a": "should miss",
+        "b": "will miss",
         "d": "5.",
         "c": "11."
       },
@@ -211,7 +211,7 @@
     },
     {
       "qno": 16,
-      "question": "Pedestrians is to be careful when crossing busy roads.\b?",
+      "question": "Pedestrians is to be careful when crossing busy roads.?",
       "exam_source": "(SSC CPO, 2019)",
       "options": {
         "a": "need be caring when crossing",
@@ -220,12 +220,12 @@
         "d": "must be careful when crossing"
       },
       "correct": "d",
-      "explanation": "17. (d) 18. (b) 19. (d) 20. (c) tions",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {
       "qno": 17,
-      "question": "Keep him at arm's length lest you may not repent in the long run.\b?",
+      "question": "Keep him at arm's length lest you may not repent in the long run.?",
       "exam_source": "(SSC CGL, 2022)",
       "options": {
         "a": "or you may no",
@@ -239,13 +239,13 @@
     },
     {
       "qno": 18,
-      "question": "You need not .......... so much fuss about wearing a mask when you go out. \b?",
+      "question": "You need not .......... so much fuss about wearing a mask when you go out. ?",
       "exam_source": "(SSC CGL, 2020)",
       "options": {
         "a": "generate",
         "b": "make",
-        "c": "do",
-        "d": "data"
+        "c": "o",
+        "d": "ata"
       },
       "correct": "b",
       "explanation": "",
@@ -253,11 +253,11 @@
     },
     {
       "qno": 19,
-      "question": "This answer can't be right; It .......... be wrong. \b (CUET, 1/June/2023)",
+      "question": "This answer can't be right; It .......... be wrong.  (CUET, 1/June/2023)",
       "exam_source": "",
       "options": {
         "a": "may",
-        "b": "can",
+        "b": "an",
         "c": "ought to",
         "d": "must"
       },
@@ -267,13 +267,13 @@
     },
     {
       "qno": 20,
-      "question": "Researchers say that about 33% of people with diabetes may .......... a skin disorder in their lifetime.\b?",
+      "question": "Researchers say that about 33% of people with diabetes may .......... a skin disorder in their lifetime.?",
       "exam_source": "(SSC GD, 2019)",
       "options": {
-        "a": "have been",
-        "b": "has been",
-        "c": "have",
-        "d": "has"
+        "a": "ve been",
+        "b": "s been",
+        "c": "ve",
+        "d": "s"
       },
       "correct": "c",
       "explanation": "",

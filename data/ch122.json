@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 316,
   "end_page": 317,
-  "theory": " Some nouns change their meanings when they are used in singular and plural forms.\n\n dqN Nouns ,sls gksrs gSa ftudk Singular vkSj Plural :i dsoy la[;k (one/many) ugha cnyrk]\n cfYd mudk iwjk vFkZ cny tkrk gSA dbZ nouns esa plural form vkus ij u;k vFkZ cu tkrk gSA\n\n      Noun                 Used as              Noun                      Used as\n 1   Wood      Material / ydM+h               Woods      Forest / taxy\n\n 2   Water     Material / ikuh                Waters     Sea / leqæ\n\n 3   Asset     Quality / xq.k ;k ;ksX;rk      Assets     Property / laifÙk\n\n 4   Sand      Material / jsr                 Sands      Land / jsfxLrku\n\n 5   Iron      Material / yksgk               Irons      Chains / tathjsa\n\n 6   Cloth     Material / diM+k               Clothes    Dress / diM+s\n\n 7   Abuse     Indecent words / vi'kCn        Abuses     Corrupt practices / dqjhfr;k¡\n\n 8   Work      Labour / dke                   Works      Literary writings / lkfgR; ys•\n\n 9   Air       Element / gok                  Airs       Behaviour / fn•koVh O;ogkj\n\n10 Advice      Suggestion / lq>ko             Advices    Bills / Hkqxrku lwpuk\n\n11 Custom Traditional practices / fjok”k      Customs    Tax / lhek 'kqYd\n\n12 Effect      Result / çHkko@ifj.kke         Effects    Goods / lkeku\n\n13 Fruit       Edible thing / iQy             Fruits     Results / ifj.kke\n\n14 Wit         Ability to talk / okdiVqrk     Wits       Intelligence / cqf¼erk\n\n 15 Arm        Organ / ck¡g                   Arms       Weapons / gfFk;kj\n\n 16 Good       High quality or nice / vPNk    Goods      Articles / lkeku\n\n 17 Return     Coming back / okilh            Returns    Profits / ykHk\n\n 18 Manner Way of doing / rjhdk               Manners    Behaviour / O;ogkj\n\n 19 Pain       Suffering / nnZ                Pains      Hardwork / esgur\n\n 20 Quarter One-fourth part / pkSFkkbZ Hkkx   Quarters   Rooms / dejs\n\n 21 Letter     Written message / i=k          Letters    Alphabet / v{kj/lkfgR;\n\n                                                                                        -  @f",
+  "theory": " Some nouns change their meanings when they are used in singular and plural forms.\n\n dqN Nouns ,sls gksrs gSa ftudk Singular vkSj Plural :i dsoy la[;k (one/many) ugha cnyrk]\n cfYd mudk iwjk vFkZ cny tkrk gSA dbZ nouns esa plural form vkus ij u;k vFkZ cu tkrk gSA\n\n Noun Used as Noun Used as\n 1 Wood Material / ydM+ Woods Forest / taxy\n\n 2 Water Material / ikuh Waters Sea / leqæ\n\n 3 Asset Quality / xq.k ;k ;ksX;rk Assets Property / laifÙk\n\n 4 Sand Material / jsr Sands Land / jsfxLrku\n\n 5 Iron Material / yksgk Irons Chains / tathjsa\n\n 6 Cloth Material / diM+k Clothes Dress / diM+s\n\n 7 Abuse Indecent words / vi'kCn Abuses Corrupt practices / dqjhfr;k¡\n\n 8 Work Labour / dke Works Literary writings / lkfgR; ys•\n\n 9 Air Element / gok Airs Behaviour / fn•koVh O;ogkj\n\n10 Advice Suggestion / lq>ko Advices Bills / Hkqxrku lwpuk\n\n11 Custom Traditional practices / fjok”k Customs Tax / lhek 'kqYd\n\n12 Effect Result / çHkkoifj.kke Effects Goods / lkeku\n\n13 Fruit Edible thing / iQy Fruits Results / ifj.kke\n\n14 Wit Ability to talk / okdiVqrk Wits Intelligence / cqf¼erk\n\n 15 Arm Organ / ck¡g Arms Weapons / gfFk;kj\n\n 16 Good High quality or nice / vPNk Goods Articles / lkeku\n\n 17 Return Coming back / okilh Returns Profits / ykHk\n\n 18 Manner Way of doing / rjhdk Manners Behaviour / O;ogkj\n\n 19 Pain Suffering / nnZ Pains Hardwork / esgur\n\n 20 Quarter One-fourth part / pkSFkkbZ Hkkx Quarters Rooms / dejs\n\n 21 Letter Written message / i=k Letters Alphabet / v{kj/lkfgR;\n\n - @",
   "mcqs": [
     {
       "qno": 1,
@@ -149,10 +149,10 @@
     },
     {
       "qno": 12,
-      "question": "He took pain to finish the task on time. \b?",
+      "question": "He took pain to finish the task time. ?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
-        "a": "had pain",
+        "a": "pain",
         "b": "took pains",
         "c": "gave pain",
         "d": "took the pain"

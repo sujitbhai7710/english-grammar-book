@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 179,
   "end_page": 180,
-  "theory": " Adverbs are placed in a sentence according to their type (manner, place, time, frequency,\n     degree) to show how, where, when, how often, or to what extent an action happens.\n\n Adverb dks sentence esa mlds çdkj (manner, place, time, frequency, degree) ds vuqlkj j•k tkrk gS\n      rkfd ;g Li\"V gks lds fd dksbZ dke dSls] dgk¡] dc] fdruh ckj ;k fdl ek=kk esa gks jgk gSA\n  1 Adverb of Manner – (Politely, well, carefully)\n Subject + Verb + Object + Adverb of Manner\n\n  2 Adverb of Place – (Here, there, Abroad)\n Subject + Verb + Object + Adverb of Place\n\n  3 Adverb of Time – (Tomorrow, yesterday, today)\n Subject + Verb + Object + Adverb of Time\n\n  Note\n \t\t If all the three come in a sentence, follow the order:\n  Subject + Verb + Object + Adverb of Manner + Adverb of Place + Adverb of Time\n\n  4 Adverb of Frequency – (Always, often, never)\n Subject + Helping Verb + Adverb of Frequency + Main Verb + Object\n\n  5 Adverb of Degree – (Very, too, almost)\n Before the Adjective / Verb / Adverb it modifies.\n\n   Note\n\n  Adverbs like only, even, and just are used before the word they modify",
+  "theory": " Adverbs are placed in a sentence according to their type (manner, place, time, frequency,\n degree) to show how, where, when, how often, or to what extent an action happens.\n\n Adverb dks sentence esa mlds çdkj (manner, place, time, frequency, degree) ds vuqlkj j•k tkrk gS\n rkfd ;g Li\"V gks lds fd dksbZ dke dSls] dgk¡] dc] fdruh ckj ;k fdl ek=kk esa gks jgk gSA\n 1 Adverb of Manner – (Politely, well, carefully)\n Subject + Verb + Object + Adverb of Manner\n\n 2 Adverb of Place – (Here, there, Abroad)\n Subject + Verb + Object + Adverb of Place\n\n 3 Adverb of Time – (Tomorrow, yesterday, today)\n Subject + Verb + Object + Adverb of Time\n\n Note\n If all the three come in a sentence, follow the order:\n Subject + Verb + Object + Adverb of Manner + Adverb of Place + Adverb of Time\n\n 4 Adverb of Frequency – (Always, often, never)\n Subject + Helping Verb + Adverb of Frequency + Main Verb + Object\n\n 5 Adverb of Degree – (Very, too, almost)\n Before the Adjective / Verb / Adverb it modifies.\n\n Note\n\n Adverbs like only, even, and just are used before the word they modify",
   "mcqs": [
     {
       "qno": 1,
@@ -155,7 +155,7 @@
       "exam_source": "",
       "options": {
         "a": "/ monitoring pd the",
-        "b": "/ since last fr e",
+        "b": "/ since last",
         "c": "/ No error"
       },
       "correct": "c",
@@ -164,11 +164,11 @@
     },
     {
       "qno": 15,
-      "question": "Resolutions must be introduced o nT quickly to repeal the outdated laws. ch?",
+      "question": "Resolutions must be introduced o nT quickly to repeal the outdated laws. ?",
       "exam_source": "",
       "options": {
         "a": "be introducing to quick repeal",
-        "b": "have to be introduced to quick repealing",
+        "b": "ve to be introduced to quick repealing",
         "c": "be quickly introduced to repeal",
         "d": "be quick introducing to repeal"
       },
@@ -178,21 +178,21 @@
     },
     {
       "qno": 16,
-      "question": "He takes his always dog for a walk in the park.\b?",
+      "question": "He takes his always dog for a walk in the park.?",
       "exam_source": "(SSC CHSL, 2024)",
       "options": {
-        "a": "his dog for a walk always takes",
+        "a": "is dog for a walk always takes",
         "b": "always takes his dog for a walk",
         "c": "takes his dog for always a walk",
         "d": "takes his dog for an always walk"
       },
       "correct": "b",
-      "explanation": "17. (d) 18. (c) 19. (b) 20. (d) tions",
+      "explanation": "",
       "format": "regular"
     },
     {
       "qno": 17,
-      "question": "The governor assured the media that the crisis was under control and would be soon overcome by the efforts of the administration. \b?",
+      "question": "The governor assured the media that the crisis was under control and would be soon overcome by the efforts of the administration. ?",
       "exam_source": "(SSC MTS, 2025)",
       "options": {
         "a": "will soon be overcome for",
@@ -206,11 +206,11 @@
     },
     {
       "qno": 18,
-      "question": "Check all radiators for (meagre leaks, special) round pipework connections. \b?",
+      "question": "Check all radiators for (meagre leaks, special) round pipework connections. ?",
       "exam_source": "(SSC CHSL, 2023)",
       "options": {
         "a": "modest, leaks, specially",
-        "b": "cramped ,leaks, specially",
+        "b": "amped ,leaks, specially",
         "c": "small, leaks, especially",
         "d": "No improvement"
       },
@@ -234,7 +234,7 @@
     },
     {
       "qno": 20,
-      "question": "Many artisans were almost without any work during the pandemic.\b?",
+      "question": "Many artisans were almost without any work during the pandemic.?",
       "exam_source": "(SSC CGL, 2021)",
       "options": {
         "a": "any without almost",

@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 29,
   "end_page": 29,
-  "theory": "6                                   A Number of Vs The Number of\n\n                A number of = Many/Several\n                The number of = Total Count/Exact Number\n\n              Part A A number of + Plural Noun + Plural Verb\n              Part B The number of + Plural Noun + Singular Verb\n\n  Exception\n       The number of + Plural Noun + Relative Pronoun + Plural Verb + ....... + Singular Verb.\n                                                                                 (Main Verb)",
+  "theory": "6 A Number of Vs The Number of\n\n  A number of = Many/Several\n  The number of = Total Count/Exact Number\n\n Part A A number of + Plural Noun + Plural Verb\n Part B The number of + Plural Noun + Singular Verb\n\n Exception\n The number of + Plural Noun + Relative Pronoun + Plural Verb + ....... + Singular Verb.\n (Main Verb)",
   "mcqs": [
     {
       "qno": 1,
@@ -34,7 +34,7 @@
     },
     {
       "qno": 3,
-      "question": "A large number of vehicle on the road?",
+      "question": "A large number of vehicle the road?",
       "exam_source": "",
       "options": {
         "b": "/ during peak",
@@ -112,7 +112,7 @@
     },
     {
       "qno": 9,
-      "question": "The number of seats in the movie theatre were reduced to comply with the new social distancing guidelines.\b?",
+      "question": "The number of seats in the movie theatre were reduced to comply with the new social distancing guidelines.?",
       "exam_source": "(SSC CHSL, 2023)",
       "options": {
         "a": "of the movie theatre were reduced",
@@ -129,10 +129,10 @@
       "question": "The number of women working outside homes have been steadily increasing.",
       "exam_source": "",
       "options": {
-        "a": "has been steadily",
-        "b": "had been steadier",
+        "a": "s been steadily",
+        "b": "been steadier",
         "c": "No improvement",
-        "d": "have been steady"
+        "d": "ve been steady"
       },
       "correct": "a",
       "explanation": "",

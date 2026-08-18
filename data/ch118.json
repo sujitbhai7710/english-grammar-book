@@ -4,11 +4,11 @@
   "section": "A",
   "start_page": 307,
   "end_page": 308,
-  "theory": " Parallelism is a grammatical device in which words, phrases or clauses are arranged in a\n         similar structure to ensure balance, clarity, and smooth flow in a sentence.\n         Parallelism ,d grammatical device gS ftlesa words, phrases ;k clauses dks ,d leku\n         grammatical stucture esa arrange fd;k tkrk gS rkfd sentence esa balance, clarity vkSj smooth\n         flow cuk jgsA\n        Examples\n         1 My brother likes books reading, watching movies and playing games. ()\n           My brother likes reading books, watching movies and playing games. ()\n         2   Mukesh is not only intelligent but also works hard. ()\n             Mukesh is not only intelligent but also hard-working. ()\n         3   Anuradha is good at singing, dance and paint painting. ()\n             Anuradha is good at singing, dancing and painting. ()",
+  "theory": " Parallelism is a grammatical device in which words, phrases or clauses are arranged in a\n similar structure to ensure balance, clarity, and smooth flow in a sentence.\n Parallelism , grammatical device gS ftlesa words, phrases ;k clauses dks , leku\n grammatical stucture esa arrange fd;k tkrk gS rkfd sentence esa balance, clarity vkSj smooth\n flow cuk jgsA\n Examples\n 1 My brother likes books reading, watching movies and playing games. ()\n My brother likes reading books, watching movies and playing games. ()\n 2 Mukesh is not only intelligent but also works hard. ()\n Mukesh is not only intelligent but also hard-working. ()\n 3 Anuradha is good at singing, dance and paint painting. ()\n Anuradha is good at singing, dancing and painting. ()",
   "mcqs": [
     {
       "qno": 1,
-      "question": "What renders the draft legislation particularly contentious is not its proposed realignment of fiscal powers per se,?",
+      "question": "What renders the draft legislation particularly contentious is not its proposed realignment of fiscal powers per ,?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "/ but that it presumes",
@@ -63,7 +63,7 @@
     },
     {
       "qno": 5,
-      "question": "The manager instructed the team to complete the project on time,?",
+      "question": "The manager instructed the team to complete the project time,?",
       "exam_source": "",
       "options": {
         "a": "/ maintaining the quality",
@@ -84,12 +84,12 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
       "qno": 7,
-      "question": "The instructions on?",
+      "question": "The instructions ?",
       "exam_source": "(SSC GD, 2022)",
       "options": {
         "a": "/ the bottle say – open the",
@@ -204,20 +204,20 @@
         "d": "ll"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
       "qno": 16,
-      "question": "She is known for her dedication to work p e?",
+      "question": "She is known for her dedication to work p ?",
       "exam_source": "",
       "options": {
         "b": "/ and she -is@punctual in",
         "c": "/ No error",
-        "d": "TG"
+        "d": "G"
       },
       "correct": "c",
-      "explanation": "17. (c) 18. (d) 19. (d) 20. (c) tions igys Gerund Phrase (\"for speaking clearly\") gS, blfy, \"and\" osQ ckn Hkh for + Noun Phrase vk,xhA",
+      "explanation": "17. () 18. () 19. () 20. () tions igys Gerund Phrase (\"for speaking clearly\") gS, blfy, \"and\" osQ ckn Hkh for + Noun Phrase vk,xhA",
       "format": "error_spotting"
     },
     {
@@ -272,7 +272,7 @@
         "d": "\b 6."
       },
       "correct": "c",
-      "explanation": "“but also addressing” osQ LFkku ij “but also df address” dk use gksxk D;ksafd not only intended to G -@ esa but also streamline osQ lkFk parallel structure to address vk,xkA on",
+      "explanation": "“but also addressing” osQ LFkku ij “but also address” dk use gksxk D;ksafd not only intended to -@ esa but also streamline osQ lkFk parallel structure to address vk,xkA",
       "format": "error_spotting"
     }
   ]

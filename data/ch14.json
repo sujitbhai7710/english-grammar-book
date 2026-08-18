@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 49,
   "end_page": 50,
-  "theory": "One\n\n                One                     Ones                          One's                         Oneself\n\n            Substitute for a      Substitute for a          Used as a possessive           Used as a reflexive\n             singular noun         plural noun.                  adjective                     pronoun\n\n    1       When \"one\" is used as the subject in a sentence, it refers to a general person (dksbZ Hkh\n            O;fDr) not a specific individual.\n    2       All the pronouns related to \"one\" must agree with it.\n               \"one's\" is used as the possessive form of one (vf/dkj fn•kus ds fy,)\n               \"oneself\" is used as the reflexive form of one (Lo;a ds fy,)\n\n   \t\tNote: We should not use \"his\", \"her\", or \"himself\" with \"one\".",
+  "theory": "One\n\n One Ones One's Oneself\n\n Substitute for a Substitute for a Used as a possessive Used as a reflexive\n singular noun plural noun. adjective pronoun\n\n 1 When \"one\" is used as the subject in a sentence, it refers to a general person (dksbZ Hkh\n O;fDr) not a specific individual.\n 2 All the pronouns related to \"one\" must agree with it.\n  \"one's\" is used as the possessive form of one (vf/dkj fn•kus ds fy,)\n  \"oneself\" is used as the reflexive form of one (Lo;a ds fy,)\n\n Note: We should not use \"his\", \"her\", or \"himself\" with \"one\".",
   "mcqs": [
     {
       "qno": 1,
@@ -176,7 +176,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error.",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -244,13 +244,13 @@
     },
     {
       "qno": 19,
-      "question": "It is important for one to respect his colleagues f ha in a professional environment. d?",
+      "question": "It is important for one to respect his colleagues in a professional environment. ?",
       "exam_source": "",
       "options": {
-        "a": "respect his colleagues fr",
+        "a": "spect his colleagues",
         "b": "to respect one's colleagues G-@",
         "c": "to respecting one's colleagues",
-        "d": "No improvement ch"
+        "d": "No improvement"
       },
       "correct": "b",
       "explanation": "",
@@ -262,8 +262,8 @@
       "exam_source": "",
       "options": {
         "a": "themselves",
-        "b": "himself",
-        "c": "oneself",
+        "b": "imself",
+        "c": "lf",
         "d": "No improvement"
       },
       "correct": "c",
@@ -275,13 +275,13 @@
       "question": "If one wishes to excel in music, he must practise for several hours every day.",
       "exam_source": "",
       "options": {
-        "a": "one's must",
+        "a": "'s must",
         "b": "they should",
-        "c": "one must",
+        "c": "must",
         "d": "No improvement"
       },
       "correct": "c",
-      "explanation": "22. (b) 23. (c) 24. (c) 25. (d) Solut",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {
@@ -289,10 +289,10 @@
       "question": "The black shirts are better than the white .......... in quality.",
       "exam_source": "",
       "options": {
-        "a": "one",
-        "b": "ones",
-        "c": "one's",
-        "d": "oneself"
+        "a": "e",
+        "b": "s",
+        "c": "'s",
+        "d": "lf"
       },
       "correct": "b",
       "explanation": "",
@@ -303,10 +303,10 @@
       "question": "One must prepare well if .......... wants to succeed in competitive exams.",
       "exam_source": "",
       "options": {
-        "a": "he",
+        "a": "e",
         "b": "they",
-        "c": "one",
-        "d": "one's"
+        "c": "e",
+        "d": "'s"
       },
       "correct": "c",
       "explanation": "",
@@ -318,9 +318,9 @@
       "exam_source": "",
       "options": {
         "a": "their",
-        "b": "one's",
-        "c": "her",
-        "d": "ones"
+        "b": "'s",
+        "c": "r",
+        "d": "s"
       },
       "correct": "c",
       "explanation": "",
@@ -331,10 +331,10 @@
       "question": "One of the boys from the neighborhood finally saved enough money to buy .......... first car.",
       "exam_source": "",
       "options": {
-        "a": "one's",
-        "b": "her",
+        "a": "'s",
+        "b": "r",
         "c": "their",
-        "d": "his"
+        "d": "is"
       },
       "correct": "d",
       "explanation": "",

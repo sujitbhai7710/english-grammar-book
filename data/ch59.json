@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 157,
   "end_page": 159,
-  "theory": "Present Perfect Continuous\n\n                            Past                                             Present\n                                             ous\n                                  C  ontinu\n                           erfect\n         Since       Past P\n\n          For                                                                    on tinuo\n                                                                  n t Pe rfect C\n                                                           Pre se\n         Time\n\n         Since\n          For\n\n        Time\n\n    Past Perfect Continuous: Action started in the past and continued up to a certain point\n   in the past.\n \t\ttks dk;Z Past esa 'kq: gqvk gks vkSj Past dh fdlh nwljh ?kVuk ;k le; rd tkjh jgsA\n  Present Perfect Continuous: Action started in the past and continues up to the present.\n \t\ttks dk;Z Past esa 'kq: gqvk gks vkSj Present rd tkjh jgsA\n    Structure\n   $ Present Perfect Continuous: Subject + has/have + been + V1+ing + object + since/for + time\n   $ Past Perfect Continuous: Subject + had + been + V1+ing + object + since/for + time",
+  "theory": "Present Perfect Continuous\n\n Past Present\n ous\n C ontinu\n erfect\n Since Past P\n\n For tinuo\n n t Pe rfect C\n Pre \n Time\n\n Since\n For\n\n Time\n\n  Past Perfect Continuous: Action started in the past and continued up to a certain point\n in the past.\n tks dk;Z Past esa 'kq: gqvk gks vkSj Past dh fdlh nwljh ?kVuk ;k le; rd tkjh jgsA\n  Present Perfect Continuous: Action started in the past and continues up to the present.\n tks dk;Z Past esa 'kq: gqvk gks vkSj Present rd tkjh jgsA\n Structure\n $ Present Perfect Continuous: Subject + has/have + been + V1+ing + object + since/for + time\n $ Past Perfect Continuous: Subject + had + been + V1+ing + object + since/for + time",
   "mcqs": [
     {
       "qno": 1,
@@ -141,26 +141,26 @@
     },
     {
       "qno": 11,
-      "question": "The old lady was unable to climb stairs because her legs are aching constantly since morning.\b?",
+      "question": "The old lady was unable to climb stairs because her legs are aching constantly since morning.?",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
         "a": "is been aching constantly",
-        "b": "have been aching constantly",
-        "c": "had been aching constantly ll",
-        "d": "No substitution f ha"
+        "b": "ve been aching constantly",
+        "c": "been aching constantly",
+        "d": "No substitution"
       },
       "correct": "c",
-      "explanation": "12. (c) 13. (c) 14. (a) 15. (b)",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {
       "qno": 12,
-      "question": "He is living here since 2020. pd f r (SSC-@ STENO, 2025)",
+      "question": "He is living here since 2020. pd (SSC-@ STENO, 2025)",
       "exam_source": "",
       "options": {
-        "a": "is staying G",
-        "b": "T lives",
-        "c": "has been living"
+        "a": "is staying",
+        "b": "lives",
+        "c": "s been living"
       },
       "correct": "c",
       "explanation": "",
@@ -173,8 +173,8 @@
       "options": {
         "a": "living in a village",
         "b": "is living",
-        "c": "has been living in a village",
-        "d": "has lived in village"
+        "c": "s been living in a village",
+        "d": "s lived in village"
       },
       "correct": "c",
       "explanation": "",
@@ -182,12 +182,12 @@
     },
     {
       "qno": 14,
-      "question": "The research team is studying the effects of the new drug on patients for the last six months, but they haven't found any conclusive evidence yet.",
+      "question": "The research team is studying the effects of the new drug patients for the last six months, but they haven't found any conclusive evidence yet.",
       "exam_source": "",
       "options": {
-        "a": "has been studying",
-        "b": "had studied",
-        "c": "have been studying",
+        "a": "s been studying",
+        "b": "studied",
+        "c": "ve been studying",
         "d": "no improvement"
       },
       "correct": "a",
@@ -196,11 +196,11 @@
     },
     {
       "qno": 15,
-      "question": "When the renovation finally ended, we realized that the contractors were working on the wrong wing of the building for nearly two weeks.",
+      "question": "When the renovation finally ended, we realized that the contractors were working the wrong wing of the building for nearly two weeks.",
       "exam_source": "",
       "options": {
-        "a": "have been working",
-        "b": "had been working",
+        "a": "ve been working",
+        "b": "been working",
         "c": "were worked",
         "d": "No improvement"
       },
@@ -213,13 +213,13 @@
       "question": "How long are you waiting for the manager to sign these documents before you decided to leave?",
       "exam_source": "",
       "options": {
-        "a": "have you been waiting",
-        "b": "had you been waiting",
+        "a": "ve you been waiting",
+        "b": "you been waiting",
         "c": "you had been waiting",
         "d": "no improvement"
       },
       "correct": "b",
-      "explanation": "17. (b) 18. (d) 19. (c) 20. (d) h all -@f ear Solut",
+      "explanation": "17. (b) 18. () 19. () 20. () all -@ ear Solut",
       "format": "regular"
     },
     {
@@ -227,10 +227,10 @@
       "question": "The investigation revealed that the syndicate ......... funds through offshore accounts for over a decade before the regulatory authorities finally intervened in 2022.",
       "exam_source": "",
       "options": {
-        "a": "has been laundering",
-        "b": "had been laundering",
+        "a": "s been laundering",
+        "b": "been laundering",
         "c": "was laundering",
-        "d": "had laundered"
+        "d": "laundered"
       },
       "correct": "b",
       "explanation": "",
@@ -257,8 +257,8 @@
       "options": {
         "a": "am trying",
         "b": "was trying",
-        "c": "have been trying",
-        "d": "had been trying"
+        "c": "ve been trying",
+        "d": "been trying"
       },
       "correct": "c",
       "explanation": "",
@@ -271,8 +271,8 @@
       "options": {
         "a": "is",
         "b": "was",
-        "c": "has been",
-        "d": "had been"
+        "c": "s been",
+        "d": "been"
       },
       "correct": "d",
       "explanation": "",
@@ -285,11 +285,11 @@
       "options": {
         "a": "is studying",
         "b": "was studying",
-        "c": "has been studying",
-        "d": "had been studying"
+        "c": "s been studying",
+        "d": "been studying"
       },
       "correct": "d",
-      "explanation": "22. (a) 23. (c) 24. (b) (a) was watching (b) is watching (c) has been watching (d) had been watching 19. I ......... to contact you all day, but your phone is switched off. (a) am trying (b) was trying (c) have been trying (d) had been trying 20. Mr. Sinha ......... teaching for 10 years in the school when he took retirement last year. (a) is (b) was (c) has been (d) had been 21. Manoj ......... for the exam for 3 hours when power suddenly went off last night. (a) is studying (b) was studying (c) has been studying (d) had been studying 22. They ......... in this organisation since 2015 and have gained valuable experience. (a) have been working (b) were working (c) are working (d) had been working 23. The research team ......... on the project for six months before publishing their findings. (SSC STENO, 2025) (a) has been working (b) worked (c) had been working (d) were working 24. Both Amla and Kavitha ......... hard for their Bank PO exams scheduled next month. (DP HCM, 2026) (a) study (b) have been studying (c) has been studying (d) is studying",
+      "explanation": "22. (a) 23. () 24. (b) (a) was watching (b) is watching () has been watching () had been watching 19. I ......... to contact you all day, but your phone is switched off. (a) am trying (b) was trying () have been trying () had been trying 20. Mr. Sinha ......... teaching for 10 years in the school when he took retirement last year. (a) is (b) was () has been () had been 21. Manoj ......... for the exam for 3 hours when power suddenly went off last night. (a) is studying (b) was studying () has been studying () had been studying 22. They ......... in this organisation since 2015 and have gained valuable experience. (a) have been working (b) were working () are working () had been working 23. The research team ......... the project for six months before publishing their findings. (SSC STENO, 2025) (a) has been working (b) worked () had been working () were working 24. Both Amla and Kavitha ......... hard for their Bank PO exams scheduled next month. (DP HCM, 2026) (a) study (b) have been studying () has been studying () is studying",
       "format": "fill_blank"
     },
     {
@@ -297,10 +297,10 @@
       "question": "They ......... in this organisation since 2015 and have gained valuable experience.",
       "exam_source": "",
       "options": {
-        "a": "have been working",
+        "a": "ve been working",
         "b": "were working",
-        "c": "are working",
-        "d": "had been working"
+        "c": "working",
+        "d": "been working"
       },
       "correct": "a",
       "explanation": "",
@@ -308,12 +308,12 @@
     },
     {
       "qno": 23,
-      "question": "The research team ......... on the project for six months before publishing their findings.",
+      "question": "The research team ......... the project for six months before publishing their findings.",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
-        "a": "has been working",
+        "a": "s been working",
         "b": "worked",
-        "c": "had been working",
+        "c": "been working",
         "d": "were working"
       },
       "correct": "c",
@@ -326,8 +326,8 @@
       "exam_source": "(DP HCM, 2026)",
       "options": {
         "a": "study",
-        "b": "have been studying",
-        "c": "has been studying",
+        "b": "ve been studying",
+        "c": "s been studying",
         "d": "is studying"
       },
       "correct": "b",

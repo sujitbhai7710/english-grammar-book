@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 200,
   "end_page": 202,
-  "theory": "Conditions\n$ Means of transport (By Bus, By Air)          $ Names of routine meals (lunch,\n$ Institutions for primary purpose (School,      breakfast, dinner)\n  hospital, Region, temple, church)            $ Material Nouns in general (gold,\n$ Nature (general sense)                         coffee, milk)\n$ Man/Mankind (humanity)                       $ Abstract Nouns in general (love,\n                                                 honesty, beauty)\n$ Kind of/Sort of/Type of\n                                               $ For uncountable nouns (advice,\n$ Before Possessive Adjectives\n                                                 feedback)\n$ Titles + Name (Prime Minister Modi,\n                                               $ Name of month/year in general (in\n  President Trump)\n                                                 January, in 1947)\n$ Names of diseases (Malaria, Cancer)\n                                               $ Name of seasons in general\n$ Names of games/sports (Cricket,                (Summer, winter)\n  football)\n                                               $ Society (General sense)\n$ Names of Subject/language\n                                               $ Death/Life (General sense)\n  (Mathematics, English, Hindi)\n\n         Fixed Phrases\n\n   Catch fire – vkx idM+uk                     At midnight – vk/h jkr dks\n   Set on fire – vkx yxuk                      At dawn – Hkksj esa\n   Lose heart – fgEer gkjuk ;k fujk'k gksuk    At sunrise – lw;kZsn; ij\n   Take heart – fgEer tqVkuk ;k lkgl djuk      At sunset – lw;kZLr ij\n   By mistake – xyrh ls                        At once – rqjar\n   By chance – la;ksx ls                       At home – ?kj ij\n   On sale – NwV ij                            At loggerheads – vkilh >xM+s esa ;k\n   On time – le; ij                              Vdjko esa gksuk\n   On duty – MÔwVh ij                          In practice – O;ogkj esa\n   On leave – Nqêðh ij                         In person – O;fDrxr :i ls\n   On foot – iSny                              In progress – çxfr ij\n   In detail – foLrkj ls                       On guard – lroZQ\n   In debt – dtZ esa                           On strike – gM+rky ij\n   In fact – okLro esa                         By law – dkuwu ds vuqlkj\n   In danger – •rjs esa                        On holiday – Nqêðh ij\n   In trouble – eqlhcr esa                     At stake – nkao ij\n   At ease – vkjke ls@fuf'pr                   At times – dHkh&dHkkj\n   At risk – tksf•e esa                        At first sight – igyh utj esa                           ll\n\n   At fault – nks\"kh@xyrh ij                   Send word – lans'k Hkstuk                        df\n\n                                                                                     -  @f",
+  "theory": "Conditions\n$ Means of transport (By Bus, By Air) $ Names of routine meals (lunch,\n$ Institutions for primary purpose (School, breakfast, dinner)\n hospital, Region, temple, church) $ Material Nouns in general (gold,\n$ Nature (general sense) coffee, milk)\n$ Man/Mankind (humanity) $ Abstract Nouns in general (love,\n honesty, beauty)\n$ Kind of/Sort of/Type of\n $ For uncountable nouns (advice,\n$ Before Possessive Adjectives\n feedback)\n$ Titles + Name (Prime Minister Modi,\n $ Name of month/year in general (in\n President Trump)\n January, in 1947)\n$ Names of diseases (Malaria, Cancer)\n $ Name of seasons in general\n$ Names of games/sports (Cricket, (Summer, winter)\n football)\n $ Society (General sense)\n$ Names of Subject/language\n $ Death/Life (General sense)\n (Mathematics, English, Hindi)\n\n Fixed Phrases\n\n  Catch fire – vkx idM+uk  At midnight – vk/ jkr dks\n  Set fire – vkx yxuk  At dawn – Hkksj esa\n  Lose heart – fgEer gkjuk ;k fujk'k gksuk  At sunrise – lw;kZsn; ij\n  Take heart – fgEer tqVkuk ;k lkgl djuk  At sunset – lw;kZLr ij\n  By mistake – xyrh ls  At once – rqjar\n  By chance – la;ksx ls  At home – ?kj ij\n  On sale – NwV ij  At loggerheads – vkilh >xM+s esa ;k\n  On time – le; ij Vdjko esa gksuk\n  On duty – MÔwVh ij  In practice – O;ogkj esa\n  On leave – Nqêðh ij  In person – O;fDrxr :i ls\n  On foot – iSny  In progress – çxfr ij\n  In detail – foLrkj ls  On guard – lroZQ\n  In debt – dtZ esa  On strike – gM+rky ij\n  In fact – okLro esa  By law – dkuwu ds vuqlkj\n  In danger – •rjs esa  On holiday – Nqêðh ij\n  In trouble – eqlhcr esa  At stake – nkao ij\n  At ease – vkjke lsfuf'pr  At times – dHkh&dHkkj\n  At risk – tksf• esa  At first sight – igyh utj esa \n\n  At fault – nks\"khxyrh ij  Send word – lans'k Hkstuk \n\n - @",
   "mcqs": [
     {
       "qno": 1,
@@ -30,7 +30,7 @@
         "d": "."
       },
       "correct": "b",
-      "explanation": "\"advice\" ,d Uncountable Noun gS, ftlosQ igys direct article 'a' dk use ugha fd;k tk ldrkA",
+      "explanation": "\"advice\" , Uncountable Noun gS, ftlosQ igys direct article 'a' dk use ugha fd;k tk ldrkA",
       "format": "error_spotting"
     },
     {
@@ -277,21 +277,21 @@
     },
     {
       "qno": 21,
-      "question": "Africa has glaciers on the Mount Kilimanjaro in Tanzania and on the Mount Kenya. \b?",
+      "question": "Africa has glaciers the Mount Kilimanjaro in Tanzania and the Mount Kenya. ?",
       "exam_source": "(SSC CHSL, 2023)",
       "options": {
         "a": "Mount Kilimanjaro in Tanzania and the",
-        "b": "Mount Kilimanjaro in Tanzania and on",
+        "b": "Mount Kilimanjaro in Tanzania and",
         "c": "No improvement",
-        "d": "The Mount Kilimanjaro in Tanzania and"
+        "d": "Mount Kilimanjaro in Tanzania and"
       },
       "correct": "b",
-      "explanation": "22. (d) 23. (b) 24. (a) 25. (d) Solut",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {
       "qno": 22,
-      "question": "There was scarcely ........... hope left after multiple failures. \b?",
+      "question": "There was scarcely ........... hope left after multiple failures. ?",
       "exam_source": "(SSC CPO, 2025)",
       "options": {
         "a": "a",
@@ -305,13 +305,13 @@
     },
     {
       "qno": 24,
-      "question": "They visited ........... London last summer \b AIR FORCE Intake 01, 2027 (31/March/2026)",
+      "question": "They visited ........... London last summer  AIR FORCE Intake 01, 2027 (31/March/2026)",
       "exam_source": "",
       "options": {
         "a": "No article required",
         "b": "an",
         "c": "the",
-        "d": "a d f"
+        "d": "a"
       },
       "correct": "a",
       "explanation": "",
@@ -319,11 +319,11 @@
     },
     {
       "qno": 25,
-      "question": "Our train leaves from ........... platformrenumber. \b -@ CDS, 2023) (UPSC?",
+      "question": "Our train leaves from ........... platformrenumber.  -@ CDS, 2023) (UPSC?",
       "exam_source": "",
       "options": {
         "a": "a",
-        "b": "T an",
+        "b": "an",
         "c": "the o n",
         "d": "No article"
       },

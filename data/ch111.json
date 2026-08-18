@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 293,
   "end_page": 294,
-  "theory": "1 Noun ending with \"s\", use apostrophe (')\n       2 Noun ending without \"s\", use apostrophe ('s)\n       3 In case of things, objects, ideas etc. use preposition of\n       4 Do not use 's with possessive adjective and possessive pronoun.\n       5 's is used with expressions of time, distance and value.\n       6 Add 's to the last word of a compound noun.\n       7 In case of joint possession, add 's to the last noun.\n       8 In case of separate possession, add 's to each noun.\n       9 Use 's with an indefinite pronoun to show possession.\n      10 When \"else\" comes after an indefinite pronoun, the 's is added to \"else\", not to the\n           pronoun.",
+  "theory": "1 Noun ending with \"s\", use apostrophe (')\n 2 Noun ending without \"s\", use apostrophe ('s)\n 3 In case of things, objects, ideas etc. use preposition of\n 4 Do not use 's with possessive adjective and possessive pronoun.\n 5 's is used with expressions of time, distance and value.\n 6 Add 's to the last word of a compound noun.\n 7 In case of joint possession, add 's to the last noun.\n 8 In case of separate possession, add 's to each noun.\n 9 Use 's with an indefinite pronoun to show possession.\n 10 When \"else\" comes after an indefinite pronoun, the 's is added to \"else\", not to the\n pronoun.",
   "mcqs": [
     {
       "qno": 1,
@@ -182,7 +182,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -232,7 +232,7 @@
         "a": "/ were appreciated by ftheha",
         "b": "/ after the match ended",
         "c": "/ ein their",
-        "d": "fre"
+        "d": "e"
       },
       "correct": "a",
       "explanation": "players individual efforts should be replaced with",

@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 207,
   "end_page": 209,
-  "theory": " A conditional sentence expresses a condition and its result. It usually has two parts.\n      Conditional sentence fdlh 'krZ vkSj mlosQ ifj.kke dks O;Dr djrk gS vkSj blesa lkekU;r% nks Hkkx gksrs\n      gSa%\n\t\t1. Condition Clause\t\t2. Main Clause (Result)\n\n     Zero conditional\n            tc dksbZ condition ges'kk ,d gh result nsrh gS] rc nksuksa clauses esa Present Indefinite tense dk\n             iz;ksx gksrk gS] vkSj ;g universal truth, fact ;k general situation dks O;Dr djrk gSA\n\n                                        Condition                                                Result\n   Zero Conditional\n                                   (Present Indefinite)                                (Present Indefinite)\n    (Universal Truth)                   Clause 1                                              Clause 2\n\n      First conditional\n            tc dksbZ condition present ;k future esa laHko gksrh gS] rc condition clause esa Present\n             Indefinite vkSj result clause esa Future Indefinite dk iz;ksx gksrk gS] vkSj ;g real ;k likely\n             situations dks O;Dr djrk gSA\n\n                                        Condition                                                Result\n     First Conditional\n                                   (Present Indefinite)                                 (Future Indefinite)\n      (Real Possibility)                 Clause 1                                             Clause 2",
+  "theory": " A conditional sentence expresses a condition and its result. It usually has two parts.\n Conditional sentence fdlh 'krZ vkSj mlosQ ifj.kke dks O;Dr djrk gS vkSj blesa lkekU;% nks Hkkx gksrs\n gSa%\n 1. Condition Clause 2. Main Clause (Result)\n\n Zero conditional\n  tc dksbZ condition ges'kk , gh result nsrh gS] rc nksuksa clauses esa Present Indefinite tense dk\n iz;ksx gksrk gS] vkSj ;g universal truth, fact ;k general situation dks O;Dr djrk gSA\n\n Condition Result\n Zero Conditional\n (Present Indefinite) (Present Indefinite)\n (Universal Truth) Clause 1 Clause 2\n\n First conditional\n  tc dksbZ condition present ;k future esa laHko gksrh gS] rc condition clause esa Present\n Indefinite vkSj result clause esa Future Indefinite dk iz;ksx gksrk gS] vkSj ;g real ;k likely\n situations dks O;Dr djrk gSA\n\n Condition Result\n First Conditional\n (Present Indefinite) (Future Indefinite)\n (Real Possibility) Clause 1 Clause 2",
   "mcqs": [
     {
       "qno": 1,
@@ -131,7 +131,7 @@
         "a": "/ I shall go",
         "b": "/ with",
         "c": "/ the circus.",
-        "d": "fr"
+        "d": "r"
       },
       "correct": "a",
       "explanation": "come should be replaced with comes will come, because main",
@@ -191,7 +191,7 @@
     },
     {
       "qno": 15,
-      "question": "She will accept his love proposal if he will express impressively. \b?",
+      "question": "She will accept his love proposal if he will express impressively. ?",
       "exam_source": "(SSC CHSL, 2023)",
       "options": {
         "a": "if he has been expressed",
@@ -214,7 +214,7 @@
         "d": "I have thought that tomorrow I am taking"
       },
       "correct": "c",
-      "explanation": "17. (b) 18. (d) 19. (a) 20. (a) h all -@f ear Solut",
+      "explanation": "17. (b) 18. () 19. (a) 20. (a) all -@ ear Solut",
       "format": "sentence_improve"
     },
     {
@@ -222,9 +222,9 @@
       "question": "If you park your car here, the traffic police has fined you.",
       "exam_source": "",
       "options": {
-        "a": "fine you",
+        "a": "ine you",
         "b": "will fine you",
-        "c": "fined you",
+        "c": "ined you",
         "d": "No improvement"
       },
       "correct": "b",
@@ -275,21 +275,21 @@
     },
     {
       "qno": 21,
-      "question": "If I .......... enough time tomorrow, I will finish the assignment. \b (CUET, 2/June/2025)",
+      "question": "If I .......... enough time tomorrow, I will finish the assignment.  (CUET, 2/June/2025)",
       "exam_source": "",
       "options": {
-        "a": "had",
+        "a": "d",
         "b": "will have",
-        "c": "has",
-        "d": "have"
+        "c": "s",
+        "d": "ve"
       },
       "correct": "d",
-      "explanation": "22. (c) 23. (b) 24. (b) 25. (d) (c) it proves good (d) it will prove to be good 19. If you will bring a letter of introduction, I will consider your request. (a) If you bring (b) If you brings (c) If you will be bringing (d) No substitution 20. I will not be able to leave for home until my boss arrived in the office. (a) until my boss arrives at the office (b) No improvement (c) until my boss has arrive to the office (d) until my boss is arrived in the office 21. If I .......... enough time tomorrow, I will finish the assignment. \b (CUET, 2/June/2025) (a) had (b) will have (c) has (d) have 22. If you study hard, you .......... the exam. \b (SSC Phase XIII, 2025) (a) pass (b) passed (c) will pass (d) passing 23. If the security protocol .......... breached, the system alerts administrators instantly. (SSC CGL, 2025) (a) were (b) is (c) has (d) had been 24. I .......... your remaining project if you get groceries for me from the market. (SSC MTS, 2022) (a) would do (b) will do (c) will have done (d) would have done",
+      "explanation": "22. () 23. (b) 24. (b) 25. () () it proves good () it will prove to be good 19. If you will bring a letter of introduction, I will consider your request. (a) If you bring (b) If you brings () If you will be bringing () No substitution 20. I will not be able to leave for home until my boss arrived in the office. (a) until my boss arrives at the office (b) No improvement () until my boss has arrive to the office () until my boss is arrived in the office 21. If I .......... enough time tomorrow, I will finish the assignment.  (CUET, 2/June/2025) (a) had (b) will have () has () have 22. If you study hard, you .......... the exam.  (SSC Phase XIII, 2025) (a) pass (b) passed () will pass () passing 23. If the security protocol .......... breached, the system alerts administrators instantly. (SSC CGL, 2025) (a) were (b) is () has () had been 24. I .......... your remaining project if you get groceries for me from the market. (SSC MTS, 2022) (a) would do (b) will do () will have done () would have done",
       "format": "fill_blank"
     },
     {
       "qno": 22,
-      "question": "If you study hard, you .......... the exam. \b (SSC Phase XIII, 2025)",
+      "question": "If you study hard, you .......... the exam.  (SSC Phase XIII, 2025)",
       "exam_source": "",
       "options": {
         "a": "pass",
@@ -308,8 +308,8 @@
       "options": {
         "a": "were",
         "b": "is",
-        "c": "has",
-        "d": "had been"
+        "c": "s",
+        "d": "been"
       },
       "correct": "b",
       "explanation": "",

@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 227,
   "end_page": 228,
-  "theory": " Present Perfect tense shows an action that has been completed recently or has a\n         connection with the present.\n   tks dk;Z vHkh&vHkh ;k gky fiQygky •Re gqvk gks mls Present Perfect tense esa fy•rs gSaA\n\n                                                                                 Tense of Totality\n\n                                               3            rd\n                                                   j   vc\n                                               ysd                               Present Perfect\n\n                                      s   ls\n                                  ihN\n\n         Structure                                                           Note\n       Subject + has / have + V + object.       3                         Words like Yet, Recently, Already, So\n       Subject + has / have + not + V3 + object.                          far, Just, Till now, Up to now, To this\n                                                                           day, Till today, Ever, Lately, etc are\n       Has / have + Subject + not + V3 + object ?\n                                                                           used in Present Perfect Tense.",
+  "theory": " Present Perfect tense shows an action that has been completed recently or has a\n connection with the present.\n tks dk;Z vHkh&vHkh ;k gky fiQygky •Re gqvk gks mls Present Perfect tense esa fy•rs gSaA\n\n Tense of Totality\n\n 3 rd\n j vc\n ysd Present Perfect\n\n s ls\n ihN\n\n Structure Note\n  Subject + has / have + V + object. 3 Words like Yet, Recently, Already, So\n  Subject + has / have + not + V3 + object. far, Just, Till now, Up to now, To this\n day, Till today, Ever, Lately, etc are\n  Has / have + Subject + not + V3 + object ?\n used in Present Perfect Tense.",
   "mcqs": [
     {
       "qno": 1,
@@ -165,11 +165,11 @@
     },
     {
       "qno": 14,
-      "question": "I have been working with children before, so I know what to expect.\b?",
+      "question": "I have been working with children before, so I know what to expect.?",
       "exam_source": "(SSC CGL, 2020)",
       "options": {
         "a": "am working",
-        "b": "have worked",
+        "b": "ve worked",
         "c": "work",
         "d": "No improvement"
       },
@@ -179,13 +179,13 @@
     },
     {
       "qno": 15,
-      "question": "It is convey to all the residents by now that they are required to apply for parking stickers. dfh ee 2019) (SSC CGL,?",
+      "question": "It is convey to all the residents by now that they are required to apply for parking stickers. dfh 2019) (SSC CGL,?",
       "exam_source": "",
       "options": {
         "a": "It will be conveyed to all the-@",
         "b": "It has been conveyed to all",
-        "c": "onresidents",
-        "d": "No improvement r c"
+        "c": "sidents",
+        "d": "No improvement"
       },
       "correct": "b",
       "explanation": "",
@@ -196,18 +196,18 @@
       "question": "How long you are living in this city?",
       "exam_source": "(SSC CGL, 2019)",
       "options": {
-        "a": "have you lived",
-        "b": "are you been living",
-        "c": "are you live",
+        "a": "ve you lived",
+        "b": "you been living",
+        "c": "you live",
         "d": "No improvement"
       },
       "correct": "a",
-      "explanation": "17. (d) 18. (a) 19. (b) 20. (d) tions",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {
       "qno": 17,
-      "question": "Don’t sit on this bench as it is just painted.",
+      "question": "Don’t sit this bench as it is just painted.",
       "exam_source": "(SSC GD, 2023)",
       "options": {
         "a": "it was painted just",
@@ -216,7 +216,7 @@
         "d": "it has just been painted"
       },
       "correct": "d",
-      "explanation": "on’t sit on this bench as it is just painted. (SSC GD, 2023) (a) it was painted just (b) it had been painted just (c) it had painted just (d) it has just been painted 18. Despite the repeated reminders, the contractor did not complete the construction of the flyover yet. (a) has not completed (b) had not completed (c) is not completing (d) No improvement 19. They have hold, it is in the fitness of things that the legislature should be taken into confidence on Brexit.\b (SSC CGL, 2018) Answers",
+      "explanation": "’t sit this bench as it is just painted. (SSC GD, 2023) (a) it was painted just (b) it had been painted just () it had painted just () it has just been painted 18. Despite the repeated reminders, the contractor did not complete the construction of the flyover yet. (a) has not completed (b) had not completed () is not completing () No improvement 19. They have hold, it is in the fitness of things that the legislature should be taken into confidence Brexit. (SSC CGL, 2018) Answers",
       "format": "regular"
     },
     {
@@ -224,8 +224,8 @@
       "question": "Despite the repeated reminders, the contractor did not complete the construction of the flyover yet.",
       "exam_source": "",
       "options": {
-        "a": "has not completed",
-        "b": "had not completed",
+        "a": "s not completed",
+        "b": "not completed",
         "c": "is not completing",
         "d": "No improvement"
       },
@@ -235,7 +235,7 @@
     },
     {
       "qno": 19,
-      "question": "They have hold, it is in the fitness of things that the legislature should be taken into confidence on Brexit.\b Answers 1.",
+      "question": "They have hold, it is in the fitness of things that the legislature should be taken into confidence Brexit. Answers 1.",
       "exam_source": "(SSC CGL, 2018)",
       "options": {
         "a": "2.",
@@ -252,10 +252,10 @@
       "question": "The student .......... his homework yet. (SSC Steno, 2025)",
       "exam_source": "",
       "options": {
-        "a": "have not completed",
-        "b": "did not complete",
+        "a": "ve not completed",
+        "b": "id not complete",
         "c": "was not completed",
-        "d": "has not completed"
+        "d": "s not completed"
       },
       "correct": "d",
       "explanation": "",
@@ -263,27 +263,27 @@
     },
     {
       "qno": 21,
-      "question": "The new policy .......... a significant impact on the local economy since it was implemented. (SSC Steno, 2025)",
+      "question": "The new policy .......... a significant impact the local economy since it was implemented. (SSC Steno, 2025)",
       "exam_source": "",
       "options": {
-        "a": "had",
+        "a": "d",
         "b": "will have",
-        "c": "has had",
+        "c": "s had",
         "d": "was having"
       },
       "correct": "c",
-      "explanation": "22. (c) Solut",
+      "explanation": "",
       "format": "fill_blank"
     },
     {
       "qno": 22,
-      "question": "Michal dispatched my parcel last week but I .......... it yet.\b?",
+      "question": "Michal dispatched my parcel last week but I .......... it yet.?",
       "exam_source": "(IB ACIO, 2025)",
       "options": {
-        "a": "hasn’t received",
-        "b": "didn’t receive",
-        "c": "haven’t received",
-        "d": "don’t receive"
+        "a": "sn’t received",
+        "b": "idn’t receive",
+        "c": "ven’t received",
+        "d": "’t receive"
       },
       "correct": "c",
       "explanation": "",

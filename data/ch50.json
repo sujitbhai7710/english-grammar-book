@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 133,
   "end_page": 134,
-  "theory": " “When two or more nouns joined by ‘and’ express a single person, thing, or idea, they are\n      considered a single unit; therefore, a singular verb is used with them.”\n\n tc nks ;k vf/d Nouns \"and\" ls tqM+dj ,d gh O;fDr] oLrq ;k fopkj dks O;Dr djrs gSa] rks mUgsa ,d\n gh bdkbZ (single unit) ekuk tkrk gS] blfy, muds lkFk singular verb dk ç;ksx fd;k tkrk gSA\n                                 Noun + and + Noun + Singular Verb\n\n                                     Some Important Single Units\n      1     Bread and Butter                             14    Bag and Baggage\n\n      2     Rice and Curry                               15 Fish and Chips\n      3     Law and Order                                16 Drinking and Driving\n      4     Long and Short                               17 Hammer and Sickle\n      5     Peace and Harmony                            18 Truth and Honesty\n      6     Name and Fame                                19 Rise and Fall\n      7     Sum and Substance                            20 Part and Parcel\n      8     Lime and Soda                                21 Art and Culture (As a subject)\n      9     Ebb and Flow                                 22 Heart and Soul\n     10     Horse and Carriage                           23 Science and Technology (As a subject)\n     11     Power and Influence                          24 Salt and pepper\n     12     Null and Void                                25 Black and White\n     13     Slow and Steady                              26 Pros and Cons",
+  "theory": " “When two or more nouns joined by ‘and’ express a single person, thing, or idea, they are\n considered a single unit; therefore, a singular verb is used with them.”\n\n tc nks ;k vf/ Nouns \"and\" ls tqM+dj , gh O;fDr] oLrq ;k fopkj dks O;Dr djrs gSa] rks mUgsa ,\n gh bdkbZ (single unit) ekuk tkrk gS] blfy, muds lkFk singular verb dk ç;ksx fd;k tkrk gSA\n Noun + and + Noun + Singular Verb\n\n Some Important Single Units\n 1 Bread and Butter 14 Bag and Baggage\n\n 2 Rice and Curry 15 Fish and Chips\n 3 Law and Order 16 Drinking and Driving\n 4 Long and Short 17 Hammer and Sickle\n 5 Peace and Harmony 18 Truth and Honesty\n 6 Name and Fame 19 Rise and Fall\n 7 Sum and Substance 20 Part and Parcel\n 8 Lime and Soda 21 Art and Culture (As a subject)\n 9 Ebb and Flow 22 Heart and Soul\n 10 Horse and Carriage 23 Science and Technology (As a subject)\n 11 Power and Influence 24 Salt and pepper\n 12 Null and Void 25 Black and White\n 13 Slow and Steady 26 Pros and Cons",
   "mcqs": [
     {
       "qno": 1,
@@ -108,7 +108,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -118,8 +118,8 @@
       "options": {
         "a": "/ of the stock market",
         "b": "/ l",
-        "c": "/ fNo ha",
-        "d": "ep"
+        "c": "/ fNo",
+        "d": "p"
       },
       "correct": "c",
       "explanation": "\"are\" should be replaced with \"is\" of use will be because \"The",
@@ -127,11 +127,11 @@
     },
     {
       "qno": 10,
-      "question": "Law and Order .......... to be maintainedf re at any cost.",
+      "question": "Law and Order .......... to be maintainedf at any cost.",
       "exam_source": "",
       "options": {
         "a": "is n have",
-        "c": "are",
+        "c": "e",
         "d": "will"
       },
       "correct": "a",

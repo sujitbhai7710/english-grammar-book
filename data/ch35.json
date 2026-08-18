@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 102,
   "end_page": 103,
-  "theory": "Part-A\n            When different Pronouns are used in a normal/positive sentence, follow the given\n               order:\n                                 2        +      3      +       1\n\n                                     Second Person + Third Person + First Person\n          Part-B\n            When a mistake, fault, guilt, crime, or blame is expressed, follow the given order:\n                                   1          +      2       +      3\n\n                                     First Person + Second Person + Third Person\n          Part-C\n            When all Pronouns are used together in a plural or collective sense, follow the given\n               order:\n                                  1        +       2       +       3\n\n                                     First Person + Second Person + Third Person\n           Note\n                1st Person                       I, We\n                2 Person\n\n                                                 You\n                3 Person\n\n                                                 He, She, It, They, Nouns",
+  "theory": "Part-A\n  When different Pronouns are used in a normal/positive sentence, follow the given\n order:\n 2 + 3 + 1\n\n Second Person + Third Person + First Person\n Part-B\n  When a mistake, fault, guilt, crime, or blame is expressed, follow the given order:\n 1 + 2 + 3\n\n First Person + Second Person + Third Person\n Part-C\n  When all Pronouns are used together in a plural or collective sense, follow the given\n order:\n 1 + 2 + 3\n\n First Person + Second Person + Third Person\n Note\n 1st Person I, We\n 2 Person\n\n You\n 3 Person\n\n He, She, It, They, Nouns",
   "mcqs": [
     {
       "qno": 1,
@@ -105,7 +105,7 @@
         "a": "/ Ravi and myself",
         "b": "/ the school in the debate",
         "c": "/ next week.",
-        "d": "h all"
+        "d": "all"
       },
       "correct": "b",
       "explanation": "\"myself\" should be replaced with \"I\" of use will be because",

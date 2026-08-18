@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 198,
   "end_page": 199,
-  "theory": " Inversion is the reversal of Subject and Verb. It is done for emphasis, question formation\n          or stylistic purposes.\n\n     Inversion dk vFkZ gS] okD; esa Subject vkSj Verb ds normal order dks myV & nsukA bldk ç;ksx ”kksj\n     nsus] ç'u cukus ;k okD; dks vf/d çHkko'kkyh cukus ds fy, fd;k tkrk gSA\n        Part-A\n        $ Hardly / Scarcely / Rarely / Barely / Never / Seldom / No Sooner / Not only / Not\n          until / little +\n                           Helping verb +     Subject      +  Main verb\n\n                                               Partial inversion\n        Part-B\n\n      Under no circumstance\n\n      At no time\n\n      No where\n\n      So + Adverb of Manner\n                                            + Helping verb +         Subject         +      Main verb\n\n      Only + Time\n\n      Only + Adverb of Manner                                      Partial inversion\n\n      To Such a degree\n\n      To Such an extent\n        Part-C\n\n      On the roof/On the hill/\n\n      Under the table/\n\n      Along the northern frontier/\n                                                  Main verb             +                Subject\n\n      Two miles beyond the field/\n\n      Round the corner/                                       Complete inversion\n\n      There/Here",
+  "theory": " Inversion is the reversal of Subject and Verb. It is done for emphasis, question formation\n or stylistic purposes.\n\n Inversion dk vFkZ gS] okD; esa Subject vkSj Verb ds normal order dks myV & nsukA bldk ç;ksx ”kksj\n nsus] ç'u cukus ;k okD; dks vf/ çHkko'kkyh cukus ds fy, fd;k tkrk gSA\n Part-A\n $ Hardly / Scarcely / Rarely / Barely / Never / Seldom / No Sooner / Not only / Not\n until / little +\n Helping verb + Subject + Main verb\n\n Partial inversion\n Part-B\n\n Under no circumstance\n\n At no time\n\n No where\n\n So + Adverb of Manner\n + Helping verb + Subject + Main verb\n\n Only + Time\n\n Only + Adverb of Manner Partial inversion\n\n To Such a degree\n\n To Such an extent\n Part-C\n\n On the roof/On the hill/\n\n Under the table/\n\n Along the northern frontier/\n Main verb + Subject\n\n Two miles beyond the field/\n\n Round the corner/ Complete inversion\n\n There/Here",
   "mcqs": [
     {
       "qno": 1,
@@ -76,7 +76,7 @@
       "question": "Under no circumstances?",
       "exam_source": "",
       "options": {
-        "a": "/ the employees f ha",
+        "a": "/ the employees",
         "c": "/ No error"
       },
       "correct": "b",
@@ -90,7 +90,7 @@
       "options": {
         "a": "/ the",
         "b": "/owould",
-        "d": "change his life.",
+        "d": "ange his life.",
         "c": "/ Norerror"
       },
       "correct": "a",
@@ -167,9 +167,9 @@
       "question": "Seldom modern democracies have experienced such widespread constitutional instability.",
       "exam_source": "",
       "options": {
-        "a": "does modern democracies experience",
-        "b": "have modern democracies experienced",
-        "c": "did modern democracies experienced",
+        "a": "oes modern democracies experience",
+        "b": "ve modern democracies experienced",
+        "c": "id modern democracies experienced",
         "d": "No improvement"
       },
       "correct": "b",
@@ -192,12 +192,12 @@
     },
     {
       "qno": 15,
-      "question": "Barely ........... the announcement concluded when inquiries flooded the hotline. \b?",
+      "question": "Barely ........... the announcement concluded when inquiries flooded the hotline. ?",
       "exam_source": "(SSC CPO, 2025)",
       "options": {
-        "a": "had",
-        "b": "has",
-        "c": "did",
+        "a": "d",
+        "b": "s",
+        "c": "id",
         "d": "was"
       },
       "correct": "b",
@@ -206,26 +206,26 @@
     },
     {
       "qno": 16,
-      "question": "Not until the auditors had submitted their exhaustive report ............ the full extent of procedural lapses become evident. \b?",
+      "question": "Not until the auditors had submitted their exhaustive report ............ the full extent of procedural lapses become evident. ?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
-        "a": "did",
-        "b": "had",
+        "a": "id",
+        "b": "d",
         "c": "was",
-        "d": "has"
+        "d": "s"
       },
       "correct": "a",
-      "explanation": "17. (c) tions",
+      "explanation": "",
       "format": "fill_blank"
     },
     {
       "qno": 17,
-      "question": "At no point during the trial ........... his composure.\b?",
+      "question": "At no point during the trial ........... his composure.?",
       "exam_source": "(SSC CPO, 2025)",
       "options": {
-        "a": "he lost",
-        "b": "had he lost",
-        "c": "did he lose",
+        "a": "lost",
+        "b": "lost",
+        "c": "id he lose",
         "d": "lost he"
       },
       "correct": "c",

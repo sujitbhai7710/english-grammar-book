@@ -54,7 +54,7 @@
         "c": "/ No error"
       },
       "correct": "a",
-      "explanation": "approach ,d transitive verb, direct object",
+      "explanation": "approach , transitive verb, direct object",
       "format": "error_spotting"
     },
     {
@@ -297,7 +297,7 @@
         "a": "/ investigation team, exposed several",
         "b": "/ compelling the officials",
         "c": "/ No error",
-        "d": "hall"
+        "d": "ll"
       },
       "correct": "b",
       "explanation": "investigation team after which exposed of",
@@ -402,7 +402,7 @@
         "c": "/ without no apparent"
       },
       "correct": "d",
-      "explanation": "\"without no\" of \"without any\" will be",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -467,7 +467,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -563,7 +563,7 @@
     },
     {
       "qno": 47,
-      "question": "The fans laughed loudly when the bowler slipped on the pitch?",
+      "question": "The fans laughed loudly when the bowler slipped the pitch?",
       "exam_source": "",
       "options": {
         "a": "/ during a crucial over",
@@ -577,7 +577,7 @@
     },
     {
       "qno": 49,
-      "question": "The school was named on his grandfather's name?",
+      "question": "The school was named his grandfather's name?",
       "exam_source": "",
       "options": {
         "a": "/ in recognition of his contribution",
@@ -585,7 +585,7 @@
         "c": "/ in the local community."
       },
       "correct": "a",
-      "explanation": "named on should be replaced with named after because",
+      "explanation": "named should be replaced with named after because",
       "format": "error_spotting"
     },
     {
@@ -679,7 +679,7 @@
     },
     {
       "qno": 58,
-      "question": "I never objected to do work on Sundays?",
+      "question": "I never objected to do work Sundays?",
       "exam_source": "",
       "options": {
         "a": "/ even",
@@ -815,7 +815,7 @@
         "c": "/ No"
       },
       "correct": "c",
-      "explanation": "temperature qn c<+ gS, therefore raised of place",
+      "explanation": "temperature qn <+ gS, therefore raised of place",
       "format": "error_spotting"
     },
     {
@@ -921,7 +921,7 @@
     },
     {
       "qno": 79,
-      "question": "The plot focused on emotions?",
+      "question": "The plot focused emotions?",
       "exam_source": "",
       "options": {
         "a": "/ and showed",
@@ -954,12 +954,12 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error.",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
       "qno": 82,
-      "question": "Communities are habituated to depend on fossil fuels?",
+      "question": "Communities are habituated to depend fossil fuels?",
       "exam_source": "",
       "options": {
         "a": "/ for energy",
@@ -1054,7 +1054,7 @@
       "exam_source": "",
       "options": {
         "a": "/ are aimed not only to increase farmers'",
-        "b": "/ but also reducing dependency on",
+        "b": "/ but also reducing dependency",
         "c": "/ that affects crop yield significantly."
       },
       "correct": "c",
@@ -1174,7 +1174,7 @@
         "c": "/ a"
       },
       "correct": "c",
-      "explanation": "at the cusp of should be replaced with on the cusp of of",
+      "explanation": "at the cusp of should be replaced with the cusp of of",
       "format": "error_spotting"
     },
     {
@@ -1296,7 +1296,7 @@
     },
     {
       "qno": 108,
-      "question": "The management insisted on that the revised safety protocols?",
+      "question": "The management insisted that the revised safety protocols?",
       "exam_source": "",
       "options": {
         "a": "/ be implemented strictly by",
@@ -1304,7 +1304,7 @@
         "c": "/ No error"
       },
       "correct": "a",
-      "explanation": "insisted on that should be replaced with insisted that of use",
+      "explanation": "insisted that should be replaced with insisted that of use",
       "format": "error_spotting"
     },
     {
@@ -1437,7 +1437,7 @@
     },
     {
       "qno": 119,
-      "question": "That the increasing number of cyber attacks on financial institutions across the globe?",
+      "question": "That the increasing number of cyber attacks financial institutions across the globe?",
       "exam_source": "",
       "options": {
         "a": "/ are",
@@ -1500,7 +1500,7 @@
     },
     {
       "qno": 124,
-      "question": "The success of any organization depends not on how many resources?",
+      "question": "The success of any organization depends not how many resources?",
       "exam_source": "",
       "options": {
         "a": "/ it possess but on how",
@@ -1534,7 +1534,7 @@
         "c": "/ about the changes he had"
       },
       "correct": "b",
-      "explanation": "Phrase in a hurry ,d fixed expression is",
+      "explanation": "Phrase in a hurry , fixed expression is",
       "format": "error_spotting"
     },
     {
@@ -1556,11 +1556,11 @@
       "question": "No effort has been taken at all?",
       "exam_source": "",
       "options": {
-        "a": "/ to cash on",
+        "a": "/ to cash",
         "c": "/ of Indian cricket."
       },
       "correct": "b",
-      "explanation": "Correct phrasal verb \"cash in on\" will be",
+      "explanation": "Correct phrasal verb \"cash in \" will be",
       "format": "error_spotting"
     },
     {
@@ -1625,7 +1625,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "but in how should be replaced with but on how will",
+      "explanation": "but in how should be replaced with but how will",
       "format": "error_spotting"
     },
     {
@@ -1638,7 +1638,7 @@
         "c": "/ No error"
       },
       "correct": "a",
-      "explanation": "\"The cosmos\" ,d Singular Subject is therefore",
+      "explanation": "\"The cosmos\" , Singular Subject is therefore",
       "format": "error_spotting"
     },
     {
@@ -1691,7 +1691,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "Verb pride with Reflexive Pronoun+ on of",
+      "explanation": "Verb pride with Reflexive Pronoun+ of",
       "format": "error_spotting"
     },
     {
@@ -1716,7 +1716,7 @@
         "b": "/ go in a vain, demanding"
       },
       "correct": "c",
-      "explanation": "correct Idiom \"go in vain\" is is",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -1916,7 +1916,7 @@
         "a": "/ to",
         "b": "/ authoritatively",
         "c": "/ with the irrational",
-        "d": "hall"
+        "d": "ll"
       },
       "correct": "d",
       "explanation": "with should be replaced with about of use done go,xk because",
@@ -1932,7 +1932,7 @@
         "c": "/ No error"
       },
       "correct": "c",
-      "explanation": "add-on should be replaced with add to of use done go,xk",
+      "explanation": "add- should be replaced with add to of use done go,xk",
       "format": "error_spotting"
     },
     {
@@ -1950,7 +1950,7 @@
     },
     {
       "qno": 160,
-      "question": "Castes have taken on political and social dimensions?",
+      "question": "Castes have taken political and social dimensions?",
       "exam_source": "",
       "options": {
         "a": "/ and consolidated its presence",
@@ -1984,7 +1984,7 @@
         "c": "/ No error"
       },
       "correct": "c",
-      "explanation": "in social media should be replaced with on social media of",
+      "explanation": "in social media should be replaced with social media of",
       "format": "error_spotting"
     },
     {
@@ -1997,7 +1997,7 @@
         "c": "/ No error"
       },
       "correct": "c",
-      "explanation": "164. (b) 165. (b) 166. (d) - @ 167. (c)",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -2010,7 +2010,7 @@
         "c": "/ often located in North"
       },
       "correct": "b",
-      "explanation": "device on possession express done go gS,",
+      "explanation": "device possession express done go gS,",
       "format": "error_spotting"
     },
     {
@@ -2048,12 +2048,12 @@
         "c": "/ a daily"
       },
       "correct": "c",
-      "explanation": "in a daily basis should be replaced with on a daily basis of",
+      "explanation": "in a daily basis should be replaced with a daily basis of",
       "format": "error_spotting"
     },
     {
       "qno": 168,
-      "question": "The Centre's focus on 'an ease of doing business'?",
+      "question": "The Centre's focus 'an ease of doing business'?",
       "exam_source": "",
       "options": {
         "a": "/ has favoured self-certification",
@@ -2061,7 +2061,7 @@
         "c": "/ in place of"
       },
       "correct": "a",
-      "explanation": "Ease of doing business ,d fixed expression gS,",
+      "explanation": "Ease of doing business , fixed expression gS,",
       "format": "error_spotting"
     },
     {
@@ -2203,7 +2203,7 @@
         "c": "/ No error"
       },
       "correct": "c",
-      "explanation": "‘Get’ ,d causative verb gSA blosQ lkFk lkekU;r% object + V³ (past participle) dk use fd;k tkrk gS blfy, ‘filling’ osQ LFkku ij ‘filled’ dk ç;ksx gksxkA",
+      "explanation": "‘Get’ , causative verb gSA blosQ lkFk lkekU;% object + V³ (past participle) dk use fd;k tkrk gS blfy, ‘filling’ osQ LFkku ij ‘filled’ dk ç;ksx gksxkA",
       "format": "error_spotting"
     },
     {
@@ -2265,7 +2265,7 @@
         "a": "/ have contributed more",
         "b": "/ than implementation failures",
         "c": "/ than previously acknowledged.",
-        "d": "ha"
+        "d": "a"
       },
       "correct": "b",
       "explanation": "have contributed should be replaced with has contributed",
@@ -2294,7 +2294,7 @@
         "c": "/ but ultimately damaged their"
       },
       "correct": "a",
-      "explanation": "‘Regret’ osQ ckn igys fd, tk pqosQ dk;Z osQ fy, lkekU;r% V₁ + ing (gerund) dk use fd;k tkrk gSaAll blfy, ‘to share’ osQ LFkku ij ‘sharing’ dk use gks fh e pdxkA",
+      "explanation": "‘Regret’ osQ ckn igys fd, tk pqosQ dk;Z osQ fy, lkekU;% V₁ + ing (gerund) dk use fd;k tkrk gSaAll blfy, ‘to share’ osQ LFkku ij ‘sharing’ dk use gks fh pdxkA",
       "format": "error_spotting"
     },
     {
@@ -2370,7 +2370,7 @@
         "b": "/ due to uncheck industrial activities"
       },
       "correct": "c",
-      "explanation": "Industrial activities ,d noun phrase gS,",
+      "explanation": "Industrial activities , noun phrase gS,",
       "format": "error_spotting"
     },
     {
@@ -2448,7 +2448,7 @@
         "d": "Answer Key"
       },
       "correct": "b",
-      "explanation": "Put in should be replaced with put on of use will be, because",
+      "explanation": "Put in should be replaced with put of use will be, because",
       "format": "error_spotting"
     },
     {
@@ -2473,7 +2473,7 @@
         "c": "/ for the country's economy."
       },
       "correct": "c",
-      "explanation": "antecedents (unemployment rates) plural",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -2481,7 +2481,7 @@
       "question": "The newly formed committee has made a controversial decision by?",
       "exam_source": "",
       "options": {
-        "a": "/ turning its back on",
+        "a": "/ turning its back",
         "b": "/ and priorities",
         "c": "/ despite strong"
       },
@@ -2555,7 +2555,7 @@
     },
     {
       "qno": 207,
-      "question": "The enemy helicopter hovered on the military base?",
+      "question": "The enemy helicopter hovered the military base?",
       "exam_source": "",
       "options": {
         "a": "/ for several minutes before launching the",
@@ -2563,7 +2563,7 @@
         "c": "/ No error"
       },
       "correct": "a",
-      "explanation": "hovered on should be replaced with hovered over of use",
+      "explanation": "hovered should be replaced with hovered over of use",
       "format": "error_spotting"
     },
     {
@@ -2599,7 +2599,7 @@
         "a": "/ very busy at",
         "b": "/ the moment.",
         "c": "/ No error.",
-        "d": "h all"
+        "d": "all"
       },
       "correct": "c",
       "explanation": "have been waiting should be replaced with will wait will be,",
@@ -2753,7 +2753,7 @@
         "b": "/ organized in the school campus."
       },
       "correct": "b",
-      "explanation": "at a national holiday should be replaced with on a national",
+      "explanation": "at a national holiday should be replaced with a national",
       "format": "error_spotting"
     },
     {
@@ -2843,7 +2843,7 @@
         "c": "/ No error"
       },
       "correct": "a",
-      "explanation": "Studies over the efficacy should be replaced with studies on",
+      "explanation": "Studies over the efficacy should be replaced with studies",
       "format": "error_spotting"
     },
     {
@@ -2874,14 +2874,14 @@
     },
     {
       "qno": 233,
-      "question": "His house in Chennai is built on second floor?",
+      "question": "His house in Chennai is built second floor?",
       "exam_source": "",
       "options": {
         "b": "/ that requires renovation.",
         "c": "/ No error"
       },
       "correct": "a",
-      "explanation": "On second floor should be replaced with on the second floor",
+      "explanation": "On second floor should be replaced with the second floor",
       "format": "error_spotting"
     },
     {
@@ -2894,7 +2894,7 @@
         "c": "/ of the night."
       },
       "correct": "c",
-      "explanation": "on his voice should be replaced with of his voice of use will be,",
+      "explanation": "his voice should be replaced with of his voice of use will be,",
       "format": "error_spotting"
     },
     {
@@ -2969,7 +2969,7 @@
         "a": "/ in MP is",
         "b": "/ the dense",
         "c": "/ in India.",
-        "d": "d f"
+        "d": "d"
       },
       "correct": "c",
       "explanation": "'densest' of use will be park of comparison",
@@ -3023,7 +3023,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "Bent to harm should be replaced with bent on harming of",
+      "explanation": "Bent to harm should be replaced with bent harming of",
       "format": "error_spotting"
     },
     {
@@ -3049,7 +3049,7 @@
         "c": "/ to their classmates."
       },
       "correct": "d",
-      "explanation": "played to their classmates should be replaced with played on",
+      "explanation": "played to their classmates should be replaced with played",
       "format": "error_spotting"
     },
     {
@@ -3228,7 +3228,7 @@
         "c": "/ and confirm the information"
       },
       "correct": "a",
-      "explanation": "Hang up should be replaced with hold on of use will be, because",
+      "explanation": "Hang up should be replaced with hold of use will be, because",
       "format": "error_spotting"
     },
     {
@@ -3279,7 +3279,7 @@
         "c": "/ based on a gender."
       },
       "correct": "d",
-      "explanation": "Based on a gender should be replaced with based on gender",
+      "explanation": "Based a gender should be replaced with based gender",
       "format": "error_spotting"
     },
     {
@@ -3353,12 +3353,12 @@
       "exam_source": "",
       "options": {
         "c": "/ in ruralll",
-        "d": "fh",
-        "a": "fre",
+        "d": "h",
+        "a": "e",
         "b": "256."
       },
       "correct": "b",
-      "explanation": "Put forward ideas/suggestions",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3435,7 +3435,7 @@
         "c": "/ over the"
       },
       "correct": "c",
-      "explanation": "d parallelism of error gS, on verbs",
+      "explanation": "parallelism of error gS, verbs",
       "format": "error_spotting"
     },
     {
@@ -3474,7 +3474,7 @@
         "c": "/ during their visit"
       },
       "correct": "b",
-      "explanation": "Verb “offer” osQ lkFk direct object @ fre gS, blosQ vkrk lkFk preposition “for” ugha yxkrs AT G- offer for their customers r chosQ LFkku ij “offer their customers” vk,xkA sea",
+      "explanation": "Verb “offer” osQ lkFk direct object @ gS, blosQ vkrk lkFk preposition “for” ugha yxkrs AT - offer for their customers chosQ LFkku ij “offer their customers” vk,xkA sea",
       "format": "error_spotting"
     },
     {
@@ -3540,7 +3540,7 @@
         "b": "272."
       },
       "correct": "b",
-      "explanation": "Rise (to rise/on to be)- The sun rises in the",
+      "explanation": "Rise (to rise/ to be)- The sun rises in the",
       "format": "error_spotting"
     },
     {
@@ -3553,7 +3553,7 @@
         "c": "/ for the"
       },
       "correct": "b",
-      "explanation": "'Abroad' ,d Adverb of Place is 'go', 'travel',",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3565,7 +3565,7 @@
         "b": "/ the efficacy and"
       },
       "correct": "a",
-      "explanation": "tc sentence of \"It is + Adjective\"",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3578,7 +3578,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "correct structure is gS:",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3591,7 +3591,7 @@
         "c": "/ No error"
       },
       "correct": "c",
-      "explanation": "tc ge any electronic media, broadcast,",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3617,7 +3617,7 @@
         "c": "/ No error"
       },
       "correct": "c",
-      "explanation": "sentence ,d Universal Fact ,d ?kVuk of",
+      "explanation": "sentence , Universal Fact , ?kVuk of",
       "format": "error_spotting"
     },
     {
@@ -3642,7 +3642,7 @@
         "c": "/ No error"
       },
       "correct": "a",
-      "explanation": "tc any ,d action are gh rqjar action is",
+      "explanation": "tc any , action are gh rqjar action is",
       "format": "error_spotting"
     },
     {
@@ -3681,7 +3681,7 @@
         "c": "/ No"
       },
       "correct": "b",
-      "explanation": "So + Adjective: blosQ ckn lh/s noun ugha vkrk (tSls: The speech was so outstanding that...). Such + a/an + Adjective + Singular Noun: tc adjective osQ lkFk noun Hkh tqM+h gks, rks 'Such' dk use gksrk gSA",
+      "explanation": "So + Adjective: blosQ ckn lh/s noun ugha vkrk (tSls: The speech was so outstanding that...). Such + a/an + Adjective + Singular Noun: tc adjective osQ lkFk noun Hkh tqM+ gks, rks 'Such' dk use gksrk gSA",
       "format": "error_spotting"
     },
     {
@@ -3743,11 +3743,11 @@
       "options": {
         "a": "/ of the local",
         "b": "/ without being cordially to them.",
-        "d": "ha",
+        "d": "a",
         "c": "T"
       },
       "correct": "c",
-      "explanation": "'Being' ,d State of being is 'Being'",
+      "explanation": "",
       "format": "error_spotting"
     }
   ]

@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 127,
   "end_page": 128,
-  "theory": "1 One of osQ lkFk noun ges'kk plural form esa gksrk gS rFkk verb ges'kk singular form esa gksrh gSA\n          One of + Plural Noun + Singular Verb + .........\n\n    2 One of osQ ckn vkus okys relative clause esa verb ges'kk plural form esa gksrh gSA\n         Subject + one of + Plural Noun + who/which/that + Plural Verb + .........\n\n    3 The only one of osQ ckn vkus okys relative clause esa verb ges'kk singular form esa gksrh gSA\n         Subject + the only one of + Plural Noun + who/which/that + Singular Verb + .........",
+  "theory": "1 One of osQ lkFk noun ges'kk plural form esa gksrk gS rFkk verb ges'kk singular form esa gksrh gSA\n One of + Plural Noun + Singular Verb + .........\n\n 2 One of osQ ckn vkus okys relative clause esa verb ges'kk plural form esa gksrh gSA\n Subject + one of + Plural Noun + who/which/that + Plural Verb + .........\n\n 3 The only one of osQ ckn vkus okys relative clause esa verb ges'kk singular form esa gksrh gSA\n Subject + the only one of + Plural Noun + who/which/that + Singular Verb + .........",
   "mcqs": [
     {
       "qno": 1,
@@ -191,10 +191,10 @@
       "question": "He is one of those students who has never cheated.",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
-        "a": "have never been cheating",
-        "b": "have never cheated",
-        "c": "had never cheated ll",
-        "d": "have even cheated f ha"
+        "a": "ve never been cheating",
+        "b": "ve never cheated",
+        "c": "never cheated",
+        "d": "ve even cheated"
       },
       "correct": "b",
       "explanation": "",
@@ -202,16 +202,16 @@
     },
     {
       "qno": 16,
-      "question": "One of the most valuable paintings e ep were stolen from the gallery last night.@fr G XIII, 2025) (SSC T PHASE ear?",
+      "question": "One of the most valuable paintings were stolen from the gallery last night.@ XIII, 2025) (SSC PHASE ear?",
       "exam_source": "",
       "options": {
         "a": "was stolen",
-        "b": "have stolen",
-        "c": "had stolen",
+        "b": "ve stolen",
+        "c": "stolen",
         "d": "No substitution required"
       },
       "correct": "a",
-      "explanation": "17. (d) 18. (b) 19. (d) 20. (b) tions",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {
@@ -220,9 +220,9 @@
       "exam_source": "(SSC MTS, 2023)",
       "options": {
         "a": "No substitution required",
-        "b": "one of a west African city-state cultures",
-        "c": "one of the west's African city-state culture",
-        "d": "one of the west African city-state cultures"
+        "b": "of a west African city-state cultures",
+        "c": "of the west's African city-state culture",
+        "d": "of the west African city-state cultures"
       },
       "correct": "d",
       "explanation": "",
@@ -230,7 +230,7 @@
     },
     {
       "qno": 18,
-      "question": "This is one of the boldest economic reform that have ever been introduced. Answers 1. (c) 2. (b) 3. (c) 4. (c) 5. (c) 11.",
+      "question": "This is one of the boldest economic reform that have ever been introduced. Answers 1. () 2. (b) 3. () 4. () 5. () 11.",
       "exam_source": "(SSC CPO, 2019)",
       "options": {
         "c": "2.",
@@ -244,13 +244,13 @@
     },
     {
       "qno": 19,
-      "question": "He is one of those players who has scored the most goals.\b?",
+      "question": "He is one of those players who has scored the most goals.?",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
-        "a": "had been scoring",
-        "b": "had scored",
+        "a": "been scoring",
+        "b": "scored",
         "c": "scores",
-        "d": "have scored"
+        "d": "ve scored"
       },
       "correct": "d",
       "explanation": "",
@@ -258,7 +258,7 @@
     },
     {
       "qno": 20,
-      "question": "I am not one of these people who believes in rumours.\b?",
+      "question": "I am not one of these people who believes in rumours.?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
         "a": "believer",

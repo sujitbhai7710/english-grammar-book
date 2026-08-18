@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 229,
   "end_page": 230,
-  "theory": "if/ whether\n                                            (Conjunctions)\n                                                                             That\n                Asked/ Enquired                                           Superfluous\n                                                                           (Incorrect)\n                                            why/where/\n                                            how/when\n                                             (Conjunctions)\n\n       Note\n\n     When WH-words (who, what, where, when, why, how, etc.) are used in the middle of\n     sentences, they are called conjunctions.\n     tc WH-words (who, what, where, when, why, how vkfn) fdlh okD; ds chp esa gksrs gSa] rks\n\n     os ç'u iwNus dk dk;Z ugha djrs] cfYd nks clauses dks tksM+us dk dk;Z djrs gSaA bUgsa Conjunctions\n          dgk tkrk gSA\n       Structure\n     Subject +...........+ asked/enquired/wondered + (if/whether/WH-word) + Subject + Verb…\n\n        Examples",
+  "theory": "if/ whether\n (Conjunctions)\n That\n Asked/ Enquired Superfluous\n (Incorrect)\n why/where/\n how/when\n (Conjunctions)\n\n Note\n\n When WH-words (who, what, where, when, why, how, etc.) are used in the middle of\n sentences, they are called conjunctions.\n tc WH-words (who, what, where, when, why, how vkfn) fdlh okD; ds chp esa gksrs gSa] rks\n\n os ç'u iwNus dk dk;Z ugha djrs] cfYd nks clauses dks tksM+us dk dk;Z djrs gSaA bUgsa Conjunctions\n dgk tkrk gSA\n Structure\n Subject +...........+ asked/enquired/wondered + (if/whether/WH-word) + Subject + Verb…\n\n Examples",
   "mcqs": [
     {
       "qno": 1,
@@ -17,7 +17,7 @@
         "d": "\b"
       },
       "correct": "b",
-      "explanation": "2. (b) 3. (c) 4. (b) 5. (a)",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -79,7 +79,7 @@
       "exam_source": "",
       "options": {
         "a": "/ not yet",
-        "b": "/ the international treaty on"
+        "b": "/ the international treaty"
       },
       "correct": "a",
       "explanation": "has of use the Indian government from before",
@@ -221,7 +221,7 @@
     },
     {
       "qno": 20,
-      "question": "The stranger asked the little girl what is her name.\b?",
+      "question": "The stranger asked the little girl what is her name.?",
       "exam_source": "(DSSSB LDC, 2019)",
       "options": {
         "a": "what her name is",

@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 68,
   "end_page": 69,
-  "theory": " When multiple adjectives are used before a Noun to qualify it, they must be in a fixed\n       order.\n tc fdlh Noun ls igys ,d ls T;knk Adjectives vkrs gSa] rks mUgsa ,d fuf'pr Øe esa fy[kk tkrk gSA\n\n    The Fixed Order\n      O             S             A        S           C             O           M              P+Noun\n    Opinion        Size          Age     Shape       Colour        Origin      Material      Purpose+Noun\n\n    Letter                Type                       Example                            Meaning\n      O                Opinion                    Beautiful, Nice                       jk; @ er\n      S                   Size                      Big, Small                            vkdkj\n      A                   Age                        Old, New                               vk;q\n      S                 Shape                     Round, Square                           vkÑfr\n      C                Colour                       Red, Black                               jax\n      O                 Origin                   Indian, German                     mRifÙk @ ewy LFkku\n      M                Material                  Wooden, Plastic                      inkFkZ @ lkexzh\n      P                Purpose                   Sleeping, Racing                    mís'; @ ç;kstu",
+  "theory": " When multiple adjectives are used before a Noun to qualify it, they must be in a fixed\n order.\n tc fdlh Noun ls igys , ls ;knk Adjectives vkrs gSa] rks mUgsa , fuf'pr Øe esa fy[kk tkrk gSA\n\n The Fixed Order\n O S A S C O M P+Noun\n Opinion Size Age Shape Colour Origin Material Purpose+Noun\n\n Letter Type Example Meaning\n O Opinion Beautiful, Nice jk; @ er\n S Size Big, Small vkdkj\n A Age Old, New vk;q\n S Shape Round, Square vkÑfr\n C Colour Red, Black jax\n O Origin Indian, German mRifÙk @ ewy LFkku\n M Material Wooden, Plastic inkFkZ @ lkexzh\n P Purpose Sleeping, Racing mís'; @ ç;kstu",
   "mcqs": [
     {
       "qno": 1,
@@ -82,7 +82,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -180,13 +180,13 @@
     },
     {
       "qno": 14,
-      "question": "When we bought the house, we could tell that l it was a large, new, compact, tinted house.ha d f?",
+      "question": "When we bought the house, we could tell that l it was a large, new, compact, tinted house. ?",
       "exam_source": "",
       "options": {
-        "a": "it was a new, large and compact house ep",
+        "a": "it was a new, large and compact house",
         "b": "it was a new, large and as tintedf rehouse",
         "c": "it was a new, large, compact",
-        "d": "No improvement on"
+        "d": "No improvement"
       },
       "correct": "d",
       "explanation": "",
@@ -194,13 +194,13 @@
     },
     {
       "qno": 15,
-      "question": "We’ve got a new big house. \b?",
+      "question": "We’ve got a new big house. ?",
       "exam_source": "(SSC CHSL, 2015)",
       "options": {
         "a": "big new house",
-        "b": "house new big",
+        "b": "ouse new big",
         "c": "No improvement",
-        "d": "house’s new big"
+        "d": "ouse’s new big"
       },
       "correct": "a",
       "explanation": "",

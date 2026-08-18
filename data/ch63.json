@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 169,
   "end_page": 171,
-  "theory": "Same Helping Verb with Same Form of Main Verbs\n   When a helping verb supports more than one main verb in the same sentence, it is not\n      repeated. The form of all the main verbs remains the same to maintain consistency in\n      tense, mood and voice.\n tc ,d helping verb ,d gh sentence esa ,d ls T;knk main verbs dks support djrh gS] rks mls\n\n ckj&ckj ugha nksgjk;k tkrk] cfYd ,d gh ckj use fd;k tkrk gSA lkFk gh lHkh actions esa tense, mood\n vkSj voice ,d leku j[ks tkrs gSaA\n                                        Main Verb1\n                       Helping Verb1             Main Verb2            Same form\n                                                 Main Verb3\n   Ex. 1 He has finished his homework and submitted it.\n \t\t      Helping verb: has     Main verbs: finished, submitted\n\n     Different Helping Verb with Different Form of Main Verbs\n   A structure where each helping verb supports its own main verb, and the verb may\n      express different tense or meanings.\n tc ,d gh sentence esa nks helping verbs gksrh gSa vkSj izR;sd helping verb vius&vius main verb\n\n dks support djrh gS] rks ,sls structure vyx&vyx tense ;k meaning dks O;Dr djrs gaSA\n                      Helping Verb1                                   Different form\n                                                  Main Verb\n                      Helping Verb2                                   Different form\n   Ex. 1 He has completed his task and is working.\n \t\t\t Helping verbs: is, has       Main verbs: completed, working",
+  "theory": "Same Helping Verb with Same Form of Main Verbs\n  When a helping verb supports more than one main verb in the same sentence, it is not\n repeated. The form of all the main verbs remains the same to maintain consistency in\n tense, mood and voice.\n tc , helping verb , gh sentence esa , ls ;knk main verbs dks support djrh gS] rks mls\n\n ckj&ckj ugha nksgjk;k tkrk] cfYd , gh ckj use fd;k tkrk gSA lkFk gh lHkh actions esa tense, mood\n vkSj voice , leku j[ks tkrs gSaA\n Main Verb1\n Helping Verb1 Main Verb2 Same form\n Main Verb3\n Ex. 1 He has finished his homework and submitted it.\n Helping verb: has Main verbs: finished, submitted\n\n Different Helping Verb with Different Form of Main Verbs\n  A structure where each helping verb supports its own main verb, and the verb may\n express different tense or meanings.\n tc , gh sentence esa nks helping verbs gksrh gSa vkSj izR;sd helping verb vius&vius main verb\n\n dks support djrh gS] rks ,sls structure vyx&vyx tense ;k meaning dks O;Dr djrs gaSA\n Helping Verb1 Different form\n Main Verb\n Helping Verb2 Different form\n Ex. 1 He has completed his task and is working.\n Helping verbs: is, has Main verbs: completed, working",
   "mcqs": [
     {
       "qno": 1,
@@ -89,7 +89,7 @@
       "options": {
         "a": "/ higher profits due to increased al",
         "b": "/ in the coming years.",
-        "d": "fre"
+        "d": "e"
       },
       "correct": "a",
       "explanation": "expecting should be replaced with are expecting",
@@ -147,7 +147,7 @@
     },
     {
       "qno": 12,
-      "question": "During the unfortunate accident that occurred late at night on the highway,?",
+      "question": "During the unfortunate accident that occurred late at night the highway,?",
       "exam_source": "",
       "options": {
         "b": "/ due to the reckless driving of the",
@@ -159,7 +159,7 @@
     },
     {
       "qno": 13,
-      "question": "His assistants have, Inspite of facing continuous pressure from the higher Answers 1. (b) 2. (b) 3. (c) 4. (b) 5. (b) 11. (b) 12. (b) 13.",
+      "question": "His assistants have, Inspite of facing continuous pressure from the higher Answers 1. (b) 2. (b) 3. () 4. (b) 5. (b) 11. (b) 12. (b) 13.",
       "exam_source": "",
       "options": {
         "b": "2.",
@@ -177,7 +177,7 @@
       "options": {
         "a": "/ for the",
         "b": "/ in all the",
-        "c": "excellent"
+        "c": "xcellent"
       },
       "correct": "b",
       "explanation": "perform should be replaced with performed will be because",

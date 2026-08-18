@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 62,
   "end_page": 63,
-  "theory": "We use these words with countable nouns to show number.\n\n               Few                                   A Few                                The Few\n\n           Hardly any                      Some but not many                       All that are available\n\n      (u osQ cjkcj la[;k)              (oqQN ysfdu cgqr T;knk ugha)                 (ftrus gS oks lHkh)\n\n    Examples\n     Few students attended the meeting                Hardly any students / u osQ cjkcj fo|kFkhZ\n     A few people knew about the plan                 Some but not many people/oqQN ysfdu cgqr T;knk\n        yksx ugha\n     The few seats left were in the back row                All those seats that were available/ftrus lhV\n        gS oks lHkh\n                               Word                 Meaning                 Nature\n                           Few               Hardly any                 Negative\n                           A Few             Some but not many          Positive\n                           The Few           All that is available      Definite",
+  "theory": "We use these words with countable nouns to show number.\n\n Few A Few The Few\n\n Hardly any Some but not many All that are available\n\n (u osQ cjkcj la[;k) (oqQN ysfdu cgqr ;knk ugha) (ftrus gS oks lHkh)\n\n Examples\n  Few students attended the meeting Hardly any students / u osQ cjkcj fo|kFkhZ\n  A few people knew about the plan Some but not many people/oqQN ysfdu cgqr ;knk\n yksx ugha\n  The few seats left were in the back row All those seats that were available/ftrus lhV\n gS oks lHkh\n Word Meaning Nature\n Few Hardly any Negative\n A Few Some but not many Positive\n The Few All that is available Definite",
   "mcqs": [
     {
       "qno": 1,
@@ -136,7 +136,7 @@
         "a": "/ candidates who",
         "b": "/ applied",
         "c": "/ few who were hired.",
-        "d": "fre"
+        "d": "e"
       },
       "correct": "d",
       "explanation": "\"few\" should be replaced with \"the few\" of use will be because",
@@ -147,9 +147,9 @@
       "question": "Although the desert is a harsh?",
       "exam_source": "",
       "options": {
-        "a": "T G-/environment",
+        "a": "/environment",
         "b": "/ without any",
-        "c": "c/hNo error"
+        "c": "/hNo error"
       },
       "correct": "b",
       "explanation": "\"few\" should be replaced with \"a few\" of use will be because",
@@ -160,10 +160,10 @@
       "question": "The less clothes that I made for the wedding have gone out of style.",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
-        "a": "The few clothes",
-        "b": "The fewer clothes",
-        "c": "The fewest clothes",
-        "d": "The little clothes"
+        "a": "w clothes",
+        "b": "wer clothes",
+        "c": "west clothes",
+        "d": "little clothes"
       },
       "correct": "a",
       "explanation": "",
@@ -177,7 +177,7 @@
         "a": "no fewer",
         "b": "not less",
         "c": "no less",
-        "d": "only less"
+        "d": "ly less"
       },
       "correct": "a",
       "explanation": "",
@@ -203,7 +203,7 @@
       "exam_source": "",
       "options": {
         "a": "little",
-        "b": "few",
+        "b": "w",
         "c": "a few",
         "d": "No improvement"
       },
@@ -217,12 +217,12 @@
       "exam_source": "",
       "options": {
         "a": "Few",
-        "b": "The few",
+        "b": "w",
         "c": "Little",
         "d": "No improvement"
       },
       "correct": "a",
-      "explanation": "17. (c) 18. (a) 19. (d) 20. (c) tions is present",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {
@@ -231,8 +231,8 @@
       "exam_source": "",
       "options": {
         "a": "a few marbles",
-        "b": "few marbles",
-        "c": "fewer marbles",
+        "b": "w marbles",
+        "c": "wer marbles",
         "d": "No improvement"
       },
       "correct": "c",
@@ -241,7 +241,7 @@
     },
     {
       "qno": 18,
-      "question": "Amid .......... incidents of violence, the voting went on well.",
+      "question": "Amid .......... incidents of violence, the voting went well.",
       "exam_source": "",
       "options": {
         "a": "a few",
@@ -258,7 +258,7 @@
       "question": "She made .......... attempts to solve the problem but failed each time.",
       "exam_source": "",
       "options": {
-        "a": "few",
+        "a": "w",
         "b": "the few",
         "c": "much",
         "d": "a few"

@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 233,
   "end_page": 234,
-  "theory": "Part-A\n      We use Article \"The\" before Comparative degree to show cause and effect (Parallel\n         increase or decrease).\n\n         tc nks Comparative Degrees ,d lkFk c<+rh ;k ?kVrh gSa (Parallel increase or decrease)] rc\n         nksuksa ds igys Article \"The\" yxk;k tkrk gSA\n      The + Comparative degree + Adjective ,                The + Comparative degree + Adjective\n    \t\t             Clause1                                               Clause2\n\n               Example",
+  "theory": "Part-A\n  We use Article \"The\" before Comparative degree to show cause and effect (Parallel\n increase or decrease).\n\n tc nks Comparative Degrees , lkFk <+rh ;k ?kVrh gSa (Parallel increase or decrease)] rc\n nksuksa ds igys Article \"The\" yxk;k tkrk gSA\n The + Comparative degree + Adjective , The + Comparative degree + Adjective\n Clause1 Clause2\n\n Example",
   "mcqs": [
     {
       "qno": 1,
@@ -17,7 +17,7 @@
         "d": "\b"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -93,8 +93,8 @@
       "options": {
         "a": "/ the clear you will find",
         "b": "/ the hidden",
-        "c": "/ presented ind the f",
-        "d": "ep"
+        "c": "/ presented ind the",
+        "d": "p"
       },
       "correct": "b",
       "explanation": "Clear should be replaced with clearer of use will be.",
@@ -102,7 +102,7 @@
     },
     {
       "qno": 8,
-      "question": "The greatest the effort you put @ into your G- you can presentation?",
+      "question": "The greatest the effort you put @ into your - you can presentation?",
       "exam_source": "",
       "options": {
         "a": "/ the better Tresults",
@@ -141,7 +141,7 @@
     },
     {
       "qno": 11,
-      "question": "When scaling the Himalayas, the higher one ascends, the lesser oxygen is available. \b?",
+      "question": "When scaling the Himalayas, the higher one ascends, the lesser oxygen is available. ?",
       "exam_source": "(SSC MTS, 2025)",
       "options": {
         "a": "the least oxygen is available",
@@ -150,18 +150,18 @@
         "d": "the less oxygen is available"
       },
       "correct": "d",
-      "explanation": "12. (d) 13. (a) 14. (b) 15. (c) Solut",
+      "explanation": "",
       "format": "regular"
     },
     {
       "qno": 12,
-      "question": "The higher you go, the cooler it get. \b?",
+      "question": "The higher you go, the cooler it get. ?",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
-        "a": "cooler it getting",
+        "a": "ooler it getting",
         "b": "more cooler it gets",
-        "c": "coolest it becomes",
-        "d": "cooler it gets"
+        "c": "oolest it becomes",
+        "d": "ooler it gets"
       },
       "correct": "d",
       "explanation": "",
@@ -197,13 +197,13 @@
     },
     {
       "qno": 15,
-      "question": "Choose the sentence that correctly uses the comparative degree. \b (SSC Phase XIII, 2025)",
+      "question": "Choose the sentence that correctly uses the comparative degree.  (SSC Phase XIII, 2025)",
       "exam_source": "",
       "options": {
-        "a": "This is the most easiest task.",
-        "b": "This task is more easier than the previous",
-        "c": "This task is easier than the previous one.",
-        "d": "This task is the more easier than the"
+        "a": "is is the most easiest task.",
+        "b": "is task is more easier than the previous",
+        "c": "is task is easier than the previous one.",
+        "d": "is task is the more easier than the"
       },
       "correct": "c",
       "explanation": "",

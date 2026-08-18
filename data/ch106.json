@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 281,
   "end_page": 282,
-  "theory": "1 Preposition + V1-ing (Gerund)\n     Preposition osQ ckn verb dh -ing form (Gerund) vkrh gSA\n\n     Ex. He is good at reading.\n\n      2 Preposition + objective case of Pronoun\n         Preposition osQ ckn pronoun ges'kk objective case esa vkrk gSaA\n     Ex. This book is for him.\n      3 Do not use preposition before adverb of Manner / Place / Time.\n    \t\t  Manner, Place ;k Time esa adverb ls igys preposition dk iz;ksx ugha gksrkA\n    Ex.",
+  "theory": "1 Preposition + V1-ing (Gerund)\n Preposition osQ ckn verb dh -ing form (Gerund) vkrh gSA\n\n Ex. He is good at reading.\n\n 2 Preposition + objective case of Pronoun\n Preposition osQ ckn pronoun ges'kk objective case esa vkrk gSaA\n Ex. This book is for him.\n 3 Do not use preposition before adverb of Manner / Place / Time.\n Manner, Place ;k Time esa adverb ls igys preposition dk iz;ksx ugha gksrkA\n Ex.",
   "mcqs": [
     {
       "qno": 1,
@@ -30,7 +30,7 @@
         "d": "\b"
       },
       "correct": "b",
-      "explanation": "\"to accompany\" osQ LFkku ij \"on accompanying\" gksxk D;ksafd \"insist\" osQ ckn preposition \"on\" rFkk Gerund (V-ing) dk ç;ksx gksrk gSA",
+      "explanation": "\"to accompany\" osQ LFkku ij \" accompanying\" gksxk D;ksafd \"insist\" osQ ckn preposition \"\" rFkk Gerund (V-ing) dk ç;ksx gksrk gSA",
       "format": "error_spotting"
     },
     {
@@ -57,7 +57,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "qno": 6,
-      "question": "The manager insisted on my completing the report and submitted it?",
+      "question": "The manager insisted my completing the report and submitted it?",
       "exam_source": "",
       "options": {
         "a": "/ before the deadline",
@@ -147,7 +147,7 @@
         "c": "/ without any further delay."
       },
       "correct": "c",
-      "explanation": "12. (b) 13. (b) 14. (d) 15. (c) Solut",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -177,14 +177,14 @@
     },
     {
       "qno": 14,
-      "question": "The ruling party focused on strengthening?",
+      "question": "The ruling party focused strengthening?",
       "exam_source": "",
       "options": {
         "b": "/ elections",
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "qno": 16,
-      "question": "Except for you and me, no one knew Radha. \b?",
+      "question": "Except for you and me, no one knew Radha. ?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
         "a": "Except for you and I, no one knew Radha.",
@@ -210,18 +210,18 @@
         "d": "Except for I and you, no one knew Radha."
       },
       "correct": "b",
-      "explanation": "17. (a) 18. (a) 19. (c) 20. (b) tions",
+      "explanation": "",
       "format": "regular"
     },
     {
       "qno": 17,
-      "question": "On saw the mother, the child smiled sweetly. \b?",
+      "question": "On saw the mother, the child smiled sweetly. ?",
       "exam_source": "(SSC CGL, 2015)",
       "options": {
         "a": "On seeing hall",
-        "b": "On having seen df",
-        "c": "On seen re",
-        "d": "No improvement G"
+        "b": "On having seen",
+        "c": "On seen",
+        "d": "No improvement"
       },
       "correct": "a",
       "explanation": "",
@@ -229,10 +229,10 @@
     },
     {
       "qno": 18,
-      "question": "The teacher insisted in giving extra classes before the exam.\b?",
+      "question": "The teacher insisted in giving extra classes before the exam.?",
       "exam_source": "(DP HCM, 2026)",
       "options": {
-        "a": "insisted on",
+        "a": "insisted",
         "b": "insisted for",
         "c": "insisted at",
         "d": "No substitution"
@@ -243,11 +243,11 @@
     },
     {
       "qno": 19,
-      "question": "The investigation revealed that both of they had given false information to obtain the certificates.\b?",
+      "question": "The investigation revealed that both of they had given false information to obtain the certificates.?",
       "exam_source": "(SSC CGL, 2021)",
       "options": {
         "a": "No substitution required",
-        "b": "reveals that how they both",
+        "b": "veals that how they both",
         "c": "4.",
         "d": "5."
       },
@@ -257,13 +257,13 @@
     },
     {
       "qno": 20,
-      "question": "The manager has been dismissed on charges to accept bribes. \b?",
+      "question": "The manager has been dismissed charges to accept bribes. ?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
-        "a": "has been dismissed on charges for",
-        "b": "dismissed on charges of accepting bribes",
+        "a": "s been dismissed on charges for",
+        "b": "ismissed on charges of accepting bribes",
         "c": "was dismissed for accepting bribes",
-        "d": "had been dismissed on charges of bribing"
+        "d": "been dismissed on charges of bribing"
       },
       "correct": "b",
       "explanation": "",

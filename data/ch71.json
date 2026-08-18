@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 190,
   "end_page": 191,
-  "theory": " Positive reply (We use 'So')\n\n       Subject + Verb + ........ + Connector + so + helping Verb + Subject\n\n\t\t                 Positive                               Inversion\n\n e.g. I am happy, and so is she.\n   Negative reply (We use 'Neither/Nor')\n      Subject + Verb + ........ + Connector + Neither/Nor + helping Verb + Subject\n\n\t\t               Negative                                             Inversion\n\n e.g. I don't like coffee, and neither does my brother.\n  Note\n\t\tWe can use \"either\" in case of negative reply, but there is no inversion.\n\n e.g. I don't like coffee, and my brother doesn't either.",
+  "theory": " Positive reply (We use 'So')\n\n Subject + Verb + ........ + Connector + so + helping Verb + Subject\n\n Positive Inversion\n\n .g. I am happy, and so is she.\n  Negative reply (We use 'Neither/Nor')\n Subject + Verb + ........ + Connector + Neither/Nor + helping Verb + Subject\n\n Negative Inversion\n\n .g. I don't like coffee, and neither does my brother.\n Note\n We can use \"either\" in case of negative reply, but there is no inversion.\n\n .g. I don't like coffee, and my brother doesn't either.",
   "mcqs": [
     {
       "qno": 1,
@@ -55,7 +55,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error.",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -114,10 +114,10 @@
       "question": "Riya does not enjoy horror movies, and neither .......... her brother.",
       "exam_source": "",
       "options": {
-        "a": "does",
-        "b": "do",
+        "a": "oes",
+        "b": "o",
         "c": "is",
-        "d": "did"
+        "d": "id"
       },
       "correct": "a",
       "explanation": "",
@@ -128,9 +128,9 @@
       "question": "He plays football well and so ..........",
       "exam_source": "",
       "options": {
-        "a": "does he",
-        "b": "did he",
-        "c": "he did",
+        "a": "oes he",
+        "b": "id he",
+        "c": "id",
         "d": "No improvement"
       },
       "correct": "a",
@@ -148,7 +148,7 @@
         "d": "nor is"
       },
       "correct": "b",
-      "explanation": "12. (d) 13. (c) 14. (a) 15. (c) Solut",
+      "explanation": "",
       "format": "fill_blank"
     },
     {
@@ -195,11 +195,11 @@
     },
     {
       "qno": 15,
-      "question": "The students were not happy withrethe ep new schedule, and .......... the teacher. -@ f?",
+      "question": "The students were not happy withrethe new schedule, and .......... the teacher. -@ ?",
       "exam_source": "",
       "options": {
-        "a": "so was G",
-        "b": "Tneither were",
+        "a": "so was",
+        "b": "neither were",
         "c": "neither was o n",
         "d": "nor were"
       },

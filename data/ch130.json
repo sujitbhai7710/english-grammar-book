@@ -88,7 +88,7 @@
       "question": "It is alleged that the number of athletes?",
       "exam_source": "",
       "options": {
-        "b": "/ are on",
+        "b": "/ are",
         "c": "/ No error"
       },
       "correct": "c",
@@ -392,7 +392,7 @@
         "a": "/ his MBA degree into",
         "b": "/ the university last year.",
         "c": "/ No error",
-        "d": "hall"
+        "d": "ll"
       },
       "correct": "b",
       "explanation": "into should be replaced with from of use will be, because degree",
@@ -536,7 +536,7 @@
         "c": "/ No error"
       },
       "correct": "c",
-      "explanation": "for his success should be replaced with on his success",
+      "explanation": "for his success should be replaced with his success",
       "format": "error_spotting"
     },
     {
@@ -738,11 +738,11 @@
       "exam_source": "",
       "options": {
         "a": "/ likes to",
-        "b": "/ show on",
+        "b": "/ show",
         "c": "/ her"
       },
       "correct": "c",
-      "explanation": "show on should be replaced with show off of use will be,",
+      "explanation": "show should be replaced with show off of use will be,",
       "format": "error_spotting"
     },
     {
@@ -842,7 +842,7 @@
         "a": "/ a few simple",
         "b": "/ her parents say that",
         "c": "/ she is",
-        "d": "hall"
+        "d": "ll"
       },
       "correct": "d",
       "explanation": "too intelligent should be replaced with very intelligent of",
@@ -871,7 +871,7 @@
         "c": "/ No error"
       },
       "correct": "c",
-      "explanation": "starts on April should be replaced with start in April of",
+      "explanation": "starts April should be replaced with start in April of",
       "format": "error_spotting"
     },
     {
@@ -880,7 +880,7 @@
       "exam_source": "",
       "options": {
         "a": "/ an ice",
-        "b": "/ and applied it on"
+        "b": "/ and applied it"
       },
       "correct": "b",
       "explanation": "an ice should be replaced with some ice of use will be, because",
@@ -909,7 +909,7 @@
         "c": "/ and cannot be put on."
       },
       "correct": "d",
-      "explanation": "put on should be replaced with put off of use will be, because",
+      "explanation": "put should be replaced with put off of use will be, because",
       "format": "error_spotting"
     },
     {
@@ -956,7 +956,7 @@
       "question": "Today she said to?",
       "exam_source": "",
       "options": {
-        "a": "/ her friend, “You’re",
+        "a": "/ her friend, “You’",
         "c": "/ I have met ever”."
       },
       "correct": "d",
@@ -1047,7 +1047,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -1112,7 +1112,7 @@
         "c": "/ of ‘gallantry of spirits’."
       },
       "correct": "c",
-      "explanation": "on the section should be replaced with on the basis of use",
+      "explanation": "the section should be replaced with the basis of use",
       "format": "error_spotting"
     },
     {
@@ -1159,7 +1159,7 @@
       "exam_source": "",
       "options": {
         "a": "/ for the competition",
-        "b": "/ even though the competition went on",
+        "b": "/ even though the competition went",
         "c": "/ I felt bad about Shivani losing it."
       },
       "correct": "c",
@@ -1289,7 +1289,7 @@
         "a": "/ starve to stealing to get",
         "b": "/ what he has",
         "c": "/ No error",
-        "d": "hall"
+        "d": "ll"
       },
       "correct": "b",
       "explanation": "starve to stealing should be replaced with starve than steal",
@@ -1675,7 +1675,7 @@
         "a": "/ only deteriorated, his",
         "b": "/ hangs with a thread.",
         "c": "/ No error",
-        "d": "h all"
+        "d": "all"
       },
       "correct": "c",
       "explanation": "with should be replaced with by of use will be, because correct",
@@ -1729,7 +1729,7 @@
         "c": "/ going on around."
       },
       "correct": "c",
-      "explanation": "an eye in things should be replaced with an eye on things",
+      "explanation": "an eye in things should be replaced with an eye things",
       "format": "error_spotting"
     },
     {
@@ -1845,7 +1845,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -1910,7 +1910,7 @@
         "b": "/ you at"
       },
       "correct": "b",
-      "explanation": "by should be replaced with on will be because intrude on",
+      "explanation": "by should be replaced with will be because intrude",
       "format": "error_spotting"
     },
     {
@@ -2206,11 +2206,11 @@
       "exam_source": "",
       "options": {
         "a": "/ to claim the stowed away",
-        "b": "/ which was discovered on",
+        "b": "/ which was discovered",
         "c": "/ No"
       },
       "correct": "c",
-      "explanation": "on should be replaced with in will be because any okgu of",
+      "explanation": "should be replaced with in will be because any okgu of",
       "format": "error_spotting"
     },
     {
@@ -2282,7 +2282,7 @@
       "exam_source": "",
       "options": {
         "a": "/ a cyber crime",
-        "b": "/ on",
+        "b": "/",
         "c": "/ given to the court.",
         "d": "Answer Key"
       },
@@ -2299,7 +2299,7 @@
         "b": "/ the safety of my friends were at stake."
       },
       "correct": "c",
-      "explanation": "were should be replaced with was will be because safety ,d",
+      "explanation": "were should be replaced with was will be because safety ,",
       "format": "error_spotting"
     },
     {
@@ -2594,7 +2594,7 @@
         "c": "/ in"
       },
       "correct": "b",
-      "explanation": "\"Superior\" vius vki in ,d Comparative",
+      "explanation": "\"Superior\" vius vki in , Comparative",
       "format": "error_spotting"
     },
     {
@@ -2607,7 +2607,7 @@
         "c": "/ and"
       },
       "correct": "c",
-      "explanation": "fell into of fell on will come",
+      "explanation": "fell into of fell will come",
       "format": "error_spotting"
     },
     {
@@ -2620,7 +2620,7 @@
         "c": "/ No"
       },
       "correct": "b",
-      "explanation": "\"Armful\" of plural armfuls is gS fd",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -2633,7 +2633,7 @@
         "c": "/ No error"
       },
       "correct": "a",
-      "explanation": "\"Evolutionary biology\" ,d Singular Subject",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -2647,7 +2647,7 @@
         "a": "206."
       },
       "correct": "a",
-      "explanation": "tc of \"Hardly\" from is gS,",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -2660,7 +2660,7 @@
         "c": "/ No"
       },
       "correct": "a",
-      "explanation": "Main Clause in \"warned\" (Past Tense)",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -2686,7 +2686,7 @@
         "c": "/ No"
       },
       "correct": "a",
-      "explanation": "\"Perfect\" vius vki in ,d Absolute Adjective",
+      "explanation": "\"Perfect\" vius vki in , Absolute Adjective",
       "format": "error_spotting"
     },
     {
@@ -2694,12 +2694,12 @@
       "question": "Finishing my lunch?",
       "exam_source": "",
       "options": {
-        "a": "/ I started working on",
+        "a": "/ I started working",
         "b": "/ that required my immediate",
         "c": "/ No error"
       },
       "correct": "a",
-      "explanation": "d dke iwjh Re to be after dke 'kq:",
+      "explanation": "dke iwjh Re to be after dke 'kq:",
       "format": "error_spotting"
     },
     {
@@ -2750,7 +2750,7 @@
         "b": "/ new aspirants."
       },
       "correct": "a",
-      "explanation": "\"but also\" after \"for coaching\" (Preposition",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -2762,7 +2762,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "\"Even though\" \"Although/Though\" from 'kq:",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -2918,7 +2918,7 @@
         "c": "/ it faced."
       },
       "correct": "c",
-      "explanation": "Despite\" with \"of\" not",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -2930,7 +2930,7 @@
         "b": "/ with Pakistan."
       },
       "correct": "b",
-      "explanation": "\"at war\" ,d Fixed Phrase gS, \"on war\"",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -2944,7 +2944,7 @@
         "d": "\b"
       },
       "correct": "b",
-      "explanation": "order a probe into something ,d correct",
+      "explanation": "order a probe into something , correct",
       "format": "error_spotting"
     },
     {
@@ -2968,7 +2968,7 @@
         "c": "/ cannot make over the time."
       },
       "correct": "d",
-      "explanation": "\"time uqdlku of HkjikbZ to do (compensate",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3021,7 +3021,7 @@
         "c": "/ No error"
       },
       "correct": "a",
-      "explanation": "\"next meeting\" of be gS, which fd Future",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3097,7 +3097,7 @@
       "options": {
         "a": "/ by a sharp knife",
         "b": "/ he started bleeding",
-        "c": "/ profusely on"
+        "c": "/ profusely"
       },
       "correct": "b",
       "explanation": "tc ge fdlh Instrument/Tool dk use djosQ dksbZ dke djrs gSa, rks mlosQ fy, \"with\" dk use gksrk gS, \"by\" dk ughaA",
@@ -3113,12 +3113,12 @@
         "c": "/ through the window."
       },
       "correct": "a",
-      "explanation": "on ysVus of context in \"in bed\" \"on his",
+      "explanation": "ysVus of context in \"in bed\" \" his",
       "format": "error_spotting"
     },
     {
       "qno": 243,
-      "question": "The instructions on the bottle?",
+      "question": "The instructions the bottle?",
       "exam_source": "(SSC GD, 2022)",
       "options": {
         "a": "/ say -open the",
@@ -3139,7 +3139,7 @@
         "c": "/ in Class 6th."
       },
       "correct": "b",
-      "explanation": "tc Musical Instrument piano, guitar,",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3152,7 +3152,7 @@
         "c": "/ last night."
       },
       "correct": "b",
-      "explanation": "\"come/h rwiQku of any isM+ bekjr of",
+      "explanation": "\"come/ rwiQku of any isM+ bekjr of",
       "format": "error_spotting"
     },
     {
@@ -3165,7 +3165,7 @@
         "c": "/ this morning."
       },
       "correct": "a",
-      "explanation": "\"any #fp with i<+uk 'kq: to do of",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3178,7 +3178,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "d Passive Voice of sentence gS, tc any",
+      "explanation": "Passive Voice of sentence gS, tc any",
       "format": "error_spotting"
     },
     {
@@ -3216,7 +3216,7 @@
         "c": "/ No error"
       },
       "correct": "c",
-      "explanation": "of real Subject \"Much\" gS, which fd ,d",
+      "explanation": "of real Subject \"Much\" gS, which fd ,",
       "format": "error_spotting"
     },
     {
@@ -3279,7 +3279,7 @@
         "a": "/ he said it worked both ways",
         "b": "/ and",
         "c": "/ No error",
-        "d": "h all"
+        "d": "all"
       },
       "correct": "a",
       "explanation": "'Refer' with always Fixed Preposition \"to\" of",
@@ -3294,7 +3294,7 @@
         "c": "/ No error"
       },
       "correct": "c",
-      "explanation": "\"Complicated\" and \"Incomprehensible\"",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3320,7 +3320,7 @@
         "c": "/ for entertainment"
       },
       "correct": "c",
-      "explanation": "\"Often\" ,d Adverb of Frequency gS,",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3329,11 +3329,11 @@
       "exam_source": "",
       "options": {
         "a": "/ were arresting",
-        "b": "/ on",
+        "b": "/",
         "c": "/ in Jammu"
       },
       "correct": "b",
-      "explanation": "tc Subject qn dke not does, to that on dke",
+      "explanation": "tc Subject qn dke not does, to that dke",
       "format": "error_spotting"
     },
     {
@@ -3345,7 +3345,7 @@
         "c": "/ in midnight."
       },
       "correct": "d",
-      "explanation": "\"come/h in\" for always \"at midnight\"",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3357,7 +3357,7 @@
         "c": "/ attends court."
       },
       "correct": "b",
-      "explanation": "\"any ekeys of gop-iM+rky to do\" of context in",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3420,7 +3420,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "tc in \"Many a\" \"Many a + Singular",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3459,7 +3459,7 @@
         "c": "/ reply my email."
       },
       "correct": "d",
-      "explanation": "\"Reply\" tc ,d of verb use is gS and",
+      "explanation": "\"Reply\" tc , of verb use is gS and",
       "format": "error_spotting"
     },
     {
@@ -3485,7 +3485,7 @@
         "c": "/ in the gallery."
       },
       "correct": "c",
-      "explanation": "272. (c) 273. (a) 274. (c) @ (a) (b) (b) 283. (c) 284. 281. 282. h on (a) 285. (c) 290. The peon refused to move out (a)/ because it was bitter cold (b)/ and he was not well. (c)/ No error (d) 291. I consider it as my duty (a)/ to extend help and cooperation (b)/ to the humble and the poor. (c)/ No error (d) 292. We threw out some old furniture (a)/ so that the new television set (b)/ has enough space. (c)/ No error (d) 293. Meatless Days (a)/ have been made (b)/ into a film. (c)/ No error (d) 294. Religious people are to be (a)/ afraid of (b)/ sinful actions. (c)/ No error (d) 295. A boy was injured (a) / in the accident and was taken (b) / onto hospital. (c) / No error (d) (UPSC CDS 2 2024) 296. In his well-recognised stentorian yet amused voice (a) / the principal demanded an unique excuse (b) / from the student hauled up for alleged minor misdemeanour. (c) / No error (d)\b (UPSC CDS 2 2025) 297. People put considerably many more effort (a)/ when working in groups than (b)/ when working alone. (c)/ No error (d) 298. Neither of the (a)/ teachers is participating (b)/ on this event. (c)/ No error (d) 299. Her latest novel is considered (a)/ one of the most captivating story (b)/ in contemporary literature, earning praise (c)/ for its intricate plot and well-developed characters. (d) 300. In the nineteenth century, (a) / most traditional scholars (b) / tried to stay clear from the imperial Government. (c) / No error (d) (UPSC NDA 1 2021) 301. During the long journey (a)/ he amused for (b)/ quite some time watching videos (c)/ on his phone. (d) 302. Once considered ninth planet of the solar system, (a) / Pluto is today listed as the (b) / largest dwarf planet of the solar system. (c) / No error (d) (UPSC NDA 1 2022) 303. Some bacterial cells on our hands (a)/ may have genes that enabling them (b)/ to be resistant to a given (c)/ antibacterial agent. (d) Answer Key",
+      "explanation": "272. () 273. (a) 274. () @ (a) (b) (b) 283. () 284. 281. 282. (a) 285. () 290. The peon refused to move out (a)/ because it was bitter cold (b)/ and he was not well. ()/ No error () 291. I consider it as my duty (a)/ to extend help and cooperation (b)/ to the humble and the poor. ()/ No error () 292. We threw out some old furniture (a)/ so that the new television set (b)/ has enough space. ()/ No error () 293. Meatless Days (a)/ have been made (b)/ into a film. ()/ No error () 294. Religious people are to be (a)/ afraid of (b)/ sinful actions. ()/ No error () 295. A boy was injured (a) / in the accident and was taken (b) / onto hospital. () / No error () (UPSC CDS 2 2024) 296. In his well-recognised stentorian yet amused voice (a) / the principal demanded an unique excuse (b) / from the student hauled up for alleged minor misdemeanour. () / No error () (UPSC CDS 2 2025) 297. People put considerably many more effort (a)/ when working in groups than (b)/ when working alone. ()/ No error () 298. Neither of the (a)/ teachers is participating (b)/ this event. ()/ No error () 299. Her latest novel is considered (a)/ one of the most captivating story (b)/ in contemporary literature, earning praise ()/ for its intricate plot and well-developed characters. () 300. In the nineteenth century, (a) / most traditional scholars (b) / tried to stay clear from the imperial Government. () / No error () (UPSC NDA 1 2021) 301. During the long journey (a)/ he amused for (b)/ quite some time watching videos ()/ his phone. () 302. Once considered ninth planet of the solar system, (a) / Pluto is today listed as the (b) / largest dwarf planet of the solar system. () / No error () (UPSC NDA 1 2022) 303. Some bacterial cells our hands (a)/ may have genes that enabling them (b)/ to be resistant to a given ()/ antibacterial agent. () Answer Key",
       "format": "error_spotting"
     },
     {
@@ -3498,7 +3498,7 @@
         "c": "/ me."
       },
       "correct": "c",
-      "explanation": "\"any on effect to be\" of context in",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3510,7 +3510,7 @@
         "c": "/ the beautiful weather."
       },
       "correct": "a",
-      "explanation": "mBus from vkus\" of",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3549,7 +3549,7 @@
         "c": "/ it now."
       },
       "correct": "c",
-      "explanation": "Im not remembering of don't",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3587,7 +3587,7 @@
         "c": "/ No"
       },
       "correct": "c",
-      "explanation": "tc of Subject \"Every one of\", \"Each",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3651,7 +3651,7 @@
         "c": "/ No error"
       },
       "correct": "a",
-      "explanation": "tc Helping Verbs ,d gh Main",
+      "explanation": "tc Helping Verbs , gh Main",
       "format": "error_spotting"
     },
     {
@@ -3663,7 +3663,7 @@
         "c": "/ the school was."
       },
       "correct": "c",
-      "explanation": "\"that\" and \"where\" nksuksa of ,d with use wrong",
+      "explanation": "\"that\" and \"where\" nksuksa of , with use wrong",
       "format": "error_spotting"
     },
     {
@@ -3675,7 +3675,7 @@
         "b": "/ said that"
       },
       "correct": "d",
-      "explanation": "287. (c) 288. (b) 289. (a) 275. Please hang with (a)/ for two minutes (b)/ while I finish cleaning (c)/ the utensils. (d) 276. She told me (a)/ her name but (b)/ I’m not remembering (c)/ it now. (d) 277. Although there is no proven data, (a)/ the Centre for Policy Research estimate (b)/ that India has the largest (c)/ stock of iron ore in the world. (d) 278. Glimpses to the religious side of nature (a)/ appear in the (b)/ majority of his plays. (c)/ No error (d) 279. Every one of the survivors (a)/ of the ill-fated aircraft (b)/ have told the same story. (c)/ No error (d) 280. He is reported to have seen (a)/ a man and woman (b)/ near the shore. (c)/ No error (d) 281. In the early days of petroleum exploration, (a)/ many scientists postulate that hydrocarbons leaked upward (b)/ from the materials buried within the earth during its formation. (c)/ No error (d) 282. On my way to the office (a)/ I suddenly came across with (b)/ a man whom I had never seen before. (c)/ No error (d) 283. As soon as the clock (a) / chimed to announce the hour at midnight (b) / she sprung up from her bed. (c) / No error. (d) (UPSC CDS 1 2025) 284. Honesty has always (a)/and will always be regarded as one of the(b)/ greatest virtues of human character.(c)/ No error (d) 285. He did not know (a)/ the location of school (b)/ so, he enquired that where (c)/ the school was. (d) 286. Ramesh licked (a)/ honey and (b)/ said that (c)/ it tasted sweetly. (d) 287. Had you been (a)/ working regularly, (b)/ you had completed (c)/ the project yesterday. (d) 288. The food consumed (a) / is converted on (b) / the body into glucose. (c) / No error (d) (UPSC CDS 2 2022) 289. Migrating elephant herds appear like (a) / West Bengal so much that they spend more (b) / time here than in the neighbouring states from where they cross over. (c) / No error (d) (UPSC CDS 2 2023)ll (b) (b) 263. (a) 264. (b) 265. 261. 262. ee (b) fr275.",
+      "explanation": "287. () 288. (b) 289. (a) 275. Please hang with (a)/ for two minutes (b)/ while I finish cleaning ()/ the utensils. () 276. She told me (a)/ her name but (b)/ I’m not remembering ()/ it now. () 277. Although there is no proven data, (a)/ the Centre for Policy Research estimate (b)/ that India has the largest ()/ stock of iron ore in the world. () 278. Glimpses to the religious side of nature (a)/ appear in the (b)/ majority of his plays. ()/ No error () 279. Every one of the survivors (a)/ of the ill-fated aircraft (b)/ have told the same story. ()/ No error () 280. He is reported to have seen (a)/ a man and woman (b)/ near the shore. ()/ No error () 281. In the early days of petroleum exploration, (a)/ many scientists postulate that hydrocarbons leaked upward (b)/ from the materials buried within the earth during its formation. ()/ No error () 282. On my way to the office (a)/ I suddenly came across with (b)/ a man whom I had never seen before. ()/ No error () 283. As soon as the clock (a) / chimed to announce the hour at midnight (b) / she sprung up from her bed. () / No error. () (UPSC CDS 1 2025) 284. Honesty has always (a)/and will always be regarded as one of the(b)/ greatest virtues of human character.()/ No error () 285. He did not know (a)/ the location of school (b)/ so, he enquired that where ()/ the school was. () 286. Ramesh licked (a)/ honey and (b)/ said that ()/ it tasted sweetly. () 287. Had you been (a)/ working regularly, (b)/ you had completed ()/ the project yesterday. () 288. The food consumed (a) / is converted (b) / the body into glucose. () / No error () (UPSC CDS 2 2022) 289. Migrating elephant herds appear like (a) / West Bengal so much that they spend more (b) / time here than in the neighbouring states from where they cross over. () / No error () (UPSC CDS 2 2023) (b) (b) 263. (a) 264. (b) 265. 261. 262. (b) fr275.",
       "format": "error_spotting"
     },
     {
@@ -3688,7 +3688,7 @@
         "c": "/ the project yesterday."
       },
       "correct": "c",
-      "explanation": "tc \"If Clause\" in Past Perfect",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3696,7 +3696,7 @@
       "question": "The food consumed?",
       "exam_source": "",
       "options": {
-        "a": "/ is converted on",
+        "a": "/ is converted",
         "c": "/ No error"
       },
       "correct": "b",
@@ -3725,7 +3725,7 @@
         "b": "/ and he was not well."
       },
       "correct": "b",
-      "explanation": "\"Cold\" ,d Adjective of dke do gS,",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3764,7 +3764,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "\"Meatless Days\" ,d fiQYe of uke",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3840,7 +3840,7 @@
         "c": "/ for its intricate"
       },
       "correct": "b",
-      "explanation": "tc in \"one of the\" of use is gS,",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3853,7 +3853,7 @@
         "c": "/ No error"
       },
       "correct": "c",
-      "explanation": "\"any from jguk jguk\" of",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -3863,7 +3863,7 @@
       "options": {
         "a": "/ he amused for",
         "b": "/ quite some time watching videos",
-        "c": "/ on"
+        "c": "/"
       },
       "correct": "b",
       "explanation": "amuse himself will be because tc viuk",
@@ -3871,7 +3871,7 @@
     },
     {
       "qno": 303,
-      "question": "Some bacterial cells on our hands?",
+      "question": "Some bacterial cells our hands?",
       "exam_source": "",
       "options": {
         "a": "/ may have",
@@ -3958,7 +3958,7 @@
         "c": "/ No error"
       },
       "correct": "a",
-      "explanation": "operated by should be replaced with operated on by will be",
+      "explanation": "operated by should be replaced with operated by will be",
       "format": "error_spotting"
     },
     {
@@ -3989,7 +3989,7 @@
     },
     {
       "qno": 312,
-      "question": "Early cities rely on food and water?",
+      "question": "Early cities rely food and water?",
       "exam_source": "",
       "options": {
         "a": "/ from",
@@ -3997,7 +3997,7 @@
         "c": "/ No"
       },
       "correct": "a",
-      "explanation": "rely on should be replaced with relied on will be because",
+      "explanation": "rely should be replaced with relied will be because",
       "format": "error_spotting"
     },
     {
@@ -4071,7 +4071,7 @@
         "a": "/ I can cope up",
         "b": "/ with",
         "c": "/ No errог",
-        "d": "hall"
+        "d": "ll"
       },
       "correct": "b",
       "explanation": "cope up should be replaced with cope will be because cope with",
@@ -4079,7 +4079,7 @@
     },
     {
       "qno": 319,
-      "question": "He went on committing crime after crime,?",
+      "question": "He went committing crime after crime,?",
       "exam_source": "",
       "options": {
         "b": "/ I could not",
@@ -4142,7 +4142,7 @@
     },
     {
       "qno": 324,
-      "question": "He then set out on his journey,?",
+      "question": "He then set out his journey,?",
       "exam_source": "(SSC CGL, 2020)",
       "options": {
         "a": "/ and rides",
@@ -4330,7 +4330,7 @@
         "c": "/ is very appropriate."
       },
       "correct": "c",
-      "explanation": "over should be replaced with on will be because notice wall",
+      "explanation": "over should be replaced with will be because notice wall",
       "format": "error_spotting"
     },
     {
@@ -4414,7 +4414,7 @@
       "question": "The doctor did not put?",
       "exam_source": "(SSC CPO, 2020)",
       "options": {
-        "a": "/ the patient on",
+        "a": "/ the patient",
         "b": "/ yet still made",
         "c": "/ him"
       },
@@ -4443,7 +4443,7 @@
         "a": "/ of many",
         "b": "/ the necessary",
         "c": "/ at the expense of",
-        "d": "hall"
+        "d": "ll"
       },
       "correct": "c",
       "explanation": "necessary should be replaced with necessity will be because",
@@ -4490,7 +4490,7 @@
     },
     {
       "qno": 352,
-      "question": "The newly appointed director laid emphasis on?",
+      "question": "The newly appointed director laid emphasis ?",
       "exam_source": "",
       "options": {
         "a": "/ administrative efficiency rather than",
@@ -4498,7 +4498,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "at should be replaced with on will be because \"emphasis on\" of",
+      "explanation": "at should be replaced with will be because \"emphasis \" of",
       "format": "error_spotting"
     },
     {
@@ -4537,7 +4537,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "on should be replaced with at will be because at an auction correct",
+      "explanation": "should be replaced with at will be because at an auction correct",
       "format": "error_spotting"
     },
     {
@@ -4588,7 +4588,7 @@
         "c": "/ No"
       },
       "correct": "a",
-      "explanation": "360. (a) 361. (b) 362. (b) 363. (b)",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -4622,7 +4622,7 @@
       "options": {
         "a": "/ and we could",
         "b": "/ be grateful",
-        "c": "/ he has bestowed on",
+        "c": "/ he has bestowed",
         "d": "\b"
       },
       "correct": "b",
@@ -4652,7 +4652,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "at the eve of should be replaced with on the eve of will be",
+      "explanation": "at the eve of should be replaced with the eve of will be",
       "format": "error_spotting"
     },
     {
@@ -4711,7 +4711,7 @@
       "question": "Dad, will you get me a box of crayons?",
       "exam_source": "(SSC GD, 2022)",
       "options": {
-        "a": "/ on",
+        "a": "/",
         "b": "/ a box of crayons with you",
         "c": "/ Or I will not be let"
       },
@@ -4896,7 +4896,7 @@
         "c": "/ No error"
       },
       "correct": "c",
-      "explanation": "on 1492 should be replaced with in 1492 will be because year of",
+      "explanation": "1492 should be replaced with in 1492 will be because year of",
       "format": "error_spotting"
     },
     {
@@ -4922,7 +4922,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -5101,7 +5101,7 @@
         "a": "/ to find",
         "b": "/ against his own queen.",
         "c": "/ No",
-        "d": "all h"
+        "d": "all"
       },
       "correct": "b",
       "explanation": "evidences should be replaced with evidence will be because",

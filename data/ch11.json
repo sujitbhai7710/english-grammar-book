@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 42,
   "end_page": 43,
-  "theory": "We use these words with uncountable nouns to show quantity.\n\n               Little                                 A Little                                The Little\n\n           Hardly any                       Some but not much                          All that is available\n\n         (u osQ cjkcj)                  (oqQN ysfdu cgqr T;knk ugha)                   (ftruk gS oks lkjk)\n\n     Examples\n                                                          Word                  Meaning                  Nature",
+  "theory": "We use these words with uncountable nouns to show quantity.\n\n Little A Little The Little\n\n Hardly any Some but not much All that is available\n\n (u osQ cjkcj) (oqQN ysfdu cgqr ;knk ugha) (ftruk gS oks lkjk)\n\n Examples\n Word Meaning Nature",
   "mcqs": [
     {
       "qno": 1,
@@ -30,7 +30,7 @@
         "d": "\b"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -184,8 +184,8 @@
       "options": {
         "a": "/ difference if you showll",
         "b": "/ the little consistency in your work.",
-        "c": "/ fNo ha",
-        "d": "p d"
+        "c": "/ fNo",
+        "d": "p"
       },
       "correct": "c",
       "explanation": "\"the little\" should be replaced with \"a little\" of use",
@@ -197,7 +197,7 @@
       "exam_source": "",
       "options": {
         "a": "/ months",
-        "b": "G/experience in",
+        "b": "/experience in",
         "c": "/ logistics, leading to a",
         "d": "total collapse of the supply"
       },
@@ -251,7 +251,7 @@
       "options": {
         "a": "little",
         "b": "the little",
-        "c": "few",
+        "c": "w",
         "d": "No improvement"
       },
       "correct": "a",
@@ -269,15 +269,15 @@
         "d": "No improvement"
       },
       "correct": "a",
-      "explanation": "22. (c) 23. (c) 24. (d) 25. (b) Solut",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {
       "qno": 22,
-      "question": "Dr. Kumar is very busy with her practice. She has .......... time for other things.\b?",
+      "question": "Dr. Kumar is very busy with her practice. She has .......... time for other things.?",
       "exam_source": "(UPSC CDS, 2026)",
       "options": {
-        "a": "few",
+        "a": "w",
         "b": "a few",
         "c": "little",
         "d": "a little"
@@ -291,7 +291,7 @@
       "question": "I have .......... energy left to complete the work.",
       "exam_source": "(UPSC CDS, 2024)",
       "options": {
-        "a": "few",
+        "a": "w",
         "b": "many",
         "c": "little",
         "d": "any"
@@ -305,7 +305,7 @@
       "question": "She showed .......... interest in the project; therefore, the manager was disappointed.",
       "exam_source": "",
       "options": {
-        "a": "few",
+        "a": "w",
         "b": "the little",
         "c": "a little",
         "d": "little"

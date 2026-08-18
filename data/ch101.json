@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 264,
   "end_page": 268,
-  "theory": "Singular         Plural\n1         Goose       Geese\n\n2         Louse        Lice\n\n3        Mouse        Mice\n\n4         Foot         Feet\n\n5         Tooth       Teeth\n\n6         Child      Children\n\n7         Deer         Deer\n\n8         Sheep       Sheep\n\n9          Fish        Fish\n\n10       Aircraft    Aircraft\n\n11       Salmon      Salmon\n\n12       Species     Species\n\n13        Series      Series\n\n14      Offspring   Offspring\n\n15       Cactus       Cacti\n\n16       Fungus       Fungi\n\n17       Radius       Radii\n\n18       Syllabus     Syllabi\n\n19    Phenomenon    Phenomena\n\n20      Criterion    Criteria\n\n21      Bacterium    Bacteria\n\n22       Formula    Formulae\n\n23       Erratum      Errata\n\n24       Medium       Media\n\n25    Memorandum    Memoranda                                 df\n\n26       Datum         Data                      -  @f\n\n27       Analysis    Analyses\n\n28    Thesis      Theses\n\n29    Crisis      Crises\n\n30    Knife       Knives\n\n31     Life       Lives\n\n32     Elf        Elves\n\n33     Wife       Wives\n\n34     Leaf       Leaves\n\n35    Wolf       Wolves\n\n36    Shelf      Shelves\n\n37     City       Cities\n\n38    Baby        Babies\n\n39    Echo        Echoes\n\n40    Cargo      Cargoes\n\n41    Hero       Heroes\n\n42   Mosquito   Mosquitoes\n\n43     Boy        Boys\n\n44     Toy        Toys\n\n45     Turf       Turfs\n\n46    Scarf       Scarfs\n\n47     Roof       Roofs\n\n48    Dwarf      Dwarfs\n\n49    Chief       Chiefs\n\n50    Belief      Beliefs\n\n51     Cliff      Cliffs\n\n52    Piano       Pianos\n\n53   Dynamo     Dynamos                                   df\n\n54     Solo       Solos                      -  @f\n\n55   Memento    Mementos                onT\n\n56        Portfolio            Portfolios\n\n57         Radio                Radios\n\n58         Story                Stories\n\n59         Storey               Storeys\n\n60         Valley               Valleys\n\n61        Monkey               Monkeys\n\n62          Key                  Keys\n\n63          Way                  Ways\n\n64      Father-in-law        Fathers-in-law\n\n65     Editor-in-chief      Editors-in-chief\n\n66     Mother-in-law        Mothers-in-law\n\n67   Commander-in-chief   Commanders-in-chief\n\n68        Step-son             Step-sons\n\n69     Step-daughter        Step-daughters\n\n70      Man-servant          Men-servants\n\n71     Forget-me-not        Forget-me-nots\n\n72        Break-in             Break-ins\n\n73       Looker-on            Lookers-on\n\n74       Passer-by            Passers-by\n\n75       Check-up             Check-ups\n\n76         Lay-off              Lay-offs\n\n77       Mouthful             Mouthfuls\n\n78        Spoonful             Spoonfuls\n\n79         Bagful               Bagfuls\n\n80        Handful              Handfuls\n\n81      Man doctor            Men doctors                             df\n\n82     Woman doctor         Women doctors                -  @f\n\n83    Attorney general     Attorneys general h o\n                                               arc\n\n      84               Officer in-charge                                Officers in-charge\n\n      85               Code of conduct                                   Codes of conduct\n\n      86                   Book shelf                                       Book shelves\n      87               General manager                                  General managers\n      88                    Alumnus                                            Alumni\n      89                    Stimulus                                            Stimuli\n      90                     Nucleus                                            Nuclei\n      91                      Penny                     Pennies (Separate coins) / Pence (Total amount)\n      92                       Alga                                             Algae",
+  "theory": "Singular Plural\n1 Goose Geese\n\n2 Louse Lice\n\n3 Mouse Mice\n\n4 Foot Feet\n\n5 Tooth Teeth\n\n6 Child Children\n\n7 Deer Deer\n\n8 Sheep Sheep\n\n9 Fish Fish\n\n10 Aircraft Aircraft\n\n11 Salmon Salmon\n\n12 Species Species\n\n13 Series Series\n\n14 Offspring Offspring\n\n15 Cactus Cacti\n\n16 Fungus Fungi\n\n17 Radius Radii\n\n18 Syllabus Syllabi\n\n19 Phenomenon Phenomena\n\n20 Criterion Criteria\n\n21 Bacterium Bacteria\n\n22 Formula Formulae\n\n23 Erratum Errata\n\n24 Medium Media\n\n25 Memorandum Memoranda \n\n26 Datum Data - @\n\n27 Analysis Analyses\n\n28 Thesis Theses\n\n29 Crisis Crises\n\n30 Knife Knives\n\n31 Life Lives\n\n32 Elf Elves\n\n33 Wife Wives\n\n34 Leaf Leaves\n\n35 Wolf Wolves\n\n36 Shelf Shelves\n\n37 City Cities\n\n38 Baby Babies\n\n39 Echo Echoes\n\n40 Cargo Cargoes\n\n41 Hero Heroes\n\n42 Mosquito Mosquitoes\n\n43 Boy Boys\n\n44 Toy Toys\n\n45 Turf Turfs\n\n46 Scarf Scarfs\n\n47 Roof Roofs\n\n48 Dwarf Dwarfs\n\n49 Chief Chiefs\n\n50 Belief Beliefs\n\n51 Cliff Cliffs\n\n52 Piano Pianos\n\n53 Dynamo Dynamos \n\n54 Solo Solos - @\n\n55 Memento Mementos \n\n56 Portfolio Portfolios\n\n57 Radio Radios\n\n58 Story Stories\n\n59 Storey Storeys\n\n60 Valley Valleys\n\n61 Monkey Monkeys\n\n62 Key Keys\n\n63 Way Ways\n\n64 Father-in-law Fathers-in-law\n\n65 Editor-in-chief Editors-in-chief\n\n66 Mother-in-law Mothers-in-law\n\n67 Commander-in-chief Commanders-in-chief\n\n68 Step-son Step-sons\n\n69 Step-daughter Step-daughters\n\n70 Man-servant Men-servants\n\n71 Forget-me-not Forget-me-nots\n\n72 Break-in Break-ins\n\n73 Looker- Lookers-\n\n74 Passer-by Passers-by\n\n75 Check-up Check-ups\n\n76 Lay-off Lay-offs\n\n77 Mouthful Mouthfuls\n\n78 Spoonful Spoonfuls\n\n79 Bagful Bagfuls\n\n80 Handful Handfuls\n\n81 Man doctor Men doctors \n\n82 Woman doctor Women doctors - @\n\n83 Attorney general Attorneys general o\n arc\n\n 84 Officer in-charge Officers in-charge\n\n 85 Code of conduct Codes of conduct\n\n 86 Book shelf Book shelves\n 87 General manager General managers\n 88 Alumnus Alumni\n 89 Stimulus Stimuli\n 90 Nucleus Nuclei\n 91 Penny Pennies (Separate coins) / Pence (Total amount)\n 92 Alga Algae",
   "mcqs": [
     {
       "qno": 1,
@@ -133,7 +133,7 @@
         "c": "/ blocking the"
       },
       "correct": "c",
-      "explanation": "looker-ons should be replaced with lookers-on of use will be,",
+      "explanation": "looker-ons should be replaced with lookers- of use will be,",
       "format": "error_spotting"
     },
     {
@@ -195,7 +195,7 @@
       "options": {
         "a": "/ memorandum highlighting",
         "b": "/ that needed immediate attentiond",
-        "c": "/ No error e"
+        "c": "/ No error"
       },
       "correct": "b",
       "explanation": "memorandum should be replaced with memoranda/",
@@ -223,7 +223,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error.",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -232,8 +232,8 @@
       "exam_source": "",
       "options": {
         "a": "multiple storey",
-        "b": "several stories",
-        "c": "several storeys",
+        "b": "veral stories",
+        "c": "veral storeys",
         "d": "No improvement"
       },
       "correct": "c",
@@ -242,7 +242,7 @@
     },
     {
       "qno": 20,
-      "question": "The Delhi Birla International School alumnus occupy leading positions in different areas of profession and service. \b?",
+      "question": "The Delhi Birla International School alumnus occupy leading positions in different areas of profession and service. ?",
       "exam_source": "(SSC CHSL, 2020)",
       "options": {
         "a": "alumnus occupies",

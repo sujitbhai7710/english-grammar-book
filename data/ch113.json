@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 296,
   "end_page": 296,
-  "theory": " Very – It modifies adjectives and adverbs in the positive degree and is also used with\n         present participles (as adjectives).\n         ;g adjectives vkSj adverbs dks positive degree esa modify djrk gS vkSj present participles (as\n         adjectives) osQ lkFk Hkh use gksrk gSA\n     Much – It modifies comparative adjectives and is also used with past participles (as\n         adjectives).\n         ;g comparative adjectives dks modify djrk gS vkSj past participles (as adjectives) osQ lkFk Hkh\n         use gksrk gSA\n                    Note\n                The + very + Superlative degree Adjective\n                Much + the + Superlative degree Adjective",
+  "theory": " Very – It modifies adjectives and adverbs in the positive degree and is also used with\n present participles (as adjectives).\n ;g adjectives vkSj adverbs dks positive degree esa modify djrk gS vkSj present participles (as\n adjectives) osQ lkFk Hkh use gksrk gSA\n  Much – It modifies comparative adjectives and is also used with past participles (as\n adjectives).\n ;g comparative adjectives dks modify djrk gS vkSj past participles (as adjectives) osQ lkFk Hkh\n use gksrk gSA\n Note\n  The + very + Superlative degree Adjective\n  Much + the + Superlative degree Adjective",
   "mcqs": [
     {
       "qno": 1,
@@ -43,7 +43,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -125,7 +125,7 @@
     },
     {
       "qno": 10,
-      "question": "Our last session on the day?",
+      "question": "Our last session the day?",
       "exam_source": "",
       "options": {
         "a": "/ ended on a sad",

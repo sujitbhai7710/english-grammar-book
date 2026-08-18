@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 114,
   "end_page": 115,
-  "theory": " \"As\" is used after certain verbs to indicate the role, identity, or function of a person or\n        thing. However, after some verbs, the use of \"as\" is generally omitted and should be\n        avoided.\n\n  \"As\" dk iz;ksx oqQN verbs osQ ckn fdlh O;fDr ;k oLrq dh identity, role ;k dk;Z (function) dks\n  O;Dr djus osQ fy, fd;k tkrk gSA\n\n              Use \"as\" after the following Verbs:\n        \t\t regard, describe, define, treat, view, know, portray\n\n              Do not use \"as\" after the following Verbs:\n        \t\t name, elect, think, consider, call, appoint, make, choose, declare",
+  "theory": " \"As\" is used after certain verbs to indicate the role, identity, or function of a person or\n thing. However, after some verbs, the use of \"as\" is generally omitted and should be\n avoided.\n\n \"As\" dk iz;ksx oqQN verbs osQ ckn fdlh O;fDr ;k oLrq dh identity, role ;k dk;Z (function) dks\n O;Dr djus osQ fy, fd;k tkrk gSA\n\n Use \"as\" after the following Verbs:\n regard, describe, define, treat, view, know, portray\n\n Do not use \"as\" after the following Verbs:\n name, elect, think, consider, call, appoint, make, choose, declare",
   "mcqs": [
     {
       "qno": 1,
@@ -55,7 +55,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error.",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -94,7 +94,7 @@
         "d": "Answers"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -180,8 +180,8 @@
       "options": {
         "b": "/ and chose her as the",
         "c": "/ for the academic year.",
-        "d": "h all",
-        "a": "him a great leader osQ LFkku ij him as a great"
+        "d": "all",
+        "a": "im a great leader osQ LFkku ij him as a great"
       },
       "correct": "c",
       "explanation": "chose her as the class representative of",

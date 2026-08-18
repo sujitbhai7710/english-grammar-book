@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 56,
   "end_page": 58,
-  "theory": "1           LINKING VERB + ADJECTIVE\n   Linking Verbs take adjective, not adverb because they do not show action, they link the\n        subject to a description (Subject complement) that describes or identifies the subject.\n Linking Verb osQ ekè;e ls Subject dh Quality / State crkbZ tkrh gSA blfy, blosQ ckn Adjective vkrk\n\n        gSA\n   Linking Verbs: Be (is, am, are, was, were, being), look, seem, appear, feel, sound, taste,\n    smell, become, get, grow, turn, remain, stay, keep, prove, etc.\n\n                Examples                                                                Linking Verb (fn[kuk)\n\n               1. The soup tasted delicious / deliciously.\n                                                                           Look\n               2. Mother looks beautiful / beautifully in the\n                  traditional dress.\n                                                                                       Action Verb (ns[kuk)\n\n Action Verbs take adverbs because they express action, and the adverb modifies how, when,\n where, or to what extent that action is performed.\n \u0007Action Verbs adverb blfy, ysrs gSa D;ksafd adverb ;g crkrk gS fd dk;Z dSls] dc] dgk¡ ;k fdl gn\n\n        rd gqvk gSA\n\n 2             ACTION VERB + ADVERB\n       Action Verbs: Run, eat, teach, play, sink, dance, work, walk, write, read, look, etc.\n\n                Examples",
+  "theory": "1 LINKING VERB + ADJECTIVE\n  Linking Verbs take adjective, not adverb because they do not show action, they link the\n subject to a description (Subject complement) that describes or identifies the subject.\n Linking Verb osQ ekè; ls Subject dh Quality / State crkbZ tkrh gSA blfy, blosQ ckn Adjective vkrk\n\n gSA\n  Linking Verbs: Be (is, am, are, was, were, being), look, seem, appear, feel, sound, taste,\n smell, become, get, grow, turn, remain, stay, keep, prove, etc.\n\n Examples Linking Verb (fn[kuk)\n\n 1. The soup tasted delicious / deliciously.\n Look\n 2. Mother looks beautiful / beautifully in the\n traditional dress.\n Action Verb (ns[kuk)\n\n Action Verbs take adverbs because they express action, and the adverb modifies how, when,\n where, or to what extent that action is performed.\n \u0007Action Verbs adverb blfy, ysrs gSa D;ksafd adverb ;g crkrk gS fd dk;Z dSls] dc] dgk¡ ;k fdl gn\n\n rd gqvk gSA\n\n 2 ACTION VERB + ADVERB\n  Action Verbs: Run, eat, teach, play, sink, dance, work, walk, write, read, look, etc.\n\n Examples",
   "mcqs": [
     {
       "qno": 1,
@@ -104,9 +104,9 @@
       "exam_source": "(SSC MTS, 2022)",
       "options": {
         "a": "/ to be with you",
-        "b": "re/ at this",
+        "b": "/ at this",
         "c": "/ No error",
-        "d": "- @f"
+        "d": "- @"
       },
       "correct": "a",
       "explanation": "Greatly should be replaced with great of use will because",
@@ -294,12 +294,12 @@
     },
     {
       "qno": 23,
-      "question": "The car is moving very fastly on the road.",
+      "question": "The car is moving very fastly the road.",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
-        "a": "fastliness",
+        "a": "astliness",
         "b": "quickliness",
-        "c": "fast",
+        "c": "ast",
         "d": "quicker"
       },
       "correct": "c",
@@ -322,7 +322,7 @@
     },
     {
       "qno": 25,
-      "question": "He spoke so .......... that even abstruse theories seemed digestible.\b?",
+      "question": "He spoke so .......... that even abstruse theories seemed digestible.?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "lucid",
@@ -336,27 +336,27 @@
     },
     {
       "qno": 26,
-      "question": "He spoke so .......... that the audience was mesmerized.\b?",
+      "question": "He spoke so .......... that the audience was mesmerized.?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
-        "a": "fluently",
-        "b": "fluent",
-        "c": "fluented",
-        "d": "fluency"
+        "a": "luently",
+        "b": "luent",
+        "c": "luented",
+        "d": "luency"
       },
       "correct": "a",
-      "explanation": "27. (d) 28. (b)ch 29. (a) 30. (c) Solut",
+      "explanation": "",
       "format": "fill_blank"
     },
     {
       "qno": 27,
-      "question": "He finished the work .......... to avoid missing the deadline.\b?",
+      "question": "He finished the work .......... to avoid missing the deadline.?",
       "exam_source": "(SSC CPO, 2025)",
       "options": {
-        "a": "hurried",
-        "b": "hurrying",
-        "c": "hurry",
-        "d": "hurriedly"
+        "a": "urried",
+        "b": "urrying",
+        "c": "urry",
+        "d": "urriedly"
       },
       "correct": "d",
       "explanation": "",
@@ -367,8 +367,8 @@
       "question": "The detective looked .......... at the fingerprints, trying to find a match that others had missed.",
       "exam_source": "",
       "options": {
-        "a": "careful",
-        "b": "carefully",
+        "a": "ul",
+        "b": "ully",
         "c": "more careful",
         "d": "most careful"
       },
@@ -381,10 +381,10 @@
       "question": "The speaker's voice sounded .......... over the intercom, making it difficult for the students to hear the instructions.",
       "exam_source": "",
       "options": {
-        "a": "faint",
-        "b": "faintly",
+        "a": "aint",
+        "b": "aintly",
         "c": "more faintly",
-        "d": "fainterly"
+        "d": "ainterly"
       },
       "correct": "a",
       "explanation": "",
@@ -395,9 +395,9 @@
       "question": "After the long trek through the mountains, the hikers felt .......... and decided to set up camp early.",
       "exam_source": "",
       "options": {
-        "a": "exhaustedly",
-        "b": "exhaustion",
-        "c": "exhausted",
+        "a": "xhaustedly",
+        "b": "xhaustion",
+        "c": "xhausted",
         "d": "more exhaustedly"
       },
       "correct": "c",

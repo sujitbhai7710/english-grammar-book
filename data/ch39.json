@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 110,
   "end_page": 111,
-  "theory": "1     Referring to People (Singular)\n\n                            Everyone, Everybody,\n                            Someone, Somebody,\n                             Anyone, Anybody,                + Singular Verb + ......... + his / her + ........\n                              No one, Nobody\n\n            2     Referring to Things (Singular)\n\n                            Everything, Something,\n                                                              + Singular Verb + ......... + its + ........\n                              Nothing, Anything\n\n            Note\n         Nothing, Nobody rFkk No one osQ lkFk ml Clause esa Not ;k Never dk iz;ksx djuk xyr gSA",
+  "theory": "1 Referring to People (Singular)\n\n Everyone, Everybody,\n Someone, Somebody,\n Anyone, Anybody, + Singular Verb + ......... + his / her + ........\n No one, Nobody\n\n 2 Referring to Things (Singular)\n\n Everything, Something,\n + Singular Verb + ......... + its + ........\n Nothing, Anything\n\n Note\n Nothing, Nobody rFkk No one osQ lkFk ml Clause esa Not ;k Never dk iz;ksx djuk xyr gSA",
   "mcqs": [
     {
       "qno": 1,
@@ -101,7 +101,7 @@
     },
     {
       "qno": 14,
-      "question": "No one who have ever worked on such a complex project?",
+      "question": "No one who have ever worked such a complex project?",
       "exam_source": "",
       "options": {
         "a": "/ is unaware of its",
@@ -115,7 +115,7 @@
     },
     {
       "qno": 15,
-      "question": "Everyone sincerely and positively were ready to find the solution for the serious issue of sewage system.\b?",
+      "question": "Everyone sincerely and positively were ready to find the solution for the serious issue of sewage system.?",
       "exam_source": "(SSC CHSL, 2023)",
       "options": {
         "a": "Everyone were sincerely and positively",

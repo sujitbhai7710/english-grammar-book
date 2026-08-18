@@ -4,11 +4,11 @@
   "section": "A",
   "start_page": 155,
   "end_page": 156,
-  "theory": " Present Subjunctive mood is used to express a suggestion, demand, order, necessity, or\n        importance.\n        Note\n      The base form of the verb is used here, regardless of whether the subject is singular or plural.\n      ;gk¡ ij ges'kk Verb dh Base form dk Use fd;k tkrk gS] pkgs Subject singular gks ;k plural gksA\n                                            Present Subjunctive Mood\n\n                                   Active Voice                         Passive Voice\n\n                                            VBase                       Be+V3\n\n                                                           VBase (Active Voice)\n             Subject1 + Verb + that + Subject2 +\n                                                           Be + V3 (Passive Voice)\n\n                                                           VBase (Active Voice)\n             It is + Adjective + that + Subject +\n                                                           Be + V3 (Passive Voice)\n\n         Verbs that trigger Present Subjunctive                 Adjectives that trigger Present Subjunctive\n\n    Suggest, Insist, Order, Advise, Command, Necessary, Essential, Important, Mandatory,\n    Request, Propose, Recommend, Urge        Advisable,    Indispensable,    Compulsory,\n                                             Imperative, Crucial",
+  "theory": " Present Subjunctive mood is used to express a suggestion, demand, order, necessity, or\n importance.\n Note\n The base form of the verb is used here, regardless of whether the subject is singular or plural.\n ;gk¡ ij ges'kk Verb dh Base form dk Use fd;k tkrk gS] pkgs Subject singular gks ;k plural gksA\n Present Subjunctive Mood\n\n Active Voice Passive Voice\n\n VBase Be+V3\n\n VBase (Active Voice)\n  Subject1 + Verb + that + Subject2 +\n Be + V3 (Passive Voice)\n\n VBase (Active Voice)\n  It is + Adjective + that + Subject +\n Be + V3 (Passive Voice)\n\n Verbs that trigger Present Subjunctive Adjectives that trigger Present Subjunctive\n\n Suggest, Insist, Order, Advise, Command, Necessary, Essential, Important, Mandatory,\n Request, Propose, Recommend, Urge Advisable, Indispensable, Compulsory,\n Imperative, Crucial",
   "mcqs": [
     {
       "qno": 1,
-      "question": "Choose the correct sentence.\b?",
+      "question": "Choose the correct sentence.?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
         "a": "He suggested me to take rest.",
@@ -70,7 +70,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "are implemented osQ LFkku ij be implemented ll dk use gksxk, D;ksafd present subjunctive mood d e ep osQ passive esa be + V vkrk gSA",
+      "explanation": "are implemented osQ LFkku ij be implemented dk use gksxk, D;ksafd present subjunctive mood osQ passive esa be + V vkrk gSA",
       "format": "error_spotting"
     },
     {
@@ -83,7 +83,7 @@
         "c": "/ was feeling unwell."
       },
       "correct": "b",
-      "explanation": "12. (a) 13. (a) 14. (b) 15. (a) Solut",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -91,10 +91,10 @@
       "question": "She insisted me to take the medicine.",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
-        "a": "That I take the medicine",
+        "a": "t I take the medicine",
         "b": "Me that I take medicine",
         "c": "Me taking the medicine",
-        "d": "To take medicine by me"
+        "d": "o take medicine by me"
       },
       "correct": "a",
       "explanation": "",
@@ -102,7 +102,7 @@
     },
     {
       "qno": 13,
-      "question": "The teacher insisted that the student to be honest.\b?",
+      "question": "The teacher insisted that the student to be honest.?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "Be honest",
@@ -120,7 +120,7 @@
       "exam_source": "",
       "options": {
         "a": "should resign",
-        "b": "resign",
+        "b": "sign",
         "c": "shall resign",
         "d": "No improvement"
       },
@@ -130,7 +130,7 @@
     },
     {
       "qno": 15,
-      "question": "The captain insisted that every player is present on the field by 6:00 AM sharp.",
+      "question": "The captain insisted that every player is present the field by 6:00 AM sharp.",
       "exam_source": "",
       "options": {
         "a": "be present",
@@ -144,7 +144,7 @@
     },
     {
       "qno": 16,
-      "question": "It is essential that every citizen pays his taxes on time for the development of the nation.",
+      "question": "It is essential that every citizen pays his taxes time for the development of the nation.",
       "exam_source": "",
       "options": {
         "a": "pay",
@@ -153,7 +153,7 @@
         "d": "No improvement"
       },
       "correct": "a",
-      "explanation": "17. (a) 18. (a) 19. (b) 20. (c) tions",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {

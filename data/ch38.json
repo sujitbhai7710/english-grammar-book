@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 108,
   "end_page": 109,
-  "theory": "1    Showing Reason                                         2     Showing Result\n\n                             Reason    Result                     Reason                       Result\n As | Since | Because +              +                                     + So | Therefore +\n                             Clause 1 Clause 2                    Clause 1                    Clause 2\n\n Conjunctions of Reason                                                          Result Connectors\n\n       As / Since / Because – These are used to show the reason or cause of an action.\n   \t\tbudk ç;ksx fdlh dk;Z dk dkj.k ;k otg crkus ds fy, fd;k tkrk gSA\n    So / Therefore – These are used to show the result or consequence of an action.\n    budk ç;ksx fdlh dk;Z ds ifj.kke ;k urhts dks crkus ds fy, fd;k tkrk gSA\n\n               Because (Conjunction)                                   Because of (Preposition)\n       Used to join two clauses.                         Used before a Noun/Pronoun/Noun Phrase.\n       Followed by a clause (Sub + verb)                 Not followed by a complete clause.\n   Structure:                                       Structure:\n   \t\t    Because + Subject + Verb (Clause)          \t\t    Because of + Noun/Pronoun/Noun Phrase\n   Example:                                         Example:\n    She is happy because she passed\n   \t\t                                                She missed the bus because of heavy traffic.\n\n          the exam.",
+  "theory": "1 Showing Reason 2 Showing Result\n\n Reason Result Reason Result\n As | Since | Because + + + So | Therefore +\n Clause 1 Clause 2 Clause 1 Clause 2\n\n Conjunctions of Reason Result Connectors\n\n  As / Since / Because – These are used to show the reason or cause of an action.\n budk ç;ksx fdlh dk;Z dk dkj.k ;k otg crkus ds fy, fd;k tkrk gSA\n  So / Therefore – These are used to show the result or consequence of an action.\n budk ç;ksx fdlh dk;Z ds ifj.kke ;k urhts dks crkus ds fy, fd;k tkrk gSA\n\n Because (Conjunction) Because of (Preposition)\n  Used to join two clauses.  Used before a Noun/Pronoun/Noun Phrase.\n  Followed by a clause (Sub + verb)  Not followed by a complete clause.\n Structure: Structure:\n Because + Subject + Verb (Clause) Because of + Noun/Pronoun/Noun Phrase\n Example: Example:\n She is happy because she passed\n She missed the bus because of heavy traffic.\n\n the exam.",
   "mcqs": [
     {
       "qno": 1,
@@ -62,7 +62,7 @@
       "question": "The company suffered heavy losses?",
       "exam_source": "",
       "options": {
-        "a": "/ on",
+        "a": "/",
         "b": "/ because poor",
         "c": "/ and weak internal"
       },
@@ -118,7 +118,7 @@
         "c": "/ introduced by the management."
       },
       "correct": "b",
-      "explanation": "So go,xk, because conjunction of",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -143,7 +143,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "So go,xk, because as with so of",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -161,11 +161,11 @@
     },
     {
       "qno": 13,
-      "question": "She didn't have the required qualifications, and she was not selected for the role.fr \b PHASE?",
+      "question": "She didn't have the required qualifications, and she was not selected for the role.  PHASE?",
       "exam_source": "(SSC T\n\n                                               G XIII, 2025)",
       "options": {
         "a": "therefore",
-        "c": "however r ch",
+        "c": "owever",
         "d": "thus"
       },
       "correct": "a",
@@ -174,7 +174,7 @@
     },
     {
       "qno": 14,
-      "question": "Since the people who gave me a ride decided to leave the concert early, so I had to take a bus home. \b?",
+      "question": "Since the people who gave me a ride decided to leave the concert early, so I had to take a bus home. ?",
       "exam_source": "(SSC MTS, 2025)",
       "options": {
         "a": "so I had to get a bus home",
@@ -188,11 +188,11 @@
     },
     {
       "qno": 15,
-      "question": "As Gagan wanted to be selected in the team, so he worked very hard. \b?",
+      "question": "As Gagan wanted to be selected in the team, so he worked very hard. ?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
         "a": "so he work very hard",
-        "b": "he worked very hard",
+        "b": "worked very hard",
         "c": "and he worked very hard",
         "d": "because he worked very hard"
       },

@@ -4,11 +4,11 @@
   "section": "A",
   "start_page": 177,
   "end_page": 178,
-  "theory": " Prepositions of position show the relation of place or movement between two objects (e.g.,\n        on, over, under, upon).\n \t\t Position prepositions nks oLrqvksa ds chp LFkku ;k xfr dk laca/ crkrs gSa (tslS on, over, under, upon)\n\n                      On                   Over                Under               Upon\n\n   ON: tc ,d oLrq nwljh ds Åij gks vkSj mlls Li'kZ dj jgh gksA\n   OVER: tc ,d oLrq nwljh ds Åij ysfdu Li'kZ u fd;k gksA\n   UNDER: tc ,d oLrq nwljh oLrq ds uhps gksA\n   UPON: tc ,d oLrq nwljh oLrq ds Åij vk, xfr @ Motion esaA\n\n   Note\n\n  tc fdlh oLrq ds Åij fdlh pht dk vkoj.k (covering) gks] rks \"over\" dk ç;ksx fd;k tkrk gS& pkgs\n  og Li'kZ djs ;k ughaA",
+  "theory": " Prepositions of position show the relation of place or movement between two objects (.g.,\n , over, under, upon).\n Position prepositions nks oLrqvksa ds chp LFkku ;k xfr dk laca/ crkrs gSa (tslS , over, under, upon)\n\n On Over Under Upon\n\n  ON: tc , oLrq nwljh ds Åij gks vkSj mlls Li'kZ dj jgh gksA\n  OVER: tc , oLrq nwljh ds Åij ysfdu Li'kZ u fd;k gksA\n  UNDER: tc , oLrq nwljh oLrq ds uhps gksA\n  UPON: tc , oLrq nwljh oLrq ds Åij vk, xfr @ Motion esaA\n\n Note\n\n tc fdlh oLrq ds Åij fdlh pht dk vkoj.k (covering) gks] rks \"over\" dk ç;ksx fd;k tkrk gS& pkgs\n og Li'kZ djs ;k ughaA",
   "mcqs": [
     {
       "qno": 1,
-      "question": "The cat was hiding on the chair?",
+      "question": "The cat was hiding the chair?",
       "exam_source": "",
       "options": {
         "a": "/ and",
@@ -16,7 +16,7 @@
         "c": "/ No error"
       },
       "correct": "a",
-      "explanation": "hiding on the chair should be replaced with hiding under",
+      "explanation": "hiding the chair should be replaced with hiding under",
       "format": "error_spotting"
     },
     {
@@ -29,7 +29,7 @@
         "c": "/ No error"
       },
       "correct": "a",
-      "explanation": "over the wall should be replaced with on the wall of use",
+      "explanation": "over the wall should be replaced with the wall of use",
       "format": "error_spotting"
     },
     {
@@ -54,7 +54,7 @@
         "b": "/ waiting for his son to arrive."
       },
       "correct": "a",
-      "explanation": "over the bench should be replaced with on the bench of",
+      "explanation": "over the bench should be replaced with the bench of",
       "format": "error_spotting"
     },
     {
@@ -67,19 +67,19 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "on the baby should be replaced with over the baby of use",
+      "explanation": "the baby should be replaced with over the baby of use",
       "format": "error_spotting"
     },
     {
       "qno": 6,
-      "question": "The lamp was hanging on the table?",
+      "question": "The lamp was hanging the table?",
       "exam_source": "",
       "options": {
         "b": "/ in the dark room.",
         "c": "/ No error"
       },
       "correct": "a",
-      "explanation": "on the table should be replaced with over the table of use",
+      "explanation": "the table should be replaced with over the table of use",
       "format": "error_spotting"
     },
     {
@@ -92,12 +92,12 @@
         "c": "/ he had for the day."
       },
       "correct": "a",
-      "explanation": "in his stool should be replaced with on his stool of use will be,",
+      "explanation": "in his stool should be replaced with his stool of use will be,",
       "format": "error_spotting"
     },
     {
       "qno": 8,
-      "question": "The plane flew on the city, offering a great view. On / Upon / Over n of place or movement between two objects (e.g., ;k xfr dk laca/ crkrs gSa (tslS on, over, under, upon) Under Upon i'kZ dj jgh gksA u fd;k gksA fr @ Motion esaA covering) gks] rks \"over\" dk ç;ksx fd;k tkrk gS& pkgs?",
+      "question": "The plane flew the city, offering a great view. On / Upon / Over n of place or movement between two objects (.g., ;k xfr dk laca/ crkrs gSa (tslS , over, under, upon) Under Upon i'kZ dj jgh gksA u fd;k gksA @ Motion esaA covering) gks] rks \"over\" dk ç;ksx fd;k tkrk gS& pkgs?",
       "exam_source": "",
       "options": {
         "a": "in the city",
@@ -111,12 +111,12 @@
     },
     {
       "qno": 9,
-      "question": "I found a bundle of notes ........... his pillow. \b?",
+      "question": "I found a bundle of notes ........... his pillow. ?",
       "exam_source": "(DP HCM, 2026)",
       "options": {
         "a": "under",
         "b": "below",
-        "c": "down",
+        "c": "own",
         "d": "into"
       },
       "correct": "a",
@@ -125,7 +125,7 @@
     },
     {
       "qno": 10,
-      "question": "She hung your painting ............ the fireplace. \b?",
+      "question": "She hung your painting ............ the fireplace. ?",
       "exam_source": "(DP HCM, 2026)",
       "options": {
         "a": "across",
@@ -139,7 +139,7 @@
     },
     {
       "qno": 11,
-      "question": "The fan was directly .............. my head. \b?",
+      "question": "The fan was directly .............. my head. ?",
       "exam_source": "(SSC CPO, 2020)",
       "options": {
         "a": "on",
@@ -148,7 +148,7 @@
         "d": "below"
       },
       "correct": "b",
-      "explanation": "12. (c) 13. (b) 14. (c) 15. (c) Solut",
+      "explanation": "",
       "format": "fill_blank"
     },
     {
@@ -157,12 +157,12 @@
       "exam_source": "",
       "options": {
         "a": "over",
-        "b": "under ll",
+        "b": "under",
         "c": "upon",
-        "d": "into f ha"
+        "d": "into"
       },
       "correct": "c",
-      "explanation": "fter finishing his conversation with the guard, he rode ........ his horse and went away quickly towards the village. (a) over (b) under ll (c) upon (d) into f ha - @f ear 13. The cat suddenly jumped ......... the rat as soon as it came out of the hole and tried to run away. (a) under (b) upon (c) over (d) across 14. Napoleon Bonaparte was marooned ................. the island of Elba. (a) in (b) over (c) on (d) under Answers",
+      "explanation": "fter finishing his conversation with the guard, he rode ........ his horse and went away quickly towards the village. (a) over (b) under () upon () into - @ ear 13. The cat suddenly jumped ......... the rat as soon as it came out of the hole and tried to run away. (a) under (b) upon () over () across 14. Napoleon Bonaparte was marooned ................. the island of Elba. (a) in (b) over () () under Answers",
       "format": "fill_blank"
     },
     {

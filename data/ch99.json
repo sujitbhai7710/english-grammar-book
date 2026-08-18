@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 259,
   "end_page": 260,
-  "theory": "Fast (rs”k)                                         Hard                                    Hardly\n\n    Adjective             Adverb            Adjective (dfBu)             Adverb (esgur ls)          Adverb (eqf'dy ls)\n\n         Quiet                    Quite                              Free                               Freely\n\n      Adjective             Adverb (degree)                    Adjective/Adverb                    Adverb (Openly)\n       (Silent)             (dkiQh gn rd)                       (vktkn@eqÝr esa)                       (vk”kknh ls)\n\n               Most                                 Mostly                     Late (Delay)                 Lately\n\n     Superlative degree                 Mainly/Generally/For the               Adjective/                  Adverb\n    Maximum (lcls ”;knk)                  most part (”;knkrj)                 Adverb (nsj)         Recently (gky gh esa)\n\n    At Present                  Presently                             Loudly (Adverb)                        Aloud\n\n    Now (vHkh)           Very Soon (tYn gh)                              (rs”k vkokt esa)               (m¡Qph vkok”k esa)\n\n                                          Good                            Well\n\n                                        Adjective                        Adverb\n                                          (vPNk)                       (vPNs ls)",
+  "theory": "Fast (rs”k) Hard Hardly\n\n Adjective Adverb Adjective (dfBu) Adverb (esgur ls) Adverb (eqf'dy ls)\n\n Quiet Quite Free Freely\n\n Adjective Adverb (degree) Adjective/Adverb Adverb (Openly)\n (Silent) (dkiQh gn rd) (vktkneqÝr esa) (vk”kknh ls)\n\n Most Mostly Late (Delay) Lately\n\n Superlative degree Mainly/Generally/For the Adjective/ Adverb\n Maximum (lcls ”;knk) most part (”;knkrj) Adverb (nsj) Recently (gky gh esa)\n\n At Present Presently Loudly (Adverb) Aloud\n\n Now (vHkh) Very Soon (tYn gh) (rs”k vkokt esa) (m¡Qph vkok”k esa)\n\n Good Well\n\n Adjective Adverb\n (vPNk) (vPNs ls)",
   "mcqs": [
     {
       "qno": 1,
@@ -167,13 +167,13 @@
     },
     {
       "qno": 13,
-      "question": "He worked very hardly to pass the exam. \b?",
+      "question": "He worked very hardly to pass the exam. ?",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
         "a": "sincerely",
-        "b": "regularly",
-        "c": "hard",
-        "d": "harder"
+        "b": "gularly",
+        "c": "d",
+        "d": "r"
       },
       "correct": "c",
       "explanation": "",
@@ -184,7 +184,7 @@
       "question": "The participants were most from urban backgrounds, with only a few from rural areas.",
       "exam_source": "",
       "options": {
-        "a": "from most",
+        "a": "om most",
         "b": "most of from",
         "c": "mostly from",
         "d": "No improvement"
@@ -195,7 +195,7 @@
     },
     {
       "qno": 15,
-      "question": "The students were instructed to remain .......... during the examination. \b AIR FORCE Intake 01, 2027 (30/March/2026)",
+      "question": "The students were instructed to remain .......... during the examination.  AIR FORCE Intake 01, 2027 (30/March/2026)",
       "exam_source": "",
       "options": {
         "a": "quit",

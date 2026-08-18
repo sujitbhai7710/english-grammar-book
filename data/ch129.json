@@ -17,18 +17,18 @@
         "d": "Rocky suggested his playmates went for"
       },
       "correct": "b",
-      "explanation": "2. (b) 3. (d) 4. (b) 5. (d)",
+      "explanation": "",
       "format": "regular"
     },
     {
       "qno": 2,
-      "question": "Timothy said, \"How nice the food in the restaurant was!\"\b?",
+      "question": "Timothy said, \"How nice the food in the restaurant was!\"?",
       "exam_source": "(DP HCM, 2026)",
       "options": {
-        "a": "Timothy exclaimed that the food in the",
-        "b": "Timothy exclaimed that the food in the",
-        "c": "Timothy exclaimed that the food in the",
-        "d": "Timothy exclaimed that the food in the"
+        "a": "imothy exclaimed that the food in the",
+        "b": "imothy exclaimed that the food in the",
+        "c": "imothy exclaimed that the food in the",
+        "d": "imothy exclaimed that the food in the"
       },
       "correct": "b",
       "explanation": "",
@@ -87,7 +87,7 @@
         "d": "Mina forbidden to touch the cable when"
       },
       "correct": "c",
-      "explanation": "7. (a) 8. (d) 9. (b) 10. (d)",
+      "explanation": "",
       "format": "regular"
     },
     {
@@ -95,10 +95,10 @@
       "question": "The engineer pointed out that, by the time the backup system activated, the damage would already have been done.",
       "exam_source": "(DP HCM, 2026)",
       "options": {
-        "a": "The engineer pointed out, \"By the time",
-        "b": "The engineer said, \"By the time the",
-        "c": "The engineer pointed out, \"By the time",
-        "d": "The engineer said, \"By the time the backup"
+        "a": "ngineer pointed out, \"By the time",
+        "b": "ngineer said, \"By the time the",
+        "c": "ngineer pointed out, \"By the time",
+        "d": "ngineer said, \"By the time the backup"
       },
       "correct": "a",
       "explanation": "",
@@ -120,13 +120,13 @@
     },
     {
       "qno": 9,
-      "question": "The teacher told the students that they should complete the assignment by the next day. hal (SSC STENO, d f 2025)",
+      "question": "The teacher told the students that they should complete the assignment by the next day. hal (SSC STENO, 2025)",
       "exam_source": "",
       "options": {
-        "a": "The teacher said to students, \"You",
-        "b": "The teacher said to TG the students",
-        "c": "The teacher told, \"The students should",
-        "d": "The teacher said to the students"
+        "a": "teacher said to students, \"You",
+        "b": "teacher said to TG the students",
+        "c": "teacher told, \"The students should",
+        "d": "teacher said to the students"
       },
       "correct": "b",
       "explanation": "",
@@ -137,10 +137,10 @@
       "question": "They said, \"We shall visit the museum tomorrow.\"?",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
-        "a": "They said they would be visiting the",
-        "b": "They said that they should visit the",
-        "c": "They said that they will visit the museum",
-        "d": "They said that they would visit the"
+        "a": "y said they would be visiting the",
+        "b": "y said that they should visit the",
+        "c": "y said that they will visit the museum",
+        "d": "y said that they would visit the"
       },
       "correct": "d",
       "explanation": "",
@@ -157,7 +157,7 @@
         "d": "Roshni told Rakesh that time and tide"
       },
       "correct": "b",
-      "explanation": "12. (b) 13. (b) 14. (d) 15. (d)",
+      "explanation": "",
       "format": "regular"
     },
     {
@@ -165,10 +165,10 @@
       "question": "The labourers said to the contractor, \"Did you ask the manager when we are going to receive our remuneration that has been pending for the last three months?\"?",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
-        "a": "The labourers asked the contractor if",
-        "b": "The labourers asked the contractor if he",
-        "c": "The labourers asked the contractor if",
-        "d": "The labourers asked the contractor if had"
+        "a": "labourers asked the contractor if",
+        "b": "labourers asked the contractor if he",
+        "c": "labourers asked the contractor if",
+        "d": "labourers asked the contractor if had"
       },
       "correct": "b",
       "explanation": "",
@@ -193,10 +193,10 @@
       "question": "The interviewer asked me if I could drive a car.",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
-        "a": "The interviewer said, \"Will you drive a",
-        "b": "The interviewer said, \"You can drive a",
-        "c": "The interviewer said, \"Shall I drive a car?\"",
-        "d": "The interviewer said, \"Can you drive a"
+        "a": "interviewer said, \"Will you drive a",
+        "b": "interviewer said, \"You can drive a",
+        "c": "interviewer said, \"Shall I drive a car?\"",
+        "d": "interviewer said, \"Can you drive a"
       },
       "correct": "d",
       "explanation": "",
@@ -227,7 +227,7 @@
         "d": "She exclaimed that the view was"
       },
       "correct": "b",
-      "explanation": "17. (d) 18. (d) 19. (a) 20. (b)",
+      "explanation": "",
       "format": "regular"
     },
     {
@@ -235,10 +235,10 @@
       "question": "The reporter reported that five people had been drowned in a boat accident.",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
-        "a": "The reporter said, \"Five people are",
-        "b": "The reporter said, \"Five people were",
-        "c": "The reporter said, \"Five people drowned",
-        "d": "The reporter said, \"Five people were"
+        "a": "porter said, \"Five people are",
+        "b": "porter said, \"Five people were",
+        "c": "porter said, \"Five people drowned",
+        "d": "porter said, \"Five people were"
       },
       "correct": "d",
       "explanation": "",
@@ -260,7 +260,7 @@
     },
     {
       "qno": 19,
-      "question": "She said, \"O that I were a bird!\" epd f re 2025) (SSC STENO,?",
+      "question": "She said, \"O that I were a bird!\" epd 2025) (SSC STENO,?",
       "exam_source": "",
       "options": {
         "a": "She said that she wished she- were a bird.",
@@ -297,7 +297,7 @@
         "d": "Rima said, \"If I have wings, I will flew in"
       },
       "correct": "a",
-      "explanation": "22. (c) 23. (d) 24. (a) 25. (a)",
+      "explanation": "",
       "format": "regular"
     },
     {
@@ -319,10 +319,10 @@
       "question": "The climatologist said that if global temperatures kept rising, sea levels would threaten major coastal cities.",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
-        "a": "The climatologist said, \"If global",
-        "b": "The climatologist said, \"If global",
-        "c": "The climatologist said, \"If global",
-        "d": "The climatologist said, \"If global"
+        "a": "limatologist said, \"If global",
+        "b": "limatologist said, \"If global",
+        "c": "limatologist said, \"If global",
+        "d": "limatologist said, \"If global"
       },
       "correct": "d",
       "explanation": "",
@@ -330,13 +330,13 @@
     },
     {
       "qno": 24,
-      "question": "The analyst stated that inflation could have been controlled if monetary policies had been revised earlier.\b?",
+      "question": "The analyst stated that inflation could have been controlled if monetary policies had been revised earlier.?",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
-        "a": "The analyst stated, \"Inflation could have",
-        "b": "The analyst stated, \"Inflation could be",
-        "c": "The analyst stated, \"Inflation had been",
-        "d": "The analyst stated, \"Inflation can be"
+        "a": "analyst stated, \"Inflation could have",
+        "b": "analyst stated, \"Inflation could be",
+        "c": "analyst stated, \"Inflation had been",
+        "d": "analyst stated, \"Inflation can be"
       },
       "correct": "a",
       "explanation": "",
@@ -361,18 +361,18 @@
       "question": "The explorer remarked that rarely had he seen such a breathtaking view in all his travels.",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
-        "a": "The explorer remarked, \"I had rarely",
-        "b": "The explorer remarked, \"Rarely had I",
-        "c": "The explorer remarked, \"I rarely saw such",
-        "d": "The explorer remarked, \"Rarely I had"
+        "a": "xplorer remarked, \"I had rarely",
+        "b": "xplorer remarked, \"Rarely had I",
+        "c": "xplorer remarked, \"I rarely saw such",
+        "d": "xplorer remarked, \"Rarely I had"
       },
       "correct": "b",
-      "explanation": "27. (a) 28. (a) 29. (c) 30. (a)",
+      "explanation": "",
       "format": "regular"
     },
     {
       "qno": 27,
-      "question": "He asked me, \"Have you done your homework?\"\b?",
+      "question": "He asked me, \"Have you done your homework?\"?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "He asked me if I had done my homework.",
@@ -386,7 +386,7 @@
     },
     {
       "qno": 28,
-      "question": "He said that he would join the meeting afterll lunch. d fh ep2025) (SSC CGL,?",
+      "question": "He said that he would join the meeting afterll lunch. fh ep2025) (SSC CGL,?",
       "exam_source": "",
       "options": {
         "a": "\"I will join the meeting after flunch,\" he",
@@ -437,7 +437,7 @@
         "d": "\"One must serve justice,\" the judge said."
       },
       "correct": "b",
-      "explanation": "32. (a) 33. (a) 34. (b) 35. (c)",
+      "explanation": "",
       "format": "regular"
     },
     {
@@ -459,10 +459,10 @@
       "question": "The zoologist warned that the island's carrying capacity might be exceeded should invasive species proliferate unchecked.",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
-        "a": "The zoologist said, \"The island's carrying",
-        "b": "The zoologist said, \"Should invasive",
-        "c": "The zoologist said, \"The island's carrying",
-        "d": "The zoologist said, \"If invasive species"
+        "a": "zoologist said, \"The island's carrying",
+        "b": "zoologist said, \"Should invasive",
+        "c": "zoologist said, \"The island's carrying",
+        "d": "zoologist said, \"If invasive species"
       },
       "correct": "a",
       "explanation": "",
@@ -504,15 +504,15 @@
         "a": "She asked not to disturb him during the",
         "b": "She advised that he should not be",
         "c": "She said that let him not be disturbed. all",
-        "d": "She ordered no one disturb him. pdf"
+        "d": "She ordered no one disturb him."
       },
       "correct": "b",
-      "explanation": "37. (b) 38. (c) 39. (b) 40. (b)",
+      "explanation": "",
       "format": "regular"
     },
     {
       "qno": 37,
-      "question": "The professor said that had he re known earlier, he would have made the - @f necessary arrangements. nTo ear?",
+      "question": "The professor said that had he known earlier, he would have made the - @ necessary arrangements. nTo ear?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "\"If I knew earlier, I would have made",
@@ -540,7 +540,7 @@
     },
     {
       "qno": 39,
-      "question": "He commented that the policy's efficacy would remain conjectural until longitudinal data accrued.\b?",
+      "question": "He commented that the policy's efficacy would remain conjectural until longitudinal data accrued.?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "He commented \"The efficacy of the policy",
@@ -568,16 +568,16 @@
     },
     {
       "qno": 41,
-      "question": "The ethicist argued that, absent informed consent, the study's methodology was fundamentally untenable.\b?",
+      "question": "The ethicist argued that, absent informed consent, the study's methodology was fundamentally untenable.?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
-        "a": "The ethicist argued, \"Absent informed",
-        "b": "The ethicist argued, \"If the study lacked",
-        "c": "The ethicist argued, \"Without informed",
-        "d": "The ethicist argued, \"The study's"
+        "a": "thicist argued, \"Absent informed",
+        "b": "thicist argued, \"If the study lacked",
+        "c": "thicist argued, \"Without informed",
+        "d": "thicist argued, \"The study's"
       },
       "correct": "a",
-      "explanation": "42. (a) 43. (b) 44. (b) 45. (a)",
+      "explanation": "",
       "format": "regular"
     },
     {
@@ -585,10 +585,10 @@
       "question": "The curator noted that the pigments were deteriorating faster than the varnish could protect them.",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
-        "a": "The curator noted, \"The pigments are",
-        "b": "The curator noted, \"The pigments were",
-        "c": "The curator noted, \"Pigments deteriorate",
-        "d": "The curator noted, \"Pigment deterioration"
+        "a": "urator noted, \"The pigments are",
+        "b": "urator noted, \"The pigments were",
+        "c": "urator noted, \"Pigments deteriorate",
+        "d": "urator noted, \"Pigment deterioration"
       },
       "correct": "a",
       "explanation": "",
@@ -599,10 +599,10 @@
       "question": "The composer explained that, were the leitmotif transposed an octave higher, the tension might dissipate prematurely.",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
-        "a": "The composer said, \"If the leitmotif was",
-        "b": "The composer said, \"Were the leitmotif",
-        "c": "The composer said, \"The tension will",
-        "d": "The composer said, \"Had the leitmotif"
+        "a": "omposer said, \"If the leitmotif was",
+        "b": "omposer said, \"Were the leitmotif",
+        "c": "omposer said, \"The tension will",
+        "d": "omposer said, \"Had the leitmotif"
       },
       "correct": "b",
       "explanation": "",
@@ -613,10 +613,10 @@
       "question": "The student said, \"I have been practicing for the competition for months, but I am still nervous, as the other competitors are veryll skilled.\" dfh ep2025) (SSC CHSL,?",
       "exam_source": "",
       "options": {
-        "a": "The student said that he fhas r been",
-        "b": "The student said that he had been",
-        "c": "The student said that he had been",
-        "d": "The student said that he was practicing"
+        "a": "student said that he fhas r been",
+        "b": "student said that he had been",
+        "c": "student said that he had been",
+        "d": "student said that he was practicing"
       },
       "correct": "b",
       "explanation": "",
@@ -641,13 +641,13 @@
       "question": "The librarian told the child, \"You should not be making so much noise, because the other students have been trying to study for their exams.\"?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
-        "a": "The librarian told the child that he should",
-        "b": "The librarian told the child that he should",
-        "c": "The librarian told the child that he would",
-        "d": "The librarian told the child that he should"
+        "a": "librarian told the child that he should",
+        "b": "librarian told the child that he should",
+        "c": "librarian told the child that he would",
+        "d": "librarian told the child that he should"
       },
       "correct": "a",
-      "explanation": "47. (c) 48. (a) 49. (d) 50. (a)",
+      "explanation": "",
       "format": "regular"
     },
     {
@@ -655,10 +655,10 @@
       "question": "The company CEO announced, \"We will not be able to meet the deadline for this quarter, which is a great disappointment for all of us, but we will have to work harder next time.\"?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
-        "a": "The company CEO announced that they",
-        "b": "The company CEO announced that they",
-        "c": "The company CEO announced that they",
-        "d": "The company CEO announced that they"
+        "a": "ompany CEO announced that they",
+        "b": "ompany CEO announced that they",
+        "c": "ompany CEO announced that they",
+        "d": "ompany CEO announced that they"
       },
       "correct": "c",
       "explanation": "",
@@ -680,13 +680,13 @@
     },
     {
       "qno": 49,
-      "question": "The detective asked the suspect how he could f ha have committed the crime without leaving e ep any evidence when the security cameras @f had been recording all night. G- o n T c h?",
+      "question": "The detective asked the suspect how he could have committed the crime without leaving any evidence when the security cameras @ had been recording all night. - o n ?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
-        "a": "The detective asked the suspect, \"How",
-        "b": "The detective asked the suspect, \"How",
-        "c": "The detective asked the suspect, \"How",
-        "d": "The detective asked the suspect, \"How"
+        "a": "tective asked the suspect, \"How",
+        "b": "tective asked the suspect, \"How",
+        "c": "tective asked the suspect, \"How",
+        "d": "tective asked the suspect, \"How"
       },
       "correct": "d",
       "explanation": "",
@@ -697,10 +697,10 @@
       "question": "The scientist announced that the new compound would react violently if it came into contact with water, and that they had been observing its properties for months.",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
-        "a": "The scientist announced, \"The new",
-        "b": "The scientist announced, \"The new",
-        "c": "The scientist announced, \"The new",
-        "d": "The scientist announced, \"The new"
+        "a": "scientist announced, \"The new",
+        "b": "scientist announced, \"The new",
+        "c": "scientist announced, \"The new",
+        "d": "scientist announced, \"The new"
       },
       "correct": "a",
       "explanation": "",
@@ -717,7 +717,7 @@
         "d": "\"The defendant's plea of not guilty has"
       },
       "correct": "b",
-      "explanation": "52. (a) 53. (c) 54. (b) 55. (c)",
+      "explanation": "",
       "format": "regular"
     },
     {
@@ -725,10 +725,10 @@
       "question": "The tour guide said, \"We have been walking for hours, but the ruins we have been looking for are just around this corner, and we will be there in a few minutes.\"?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
-        "a": "The tour guide said that they had been",
-        "b": "The tour guide said that we have been",
-        "c": "The tour guide said that they had been",
-        "d": "The tour guide said that they were"
+        "a": "tour guide said that they had been",
+        "b": "tour guide said that we have been",
+        "c": "tour guide said that they had been",
+        "d": "tour guide said that they were"
       },
       "correct": "a",
       "explanation": "",
@@ -739,10 +739,10 @@
       "question": "The professor explained that although the theory had been considered correct for centuries, new findings now proved that it was flawed.",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
-        "a": "The professor explained, \"Although the",
-        "b": "The professor explained, \"Although",
-        "c": "The professor explained, \"Although",
-        "d": "The professor explained, \"Although"
+        "a": "professor explained, \"Although the",
+        "b": "professor explained, \"Although",
+        "c": "professor explained, \"Although",
+        "d": "professor explained, \"Although"
       },
       "correct": "c",
       "explanation": "",
@@ -753,10 +753,10 @@
       "question": "The historian asserted that the ruins were much older than previously thought and that new research had been continually proving it for years.",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
-        "a": "The historian said, \"The ruins were much",
-        "b": "The historian said, \"The ruins are much",
-        "c": "The historian said, \"The ruins are much",
-        "d": "The historian said, \"The ruins were much"
+        "a": "istorian said, \"The ruins were much",
+        "b": "istorian said, \"The ruins are much",
+        "c": "istorian said, \"The ruins are much",
+        "d": "istorian said, \"The ruins were much"
       },
       "correct": "b",
       "explanation": "",
@@ -764,13 +764,13 @@
     },
     {
       "qno": 55,
-      "question": "The judge said to the prisoner, \"What were you doing in the garage at 10:30 pm on Monday when the incident took place?\"?",
+      "question": "The judge said to the prisoner, \"What were you doing in the garage at 10:30 pm Monday when the incident took place?\"?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
-        "a": "The judge asked the prisoner what he",
-        "b": "The judge asked the prisoner what he",
-        "c": "The judge asked the prisoner what he",
-        "d": "The judge asked the prisoner what"
+        "a": "judge asked the prisoner what he",
+        "b": "judge asked the prisoner what he",
+        "c": "judge asked the prisoner what he",
+        "d": "judge asked the prisoner what"
       },
       "correct": "c",
       "explanation": "",
@@ -787,7 +787,7 @@
         "d": "Sairam said that she had to go to Delhi to"
       },
       "correct": "d",
-      "explanation": "57. (b) 58. (b) 59. (b) 60. (c)",
+      "explanation": "",
       "format": "regular"
     },
     {
@@ -834,7 +834,7 @@
     },
     {
       "qno": 60,
-      "question": "She said, \"Why didn't anyone inform me aboutf ha the change?\" epe 2025) (SSCfrCPO,?",
+      "question": "She said, \"Why didn't anyone inform me aboutf the change?\" epe 2025) (SSCfrCPO,?",
       "exam_source": "",
       "options": {
         "a": "She asked why had no one",
@@ -857,7 +857,7 @@
         "d": "She asked do I understand how serious it"
       },
       "correct": "c",
-      "explanation": "62. (c) 63. (a) 64. (a) 65. (a)",
+      "explanation": "",
       "format": "regular"
     },
     {
@@ -879,10 +879,10 @@
       "question": "The primatologist pointed out that grooming behaviour would diminish if the troop hierarchy were destabilised.",
       "exam_source": "(SSC CPO, 2025)",
       "options": {
-        "a": "The primatologist said, \"Grooming",
-        "b": "The primatologist said, \"Grooming",
-        "c": "The primatologist said, \"If the troop",
-        "d": "The primatologist said, \"Were the"
+        "a": "primatologist said, \"Grooming",
+        "b": "primatologist said, \"Grooming",
+        "c": "primatologist said, \"If the troop",
+        "d": "primatologist said, \"Were the"
       },
       "correct": "a",
       "explanation": "",
@@ -890,7 +890,7 @@
     },
     {
       "qno": 66,
-      "question": "The manager informed the employees that the deadline for submission had been extended by two days. \b?",
+      "question": "The manager informed the employees that the deadline for submission had been extended by two days. ?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "“You may submit the work two days later",
@@ -899,12 +899,12 @@
         "d": "“You must finish it within two extra"
       },
       "correct": "b",
-      "explanation": "67. (a) 68. (c) 69. (a) 70. (c)",
+      "explanation": "",
       "format": "regular"
     },
     {
       "qno": 67,
-      "question": "The coach said that the players were improving with each match. \b?",
+      "question": "The coach said that the players were improving with each match. ?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "“The players are improving with each",
@@ -918,11 +918,11 @@
     },
     {
       "qno": 68,
-      "question": "She said that she used to play the violin when she was young. \b?",
+      "question": "She said that she used to play the violin when she was young. ?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "“I played the violin when I was young,”",
-        "b": "“I use to play the violin when I was f ha",
+        "b": "“I use to play the violin when I was",
         "c": "“I used to play the violin whenfr I was",
         "d": "“I was playing the o n T when I was"
       },
@@ -932,7 +932,7 @@
     },
     {
       "qno": 69,
-      "question": "He remarked that the sculpture would have commanded greater gravitas had the pedestal been proportionally austere. \b?",
+      "question": "He remarked that the sculpture would have commanded greater gravitas had the pedestal been proportionally austere. ?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "He said, “The sculpture would have",
@@ -963,18 +963,18 @@
       "question": "Might I suggest a revision to clause three?\" the lawyer inquired politely. (SSC Selection Phase XIII, 2025)",
       "exam_source": "",
       "options": {
-        "a": "The lawyer suggested to revise clause",
-        "b": "The lawyer politely asked might he",
-        "c": "The lawyer politely inquired if he might",
-        "d": "The lawyer advised revising clause three."
+        "a": "lawyer suggested to revise clause",
+        "b": "lawyer politely asked might he",
+        "c": "lawyer politely inquired if he might",
+        "d": "lawyer advised revising clause three."
       },
       "correct": "c",
-      "explanation": "72. (a) 73. (a) 74. (a) 75. (b)",
+      "explanation": "",
       "format": "regular"
     },
     {
       "qno": 72,
-      "question": "Nandini said to Minal, \"What shall I give you on your birthday next year?\" (SSC Selection Phase XIII, 2025)",
+      "question": "Nandini said to Minal, \"What shall I give you your birthday next year?\" (SSC Selection Phase XIII, 2025)",
       "exam_source": "",
       "options": {
         "a": "Nandini asked Minal what she would",
@@ -988,7 +988,7 @@
     },
     {
       "qno": 73,
-      "question": "The professor reminded the students that if they had not registered on the portal by midnight, their submissions would not be accepted. (SSC Selection Phase XIII, 2025)",
+      "question": "The professor reminded the students that if they had not registered the portal by midnight, their submissions would not be accepted. (SSC Selection Phase XIII, 2025)",
       "exam_source": "(SSC CPO, 2025)",
       "options": {
         "a": "\"Your submissions will not be accepted",
@@ -1002,7 +1002,7 @@
     },
     {
       "qno": 75,
-      "question": "He said that the lights had gone off during the storm.\b?",
+      "question": "He said that the lights had gone off during the storm.?",
       "exam_source": "(SSC CPO, 2025)",
       "options": {
         "a": "He said, \"The lights go off during the",
@@ -1025,18 +1025,18 @@
         "d": "He wished that he would not waste those"
       },
       "correct": "a",
-      "explanation": "77. (a) 78. (b) 79. (c) 80. (a)",
+      "explanation": "",
       "format": "regular"
     },
     {
       "qno": 77,
-      "question": "The archivist declared that, unless the humidity controls were recalibrated, the all papyri could deteriorate beyond salvage.dfh f ee 2025) (SSC CPO,?",
+      "question": "The archivist declared that, unless the humidity controls were recalibrated, the all papyri could deteriorate beyond salvage.dfh 2025) (SSC CPO,?",
       "exam_source": "",
       "options": {
-        "a": "The archivist declared, \"Unless",
-        "b": "The archivist declared, \"If humidity",
-        "c": "The archivist declared, \"Unless humidity",
-        "d": "The archivist declared, \"Unless humidity"
+        "a": "ivist declared, \"Unless",
+        "b": "ivist declared, \"If humidity",
+        "c": "ivist declared, \"Unless humidity",
+        "d": "ivist declared, \"Unless humidity"
       },
       "correct": "a",
       "explanation": "",
@@ -1095,7 +1095,7 @@
         "d": "He told her, \"The documents have already"
       },
       "correct": "a",
-      "explanation": "82. (b) 83. (c) 84. (b) 85. (b)",
+      "explanation": "",
       "format": "regular"
     },
     {
@@ -1104,7 +1104,7 @@
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
         "a": "\"I am unwell,\" she said, \"and I cannot join",
-        "b": "The old woman said, \"I am unwell and I",
+        "b": "old woman said, \"I am unwell and I",
         "c": "She said, \"I was unwell and I could not",
         "d": "She explained, \"I am unwell, I cannot join"
       },
@@ -1128,13 +1128,13 @@
     },
     {
       "qno": 84,
-      "question": "The philosopher remarked that, had the syllogism been valid, the paradox would not have arisen. \b?",
+      "question": "The philosopher remarked that, had the syllogism been valid, the paradox would not have arisen. ?",
       "exam_source": "(SSC CPO, 2025)",
       "options": {
-        "a": "The philosopher said, \"If the syllogism is",
-        "b": "The philosopher said, \"Had the syllogism",
-        "c": "The philosopher said, \"Has the syllogism",
-        "d": "The philosopher said,on \"If syllogism is"
+        "a": "philosopher said, \"If the syllogism is",
+        "b": "philosopher said, \"Had the syllogism",
+        "c": "philosopher said, \"Has the syllogism",
+        "d": "philosopher said,on \"If syllogism is"
       },
       "correct": "b",
       "explanation": "",
@@ -1156,7 +1156,7 @@
     },
     {
       "qno": 86,
-      "question": "The official said that only if the forms were submitted on time would the applications be processed.",
+      "question": "The official said that only if the forms were submitted time would the applications be processed.",
       "exam_source": "(SSC CPO, 2025)",
       "options": {
         "a": "“The applications would be processed",
@@ -1165,12 +1165,12 @@
         "d": "“Submit forms on time and your"
       },
       "correct": "b",
-      "explanation": "87. (c) 88. (a) 89. (d) 90. (c)",
+      "explanation": "",
       "format": "regular"
     },
     {
       "qno": 87,
-      "question": "She said that they had already left before she arrived.\b (SSC CGL, 2025?",
+      "question": "She said that they had already left before she arrived. (SSC CGL, 2025?",
       "exam_source": "",
       "options": {
         "a": "“They have already left before I arrived,”",
@@ -1184,7 +1184,7 @@
     },
     {
       "qno": 88,
-      "question": "Aditya said to Kavya, “What do you prefer to do in your free time – painting or basketball practice?” \b?",
+      "question": "Aditya said to Kavya, “What do you prefer to do in your free time – painting or basketball practice?” ?",
       "exam_source": "(SSC CPO, 2024)",
       "options": {
         "a": "Aditya asked Kavya what she preferred",
@@ -1193,12 +1193,12 @@
         "d": "Aditya asked Kavya what does she"
       },
       "correct": "a",
-      "explanation": "ditya said to Kavya, “What do you prefer to do in your free time – painting or basketball practice?” \b (SSC CPO, 2024) (a) Aditya asked Kavya what she preferred to do in her free time – painting or basketball practice. (b) Aditya asked Kavya what did she prefer to do in her free time – painting or basketball practice. (c) Aditya asked Kavya that what you prefer to do in your free time – painting or basketball practice. (d) Aditya asked Kavya what does she prefer to do in her free time – painting or basketball practice. 89. “Please listen carefully to what I am teaching,” said Madam Mahima to the students. \b (SSC CPO, 2024) (a) Madam Mahima said to the students please listen carefully to what I am teaching. (b) Madam Mahima requested the students to listen carefully to what she has been teaching. (c) Madam Mahima asked the students to listen carefully to what she is teaching. (d) Madam Mahima told the students to listen carefully to what she was teaching. 90. The sun is shining brightly today,” he said, looking out of the window. \b (SSC CPO, 2024) (a) Looking out of the window, he said that the sun was shining brightly today. (b) Looking out of the window, he says that the sun is shining brightly that day. (c) Looking out of the window, he said that the sun was shining brightly that day. (d) Looking out of the window, he said that the sun is shining brightly today. 91. The traveller asked the owner if he could stay in that tavern. The peasant replied that he could. \b (SSC STENO, 2024) (a) The traveller said, “Could I stay in this tavern?'' The peasant replied, “He should.” (b) The traveller said, “Can I stay in this tavern?” The peasant replied, “She could.” (c) The traveller said, “Can I stay in this tavern?” The peasant replied, “You can.” (d) The traveller said, “May I stay in this tavern?” The peasant replies, “You can”. 92. He said that it would be fun if I could join. \b (SSC STENO, 2024) (a) He said, “It will have been fun if you had joined.” (b) He said, “It will have been fun if I had joined.” (c) He said, “It will be fun if you can join.” (d) He said, “It will have been fun if I could have joined.” 93. \"Dear daughter,\" she said caressing her cheeks, \"have you come to comfort me in my time of need?\" \b (SSC STENO, 2024)ll (a) Caressing her daughter’s cheeks,dfshe asked affectionately if she did ecome comfort her in her time of need. fr (b) Caressing her daughter’sTcheeks, she said affectionately if she hadn comfort her in her r h o ofbeen ctime need. coming to (c) Caressing her daughter’s cheeks, she asked affectionately if she had come to comfort her in her time of need. (d) Caressing her daughter’s cheeks, she said affectionately if she has come to comfort her in her time of need. 94. “You were warned by us three days ago,” the manager shouted at him. \b (SSC STENO, 2024) (a) The manager shouted at him that he was warned by them three days earlier. (b) The manager shouted at him that he was warned by them three days before. (c) The manager shouted at him that he had been warned by them three days before. (d) The manager shouted at him that he was warned by them three days ago. 95. The policeman told the boys that they could not park their car there. \b (SSC CGL, 2022) (a) The policeman said to the boys, \"You could not park their car there.\" (b) The policeman said to the boys, \"You cannot park your car here.\" (c) The policeman said to the boys, \"How could you park your car here?\" (d) The policeman told to the boys, \"They could not park their car there.\" 96. My grandmother said, \"I bore six children.\" \b (SSC CHSL, 2019), (a) My grandmother told that she had bore six children. (b) My grandmother said that she has born six children. (c) My grandmother said that she had borne six children. (d) My grandmother said she borne six children. 97. Have you got a blue scarf?\" the customer asked the assistant. (SSC CPO, 2019) (a) The customer asked the assistant if he have a blue scarf. (b) The customer asked the assistant he has a blue scarf. (c) The customer asking the assistant if he is having a blue scarf. (d) The customer asked the assistant if he had a blue scarf. 98. My neighbour enquired how my father was. \b (SSC CPO, 2019) (a) My neighbour asked, “What about your father’s welfare?” (b) My neighbour enquired, “How is your father?” (c) My neighbour asked, “How my father was?” (d) My neighbour enquired, “How is my father?” 99. \"You must write neatly\" the teacher told her pupils. (a) The teacher told her pupils that they had to write neatly. (b) The teacher ordered her pupils that they should write neatly. (c) The teacher advised her pupils that they must write neatly. (d) The teacher asked her pupils that they should write neatly. 100. He asserted that the cryptographic protocol might have resisted the attack had entropy been truly random. (a) He asserted, \"Had entropy been truly random, the cryptographic protocol might have resisted the attack.\" (b) He said, \"If entropy is truly random, protocol might resist attack.\" (c) He asserted, \"If entropy had been random, protocol might resist attack.\" (d) He said, \"Entropy random, protocol resists attack.\" 101. He said to her, \"Darling, you look very sad.\" (a) He told her lovingly that she looks very sad. (b) He told her lovingly that she looked very sad. (c) He told his darling that she looks very sad. (d) He told her that she looked very sad. 102. He said, \"Let it rain ever so hard, I shall go\". (a) He said that he would go however hard it might rain. (b) He said that he would go even if it rains very hard. (c) He suggested that he should go, let it rain very hard. (d) He was determined to go even if it rained so hard. 103. He said, \"Rogue! You have deceived me.\" (a) He told him a rogue and said to him of having deceived him. (b) He called him a rogue and accused him of having deceived me. ll (c) He called him a rogue and accused him f hofa having deceived him. e ep (d) He told him a rogue and declared fr G -@ him of having deceived me. 104. “So help me heaven!”, theoman n T cried, “I shall never lie again.” ar (a) The man cries out to heaven to help him not to lie again ever. (b) The man called upon heaven to witness his resolve that he would never lie again. (c) The man requested heaven to help him and see that he lie again. (d) The man called heaven and ordered to help him and see to it that she never lies again. 105. “Fie! a soldier and afraid of fighting!” said Babar. (a) Babar exclaimed with surprise that a soldier should be afraid of fighting. (b) Addressing a soldier, Babar cursed him that he should be afraid of fighting. (c) Babar cursed the soldier who was afraid of fighting. (d) Babar cursed and exclaimed that a soldier should not be afraid of fighting. 106. Rita said, \"I am sorry, I forgot to bring the documents required for the interview.\" (a) Rita apologized that she forgot to bring the documents required for the interview. (b) Rita exclaimed with sorrow that she forgot to bring the documents required for the interview. (c) Rita told that she was sorry for forgetting to bring the documents required for the interview. (d) Rita apologized for forgetting to bring the documents required for the interview. 107. \"You'd better complete the assignment before Monday,\" the teacher said to the students. (a) The teacher said to the students to complete the assignment before Monday. (b) The teacher told the students to better complete the assignment before Monday. (c) The teacher advised the students to complete the assignment before Monday. (d) The teacher said the students should complete the assignment before Monday. 108. \"Don't you dare enter this restricted area again, or you'll be punished,\" the guard sternly warned the visitors. (a) The guard warned sternly that the visitors should not dare enter that restricted area again, or they would be punished. (b) The guard sternly warned the visitors that they did not dare enter that restricted area again, or they would be punished. (c) The guard sternly warned the visitors not to enter that restricted area again, or they would be punished. (d) The guard sternly warned not to enter that restricted area again, or they should be punished. 109. She said to me, “When I was in school, I played football.” (a) She told me that when she had been in school, she played football. (b) She told me when she had been in school, she had played football. (c) She told me that when she was in school, she played football. (d) She told me that when she was in school, she had played football. 110. The little boy asked his teacher if she had always been good as a child. (a) The little boy said to his teacher, “Ma’am. you were always good as a child?” (b) The little boy said to his teacher, “you have always been good as a child?” (c) The little boy said to his teacher, “Are you always good as a child?” (d) The little boy said to his teacher, “Ma’am, were you always good as a child?” 111. He ordered his soldiers to take that bird away. Its gilded cage reminded him of his father whom he had imprisoned. (a) He said to his soldiers, “Take this bird away. Its gilded cage reminded me of my father whom I imprison.” (b) He said to his soldiers, “May this bird be taken away. Its gilded cage reminds me of my father whom I imprisoned.” (c) He said to his soldiers, “Take this bird away. Its gilded cage reminds me of my father whom I imprisoned.” (d) He said to his soldiers, “Take that bird away. Its gilded cage reminded him of his father whom I imprison.” 112. She said to herself, “Shall I have a happy married life?” (a) She wondered if she shall have a happy married life. (b) She asked that if she should have a happy married life. (c) She wondered if she would have a happy married life. (d) She thought that she should have a happy married life. 113. The leader said, “Farewell, my friends and countrymen”. (a) The leader wished farewell to his friends and countrymen. (b) The leader bade farewell to his friendsll and countrymen. ha (c) The leader bade his friends e and countrymen to farewell. @ fre (d) The leader wished his T G- friends and countrymen farewell.on 114. “This is not my fault.” says Fatima to Panna. (a) Panna told Fatima that this was not her fault. (b) Fatima told Panna that this was not her fault. (c) Fatima tells Panna that this was not her fault. (d) Fatima tells Panna that this is not her fault. 115. He said to me, \"what expectations do you have from this company?\" (a) He asked me what expectations we had from that company. (b) He asked me what expectations did we have from that company. (c) He asked me what expectations we had had from that company. (d) He asked me what expectations we had from this company. 116. The patient said, \"It has been three days since I last slept.\" (a) The patient said that it was three days since he last slept. (b) The patient said that it had been three days since he had last slept. (c) The patient said that he didn't sleep for three days. (d) The patient said that he was not sleeping for three days. 117. He said, \"Do it right now.\" (a) He said do it immediately. (b) He told to do it now. (c) He told me to do it at once. (d) He told me do it right now. 118. Her parents asked her if the match proposed by them would be acceptable to her. (a) Her parents said her, “Will the match proposed by us be acceptable to you?” (b) Her parents said her, “Would the match proposed by them be acceptable to her?” (c) Her parents said to her, “Will the match proposed by us be acceptable to you?” (d) Her parents said to her, “Would the match proposed by us be acceptable to you?” 119. “How clever of you to have solved the puzzle so quickly,” said the mother. (a) The mother exclaimed admiringly that it was very clever of him to have solved the puzzle so quickly. (b) The mother expressed that he was so clever to have solved the puzzle quickly. (c) The mother told that he was very clever in solving the puzzle so quickly. (d) The mother exclaimed with joy that he was clever enough to solve the puzzle so quickly. 120. “Oh, how could I ever thank you, Sir!” said the convict to the Bishop. (a) The convict told the Bishop that it was difficult for him to thank him. (b) Exclaiming gratefully, the convict told the Bishop that he could never thank him enough. (c) The convict said to the Bishop that he could never thank him enough. (d) The convict exclaimed gratefully to the Bishop that how he could ever thank him. 121. My friend said, “If I were you, I’d stop taking tranquilizers”. (a) My friend told me that if he were I, he’d stop taking tranquilizers. (b) My friend asked that if he was I, he’d stop taking tranquilizers. (c) My friend advised me to stop tranquilizers. (d) My friend advised me that if he was I, he’d stop taking tranquilizers. 122. He said, “She is going to the party, isn’t she?” (a) He said that she had been going to the party and asked if she weren’t. (b) He confirmed whether she was going to the party. (c) He told that she was going to the party. (d) He said that she was going to the party or not. 123. He said to me, “Let us jump over the wall and eat these mangoes.” (a) He proposed to me that we should jump over the wall and eat those mangoes. (b) He proposed me that we should jump over the wall and eat those mangoes. (c) He proposed to me that we should jump over the wall and eat these mangoes. (d) He proposed me that we jumped over the wall and eat those mangoes. 124. The Hindu says, \"We shall launch a special education supplement next month.\" (a) The Hindu says that we shall launch a special education supplement next month. (b) The Hindu says that it will launch a special education supplement the following month. (c) The Hindu said that it would launch a special education supplement the following month. ll (d) The Hindu says that it will launchfhaa special education supplementepdnext month. fre 125. My daughter said, “I might go G -@to the Mall out with my friends tonight.” n T \b o (SSC CPO, 2024) ear (a) My daughter said that I might go out to the Mall with her friends tonight. (b) My daughter said that she might go out to the Mall with my friends tonight. (c) My daughter said that she may go out to the Mall with her friends that night. (d) My daughter said that she might go out to the Mall with her friends that night. 126. Mother said to Amayra, “Did you finish your homework?” \b (SSC CPO, 2024) (a) Mother asked Amayra if she had finished her homework. (b) Mother asked Amayra have you finished your homework. (c) Mother asked Amayra if she finished her homework. (d) Mother asked Amayra did you finished your homework. 127. They exclaimed sadly that India had lost the match in the World Cup finals. \b (SSC CPO, 2024) (a) They said, “Hurrah! India has lost the match in the World Cup finals.” (b) They said, “What a loss! India has lost the match in the World Cup finals.” (c) They said, “India has sadly lost the match in the World Cup finals.” (d) They said, “They are so sorry! India has lost the match in the World Cup finals.” 128. I said to Bhawna, “Have the monkeys eaten up our cauliflowers?” (a) I asked Bhawna if the monkeys had eaten up our cauliflowers. (b) I asked Bhawna that have the monkeys eaten up our cauliflowers. (c) I asked Bhawna if the monkeys have eaten up our cauliflowers. (d) I asked Bhawna if the monkeys had eaten up their cauliflowers. 129. He said, “I shall need a copy of the documents.” \b (SSC CGL, 2024) (a) He said that he will need a copy of the documents. (b) He said that he shall need a copy of the document. (c) He said that he is going to need a copy of the document. (d) He said that he would need a copy of the documents. 130. My friend said to me, “Do you know the recipe of mango ice-cream?” \b (SSC STENO, 2024) (a) My friend asked me that I knew the recipe of mango ice-cream. (b) My friend asked me if I know the recipe of mango ice-cream. (c) My friend asked me if I knew the recipe of mango ice-cream. (d) My friend asked me that I know the recipe of mango ice-cream. 131. “I am going to play with my friends,” the child says to his mother. \b (SSC STENO, 2024) (a) The child tells his mother that he is going to play with his friends. (b) The child asked his mother that he is going to play with his friends. (c) The child told his mother that I am going to play with my friends. (d) The child said to his mother that he was going to play with his friends. 132. The father said, “Ramu, try again.” \b (SSC STENO, 2024) (a) The father said that Ramu tried again. (b) The father advised Ramu to try again. (c) The father told Ramu that he tried again. (d) The father requested Ramu to try again. 133. Calling me a friend, Surjit Singh encouraged me and advised me not to lose heart. \b (SSC STENO, 2024) (a) Surjit Singh demanded, “Cheer up, friend. Do not lose heart.” (b) Surjit Singh ordered me, “Cheer up, friend. Do not lose heart.” (c) Surjit Singh asked me, “Cheer up, friend. Do not lose heart.” (d) Surjit Singh said, “Cheer up, friend. Do not lose heart.” 134. He said, “Alas! I am a ruined man.” \b (SSC STENO, 2024) (a) He cried out with sorrow that he was a ruined man. (b) He wished that he was a ruined man. (c) He applauded with sorrow that he was a ruined man. (d) He confessed with sorrow that he was a ruined man. 135. The boss said to the secretary, “Don’t forget to order A3 size paper.” \b (SSC STENO, 2024) (a) The boss told the secretary that she didn’t forget to order A3 size paper. (b) The boss told the secretary that she should not forget to order A3 size paper. (c) The boss asked the secretary to order A3 size paper. (d) The boss instructed the secretary not toll forget to order A3 size paper. a 136. The teacher said that plants have life inethem. \b (SSC Selection PhasefreXII, 2024) @has (a) The teacher says, “A plant G - life in them.” T (b) The teacher said, h“Plants have life in them.” r c (c) The teacher said, “Plants too have life in them.” (d) The teacher said, “The plants had life in them.” 137. His son thought, “If my father keeps grieving like this, the crops will die.” \b (SSC Selection Phase XII, 2024) (a) His son thought that if his father kept grieving like that, the crops would die. (b) His son thought that if his father kept grieving like this, the crops would have died. (c) His son thought that his father keeps grieving like that, then crops will die. (d) His son thought if his father kept grieving like this, the crops will die. 138. He said to the mechanic, “Will you have the car ready by tomorrow morning?” \b (SSC CHSL, 2024) (a) He asked the mechanic if he would have the car ready by the next morning. (b) He asked the mechanic if he would had the car ready for the next morning. (c) He said the mechanic whether he would has the car ready by the following morning. (d) He asked the mechanic if he will have the car ready by the previous morning. 139. You said, “Priya kept watching television till her mother exploded at her.” \b (SSC CPO, 2023) (a) You said that Priya kept watching television till her mother exploded at her. (b) You said that Priya had kept watching television till her mother exploded at her. (c) You said that Priya kept watching television till her mother had exploded at her. (d) You said that Priya had kept watching television till her mother had exploded at her. 140. The old man prayed to God to help him in his hour of sorrow. \b (SSC CPO, 2023) (a) The old man said, “O God, help me in my hour of sorrow.” (b) The old man said, “God must help him in his hour of sorrow.” (c) The old man said, “O God, help him in my hour of sorrow.” (d) The old man said, “O God, help me in his hour of sorrow.” 141. Looking at his watch Barin Babu observed that they were running more or less on time. \b (SSC CPO, 2023) (a) Looking at his watch Barin Babu said, “They had been running more or less on time.” (b) Looking at his watch Barin Babu said, “They were running more or less on time.” (c) Looking at his watch Barin Babu said, “We are running more or less on time.” (d) Looking at his watch Barin Babu said, “We have been running more or less on time.” 142. He told her that he could not marry her then but he would surely do so the following year. \b (SSC CPO, 2023) (a) He said to her, “He cannot marry you now but he will surely do so next year.” (b) He said to her, “I cannot marry you now but I will surely do so next year.” (c) He said to her, “I could not marry you then but I will surely do so next year.” (d) He said to her, “I cannot marry her then but I will surely do so next year.” 143. Mrs. Mane said that she regretted having supplied us with an inferior brand of TV set and was ready to apologise for that. \b (SSC Selection Phase XI, 2023) (a) Mrs. Mane said, “I regret supplying you with an inferior brand of TV set and I am ready to apologise for that.” (b) Mrs. Mane said, “I am regretting having supplied you with an inferior brand of TV set and I am ready to apologise for that.” (c) Mrs. Mane said, “I regret having supplied you with an inferior brand of TV set and I am ready to apologise for that.” (d) Mrs. Mane said, “I regret to supply you with an inferior brand of TV set and I am ready to apologise for that.” 144. The lawyer told the father of the accused, “There is a rumour that he has some connection in that crime.” \b (SSC CHSL, 2023) (a) The lawyer told the father of the accused that there had been a rumour that he had some connection in that crime. (b) The lawyer told the father of the accused that there was a rumour that he was having some connection in that crime. (c) The lawyer told the father of the accused that there was a rumour that he had some connection in that crime. (d) The lawyer told the father of the accused that there was a rumour that he has hadll some connection in that crime. ha 145. The student said to her, “I don’t remember p df your name.” T G- CHSL, 2023) (SSC (a) The student said to hernthat he/she cannot remember her name. o (b) The student said to her that I did not remember her name. (c) The student told her that he/she did not remember her name. (d) The student told her that he/she do not remember her name. 146. She said, since it was evening, she had to go for a run. \b (SSC CHSL, 2023) (a) She said, “It is evening I must go for a run.” (b) She said, “It is evening I might go for a run.” (c) She said, “It is evening I must ran.” (d) She said, “It is evening I should go for a run.” 147. He said that he was sorry for all that. \b (SSC CGL, 2023) (a) \"I am sorry for all then.\" He says. (b) \"I was sorry for all this.\" He said. (c) \"I am sorry for all that.\" He says. (d) \"I am sorry for all this.\" He said. 148. The judge asked the prisoner if he had anything to say for himself. \b (SSC CGL, 2021) (a) The judge said to the prisoner, “If you have anything to say for yourself?” (b) The judge said to the prisoner, “Did he have anything to say for himself?” Answer Key",
+      "explanation": "ditya said to Kavya, “What do you prefer to do in your free time – painting or basketball practice?”  (SSC CPO, 2024) (a) Aditya asked Kavya what she preferred to do in her free time – painting or basketball practice. (b) Aditya asked Kavya what did she prefer to do in her free time – painting or basketball practice. () Aditya asked Kavya that what you prefer to do in your free time – painting or basketball practice. () Aditya asked Kavya what does she prefer to do in her free time – painting or basketball practice. 89. “Please listen carefully to what I am teaching,” said Madam Mahima to the students.  (SSC CPO, 2024) (a) Madam Mahima said to the students please listen carefully to what I am teaching. (b) Madam Mahima requested the students to listen carefully to what she has been teaching. () Madam Mahima asked the students to listen carefully to what she is teaching. () Madam Mahima told the students to listen carefully to what she was teaching. 90. The sun is shining brightly today,” he said, looking out of the window.  (SSC CPO, 2024) (a) Looking out of the window, he said that the sun was shining brightly today. (b) Looking out of the window, he says that the sun is shining brightly that day. () Looking out of the window, he said that the sun was shining brightly that day. () Looking out of the window, he said that the sun is shining brightly today. 91. The traveller asked the owner if he could stay in that tavern. The peasant replied that he could.  (SSC STENO, 2024) (a) The traveller said, “Could I stay in this tavern?'' The peasant replied, “He should.” (b) The traveller said, “Can I stay in this tavern?” The peasant replied, “She could.” () The traveller said, “Can I stay in this tavern?” The peasant replied, “You can.” () The traveller said, “May I stay in this tavern?” The peasant replies, “You can”. 92. He said that it would be fun if I could join.  (SSC STENO, 2024) (a) He said, “It will have been fun if you had joined.” (b) He said, “It will have been fun if I had joined.” () He said, “It will be fun if you can join.” () He said, “It will have been fun if I could have joined.” 93. \"Dear daughter,\" she said caressing her cheeks, \"have you come to comfort me in my time of need?\"  (SSC STENO, 2024) (a) Caressing her daughter’s cheeks,dfshe asked affectionately if she did ecome comfort her in her time of need. (b) Caressing her daughter’sTcheeks, she said affectionately if she hadn comfort her in her o ofbeen ctime need. coming to () Caressing her daughter’s cheeks, she asked affectionately if she had come to comfort her in her time of need. () Caressing her daughter’s cheeks, she said affectionately if she has come to comfort her in her time of need. 94. “You were warned by us three days ago,” the manager shouted at him.  (SSC STENO, 2024) (a) The manager shouted at him that he was warned by them three days earlier. (b) The manager shouted at him that he was warned by them three days before. () The manager shouted at him that he had been warned by them three days before. () The manager shouted at him that he was warned by them three days ago. 95. The policeman told the boys that they could not park their car there.  (SSC CGL, 2022) (a) The policeman said to the boys, \"You could not park their car there.\" (b) The policeman said to the boys, \"You cannot park your car here.\" () The policeman said to the boys, \"How could you park your car here?\" () The policeman told to the boys, \"They could not park their car there.\" 96. My grandmother said, \"I bore six children.\"  (SSC CHSL, 2019), (a) My grandmother told that she had bore six children. (b) My grandmother said that she has born six children. () My grandmother said that she had borne six children. () My grandmother said she borne six children. 97. Have you got a blue scarf?\" the customer asked the assistant. (SSC CPO, 2019) (a) The customer asked the assistant if he have a blue scarf. (b) The customer asked the assistant he has a blue scarf. () The customer asking the assistant if he is having a blue scarf. () The customer asked the assistant if he had a blue scarf. 98. My neighbour enquired how my father was.  (SSC CPO, 2019) (a) My neighbour asked, “What about your father’s welfare?” (b) My neighbour enquired, “How is your father?” () My neighbour asked, “How my father was?” () My neighbour enquired, “How is my father?” 99. \"You must write neatly\" the teacher told her pupils. (a) The teacher told her pupils that they had to write neatly. (b) The teacher ordered her pupils that they should write neatly. () The teacher advised her pupils that they must write neatly. () The teacher asked her pupils that they should write neatly. 100. He asserted that the cryptographic protocol might have resisted the attack had entropy been truly random. (a) He asserted, \"Had entropy been truly random, the cryptographic protocol might have resisted the attack.\" (b) He said, \"If entropy is truly random, protocol might resist attack.\" () He asserted, \"If entropy had been random, protocol might resist attack.\" () He said, \"Entropy random, protocol resists attack.\" 101. He said to her, \"Darling, you look very sad.\" (a) He told her lovingly that she looks very sad. (b) He told her lovingly that she looked very sad. () He told his darling that she looks very sad. () He told her that she looked very sad. 102. He said, \"Let it rain ever so hard, I shall go\". (a) He said that he would go however hard it might rain. (b) He said that he would go even if it rains very hard. () He suggested that he should go, let it rain very hard. () He was determined to go even if it rained so hard. 103. He said, \"Rogue! You have deceived me.\" (a) He told him a rogue and said to him of having deceived him. (b) He called him a rogue and accused him of having deceived me. () He called him a rogue and accused him hofa having deceived him. () He told him a rogue and declared -@ him of having deceived me. 104. “So help me heaven!”, theoman n cried, “I shall never lie again.” (a) The man cries out to heaven to help him not to lie again ever. (b) The man called upon heaven to witness his resolve that he would never lie again. () The man requested heaven to help him and see that he lie again. () The man called heaven and ordered to help him and see to it that she never lies again. 105. “Fie! a soldier and afraid of fighting!” said Babar. (a) Babar exclaimed with surprise that a soldier should be afraid of fighting. (b) Addressing a soldier, Babar cursed him that he should be afraid of fighting. () Babar cursed the soldier who was afraid of fighting. () Babar cursed and exclaimed that a soldier should not be afraid of fighting. 106. Rita said, \"I am sorry, I forgot to bring the documents required for the interview.\" (a) Rita apologized that she forgot to bring the documents required for the interview. (b) Rita exclaimed with sorrow that she forgot to bring the documents required for the interview. () Rita told that she was sorry for forgetting to bring the documents required for the interview. () Rita apologized for forgetting to bring the documents required for the interview. 107. \"You' better complete the assignment before Monday,\" the teacher said to the students. (a) The teacher said to the students to complete the assignment before Monday. (b) The teacher told the students to better complete the assignment before Monday. () The teacher advised the students to complete the assignment before Monday. () The teacher said the students should complete the assignment before Monday. 108. \"Don't you dare enter this restricted area again, or you' be punished,\" the guard sternly warned the visitors. (a) The guard warned sternly that the visitors should not dare enter that restricted area again, or they would be punished. (b) The guard sternly warned the visitors that they did not dare enter that restricted area again, or they would be punished. () The guard sternly warned the visitors not to enter that restricted area again, or they would be punished. () The guard sternly warned not to enter that restricted area again, or they should be punished. 109. She said to me, “When I was in school, I played football.” (a) She told me that when she had been in school, she played football. (b) She told me when she had been in school, she had played football. () She told me that when she was in school, she played football. () She told me that when she was in school, she had played football. 110. The little boy asked his teacher if she had always been good as a child. (a) The little boy said to his teacher, “Ma’am. you were always good as a child?” (b) The little boy said to his teacher, “you have always been good as a child?” () The little boy said to his teacher, “Are you always good as a child?” () The little boy said to his teacher, “Ma’am, were you always good as a child?” 111. He ordered his soldiers to take that bird away. Its gilded cage reminded him of his father whom he had imprisoned. (a) He said to his soldiers, “Take this bird away. Its gilded cage reminded me of my father whom I imprison.” (b) He said to his soldiers, “May this bird be taken away. Its gilded cage reminds me of my father whom I imprisoned.” () He said to his soldiers, “Take this bird away. Its gilded cage reminds me of my father whom I imprisoned.” () He said to his soldiers, “Take that bird away. Its gilded cage reminded him of his father whom I imprison.” 112. She said to herself, “Shall I have a happy married life?” (a) She wondered if she shall have a happy married life. (b) She asked that if she should have a happy married life. () She wondered if she would have a happy married life. () She thought that she should have a happy married life. 113. The leader said, “Farewell, my friends and countrymen”. (a) The leader wished farewell to his friends and countrymen. (b) The leader bade farewell to his friendsll and countrymen. () The leader bade his friends and countrymen to farewell. @ () The leader wished his - friends and countrymen farewell. 114. “This is not my fault.” says Fatima to Panna. (a) Panna told Fatima that this was not her fault. (b) Fatima told Panna that this was not her fault. () Fatima tells Panna that this was not her fault. () Fatima tells Panna that this is not her fault. 115. He said to me, \"what expectations do you have from this company?\" (a) He asked me what expectations we had from that company. (b) He asked me what expectations did we have from that company. () He asked me what expectations we had had from that company. () He asked me what expectations we had from this company. 116. The patient said, \"It has been three days since I last slept.\" (a) The patient said that it was three days since he last slept. (b) The patient said that it had been three days since he had last slept. () The patient said that he didn't sleep for three days. () The patient said that he was not sleeping for three days. 117. He said, \"Do it right now.\" (a) He said do it immediately. (b) He told to do it now. () He told me to do it at once. () He told me do it right now. 118. Her parents asked her if the match proposed by them would be acceptable to her. (a) Her parents said her, “Will the match proposed by us be acceptable to you?” (b) Her parents said her, “Would the match proposed by them be acceptable to her?” () Her parents said to her, “Will the match proposed by us be acceptable to you?” () Her parents said to her, “Would the match proposed by us be acceptable to you?” 119. “How clever of you to have solved the puzzle so quickly,” said the mother. (a) The mother exclaimed admiringly that it was very clever of him to have solved the puzzle so quickly. (b) The mother expressed that he was so clever to have solved the puzzle quickly. () The mother told that he was very clever in solving the puzzle so quickly. () The mother exclaimed with joy that he was clever enough to solve the puzzle so quickly. 120. “Oh, how could I ever thank you, Sir!” said the convict to the Bishop. (a) The convict told the Bishop that it was difficult for him to thank him. (b) Exclaiming gratefully, the convict told the Bishop that he could never thank him enough. () The convict said to the Bishop that he could never thank him enough. () The convict exclaimed gratefully to the Bishop that how he could ever thank him. 121. My friend said, “If I were you, I’ stop taking tranquilizers”. (a) My friend told me that if he were I, he’ stop taking tranquilizers. (b) My friend asked that if he was I, he’ stop taking tranquilizers. () My friend advised me to stop tranquilizers. () My friend advised me that if he was I, he’ stop taking tranquilizers. 122. He said, “She is going to the party, isn’t she?” (a) He said that she had been going to the party and asked if she weren’t. (b) He confirmed whether she was going to the party. () He told that she was going to the party. () He said that she was going to the party or not. 123. He said to me, “Let us jump over the wall and eat these mangoes.” (a) He proposed to me that we should jump over the wall and eat those mangoes. (b) He proposed me that we should jump over the wall and eat those mangoes. () He proposed to me that we should jump over the wall and eat these mangoes. () He proposed me that we jumped over the wall and eat those mangoes. 124. The Hindu says, \"We shall launch a special education supplement next month.\" (a) The Hindu says that we shall launch a special education supplement next month. (b) The Hindu says that it will launch a special education supplement the following month. () The Hindu said that it would launch a special education supplement the following month. () The Hindu says that it will launchfhaa special education supplementepdnext month. 125. My daughter said, “I might go -@to the Mall out with my friends tonight.” n  o (SSC CPO, 2024) ear (a) My daughter said that I might go out to the Mall with her friends tonight. (b) My daughter said that she might go out to the Mall with my friends tonight. () My daughter said that she may go out to the Mall with her friends that night. () My daughter said that she might go out to the Mall with her friends that night. 126. Mother said to Amayra, “Did you finish your homework?”  (SSC CPO, 2024) (a) Mother asked Amayra if she had finished her homework. (b) Mother asked Amayra have you finished your homework. () Mother asked Amayra if she finished her homework. () Mother asked Amayra did you finished your homework. 127. They exclaimed sadly that India had lost the match in the World Cup finals.  (SSC CPO, 2024) (a) They said, “Hurrah! India has lost the match in the World Cup finals.” (b) They said, “What a loss! India has lost the match in the World Cup finals.” () They said, “India has sadly lost the match in the World Cup finals.” () They said, “They are so sorry! India has lost the match in the World Cup finals.” 128. I said to Bhawna, “Have the monkeys eaten up our cauliflowers?” (a) I asked Bhawna if the monkeys had eaten up our cauliflowers. (b) I asked Bhawna that have the monkeys eaten up our cauliflowers. () I asked Bhawna if the monkeys have eaten up our cauliflowers. () I asked Bhawna if the monkeys had eaten up their cauliflowers. 129. He said, “I shall need a copy of the documents.”  (SSC CGL, 2024) (a) He said that he will need a copy of the documents. (b) He said that he shall need a copy of the document. () He said that he is going to need a copy of the document. () He said that he would need a copy of the documents. 130. My friend said to me, “Do you know the recipe of mango ice-cream?”  (SSC STENO, 2024) (a) My friend asked me that I knew the recipe of mango ice-cream. (b) My friend asked me if I know the recipe of mango ice-cream. () My friend asked me if I knew the recipe of mango ice-cream. () My friend asked me that I know the recipe of mango ice-cream. 131. “I am going to play with my friends,” the child says to his mother.  (SSC STENO, 2024) (a) The child tells his mother that he is going to play with his friends. (b) The child asked his mother that he is going to play with his friends. () The child told his mother that I am going to play with my friends. () The child said to his mother that he was going to play with his friends. 132. The father said, “Ramu, try again.”  (SSC STENO, 2024) (a) The father said that Ramu tried again. (b) The father advised Ramu to try again. () The father told Ramu that he tried again. () The father requested Ramu to try again. 133. Calling me a friend, Surjit Singh encouraged me and advised me not to lose heart.  (SSC STENO, 2024) (a) Surjit Singh demanded, “Cheer up, friend. Do not lose heart.” (b) Surjit Singh ordered me, “Cheer up, friend. Do not lose heart.” () Surjit Singh asked me, “Cheer up, friend. Do not lose heart.” () Surjit Singh said, “Cheer up, friend. Do not lose heart.” 134. He said, “Alas! I am a ruined man.”  (SSC STENO, 2024) (a) He cried out with sorrow that he was a ruined man. (b) He wished that he was a ruined man. () He applauded with sorrow that he was a ruined man. () He confessed with sorrow that he was a ruined man. 135. The boss said to the secretary, “Don’t forget to order A3 size paper.”  (SSC STENO, 2024) (a) The boss told the secretary that she didn’t forget to order A3 size paper. (b) The boss told the secretary that she should not forget to order A3 size paper. () The boss asked the secretary to order A3 size paper. () The boss instructed the secretary not toll forget to order A3 size paper. a 136. The teacher said that plants have life inethem.  (SSC Selection PhasefreXII, 2024) @has (a) The teacher says, “A plant - life in them.” (b) The teacher said, “Plants have life in them.” () The teacher said, “Plants too have life in them.” () The teacher said, “The plants had life in them.” 137. His son thought, “If my father keeps grieving like this, the crops will die.”  (SSC Selection Phase XII, 2024) (a) His son thought that if his father kept grieving like that, the crops would die. (b) His son thought that if his father kept grieving like this, the crops would have died. () His son thought that his father keeps grieving like that, then crops will die. () His son thought if his father kept grieving like this, the crops will die. 138. He said to the mechanic, “Will you have the car ready by tomorrow morning?”  (SSC CHSL, 2024) (a) He asked the mechanic if he would have the car ready by the next morning. (b) He asked the mechanic if he would had the car ready for the next morning. () He said the mechanic whether he would has the car ready by the following morning. () He asked the mechanic if he will have the car ready by the previous morning. 139. You said, “Priya kept watching television till her mother exploded at her.”  (SSC CPO, 2023) (a) You said that Priya kept watching television till her mother exploded at her. (b) You said that Priya had kept watching television till her mother exploded at her. () You said that Priya kept watching television till her mother had exploded at her. () You said that Priya had kept watching television till her mother had exploded at her. 140. The old man prayed to God to help him in his hour of sorrow.  (SSC CPO, 2023) (a) The old man said, “O God, help me in my hour of sorrow.” (b) The old man said, “God must help him in his hour of sorrow.” () The old man said, “O God, help him in my hour of sorrow.” () The old man said, “O God, help me in his hour of sorrow.” 141. Looking at his watch Barin Babu observed that they were running more or less time.  (SSC CPO, 2023) (a) Looking at his watch Barin Babu said, “They had been running more or less time.” (b) Looking at his watch Barin Babu said, “They were running more or less time.” () Looking at his watch Barin Babu said, “We are running more or less time.” () Looking at his watch Barin Babu said, “We have been running more or less time.” 142. He told her that he could not marry her then but he would surely do so the following year.  (SSC CPO, 2023) (a) He said to her, “He cannot marry you now but he will surely do so next year.” (b) He said to her, “I cannot marry you now but I will surely do so next year.” () He said to her, “I could not marry you then but I will surely do so next year.” () He said to her, “I cannot marry her then but I will surely do so next year.” 143. Mrs. Mane said that she regretted having supplied us with an inferior brand of TV set and was ready to apologise for that.  (SSC Selection Phase XI, 2023) (a) Mrs. Mane said, “I regret supplying you with an inferior brand of TV set and I am ready to apologise for that.” (b) Mrs. Mane said, “I am regretting having supplied you with an inferior brand of TV set and I am ready to apologise for that.” () Mrs. Mane said, “I regret having supplied you with an inferior brand of TV set and I am ready to apologise for that.” () Mrs. Mane said, “I regret to supply you with an inferior brand of TV set and I am ready to apologise for that.” 144. The lawyer told the father of the accused, “There is a rumour that he has some connection in that crime.”  (SSC CHSL, 2023) (a) The lawyer told the father of the accused that there had been a rumour that he had some connection in that crime. (b) The lawyer told the father of the accused that there was a rumour that he was having some connection in that crime. () The lawyer told the father of the accused that there was a rumour that he had some connection in that crime. () The lawyer told the father of the accused that there was a rumour that he has hadll some connection in that crime. 145. The student said to her, “I don’t remember your name.” - CHSL, 2023) (SSC (a) The student said to hernthat he/she cannot remember her name. o (b) The student said to her that I did not remember her name. () The student told her that he/she did not remember her name. () The student told her that he/she do not remember her name. 146. She said, since it was evening, she had to go for a run.  (SSC CHSL, 2023) (a) She said, “It is evening I must go for a run.” (b) She said, “It is evening I might go for a run.” () She said, “It is evening I must ran.” () She said, “It is evening I should go for a run.” 147. He said that he was sorry for all that.  (SSC CGL, 2023) (a) \"I am sorry for all then.\" He says. (b) \"I was sorry for all this.\" He said. () \"I am sorry for all that.\" He says. () \"I am sorry for all this.\" He said. 148. The judge asked the prisoner if he had anything to say for himself.  (SSC CGL, 2021) (a) The judge said to the prisoner, “If you have anything to say for yourself?” (b) The judge said to the prisoner, “Did he have anything to say for himself?” Answer Key",
       "format": "regular"
     },
     {
       "qno": 90,
-      "question": "The sun is shining brightly today,” he said, looking out of the window. \b?",
+      "question": "The sun is shining brightly today,” he said, looking out of the window. ?",
       "exam_source": "(SSC CPO, 2024)",
       "options": {
         "a": "Looking out of the window, he said that",
@@ -1212,21 +1212,21 @@
     },
     {
       "qno": 91,
-      "question": "The traveller asked the owner if he could stay in that tavern. The peasant replied that he could. \b?",
+      "question": "The traveller asked the owner if he could stay in that tavern. The peasant replied that he could. ?",
       "exam_source": "(SSC STENO, 2024)",
       "options": {
-        "a": "The traveller said, “Could I stay in",
-        "b": "The traveller said, “Can I stay in this",
-        "c": "The traveller said, “Can I stay in this",
-        "d": "The traveller said, “May I stay in this"
+        "a": "traveller said, “Could I stay in",
+        "b": "traveller said, “Can I stay in this",
+        "c": "traveller said, “Can I stay in this",
+        "d": "traveller said, “May I stay in this"
       },
       "correct": "c",
-      "explanation": "92. (c) 93. (c) 94. (c) 95. (b)",
+      "explanation": "",
       "format": "regular"
     },
     {
       "qno": 92,
-      "question": "He said that it would be fun if I could join. \b?",
+      "question": "He said that it would be fun if I could join. ?",
       "exam_source": "(SSC STENO, 2024)",
       "options": {
         "a": "He said, “It will have been fun if you had",
@@ -1240,13 +1240,13 @@
     },
     {
       "qno": 95,
-      "question": "The policeman told the boys that they could not park their car there. \b?",
+      "question": "The policeman told the boys that they could not park their car there. ?",
       "exam_source": "(SSC CGL, 2022)",
       "options": {
-        "a": "The policeman said to the boys, \"You",
-        "b": "The policeman said to the boys, \"You",
-        "c": "The policeman said to the boys, \"How",
-        "d": "The policeman told to the boys, \"They"
+        "a": "policeman said to the boys, \"You",
+        "b": "policeman said to the boys, \"You",
+        "c": "policeman said to the boys, \"How",
+        "d": "policeman told to the boys, \"They"
       },
       "correct": "b",
       "explanation": "",
@@ -1254,7 +1254,7 @@
     },
     {
       "qno": 96,
-      "question": "My grandmother said, \"I bore six children.\" \b (SSC CHSL, 2019),?",
+      "question": "My grandmother said, \"I bore six children.\"  (SSC CHSL, 2019),?",
       "exam_source": "",
       "options": {
         "a": "My grandmother told that she had bore",
@@ -1263,7 +1263,7 @@
         "d": "My grandmother said she borne six"
       },
       "correct": "c",
-      "explanation": "97. (d) 98. (c) 99. (c) 100. (a)",
+      "explanation": "",
       "format": "regular"
     },
     {
@@ -1271,10 +1271,10 @@
       "question": "Have you got a blue scarf?\" the customer asked the assistant.",
       "exam_source": "(SSC CPO, 2019)",
       "options": {
-        "a": "The customer asked the assistant if he",
-        "b": "The customer asked the assistant he has a",
-        "c": "The customer asking the assistant if he is",
-        "d": "The customer asked the assistant if he"
+        "a": "ustomer asked the assistant if he",
+        "b": "ustomer asked the assistant he has a",
+        "c": "ustomer asking the assistant if he is",
+        "d": "ustomer asked the assistant if he"
       },
       "correct": "d",
       "explanation": "",
@@ -1282,7 +1282,7 @@
     },
     {
       "qno": 98,
-      "question": "My neighbour enquired how my father was. \b?",
+      "question": "My neighbour enquired how my father was. ?",
       "exam_source": "(SSC CPO, 2019)",
       "options": {
         "a": "My neighbour asked, “What about your",
@@ -1319,7 +1319,7 @@
         "d": "He told her that she looked very sad."
       },
       "correct": "b",
-      "explanation": "102. (a) 103. (c) 104. (b) 105. (d)",
+      "explanation": "",
       "format": "regular"
     },
     {
@@ -1344,7 +1344,7 @@
         "a": "He told him a rogue and said to him of",
         "b": "He called him a rogue and accused him of",
         "c": "He called him a rogue and accused him f hofa",
-        "d": "He told him a rogue and declared fr"
+        "d": "He told him a rogue and declared"
       },
       "correct": "c",
       "explanation": "",
@@ -1361,7 +1361,7 @@
         "d": "Rita apologized for forgetting to bring the"
       },
       "correct": "d",
-      "explanation": "107. (c) 108. (c) 109. (c) all",
+      "explanation": "",
       "format": "regular"
     },
     {
@@ -1383,13 +1383,13 @@
       "question": "The little boy asked his teacher if she had always been good as a child.",
       "exam_source": "",
       "options": {
-        "a": "The little boy said to his teacher, “Ma’am.",
-        "b": "The little boy said to his teacher, “you",
-        "c": "The little boy said to his teacher, “Are you",
-        "d": "The little boy said to his teacher, “Ma’am"
+        "a": "little boy said to his teacher, “Ma’am.",
+        "b": "little boy said to his teacher, “you",
+        "c": "little boy said to his teacher, “Are you",
+        "d": "little boy said to his teacher, “Ma’am"
       },
       "correct": "d",
-      "explanation": "116. (b) 117. (c) 118. (c) 119. (a) pd (b)",
+      "explanation": "",
       "format": "regular"
     },
     {
@@ -1403,7 +1403,7 @@
         "d": "He said to his soldiers, “Take that bird"
       },
       "correct": "c",
-      "explanation": "112. (c) 113. (b) 114. (d) 115. (a)",
+      "explanation": "",
       "format": "regular"
     },
     {
@@ -1425,10 +1425,10 @@
       "question": "The leader said, “Farewell, my friends and countrymen”.",
       "exam_source": "",
       "options": {
-        "a": "The leader wished farewell to his friends",
-        "b": "The leader bade farewell to his friendsll",
-        "c": "The leader bade his friends e and",
-        "d": "The leader wished his T G- friends and"
+        "a": "leader wished farewell to his friends",
+        "b": "leader bade farewell to his friendsll",
+        "c": "leader bade his friends e and",
+        "d": "leader wished his T G- friends and"
       },
       "correct": "b",
       "explanation": "",
@@ -1453,10 +1453,10 @@
       "question": "The patient said, \"It has been three days since I last slept.\"?",
       "exam_source": "",
       "options": {
-        "a": "The patient said that it was three days",
-        "b": "The patient said that it had been three",
-        "c": "The patient said that he didn't sleep for",
-        "d": "The patient said that he was not sleeping"
+        "a": "patient said that it was three days",
+        "b": "patient said that it had been three",
+        "c": "patient said that he didn't sleep for",
+        "d": "patient said that he was not sleeping"
       },
       "correct": "b",
       "explanation": "",
@@ -1492,16 +1492,16 @@
     },
     {
       "qno": 121,
-      "question": "My friend said, “If I were you, I’d stop taking tranquilizers”.",
+      "question": "My friend said, “If I were you, I’ stop taking tranquilizers”.",
       "exam_source": "",
       "options": {
-        "a": "My friend told me that if he were I, he’d",
+        "a": "My friend told me that if he were I, he’",
         "b": "My friend asked that if he was I, he’d stop",
         "c": "My friend advised me to stop",
         "d": "My friend advised me that if he was I"
       },
       "correct": "a",
-      "explanation": "122. (b) 123. (a) 124. (b) 125. (d)",
+      "explanation": "",
       "format": "regular"
     },
     {
@@ -1537,10 +1537,10 @@
       "question": "The Hindu says, \"We shall launch a special education supplement next month.\"?",
       "exam_source": "",
       "options": {
-        "a": "The Hindu says that we shall launch",
-        "b": "The Hindu says that it will launch",
-        "c": "The Hindu said that it would launch",
-        "d": "The Hindu says that it will launchfhaa"
+        "a": "Hindu says that we shall launch",
+        "b": "Hindu says that it will launch",
+        "c": "Hindu said that it would launch",
+        "d": "Hindu says that it will launchfhaa"
       },
       "correct": "b",
       "explanation": "",
@@ -1548,7 +1548,7 @@
     },
     {
       "qno": 125,
-      "question": "My daughter said, “I might go G -@to the Mall out with my friends tonight.” n T \b o ear?",
+      "question": "My daughter said, “I might go -@to the Mall out with my friends tonight.” n  o ear?",
       "exam_source": "(SSC CPO, 2024)",
       "options": {
         "a": "My daughter said that I might go out to",
@@ -1562,7 +1562,7 @@
     },
     {
       "qno": 126,
-      "question": "Mother said to Amayra, “Did you finish your homework?” \b?",
+      "question": "Mother said to Amayra, “Did you finish your homework?” ?",
       "exam_source": "(SSC CPO, 2024)",
       "options": {
         "a": "Mother asked Amayra if she had finished",
@@ -1576,13 +1576,13 @@
     },
     {
       "qno": 127,
-      "question": "They exclaimed sadly that India had lost the match in the World Cup finals. \b?",
+      "question": "They exclaimed sadly that India had lost the match in the World Cup finals. ?",
       "exam_source": "(SSC CPO, 2024)",
       "options": {
-        "a": "They said, “Hurrah! India has lost the",
-        "b": "They said, “What a loss! India has lost the",
-        "c": "They said, “India has sadly lost the match",
-        "d": "They said, “They are so sorry! India has"
+        "a": "y said, “Hurrah! India has lost the",
+        "b": "y said, “What a loss! India has lost the",
+        "c": "y said, “India has sadly lost the match",
+        "d": "y said, “They are so sorry! India has"
       },
       "correct": "",
       "explanation": "",
@@ -1604,7 +1604,7 @@
     },
     {
       "qno": 129,
-      "question": "He said, “I shall need a copy of the documents.” \b?",
+      "question": "He said, “I shall need a copy of the documents.” ?",
       "exam_source": "(SSC CGL, 2024)",
       "options": {
         "a": "He said that he will need a copy of the",
@@ -1618,7 +1618,7 @@
     },
     {
       "qno": 130,
-      "question": "My friend said to me, “Do you know the recipe of mango ice-cream?” \b?",
+      "question": "My friend said to me, “Do you know the recipe of mango ice-cream?” ?",
       "exam_source": "(SSC STENO, 2024)",
       "options": {
         "a": "My friend asked me that I knew the",
@@ -1632,13 +1632,13 @@
     },
     {
       "qno": 132,
-      "question": "The father said, “Ramu, try again.” \b?",
+      "question": "The father said, “Ramu, try again.” ?",
       "exam_source": "(SSC STENO, 2024)",
       "options": {
-        "a": "The father said that Ramu tried again.",
-        "b": "The father advised Ramu to try again.",
-        "c": "The father told Ramu that he tried again.",
-        "d": "The father requested Ramu to try again."
+        "a": "ather said that Ramu tried again.",
+        "b": "ather advised Ramu to try again.",
+        "c": "ather told Ramu that he tried again.",
+        "d": "ather requested Ramu to try again."
       },
       "correct": "b",
       "explanation": "",
@@ -1646,7 +1646,7 @@
     },
     {
       "qno": 133,
-      "question": "Calling me a friend, Surjit Singh encouraged me and advised me not to lose heart. \b?",
+      "question": "Calling me a friend, Surjit Singh encouraged me and advised me not to lose heart. ?",
       "exam_source": "(SSC STENO, 2024)",
       "options": {
         "a": "Surjit Singh demanded, “Cheer up",
@@ -1660,7 +1660,7 @@
     },
     {
       "qno": 134,
-      "question": "He said, “Alas! I am a ruined man.” \b?",
+      "question": "He said, “Alas! I am a ruined man.” ?",
       "exam_source": "(SSC STENO, 2024)",
       "options": {
         "a": "He cried out with sorrow that he was a",
@@ -1674,13 +1674,13 @@
     },
     {
       "qno": 135,
-      "question": "The boss said to the secretary, “Don’t forget to order A3 size paper.” \b?",
+      "question": "The boss said to the secretary, “Don’t forget to order A3 size paper.” ?",
       "exam_source": "(SSC STENO, 2024)",
       "options": {
-        "a": "The boss told the secretary that she didn’t",
-        "b": "The boss told the secretary that she",
-        "c": "The boss asked the secretary to order A3",
-        "d": "The boss instructed the secretary not toll"
+        "a": "boss told the secretary that she didn’t",
+        "b": "boss told the secretary that she",
+        "c": "boss asked the secretary to order A3",
+        "d": "boss instructed the secretary not toll"
       },
       "correct": "d",
       "explanation": "",
@@ -1688,21 +1688,21 @@
     },
     {
       "qno": 136,
-      "question": "The teacher said that plants have life inethem. \b (SSC Selection PhasefreXII, 2024) @has?",
+      "question": "The teacher said that plants have life inethem.  (SSC Selection PhasefreXII, 2024) @has?",
       "exam_source": "",
       "options": {
-        "a": "The teacher says, “A plant G - life in",
-        "b": "The teacher said, h“Plants have life in",
-        "c": "The teacher said, “Plants too have life in",
-        "d": "The teacher said, “The plants had life in"
+        "a": "teacher says, “A plant G - life in",
+        "b": "teacher said, h“Plants have life in",
+        "c": "teacher said, “Plants too have life in",
+        "d": "teacher said, “The plants had life in"
       },
       "correct": "b",
-      "explanation": "137. (a) 138. (a) 139.T (a) 140. (a)",
+      "explanation": "",
       "format": "regular"
     },
     {
       "qno": 137,
-      "question": "His son thought, “If my father keeps grieving like this, the crops will die.” \b (SSC Selection Phase XII, 2024)",
+      "question": "His son thought, “If my father keeps grieving like this, the crops will die.”  (SSC Selection Phase XII, 2024)",
       "exam_source": "",
       "options": {
         "a": "His son thought that if his father kept",
@@ -1716,7 +1716,7 @@
     },
     {
       "qno": 138,
-      "question": "He said to the mechanic, “Will you have the car ready by tomorrow morning?” \b?",
+      "question": "He said to the mechanic, “Will you have the car ready by tomorrow morning?” ?",
       "exam_source": "(SSC CHSL, 2024)",
       "options": {
         "a": "He asked the mechanic if he would have",
@@ -1730,7 +1730,7 @@
     },
     {
       "qno": 139,
-      "question": "You said, “Priya kept watching television till her mother exploded at her.” \b?",
+      "question": "You said, “Priya kept watching television till her mother exploded at her.” ?",
       "exam_source": "(SSC CPO, 2023)",
       "options": {
         "a": "You said that Priya kept watching",
@@ -1744,13 +1744,13 @@
     },
     {
       "qno": 140,
-      "question": "The old man prayed to God to help him in his hour of sorrow. \b?",
+      "question": "The old man prayed to God to help him in his hour of sorrow. ?",
       "exam_source": "(SSC CPO, 2023)",
       "options": {
-        "a": "The old man said, “O God, help me in my",
-        "b": "The old man said, “God must help him in",
-        "c": "The old man said, “O God, help him in",
-        "d": "The old man said, “O God, help me in his"
+        "a": "old man said, “O God, help me in my",
+        "b": "old man said, “God must help him in",
+        "c": "old man said, “O God, help him in",
+        "d": "old man said, “O God, help me in his"
       },
       "correct": "a",
       "explanation": "",
@@ -1758,7 +1758,7 @@
     },
     {
       "qno": 141,
-      "question": "Looking at his watch Barin Babu observed that they were running more or less on time. \b?",
+      "question": "Looking at his watch Barin Babu observed that they were running more or less time. ?",
       "exam_source": "(SSC CPO, 2023)",
       "options": {
         "a": "Looking at his watch Barin Babu said",
@@ -1767,12 +1767,12 @@
         "d": "Looking at his watch Barin Babu said"
       },
       "correct": "c",
-      "explanation": "142. (b) 143. (c) 144. (c) 145. (c) (c)The judge said to the prisoner, “Do you have anything to say for yourself?” (d) The judge said to the prisoner, “Does he have anything to say for himself?” 149. My friend said, “Hello! What are you doing here?”\b (SSC CGL, 2021) (a) My friend wished me and asked me what was I doing here. (b) My friend said hello to me and asked what were you doing here. (c) My friend greeted me and asked me what I was doing there. (d) My friend said hello and asked me what was I doing there. 150. Mother said that when we pluck a flower it dies so we should let it beautify the world as long as it lives.\b (SSC CGL, 2020) (a) Mother says, “When we pluck a flower it dies so we should let it beautify the world as long as it lives.” (b) Mother said, “When we pluck a flower it dies so you should let it beautify the world as long as it lived.” (c) Mother said, “When we pluck a flower it dies so we should let it beautify the world as long as it lives.” (d) Mother said, “When we plucked a flower it died so we should let it beautify the world as long as it lived.”",
+      "explanation": "142. (b) 143. () 144. () 145. () ()The judge said to the prisoner, “Do you have anything to say for yourself?” () The judge said to the prisoner, “Does he have anything to say for himself?” 149. My friend said, “Hello! What are you doing here?” (SSC CGL, 2021) (a) My friend wished me and asked me what was I doing here. (b) My friend said hello to me and asked what were you doing here. () My friend greeted me and asked me what I was doing there. () My friend said hello and asked me what was I doing there. 150. Mother said that when we pluck a flower it dies so we should let it beautify the world as long as it lives. (SSC CGL, 2020) (a) Mother says, “When we pluck a flower it dies so we should let it beautify the world as long as it lives.” (b) Mother said, “When we pluck a flower it dies so you should let it beautify the world as long as it lived.” () Mother said, “When we pluck a flower it dies so we should let it beautify the world as long as it lives.” () Mother said, “When we plucked a flower it died so we should let it beautify the world as long as it lived.”",
       "format": "regular"
     },
     {
       "qno": 142,
-      "question": "He told her that he could not marry her then but he would surely do so the following year. \b?",
+      "question": "He told her that he could not marry her then but he would surely do so the following year. ?",
       "exam_source": "(SSC CPO, 2023)",
       "options": {
         "a": "He said to her, “He cannot marry you",
@@ -1786,7 +1786,7 @@
     },
     {
       "qno": 143,
-      "question": "Mrs. Mane said that she regretted having supplied us with an inferior brand of TV set and was ready to apologise for that. \b (SSC Selection Phase XI, 2023)",
+      "question": "Mrs. Mane said that she regretted having supplied us with an inferior brand of TV set and was ready to apologise for that.  (SSC Selection Phase XI, 2023)",
       "exam_source": "",
       "options": {
         "a": "Mrs. Mane said, “I regret supplying you",
@@ -1800,13 +1800,13 @@
     },
     {
       "qno": 144,
-      "question": "The lawyer told the father of the accused, “There is a rumour that he has some connection in that crime.” \b?",
+      "question": "The lawyer told the father of the accused, “There is a rumour that he has some connection in that crime.” ?",
       "exam_source": "(SSC CHSL, 2023)",
       "options": {
-        "a": "The lawyer told the father of the accused",
-        "b": "The lawyer told the father of the accused",
-        "c": "The lawyer told the father of the accused",
-        "d": "The lawyer told the father of the accused"
+        "a": "lawyer told the father of the accused",
+        "b": "lawyer told the father of the accused",
+        "c": "lawyer told the father of the accused",
+        "d": "lawyer told the father of the accused"
       },
       "correct": "c",
       "explanation": "",
@@ -1814,13 +1814,13 @@
     },
     {
       "qno": 145,
-      "question": "The student said to her, “I don’t remember p df your name.” T G- CHSL, 2023) (SSC?",
+      "question": "The student said to her, “I don’t remember your name.” - CHSL, 2023) (SSC?",
       "exam_source": "",
       "options": {
-        "a": "The student said to hernthat he/she cannot",
-        "b": "The student said to her that I did not",
-        "c": "The student told her that he/she did not",
-        "d": "The student told her that he/she do not"
+        "a": "student said to hernthat he/she cannot",
+        "b": "student said to her that I did not",
+        "c": "student told her that he/she did not",
+        "d": "student told her that he/she do not"
       },
       "correct": "c",
       "explanation": "",
@@ -1828,7 +1828,7 @@
     },
     {
       "qno": 146,
-      "question": "She said, since it was evening, she had to go for a run. \b?",
+      "question": "She said, since it was evening, she had to go for a run. ?",
       "exam_source": "(SSC CHSL, 2023)",
       "options": {
         "a": "She said, “It is evening I must go for a",
@@ -1837,12 +1837,12 @@
         "d": "She said, “It is evening I should go for a"
       },
       "correct": "a",
-      "explanation": "147. (d) 148. (c)ch 149. (c) 150. (c)",
+      "explanation": "",
       "format": "regular"
     },
     {
       "qno": 147,
-      "question": "He said that he was sorry for all that. \b?",
+      "question": "He said that he was sorry for all that. ?",
       "exam_source": "(SSC CGL, 2023)",
       "options": {
         "a": "\"I am sorry for all then.\" He says.",
@@ -1856,11 +1856,11 @@
     },
     {
       "qno": 148,
-      "question": "The judge asked the prisoner if he had anything to say for himself. \b?",
+      "question": "The judge asked the prisoner if he had anything to say for himself. ?",
       "exam_source": "(SSC CGL, 2021)",
       "options": {
-        "a": "The judge said to the prisoner, “If you",
-        "b": "The judge said to the prisoner, “Did he",
+        "a": "judge said to the prisoner, “If you",
+        "b": "judge said to the prisoner, “Did he",
         "d": "4.",
         "c": "23."
       },
@@ -1870,7 +1870,7 @@
     },
     {
       "qno": 149,
-      "question": "My friend said, “Hello! What are you doing here?”\b?",
+      "question": "My friend said, “Hello! What are you doing here?”?",
       "exam_source": "(SSC CGL, 2021)",
       "options": {
         "a": "My friend wished me and asked me what",
@@ -1884,7 +1884,7 @@
     },
     {
       "qno": 150,
-      "question": "Mother said that when we pluck a flower it dies so we should let it beautify the world as long as it lives.\b?",
+      "question": "Mother said that when we pluck a flower it dies so we should let it beautify the world as long as it lives.?",
       "exam_source": "(SSC CGL, 2020)",
       "options": {
         "a": "Mother says, “When we pluck a flower",

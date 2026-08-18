@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 192,
   "end_page": 194,
-  "theory": " There are some words and phrases that take preposition \"By\". Such words and\n       phrases are:\n\nWord + Preposition                       English Meaning                     Hindi meaning\n1   By + (doer)         Written by him, designed by her, made by them     drkZ\n2   By chance           Accidentally                                      la;ksx ls\n3   By accident         Unintentionally                                   xyrh ls\n4   By mistake          Error                                             Hkwy ls\n5   By coincidence      Unexpectedly                                      la;ksx ls\n6   By + (time)         Deadline                                          ml le; rd\n7   By + (means)        By bus, by train, by air, by road, by post        osQ }kjk\n8   By heart            Memorized                                         daBLFk\n9   By default          Automatically                                     Lor%\n10 By force             Compulsion                                        tcjnLrh\n11 Abide by             Follow                                            ikyu djuk\n12 Stand by             Support                                           leFkZu djuk\n13 Swear by             Have complete faith in                            iwjk fo'okl djuk\n14 Go by                Follow                                            osQ vuqlkj pyuk\n15 Known by             Recognized                                        igpkuk tkuk\n16 Occupied by          Taken over                                        dCtk fd;k gqvk\n17 Perish by            Die because of                                    ls ejuk\n18 Reduce by            Decrease                                          de djuk\n19 Fascinated by        Attracted                                         eksfgr\n20 Held by              Controlled                                        fu;af=kr\n21 Hidden by            Concealed by                                      fNik gqvk\n22 Judge by             Form an opinion based on                          osQ vk/kj ij vkaduk\n\n23 Accompanied by Along with                                              ds lkFk                      ha\n\n24 Taken aback by       Surprised suddenly                                vpkud pfdr      f  eeuk\n                                                                                            rgks\n\n25 Impressed by         Feeling admiration for                            çHkkforn gksuk",
+  "theory": " There are some words and phrases that take preposition \"By\". Such words and\n phrases are:\n\nWord + Preposition English Meaning Hindi meaning\n1 By + (doer) Written by him, designed by her, made by them drkZ\n2 By chance Accidentally la;ksx ls\n3 By accident Unintentionally xyrh ls\n4 By mistake Error Hkwy ls\n5 By coincidence Unexpectedly la;ksx ls\n6 By + (time) Deadline ml le; rd\n7 By + (means) By bus, by train, by air, by road, by post osQ }kjk\n8 By heart Memorized daBLFk\n9 By default Automatically Lor%\n10 By force Compulsion tcjnLrh\n11 Abide by Follow ikyu djuk\n12 Stand by Support leFkZu djuk\n13 Swear by Have complete faith in iwjk fo'okl djuk\n14 Go by Follow osQ vuqlkj pyuk\n15 Known by Recognized igpkuk tkuk\n16 Occupied by Taken over dCtk fd;k gqvk\n17 Perish by Die because of ls ejuk\n18 Reduce by Decrease de djuk\n19 Fascinated by Attracted eksfgr\n20 Held by Controlled fu;af=kr\n21 Hidden by Concealed by fNik gqvk\n22 Judge by Form an opinion based osQ vk/kj ij vkaduk\n\n23 Accompanied by Along with ds lkFk \n\n24 Taken aback by Surprised suddenly vpkud pfdr eeuk\n rgks\n\n25 Impressed by Feeling admiration for çHkkforn gksuk",
   "mcqs": [
     {
       "qno": 1,
@@ -47,7 +47,7 @@
     },
     {
       "qno": 4,
-      "question": "He always lives on his principles?",
+      "question": "He always lives his principles?",
       "exam_source": "",
       "options": {
         "a": "/ and",
@@ -55,7 +55,7 @@
         "c": "/ in difficult situations."
       },
       "correct": "a",
-      "explanation": "lives on his principles\" should be replaced with \"lives by",
+      "explanation": "lives his principles\" should be replaced with \"lives by",
       "format": "error_spotting"
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "qno": 6,
-      "question": "You should always go on the instructions?",
+      "question": "You should always go the instructions?",
       "exam_source": "",
       "options": {
         "a": "/ given by your teacher",
@@ -81,7 +81,7 @@
         "c": "/ in the examination."
       },
       "correct": "a",
-      "explanation": "\"go on the instructions\" should be replaced with \"go by the",
+      "explanation": "\"go the instructions\" should be replaced with \"go by the",
       "format": "error_spotting"
     },
     {
@@ -155,7 +155,7 @@
       "exam_source": "",
       "options": {
         "a": "through reading books",
-        "b": "from reading books",
+        "b": "om reading books",
         "c": "by reading books",
         "d": "over reading books"
       },
@@ -165,7 +165,7 @@
     },
     {
       "qno": 13,
-      "question": "She goes to office in bus every day. \b?",
+      "question": "She goes to office in bus every day. ?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "by the bus",
@@ -179,7 +179,7 @@
     },
     {
       "qno": 14,
-      "question": "The fraud comes at a time when the unregulated finance industry is facing a crisis on its way of high interest rates and low repayment of loans. \b?",
+      "question": "The fraud comes at a time when the unregulated finance industry is facing a crisis its way of high interest rates and low repayment of loans. ?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
         "a": "because manner of",
@@ -193,7 +193,7 @@
     },
     {
       "qno": 15,
-      "question": "Please submit your assignments by Friday. \b?",
+      "question": "Please submit your assignments by Friday. ?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
         "a": "till Friday.",
@@ -207,7 +207,7 @@
     },
     {
       "qno": 16,
-      "question": "His room is 5 meters on 5 meters. \b?",
+      "question": "His room is 5 meters 5 meters. ?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
         "a": "by 5 meters.",
@@ -216,12 +216,12 @@
         "d": "No substitution"
       },
       "correct": "a",
-      "explanation": "17. (b) 18. (b) 19. (b) 20. (a) tions",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {
       "qno": 17,
-      "question": "I prefer travelling on train than travelling by bus as I suffer from motion sickness. \b?",
+      "question": "I prefer travelling train than travelling by bus as I suffer from motion sickness. ?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
         "a": "prefer travelling in train to travelling by",
@@ -235,7 +235,7 @@
     },
     {
       "qno": 18,
-      "question": "She inspires from her mother’s success. \b?",
+      "question": "She inspires from her mother’s success. ?",
       "exam_source": "(SSC CPO, 2025)",
       "options": {
         "a": "is inspiring from",
@@ -254,7 +254,7 @@
       "options": {
         "a": "to",
         "b": "by",
-        "c": "for",
+        "c": "or",
         "d": "No improvement"
       },
       "correct": "b",
@@ -263,11 +263,11 @@
     },
     {
       "qno": 20,
-      "question": "This sauce has to be used .......... 23rd September. \b?",
+      "question": "This sauce has to be used .......... 23rd September. ?",
       "exam_source": "(UPSC CDS, 2021)",
       "options": {
         "a": "by",
-        "b": "for",
+        "b": "or",
         "c": "into",
         "d": "with"
       },
@@ -277,26 +277,26 @@
     },
     {
       "qno": 21,
-      "question": "He lives .......... his pen. p df (UPSCfrCDS, 2021)",
+      "question": "He lives .......... his pen. (UPSCfrCDS, 2021)",
       "exam_source": "",
       "options": {
         "a": "by",
         "b": "G",
         "c": "on",
-        "d": "T off"
+        "d": "off"
       },
       "correct": "a",
-      "explanation": "22. (d) 23. (b) 24. (a) Solut",
+      "explanation": "",
       "format": "fill_blank"
     },
     {
       "qno": 22,
-      "question": "She is standing .......... her husband in this crisis. \b (CUET, 13/May/2025)",
+      "question": "She is standing .......... her husband in this crisis.  (CUET, 13/May/2025)",
       "exam_source": "",
       "options": {
         "a": "with",
         "b": "in",
-        "c": "for",
+        "c": "or",
         "d": "by"
       },
       "correct": "d",
@@ -319,12 +319,12 @@
     },
     {
       "qno": 24,
-      "question": "Most of the guests arrived for the concert .......... bus. \b (CUET, 15/May/2024)",
+      "question": "Most of the guests arrived for the concert .......... bus.  (CUET, 15/May/2024)",
       "exam_source": "",
       "options": {
         "a": "by",
         "b": "with",
-        "c": "from",
+        "c": "om",
         "d": "through"
       },
       "correct": "a",

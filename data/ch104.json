@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 276,
   "end_page": 277,
-  "theory": "Comparison between Two Similar Things:\n\n   While making comparisons, the things compared must be of the same kind, category, or\n      nature.\n tc ge nks lkeu phtksa dh rqyuk djrs gSa rks ,d gh laKk dks nksgjkus ls cpuk pkfg,A\n\n    Find noun before \"than\"\n   that of → singular noun\n   those of → plural noun\n Structure\n\t\tNoun + be (is/am/are/was/were) + comparative than that of / those of + noun",
+  "theory": "Comparison between Two Similar Things:\n\n  While making comparisons, the things compared must be of the same kind, category, or\n nature.\n tc ge nks lkeu phtksa dh rqyuk djrs gSa rks , gh laKk dks nksgjkus ls cpuk pkfg,A\n\n Find noun before \"than\"\n  that of → singular noun\n  those of → plural noun\n Structure\n Noun + be (is/am/are/was/were) + comparative than that of / those of + noun",
   "mcqs": [
     {
       "qno": 1,
@@ -115,7 +115,7 @@
         "a": "/ of Sri Lanka is",
         "b": "/ less than",
         "c": "/ No error",
-        "d": "arison between Two Similar Things:"
+        "d": "ison between Two Similar Things:"
       },
       "correct": "c",
       "explanation": "\"less than India\" should be replaced with \"less than that of",
@@ -150,7 +150,7 @@
     },
     {
       "qno": 12,
-      "question": "She has no other hobby but that of collecting coins.\b?",
+      "question": "She has no other hobby but that of collecting coins.?",
       "exam_source": "(SSC CPO, 2019)",
       "options": {
         "a": "No substitution",
@@ -173,7 +173,7 @@
         "d": "No improvement"
       },
       "correct": "b",
-      "explanation": "fter several days' tour, we became convinced that the climate of this place was like Srinagar in winter. (a) in winter was like Srinagar (b) was like that of Srinagar in winter (c) was like Srinagar's in winter (d) No improvement 14. Despite his old age, his movements were as spirited as a young man. (a) a young man's (b) If a young man (c) those of a young man (d) No correction required 15. The achievements of this student are better than any student in the class. (a) better than any student (b) better than those of any other student (c) better than that of any student ll (d) No improvement pd e n TG c ho Answers",
+      "explanation": "fter several days' tour, we became convinced that the climate of this place was like Srinagar in winter. (a) in winter was like Srinagar (b) was like that of Srinagar in winter () was like Srinagar's in winter () No improvement 14. Despite his old age, his movements were as spirited as a young man. (a) a young man's (b) If a young man () those of a young man () No correction required 15. The achievements of this student are better than any student in the class. (a) better than any student (b) better than those of any other student () better than that of any student () No improvement pd n ho Answers",
       "format": "sentence_improve"
     },
     {
@@ -197,8 +197,8 @@
       "options": {
         "a": "better than any student",
         "b": "better than those of any other student",
-        "c": "better than that of any student ll",
-        "d": "No improvement pd e"
+        "c": "better than that of any student",
+        "d": "No improvement pd"
       },
       "correct": "b",
       "explanation": "",

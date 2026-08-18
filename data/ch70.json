@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 188,
   "end_page": 189,
-  "theory": " Between: Used when referring to two people or things. (nks yksxksa ;k phtksa osQ chp@nks osQ fy,)\n     Among: Used when referring to more than two people or things. (nks ls vf/d yksxksa@phtksa\n         osQ chp)\n     Amid: Used with uncountable nouns to show \"in the middle of\" a situation, emotion,\n         environment, etc. (fdlh fLFkfr] Hkkouk ;k ekgkSy osQ chp)\n\n      Note\n     Between is used for more than two when there is a clear individual relationship/separation.\n     Ex. The treaty was signed between India, Nepal, Bhutan and Bangladesh.\n     Ex. Cooperation between the police officers, doctors and local volunteers saved many lives\n     during the flood.",
+  "theory": " Between: Used when referring to two people or things. (nks yksxksa ;k phtksa osQ chpnks osQ fy,)\n  Among: Used when referring to more than two people or things. (nks ls vf/ yksxksaphtksa\n osQ chp)\n  Amid: Used with uncountable nouns to show \"in the middle of\" a situation, emotion,\n environment, etc. (fdlh fLFkfr] Hkkouk ;k ekgkSy osQ chp)\n\n Note\n Between is used for more than two when there is a clear individual relationship/separation.\n Ex. The treaty was signed between India, Nepal, Bhutan and Bangladesh.\n Ex. Cooperation between the police officers, doctors and local volunteers saved many lives\n during the flood.",
   "mcqs": [
     {
       "qno": 1,
@@ -180,11 +180,11 @@
     },
     {
       "qno": 14,
-      "question": "The two sisters decided to divide the stolen money among themselves. \b?",
+      "question": "The two sisters decided to divide the stolen money among themselves. ?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
         "a": "into themselves.",
-        "b": "for themselves.",
+        "b": "or themselves.",
         "c": "between themselves.",
         "d": "No substitution."
       },
@@ -194,13 +194,13 @@
     },
     {
       "qno": 15,
-      "question": "She sat among her parents to watch the play. \b a?",
+      "question": "She sat among her parents to watch the play.  a?",
       "exam_source": "(DP HCM, 2026)",
       "options": {
         "a": "between her parents p",
         "b": "besides her parents @",
-        "c": "next her parents T G-",
-        "d": "No substitution on"
+        "c": "next her parents",
+        "d": "No substitution"
       },
       "correct": "a",
       "explanation": "",
@@ -208,21 +208,21 @@
     },
     {
       "qno": 16,
-      "question": "His property was divided ........... his daughter and sons.\b?",
+      "question": "His property was divided ........... his daughter and sons.?",
       "exam_source": "(UPSC CDS, 2017)",
       "options": {
         "a": "between",
         "b": "among",
-        "c": "from",
+        "c": "om",
         "d": "with"
       },
       "correct": "b",
-      "explanation": "17. (d) 18. (b) 19. (a) 20. (b) tions D;ksafd stock dk foHkktu nks brothers osQ chp fd;k x;k gSA",
+      "explanation": "17. () 18. (b) 19. (a) 20. (b) tions D;ksafd stock dk foHkktu nks brothers osQ chp fd;k x;k gSA",
       "format": "fill_blank"
     },
     {
       "qno": 17,
-      "question": "My house is ........... the bank and the post office. \b?",
+      "question": "My house is ........... the bank and the post office. ?",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
         "a": "among",
@@ -236,7 +236,7 @@
     },
     {
       "qno": 18,
-      "question": "Don't read ........... the lines. Read the lines. \b?",
+      "question": "Don't read ........... the lines. Read the lines. ?",
       "exam_source": "(UPSC CDS, 2021)",
       "options": {
         "a": "in",
@@ -250,7 +250,7 @@
     },
     {
       "qno": 19,
-      "question": "She felt lost ........... so many strangers. \b?",
+      "question": "She felt lost ........... so many strangers. ?",
       "exam_source": "(DP HCM, 2026)",
       "options": {
         "a": "among",
@@ -264,7 +264,7 @@
     },
     {
       "qno": 20,
-      "question": "Robin hood was popular ........... poor people. \b?",
+      "question": "Robin hood was popular ........... poor people. ?",
       "exam_source": "(SSC MTS, 2025)",
       "options": {
         "a": "about",
@@ -287,7 +287,7 @@
         "d": "Amongst"
       },
       "correct": "c",
-      "explanation": "22. (a) Solut",
+      "explanation": "",
       "format": "fill_blank"
     },
     {

@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 320,
   "end_page": 320,
-  "theory": " When a pronoun comes after the verb \"to be\" (is, am, are, was, were, be, been, being), we use\n   the subjective case of pronouns.\n\t\t Subjective Pronouns: I, He, She, We, They, Who\n    Structure\n Subject + Verb \"to be\" + Subjective Pronoun\n       Examples",
+  "theory": " When a pronoun comes after the verb \"to be\" (is, am, are, was, were, be, been, being), we use\n the subjective case of pronouns.\n Subjective Pronouns: I, He, She, We, They, Who\n Structure\n Subject + Verb \"to be\" + Subjective Pronoun\n Examples",
   "mcqs": [
     {
       "qno": 1,
@@ -64,7 +64,7 @@
       "options": {
         "a": "/ research at the",
         "b": "/ was him who",
-        "c": "/ ten years working on"
+        "c": "/ ten years working"
       },
       "correct": "c",
       "explanation": "him who should be replaced with he who of use will be,",
@@ -88,10 +88,10 @@
       "question": "It was ......... who completed the entire project before the deadline.",
       "exam_source": "",
       "options": {
-        "a": "him",
-        "b": "he",
-        "c": "his",
-        "d": "himself"
+        "a": "im",
+        "b": "e",
+        "c": "is",
+        "d": "imself"
       },
       "correct": "b",
       "explanation": "",
@@ -131,9 +131,9 @@
       "exam_source": "",
       "options": {
         "a": "she",
-        "b": "her",
-        "c": "hers",
-        "d": "herself"
+        "b": "r",
+        "c": "s",
+        "d": "lf"
       },
       "correct": "a",
       "explanation": "",

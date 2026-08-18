@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 122,
   "end_page": 122,
-  "theory": "1 Cardinal - Cardinal numbers show quantity (how many) (fdrus@fxurh).\n  \t\t Ex. — one, two, three, four\n   2 Ordinal - Ordinal numbers show position or order (LFkku ;k ozQe).\n  \t\t Ex. — first, second, third, fourth.\n   3 Ordinal Number comes FIRST\n       4 Cardinal Number comes AFTER.\n       Structure: Ordinal Number + Cardinal Number + Noun",
+  "theory": "1 Cardinal - Cardinal numbers show quantity (how many) (fdrusfxurh).\n Ex. — one, two, three, four\n 2 Ordinal - Ordinal numbers show position or order (LFkku ;k ozQe).\n Ex. — first, second, third, fourth.\n 3 Ordinal Number comes FIRST\n 4 Cardinal Number comes AFTER.\n Structure: Ordinal Number + Cardinal Number + Noun",
   "mcqs": [
     {
       "qno": 1,
@@ -81,7 +81,7 @@
         "d": "Answers"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -117,7 +117,7 @@
       "exam_source": "",
       "options": {
         "a": "the first two only decisive victories",
-        "b": "only the two first decisive victories",
+        "b": "ly the two first decisive victories",
         "c": "the only first two decisive victories",
         "d": "No improvement"
       },

@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 311,
   "end_page": 314,
-  "theory": " Questions based on Idioms and Phrasal Verbs.",
+  "theory": " Questions based Idioms and Phrasal Verbs.",
   "mcqs": [
     {
       "qno": 1,
@@ -106,7 +106,7 @@
       "question": "Though she was able to?",
       "exam_source": "(SSC CHSL, 2019)",
       "options": {
-        "a": "/ finish the work on",
+        "a": "/ finish the work",
         "b": "/ she couldn't do that out in fear.",
         "c": "/ No",
         "d": "\b"
@@ -172,7 +172,7 @@
     },
     {
       "qno": 13,
-      "question": "The Volunteer gave on to?",
+      "question": "The Volunteer gave to?",
       "exam_source": "(SSC CHSL, 2024)",
       "options": {
         "a": "/ the food packets to",
@@ -181,7 +181,7 @@
         "d": "\b"
       },
       "correct": "a",
-      "explanation": "gave on to should be replaced with gave out of use",
+      "explanation": "gave to should be replaced with gave out of use",
       "format": "error_spotting"
     },
     {
@@ -286,12 +286,12 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
       "qno": 22,
-      "question": "Google has set on?",
+      "question": "Google has set ?",
       "exam_source": "(SSC MTS, 2020)",
       "options": {
         "a": "/ an India fund and",
@@ -300,7 +300,7 @@
         "d": "\b"
       },
       "correct": "a",
-      "explanation": "set on should be replaced with set up of use will be because",
+      "explanation": "set should be replaced with set up of use will be because",
       "format": "error_spotting"
     },
     {
@@ -326,7 +326,7 @@
         "c": "/ educational"
       },
       "correct": "b",
-      "explanation": "drawn on should be replaced with drawn up of use",
+      "explanation": "drawn should be replaced with drawn up of use",
       "format": "error_spotting"
     },
     {
@@ -370,12 +370,12 @@
       "question": "The government is expected?",
       "exam_source": "",
       "options": {
-        "a": "/ to crack up on",
+        "a": "/ to crack up",
         "b": "/illegal activities taking place near the border",
         "c": "/ the state."
       },
       "correct": "b",
-      "explanation": "crack up should be replaced with crack down on of",
+      "explanation": "crack up should be replaced with crack down of",
       "format": "error_spotting"
     },
     {
@@ -496,7 +496,7 @@
     },
     {
       "qno": 38,
-      "question": "You need to come on terms?",
+      "question": "You need to come terms?",
       "exam_source": "",
       "options": {
         "a": "/ with the facts that",
@@ -504,7 +504,7 @@
         "c": "/ there's no"
       },
       "correct": "a",
-      "explanation": "come on terms should be replaced with come to terms",
+      "explanation": "come terms should be replaced with come to terms",
       "format": "error_spotting"
     },
     {
@@ -564,7 +564,7 @@
     },
     {
       "qno": 43,
-      "question": "Please put on?",
+      "question": "Please put ?",
       "exam_source": "",
       "options": {
         "a": "/ a note declaring that",
@@ -572,7 +572,7 @@
         "d": "\b SSC"
       },
       "correct": "a",
-      "explanation": "put on should be replaced with put up of use will be",
+      "explanation": "put should be replaced with put up of use will be",
       "format": "error_spotting"
     },
     {
@@ -630,7 +630,7 @@
     },
     {
       "qno": 48,
-      "question": "Ashutosh leapt on the?",
+      "question": "Ashutosh leapt the?",
       "exam_source": "",
       "options": {
         "a": "/ opportunity that",
@@ -638,12 +638,12 @@
         "d": "\b SSC STENO, 2017"
       },
       "correct": "a",
-      "explanation": "leapt on should be replaced with leapt at of use will be",
+      "explanation": "leapt should be replaced with leapt at of use will be",
       "format": "error_spotting"
     },
     {
       "qno": 49,
-      "question": "The Gupta family were on a trip to Agra when they met .......... an accident. \b?",
+      "question": "The Gupta family were a trip to Agra when they met .......... an accident. ?",
       "exam_source": "(DP HCM, 2026)",
       "options": {
         "a": "at",
@@ -657,10 +657,10 @@
     },
     {
       "qno": 50,
-      "question": "The two friends appear to have fallen .......... over a minor issue. \b (CUET, 13/May/2025)",
+      "question": "The two friends appear to have fallen .......... over a minor issue.  (CUET, 13/May/2025)",
       "exam_source": "",
       "options": {
-        "a": "down",
+        "a": "own",
         "b": "out",
         "c": "into",
         "d": "by"
@@ -671,16 +671,16 @@
     },
     {
       "qno": 51,
-      "question": "Please don't let your feelings .......... you. \b (CUET, 2/June/2025)",
+      "question": "Please don't let your feelings .......... you.  (CUET, 2/June/2025)",
       "exam_source": "",
       "options": {
-        "a": "run away to",
-        "b": "run away with",
-        "c": "run away from",
-        "d": "run away into"
+        "a": "un away to",
+        "b": "un away with",
+        "c": "un away from",
+        "d": "un away into"
       },
       "correct": "b",
-      "explanation": "43. Please put on (a)/ a note declaring that (b)/ Monday will be a holiday. (c)/ No error (d)\b SSC CHSL, 2016 44. You should never look(a)/down to a man (b)/ merely because he is poor.(c)/ No error (d) \b SSC CHSL, 2016 45. The airplane took (a)/ of as soon as I (b)/arrived at the airport.(c)/ No error (d) \b SSC CHSL, 2016 46. We now look forward for (a)/ some great achievements(b)/ which to some extent can restore the country's prestige once again. \b SSC CPO, 2016 47. You have(a)/received more than (b)/you bargained at. (c)/ No error (d) \b SSC CPO, 2016 48. Ashutosh leapt on the(a)/ opportunity that (b)/ came his way. (c)/ No error (d) \b SSC STENO, 2017 49. The Gupta family were on a trip to Agra when they met .......... an accident. \b (DP HCM, 2026) (a) at (b) with (c) on (d) in 50. The two friends appear to have fallen .......... over a minor issue. \b (CUET, 13/May/2025) (a) down (b) out (c) into (d) by 51. Please don't let your feelings .......... you. \b (CUET, 2/June/2025) (a) run away to (b) run away with (c) run away from (d) run away into",
+      "explanation": "43. Please put (a)/ a note declaring that (b)/ Monday will be a holiday. ()/ No error () SSC CHSL, 2016 44. You should never look(a)/down to a man (b)/ merely because he is poor.()/ No error ()  SSC CHSL, 2016 45. The airplane took (a)/ of as soon as I (b)/arrived at the airport.()/ No error ()  SSC CHSL, 2016 46. We now look forward for (a)/ some great achievements(b)/ which to some extent can restore the country's prestige once again.  SSC CPO, 2016 47. You have(a)/received more than (b)/you bargained at. ()/ No error ()  SSC CPO, 2016 48. Ashutosh leapt the(a)/ opportunity that (b)/ came his way. ()/ No error ()  SSC STENO, 2017 49. The Gupta family were a trip to Agra when they met .......... an accident.  (DP HCM, 2026) (a) at (b) with () () in 50. The two friends appear to have fallen .......... over a minor issue.  (CUET, 13/May/2025) (a) down (b) out () into () by 51. Please don't let your feelings .......... you.  (CUET, 2/June/2025) (a) run away to (b) run away with () run away from () run away into",
       "format": "fill_blank"
     }
   ]

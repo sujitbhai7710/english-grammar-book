@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 98,
   "end_page": 101,
-  "theory": " There are some words and phrases that take preposition \"From\" after them. Such\n     words and phrases are:\n\n       Word + Preposition           English Meaning               Hindi Meaning\n1         Abstain from          To stay away from / avoid            ijgst djuk\n2         Alienate from       To make someone feel isolated         vyx dj nsuk\n3          Alight from            To get off (bus/train)                mrjuk\n4           Bar from            To be officially prevented          jksd fn;k tkuk\n5          Debar from                  To prohibit                  jksduk@gVk nsuk\n6          Derive from           To obtain from a source               fudyuk\n7          Desist from          To stop doing something                 jksduk\n8          Detach from          To separate or disconnect            vyx djuk\n9          Deter from           To discourage or prevent                jksduk\n10        Deviate from          To turn away from a path                HkVduk\n11         Differ from                To be unlike              vyx gksuk @ fHkUu gksuk\n12        Different from            Not the same as                  vyx @ fHkUu\n13        Dissuade from        To persuade someone not to         euk djuk @ jksduk\n                                      do something\n14        Emerge from                To come out of                fudyuk @ mHkjuk\n15         Escape from              To get free from                cpdj fudyuk\n16        Exclude from               To keep out of                   ckgj j•uk\n17        Exempt from            Free from an obligation               NwV nsuk\n18       Exonerate from         To clear of blame/charge            nks\"keqDr djuk\n19         Expel from               To force to leave                 fudky nsuk\n20          Free from               Not restricted by                 eqDr gksuk\n21        Prevent from        To stop someone from doing                jksduk\n22        Prohibit from            To forbid formally                fu\"ks/ djuk                      ll\n\n23         Protect from             To keep safe from                 j{kk djuk           ep\n\n                                                                                 - @f\n24        Recover from            To become well again            Bhd gksuk @ TmHkjuk\n\n                                                                          o n\n\n        25          Refrain from              To stop oneself from doing             cpuk @ ijgst djuk\n        26          Remove from                        To take away                            gVkuk\n        27          Restrain from            To keep under control / pre-           fu;af=kr djuk @ jksduk\n                                                       vent\n        28            Save from               To rescue or keep safe from                    cpkuk\n        29          Separate from                     To keep apart                       vyx djuk\n        30            Stem from                     To originate from                   ls mRiUu gksuk\n        31           Suffer from               To experience pain/illness                 ihfM+r gksuk\n        32         Withdraw from               To take out or move back            ihNs gVuk @ vyx gksuk",
+  "theory": " There are some words and phrases that take preposition \"From\" after them. Such\n words and phrases are:\n\n Word + Preposition English Meaning Hindi Meaning\n1 Abstain from To stay away from / avoid ijgst djuk\n2 Alienate from To make someone feel isolated vyx dj nsuk\n3 Alight from To get off (bus/train) mrjuk\n4 Bar from To be officially prevented jksd fn;k tkuk\n5 Debar from To prohibit jksdukgVk nsuk\n6 Derive from To obtain from a source fudyuk\n7 Desist from To stop doing something jksduk\n8 Detach from To separate or disconnect vyx djuk\n9 Deter from To discourage or prevent jksduk\n10 Deviate from To turn away from a path HkVduk\n11 Differ from To be unlike vyx gksuk @ fHkUu gksuk\n12 Different from Not the same as vyx @ fHkUu\n13 Dissuade from To persuade someone not to euk djuk @ jksduk\n do something\n14 Emerge from To come out of fudyuk @ mHkjuk\n15 Escape from To get free from cpdj fudyuk\n16 Exclude from To keep out of ckgj j•uk\n17 Exempt from Free from an obligation NwV nsuk\n18 Exonerate from To clear of blame/charge nks\"keqDr djuk\n19 Expel from To force to leave fudky nsuk\n20 Free from Not restricted by eqDr gksuk\n21 Prevent from To stop someone from doing jksduk\n22 Prohibit from To forbid formally fu\"ks/ djuk \n\n23 Protect from To keep safe from j{kk djuk \n\n - @\n24 Recover from To become well again Bhd gksuk @ TmHkjuk\n\n o n\n\n 25 Refrain from To stop oneself from doing cpuk @ ijgst djuk\n 26 Remove from To take away gVkuk\n 27 Restrain from To keep under control / pre- fu;af=kr djuk @ jksduk\n vent\n 28 Save from To rescue or keep safe from cpkuk\n 29 Separate from To keep apart vyx djuk\n 30 Stem from To originate from ls mRiUu gksuk\n 31 Suffer from To experience pain/illness ihfM+ gksuk\n 32 Withdraw from To take out or move back ihNs gVuk @ vyx gksuk",
   "mcqs": [
     {
       "qno": 1,
@@ -116,7 +116,7 @@
         "a": "/ were",
         "b": "/ to deter the",
         "c": "/ No error",
-        "d": "eself from doing cpuk @ ijgst djuk"
+        "d": "lf from doing cpuk @ ijgst djuk"
       },
       "correct": "c",
       "explanation": "\"deter to commit\" should be replaced with \"deter",
@@ -158,7 +158,7 @@
         "c": "/ from different countries."
       },
       "correct": "a",
-      "explanation": "\"precluded him to participate\" of place",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -215,12 +215,12 @@
     },
     {
       "qno": 17,
-      "question": "The sudden surge in inflation stems from thel l disruption of global supply chains. pdf?",
+      "question": "The sudden surge in inflation stems from thel l disruption of global supply chains. ?",
       "exam_source": "",
       "options": {
         "a": "stemming from",
         "b": "stem from",
-        "c": "has stemmed from T G-",
+        "c": "s stemmed from",
         "d": "No improvement h o"
       },
       "correct": "d",
@@ -229,7 +229,7 @@
     },
     {
       "qno": 18,
-      "question": "The villagers are suffering with a shortage of clean water. \b?",
+      "question": "The villagers are suffering with a shortage of clean water. ?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
         "a": "suffering by",
@@ -243,7 +243,7 @@
     },
     {
       "qno": 19,
-      "question": "We must prevent him to making the same mistake again. \b?",
+      "question": "We must prevent him to making the same mistake again. ?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
         "a": "prevent him for making",
@@ -261,7 +261,7 @@
       "exam_source": "",
       "options": {
         "a": "to",
-        "b": "from",
+        "b": "om",
         "c": "than",
         "d": "with"
       },
@@ -271,26 +271,26 @@
     },
     {
       "qno": 21,
-      "question": "The teacher advised him to abstain .......... bad company. \b?",
+      "question": "The teacher advised him to abstain .......... bad company. ?",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
         "a": "with",
         "b": "of",
-        "c": "for",
-        "d": "from"
+        "c": "or",
+        "d": "om"
       },
       "correct": "d",
-      "explanation": "22. (a) 23. (b) 24. (a) 25. (d) Solut",
+      "explanation": "",
       "format": "fill_blank"
     },
     {
       "qno": 22,
-      "question": "She refrained .......... commenting publicly and instead focused .......... internal communication. \b?",
+      "question": "She refrained .......... commenting publicly and instead focused .......... internal communication. ?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
-        "a": "from, on",
+        "a": "om,",
         "b": "of, in",
-        "c": "for, by",
+        "c": "or, by",
         "d": "with, to"
       },
       "correct": "a",
@@ -299,11 +299,11 @@
     },
     {
       "qno": 23,
-      "question": "The politician distanced himself .......... the scandal and shifted blame .......... his aides. \b?",
+      "question": "The politician distanced himself .......... the scandal and shifted blame .......... his aides. ?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
         "a": "off , to",
-        "b": "from, onto",
+        "b": "om, onto",
         "c": "with, over",
         "d": "by, upon"
       },
@@ -313,10 +313,10 @@
     },
     {
       "qno": 24,
-      "question": "Her lecture ranged .......... quantum mechanics to cognitive linguistics. \b?",
+      "question": "Her lecture ranged .......... quantum mechanics to cognitive linguistics. ?",
       "exam_source": "(SSC CPO, 2025)",
       "options": {
-        "a": "from",
+        "a": "om",
         "b": "between",
         "c": "among",
         "d": "over"
@@ -327,13 +327,13 @@
     },
     {
       "qno": 25,
-      "question": "The security guards prevented the common people .......... entering the hall. \b?",
+      "question": "The security guards prevented the common people .......... entering the hall. ?",
       "exam_source": "(SSC MTS, 2025)",
       "options": {
         "a": "against",
         "b": "out",
         "c": "about",
-        "d": "from"
+        "d": "om"
       },
       "correct": "a",
       "explanation": "",
@@ -341,26 +341,26 @@
     },
     {
       "qno": 26,
-      "question": "The annoyed lady refrained .......... reprimanding the stranger. \b?",
+      "question": "The annoyed lady refrained .......... reprimanding the stranger. ?",
       "exam_source": "(SSC MTS, 2025)",
       "options": {
         "a": "to",
         "b": "against",
-        "c": "from",
-        "d": "for"
+        "c": "om",
+        "d": "or"
       },
       "correct": "c",
-      "explanation": "27. (c) 28. (c) tions Differ with:- Used for disagreement with a person (ls vlger gksuk)",
+      "explanation": "27. () 28. () tions Differ with:- Used for disagreement with a person (ls vlger gksuk)",
       "format": "fill_blank"
     },
     {
       "qno": 27,
-      "question": "The minister was exempted .......... paying the toll due to his official status. \b?",
+      "question": "The minister was exempted .......... paying the toll due to his official status. ?",
       "exam_source": "(DP HCM, 2026)",
       "options": {
-        "a": "for",
+        "a": "or",
         "b": "to",
-        "c": "from",
+        "c": "om",
         "d": "with"
       },
       "correct": "c",
@@ -374,7 +374,7 @@
       "options": {
         "a": "of",
         "b": "with",
-        "c": "from",
+        "c": "om",
         "d": "at"
       },
       "correct": "c",

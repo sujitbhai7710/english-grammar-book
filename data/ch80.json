@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 210,
   "end_page": 211,
-  "theory": " When a sentence expresses an imaginary, unreal, or unlikely situation in the present or\n       future and its possible result, it is called a Second Conditional. It shows situations that are\n       not real or are contrary to facts.\n       Second Conditional og okD; gksrk gS] tks fd present ;k future esa fdlh imaginary, unreal ;k de\n       laHkkouk okyh fLFkfr rFkk mlosQ possible result dks O;Dr djrk gSA ;g mu situations dks n'kkZrk gS] tks\n       real ugha gksrh ;k facts osQ foijhr gksrh gSA\n     Structures\n\n   1 bl structure esa condition iwjh rjg imaginary ;k unreal fLFkfr dks n'kkZrh gS] tgk¡ \"were\" dk iz;ksx\n        lHkh subjects osQ lkFk fd;k tkrk gSA ;g vf/d hypothetical ;k contrary-to-fact situations dks\n        fn[kkus osQ fy, use gksrk gSA\n        Structure - \n                    If + Subject + were + imaginary status , \n                                                             Subject + would + V1 + object\n                                                                               \n \t\t                                          Clause 1                                    Clause 2\n\n   2 bl structure esa condition past form (V2) esa gksrh gS] tks present/future dh unlikely ;k unreal\n        fLFkfr dks O;Dr djrh gSA ;g lkekU; imaginary situations dks crkus os fy, use gksrk gS] ftldk\n        result fliQZ dYiuk ij vk/kfjr gksrk gSA\n        Structure - \n                    If + Subject + V 2 + Object\n                                      , Subject\n                                                      would + V\n                                                         +    \n\n                                       Clause 1                        Clause 2",
+  "theory": " When a sentence expresses an imaginary, unreal, or unlikely situation in the present or\n future and its possible result, it is called a Second Conditional. It shows situations that are\n not real or are contrary to facts.\n Second Conditional og okD; gksrk gS] tks fd present ;k future esa fdlh imaginary, unreal ;k de\n laHkkouk okyh fLFkfr rFkk mlosQ possible result dks O;Dr djrk gSA ;g mu situations dks n'kkZrk gS] tks\n real ugha gksrh ;k facts osQ foijhr gksrh gSA\n Structures\n\n 1 bl structure esa condition iwjh rjg imaginary ;k unreal fLFkfr dks n'kkZrh gS] tgk¡ \"were\" dk iz;ksx\n lHkh subjects osQ lkFk fd;k tkrk gSA ;g vf/ hypothetical ;k contrary-to-fact situations dks\n fn[kkus osQ fy, use gksrk gSA\n Structure - \n If + Subject + were + imaginary status , \n Subject + would + V1 + object\n  \n Clause 1 Clause 2\n\n 2 bl structure esa condition past form (V2) esa gksrh gS] tks present/future dh unlikely ;k unreal\n fLFkfr dks O;Dr djrh gSA ;g lkekU; imaginary situations dks crkus os fy, use gksrk gS] ftldk\n result fliQZ dYiuk ij vk/kfjr gksrk gSA\n Structure - \n If + Subject + V 2 + Object\n   , Subject\n  would + V\n +  \n\n Clause 1 Clause 2",
   "mcqs": [
     {
       "qno": 1,
@@ -54,7 +54,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error.",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -172,7 +172,7 @@
         "a": "was in your place",
         "b": "were you",
         "c": "would be you hall",
-        "d": "am you ep"
+        "d": "am you"
       },
       "correct": "b",
       "explanation": "",
@@ -180,16 +180,16 @@
     },
     {
       "qno": 16,
-      "question": "If I would be laid off again, I would @ seriously consider a career switch. T G- on?",
+      "question": "If I would be laid off again, I would @ seriously consider a career switch. ?",
       "exam_source": "(SSC MTS, 2025)",
       "options": {
         "a": "will be laid off again",
-        "b": "had been laid off again",
+        "b": "been laid off again",
         "c": "No improvement required",
         "d": "were to be laid off again"
       },
       "correct": "d",
-      "explanation": "17. (a) 18. (b) 19. (c) 20. (a) tions",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {
@@ -197,7 +197,7 @@
       "question": "My doctor knew that I would eventually recover and do the kind of work I would be doing before.",
       "exam_source": "(SSC CHSL, 2020)",
       "options": {
-        "a": "had been doing",
+        "a": "been doing",
         "b": "would have been doing",
         "c": "would have done",
         "d": "No improvement"
@@ -208,7 +208,7 @@
     },
     {
       "qno": 18,
-      "question": "If I would have a degree from the university, I would get a good job.\b?",
+      "question": "If I would have a degree from the university, I would get a good job.?",
       "exam_source": "(SSC CPO, 2019)",
       "options": {
         "a": "No substitution",
@@ -236,13 +236,13 @@
     },
     {
       "qno": 20,
-      "question": "If I ......... a doctor, I would have treated you all. \b?",
+      "question": "If I ......... a doctor, I would have treated you all. ?",
       "exam_source": "(SSC MTS, 2022)",
       "options": {
         "a": "were",
         "b": "would",
         "c": "am",
-        "d": "could"
+        "d": "ould"
       },
       "correct": "a",
       "explanation": "",

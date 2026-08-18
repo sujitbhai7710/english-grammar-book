@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 23,
   "end_page": 24,
-  "theory": " If two nouns or pronouns are joined by the expressions given below, the verb follows\n     the first subject, not the added phrase.\n     ;fn nks nouns or pronouns dks uhps fn, x, 'kCnksa ls tksM+k tkrk gSa] rks okD; dh verb ges'kk igys\n\n     subject osQ vuqlkj vkrh gSA\n\n       as well as, along with, together with, besides, with, including, in addition to,\n          accompanied by, rather than, nothing but, like / unlike, except, no less than, more than,\n          and not, led by, headed by.\n                Structure\n                         as well as / along with/\n              Subject1 +                          --------- + Subject2 + Verb\n                         together with / ....",
+  "theory": " If two nouns or pronouns are joined by the expressions given below, the verb follows\n the first subject, not the added phrase.\n ;fn nks nouns or pronouns dks uhps fn, x, 'kCnksa ls tksM+k tkrk gSa] rks okD; dh verb ges'kk igys\n\n subject osQ vuqlkj vkrh gSA\n\n  as well as, along with, together with, besides, with, including, in addition to,\n accompanied by, rather than, nothing but, like / unlike, except, no less than, more than,\n and not, led by, headed by.\n Structure\n as well as / along with/\n Subject1 + --------- + Subject2 + Verb\n together with / ....",
   "mcqs": [
     {
       "qno": 1,
@@ -17,7 +17,7 @@
         "d": "\b"
       },
       "correct": "b",
-      "explanation": "Subject1 'The CEO' (Singular) therefore",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -30,7 +30,7 @@
         "d": "\b"
       },
       "correct": "c",
-      "explanation": "Subject1 'The teacher' (Singular) therefore",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -43,7 +43,7 @@
         "d": "\b"
       },
       "correct": "c",
-      "explanation": "Subject1 'The manager' (Singular) therefore",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -57,7 +57,7 @@
         "d": "."
       },
       "correct": "d",
-      "explanation": "No error.",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -70,7 +70,7 @@
         "d": "\b"
       },
       "correct": "c",
-      "explanation": "Subject1 'The group' (Singular collective",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -84,7 +84,7 @@
         "d": "\b"
       },
       "correct": "d",
-      "explanation": "Subject1 'The members' (Plural) gS and Verb",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -94,10 +94,10 @@
       "options": {
         "a": "/ his assistants",
         "c": "/ No error",
-        "d": "rb Agreement with Additive Phrases"
+        "d": "b Agreement with Additive Phrases"
       },
       "correct": "c",
-      "explanation": "Subject1 'The manager' (Singular) therefore",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -123,7 +123,7 @@
         "d": "\b"
       },
       "correct": "c",
-      "explanation": "Subject1 'The Principal' (Singular) therefore",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -137,7 +137,7 @@
         "d": "\b"
       },
       "correct": "c",
-      "explanation": "Subject1 'The father' (Singular) therefore",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -150,7 +150,7 @@
         "c": "/ No"
       },
       "correct": "b",
-      "explanation": "Subject1 'The Principal' (Singular) therefore",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -163,7 +163,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "Subject1 'The chairperson' (Singular)",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -177,7 +177,7 @@
         "d": "\b"
       },
       "correct": "c",
-      "explanation": "Subject1 'He' (Singular) therefore 'were' of",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -190,7 +190,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error.",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -198,13 +198,13 @@
       "question": "The mother as well as?",
       "exam_source": "",
       "options": {
-        "a": "/her children a ll",
+        "a": "/her children a",
         "b": "/ to the police station p",
         "c": "/ No error",
-        "d": "@f"
+        "d": "@"
       },
       "correct": "b",
-      "explanation": "Subject1 'The mother' (Singular) therefore",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -216,18 +216,18 @@
         "c": "/ No error"
       },
       "correct": "c",
-      "explanation": "17. (b) 18. (d) 19. (a) 20. (c) tions",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
       "qno": 17,
-      "question": "The committee, along with its chairperson, .............. scheduled to meet on Monday. \b?",
+      "question": "The committee, along with its chairperson, .............. scheduled to meet Monday. ?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
-        "a": "are",
+        "a": "e",
         "b": "is",
         "c": "were",
-        "d": "have been"
+        "d": "ve been"
       },
       "correct": "b",
       "explanation": "",
@@ -235,13 +235,13 @@
     },
     {
       "qno": 18,
-      "question": "The actress, accompanied by her managers, ................... the red carpet. Answers 1. (b) 2. (c) 3. (c) 4. (d) 5. (c) 11. (b) 12. (b) 13. (c) 14. (d) 15. (b) Solut 1. (b) Subject1 'The CEO' (Singular) gS] blfy, 'were' osQ LFkku ij 'was' vk,xkA 2. (c) Subject1 'The teacher' (Singular) gS] blfy, 'have' osQ LFkku ij 'has' vk,xkA 3. (c) Subject1 'The manager' (Singular) gS] blfy, 'have' osQ LFkku ij 'has' vk,xkA 4. (d) No error. 5. (c) Subject1 'The group' (Singular collective noun) gS] blfy, 'were' osQ LFkku ij 'was' vk,xkA 6. (d) Subject1 'The members' (Plural) gS vkSj Verb 'was' osQ LFkku ij 'were' gksuk pkfg,A 7. (c) Subject1 'The manager' (Singular) gS] blfy, 'were' osQ LFkku ij 'was' vk,xkA 8. (b) 'Nothing but' osQ ckn Verb ges'kk Singular vkrh gS; blfy, 'were' osQ LFkku ij 'was' vk,xkA?",
+      "question": "The actress, accompanied by her managers, ................... the red carpet. Answers 1. (b) 2. () 3. () 4. () 5. () 11. (b) 12. (b) 13. () 14. () 15. (b) Solut 1. (b) Subject1 'The CEO' (Singular) gS] blfy, 'were' osQ LFkku ij 'was' vk,xkA 2. () Subject1 'The teacher' (Singular) gS] blfy, 'have' osQ LFkku ij 'has' vk,xkA 3. () Subject1 'The manager' (Singular) gS] blfy, 'have' osQ LFkku ij 'has' vk,xkA 4. () No error. 5. () Subject1 'The group' (Singular collective noun) gS] blfy, 'were' osQ LFkku ij 'was' vk,xkA 6. () Subject1 'The members' (Plural) gS vkSj Verb 'was' osQ LFkku ij 'were' gksuk pkfg,A 7. () Subject1 'The manager' (Singular) gS] blfy, 'were' osQ LFkku ij 'was' vk,xkA 8. (b) 'Nothing but' osQ ckn Verb ges'kk Singular vkrh gS; blfy, 'were' osQ LFkku ij 'was' vk,xkA?",
       "exam_source": "",
       "options": {
         "b": "2.",
         "c": "3.",
         "d": "5.",
-        "a": "are walking"
+        "a": "walking"
       },
       "correct": "d",
       "explanation": "",
@@ -254,8 +254,8 @@
       "options": {
         "a": "was",
         "b": "were",
-        "c": "have",
-        "d": "has"
+        "c": "ve",
+        "d": "s"
       },
       "correct": "a",
       "explanation": "",
@@ -268,8 +268,8 @@
       "options": {
         "a": "is",
         "b": "am",
-        "c": "are",
-        "d": "have"
+        "c": "e",
+        "d": "ve"
       },
       "correct": "c",
       "explanation": "",

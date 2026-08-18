@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 295,
   "end_page": 295,
-  "theory": " EACH OTHER: Each other is used to show a mutual action between two people or things.\n    Each other dk use nks O;fDr;ksa ;k oLrqvksa ds chp mutual action fn•kus ds fy, fd;k tkrk gSA\n   ONE ANOTHER: One another is used to show a mutual action among more than two\n    people or things.\n One another dk use nks ls vf/d O;fDr;ksa ;k oLrqvksa ds chp mutual action fn•kus ds fy, fd;k tkrk gSA\n\n                Note\n\t\t                       Each other → nks                      One another → nks ls T;knk",
+  "theory": " EACH OTHER: Each other is used to show a mutual action between two people or things.\n Each other dk use nks O;fDr;ksa ;k oLrqvksa ds chp mutual action fn•kus ds fy, fd;k tkrk gSA\n  ONE ANOTHER: One another is used to show a mutual action among more than two\n people or things.\n One another dk use nks ls vf/ O;fDr;ksa ;k oLrqvksa ds chp mutual action fn•kus ds fy, fd;k tkrk gSA\n\n Note\n  Each other → nks  One another → nks ls ;knk",
   "mcqs": [
     {
       "qno": 1,
@@ -101,7 +101,7 @@
     },
     {
       "qno": 9,
-      "question": "The office staff members wished each and other on New Year's Day. Answers 1. (b) 2. (c) 3. (b) 4. (c) 5. (b) 11. (c) 12.",
+      "question": "The office staff members wished each and other New Year's Day. Answers 1. (b) 2. () 3. (b) 4. () 5. (b) 11. () 12.",
       "exam_source": "",
       "options": {
         "b": "2.",
@@ -120,7 +120,7 @@
       "options": {
         "a": "with one and all",
         "b": "with one another",
-        "c": "one other with",
+        "c": "other with",
         "d": "No improvement"
       },
       "correct": "b",
@@ -132,13 +132,13 @@
       "question": "In a classroom students are to be trained to love ...................",
       "exam_source": "",
       "options": {
-        "a": "each other",
+        "a": "ach other",
         "b": "all others",
-        "c": "one another",
+        "c": "another",
         "d": "altogether"
       },
       "correct": "c",
-      "explanation": "12. (a) 13. (a) Solut",
+      "explanation": "",
       "format": "fill_blank"
     },
     {
@@ -146,9 +146,9 @@
       "question": "His wife has a twin who resembles her so much that at first he had great trouble telling ..........",
       "exam_source": "",
       "options": {
-        "a": "one from the other",
-        "b": "one from another",
-        "c": "each other",
+        "a": "om the other",
+        "b": "om another",
+        "c": "ach other",
         "d": "who is which"
       },
       "correct": "a",
@@ -160,9 +160,9 @@
       "question": "Robert and Rooney aren't very good friends although they have known .......... for a long time.",
       "exam_source": "",
       "options": {
-        "a": "each other",
-        "b": "one another",
-        "c": "one other",
+        "a": "ach other",
+        "b": "another",
+        "c": "other",
         "d": "altogether"
       },
       "correct": "a",

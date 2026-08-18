@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 299,
   "end_page": 299,
-  "theory": "Part-1          More than one + Singular noun + Singular Verb.\n\n                   Part-2          More than two / three / four / ..... + Plural noun + Plural Verb.\n\n                   Part-3          More + Plural noun + than + one + Plural Verb.",
+  "theory": "Part-1  More than one + Singular noun + Singular Verb.\n\n Part-2  More than two / three / four / ..... + Plural noun + Plural Verb.\n\n Part-3  More + Plural noun + than + one + Plural Verb.",
   "mcqs": [
     {
       "qno": 1,
@@ -47,10 +47,10 @@
     },
     {
       "qno": 4,
-      "question": "More than three books on history?",
+      "question": "More than three books history?",
       "exam_source": "",
       "options": {
-        "a": "/ is lying on",
+        "a": "/ is lying",
         "b": "/ which belongs to the professor."
       },
       "correct": "b",
@@ -80,7 +80,7 @@
         "c": "/ No"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {

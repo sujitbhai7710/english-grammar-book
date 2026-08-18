@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 64,
   "end_page": 65,
-  "theory": "Enough               Enough + Noun                Adjective      +      Enough\n\n                   Pronoun               Adjective                   Only Positive              Adverb\n                                                                       degree\n\n        tc Enough Noun dks Qualify djrk gS] rks og Adjective (Determiner) dgykrk gSA\n        tc Enough, Adjective ;k Verb dks modify djrk gS rks og Adverb dgykrk gSA ;gk¡ ij Enough\n         ges'kk Adjective @ Verb ds ckn vk,xkA\n        Enough ls igys fn;k x;k Adjective dsoy Positive degree esa gksuk pkfg,A\n        dHkh&dHkh Enough [kqn gh complete meaning ns nsrk gS mlosQ lkFk dksbZ Noun ;k Adjective yxkuk\n         t:jh ugha gksrk gSA rc ;g pronoun dgykrk gSA\n     Note\n     $ Noun ds igys → Adjective,            Adjective ds ckn → Adverb,            vdsyk → Pronoun\n         Example",
+  "theory": "Enough Enough + Noun Adjective + Enough\n\n Pronoun Adjective Only Positive Adverb\n degree\n\n  tc Enough Noun dks Qualify djrk gS] rks og Adjective (Determiner) dgykrk gSA\n  tc Enough, Adjective ;k Verb dks modify djrk gS rks og Adverb dgykrk gSA ;gk¡ ij Enough\n ges'kk Adjective @ Verb ds ckn vk,xkA\n  Enough ls igys fn;k x;k Adjective dsoy Positive degree esa gksuk pkfg,A\n  dHkh&dHkh Enough [kqn gh complete meaning ns nsrk gS mlosQ lkFk dksbZ Noun ;k Adjective yxkuk\n t:jh ugha gksrk gSA rc ;g pronoun dgykrk gSA\n Note\n $ Noun ds igys → Adjective, Adjective ds ckn → Adverb, vdsyk → Pronoun\n Example",
   "mcqs": [
     {
       "qno": 1,
@@ -109,7 +109,7 @@
         "a": "/ enough effective",
         "b": "/ toall",
         "c": "/ No error",
-        "d": "fh"
+        "d": "h"
       },
       "correct": "b",
       "explanation": "enough effective should be replaced with effective",
@@ -120,10 +120,10 @@
       "question": "We often hear people say?",
       "exam_source": "(UPSC NDA, 2018)",
       "options": {
-        "a": "/ that most ep",
+        "a": "/ that most",
         "b": "/ -or @ grow up",
         "c": "/ to stick to truth TorGnon-violence.",
-        "d": "ho"
+        "d": "o"
       },
       "correct": "c",
       "explanation": "grow should be replaced with grown will because",
@@ -131,27 +131,27 @@
     },
     {
       "qno": 11,
-      "question": "He is enough rich to buy a car. \b?",
+      "question": "He is enough rich to buy a car. ?",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
         "a": "sufficiently rich",
-        "b": "rich too much",
+        "b": "ich too much",
         "c": "too rich",
-        "d": "rich enough"
+        "d": "ich enough"
       },
       "correct": "d",
-      "explanation": "12. (d) 13. (b) 14. (c) Solut",
+      "explanation": "",
       "format": "regular"
     },
     {
       "qno": 12,
-      "question": "Please don't give me any more, I have had ..........\b?",
+      "question": "Please don't give me any more, I have had ..........?",
       "exam_source": "(UPSC NDA, 2017)",
       "options": {
-        "a": "few",
+        "a": "w",
         "b": "too little",
         "c": "little",
-        "d": "enough"
+        "d": "nough"
       },
       "correct": "d",
       "explanation": "",

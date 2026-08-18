@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 87,
   "end_page": 89,
-  "theory": "1    Each/ Every/ Either/ Neither/ Each and Every + Singular Noun + Singular Verb + ..... + Singular\n         Adjective + .....\n    2    Each of/ Either of/ Neither of/ Any of + Plural Noun + Singular Verb + .....+ Singular Adjective + .....\n\n     Either – One of the two. (nks esa ls dksbZ ,d)\n     Neither – Not one nor the other. (nks esa ls dksbZ Hkh ugha)\n     Each – One by one (Individual focus) (nks ;k nks ls ”;knk esas ls gj ,d). It can be used for two or\n      more than two.\n     Every – All members as a group (Collective sense). (lHkh) It is used for more than two only. It is\n      only a determiner; therefore, we cannot use ‘of ’ after every.\n     Each and every – Strong emphasis on every individual member. (gj ,d & ^tksj nsdj*). It is used\n      for more than two only.\n     Any – It means one out of more than two. (nks ls T;knk esa ls dksbZ ,d)\n     None – Not any of more than two. (nks ls T;knk esa ls dksbZ Hkh ugha)",
+  "theory": "1 Each/ Every/ Either/ Neither/ Each and Every + Singular Noun + Singular Verb + ..... + Singular\n Adjective + .....\n 2 Each of/ Either of/ Neither of/ Any of + Plural Noun + Singular Verb + .....+ Singular Adjective + .....\n\n  Either – One of the two. (nks esa ls dksbZ ,)\n  Neither – Not one nor the other. (nks esa ls dksbZ Hkh ugha)\n  Each – One by one (Individual focus) (nks ;k nks ls ”;knk esas ls gj ,). It can be used for two or\n more than two.\n  Every – All members as a group (Collective sense). (lHkh) It is used for more than two only. It is\n only a determiner; therefore, we cannot use ‘of ’ after every.\n  Each and every – Strong emphasis every individual member. (gj , & ^tksj nsdj*). It is used\n for more than two only.\n  Any – It means one out of more than two. (nks ls ;knk esa ls dksbZ ,)\n  None – Not any of more than two. (nks ls ;knk esa ls dksbZ Hkh ugha)",
   "mcqs": [
     {
       "qno": 1,
@@ -255,7 +255,7 @@
         "a": "ll",
         "b": "/ their own research paper d this",
         "c": "/ No error",
-        "d": "e ep"
+        "d": "e"
       },
       "correct": "c",
       "explanation": "'their' should be replaced with 'his' because singular",
@@ -281,8 +281,8 @@
       "options": {
         "a": "/ play",
         "b": "/ in the",
-        "c": "/ No e ar",
-        "d": "error"
+        "c": "/ No",
+        "d": "or"
       },
       "correct": "b",
       "explanation": "'play' should be replaced with 'plays' because subject",
@@ -384,12 +384,12 @@
     },
     {
       "qno": 29,
-      "question": "Each of the candidates have submitted their documents for verification.\b?",
+      "question": "Each of the candidates have submitted their documents for verification.?",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
-        "a": "had submitted their document",
+        "a": "submitted their document",
         "b": "No substitution required",
-        "c": "has submitted their documents",
+        "c": "s submitted their documents",
         "d": "is submitted their documents"
       },
       "correct": "",
@@ -398,7 +398,7 @@
     },
     {
       "qno": 30,
-      "question": "Neither of the options are suitable for this task. \b?",
+      "question": "Neither of the options are suitable for this task. ?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "is suitable to the task",
@@ -412,21 +412,21 @@
     },
     {
       "qno": 31,
-      "question": "Each of the representatives from the various states have presented their reports on healthcare reforms.\b?",
+      "question": "Each of the representatives from the various states have presented their reports healthcare reforms.?",
       "exam_source": "(SSC MTS, 2025)",
       "options": {
-        "a": "have presented their report",
+        "a": "ve presented their report",
         "b": "were presented their reports",
-        "c": "has presented his reports",
-        "d": "has presented their reports"
+        "c": "s presented his reports",
+        "d": "s presented their reports"
       },
       "correct": "c",
-      "explanation": "32. (c) 33. (b) 34. (b) 35. (d) 32. Each of the girls narrated their story . \b (SSC CHSL, 2025) (a) Each of the girls narrated there story. (b) Each of the girls narrated his story. (c) Each of the girls narrated her story. (d) Each of the girls narrated their stories. 33. Each and every one of the boys took their seat in the bus.\b (SSC CHSL, 2025) (a) Each and every one of the boys took there seat (b) Each and every one of the boys took his seat (c) Each of the boy took his seat (d) Each of the boys took their seat 34. .......... each of the data sets been anonymized before release?\b (SSC CGL, 2025) (a) Have (b) Has (c) Are (d) Were 35. I called the office two or three times, but .......... time no one responded.\b (UPSC CDS, 2026) (a) all (b) some (c) any (d) each 36. I don't want .......... more vegetables. \b (UPSC CDS, 2026) (a) one (b) much (c) many (d) any 37. Each of these paintings .......... made by a famous painter.\b (UPSC CDS, 2024) (a) are (b) is (c) be (d) should 38. Of the several candidates who applied for the senior management role, .......... was found to possess the unique blend of leadership and technical expertise required. (a) Neither (b) Either (c) None (d) Each 39. Not .......... metal is necessarily solid in its natural state. \b (UPSC CDS, 2025) (a) each (b) every (c) all (d) any 40. Each of the scholars .......... \b (UPSC CDS, 2023) (a) have done well (b) has done well (c) shall done well (d) will done well hall",
+      "explanation": "32. () 33. (b) 34. (b) 35. () 32. Each of the girls narrated their story .  (SSC CHSL, 2025) (a) Each of the girls narrated there story. (b) Each of the girls narrated his story. () Each of the girls narrated her story. () Each of the girls narrated their stories. 33. Each and every one of the boys took their seat in the bus. (SSC CHSL, 2025) (a) Each and every one of the boys took there seat (b) Each and every one of the boys took his seat () Each of the boy took his seat () Each of the boys took their seat 34. .......... each of the data sets been anonymized before release? (SSC CGL, 2025) (a) Have (b) Has () Are () Were 35. I called the office two or three times, but .......... time no one responded. (UPSC CDS, 2026) (a) all (b) some () any () each 36. I don't want .......... more vegetables.  (UPSC CDS, 2026) (a) one (b) much () many () any 37. Each of these paintings .......... made by a famous painter. (UPSC CDS, 2024) (a) are (b) is () be () should 38. Of the several candidates who applied for the senior management role, .......... was found to possess the unique blend of leadership and technical expertise required. (a) Neither (b) Either () None () Each 39. Not .......... metal is necessarily solid in its natural state.  (UPSC CDS, 2025) (a) each (b) every () all () any 40. Each of the scholars ..........  (UPSC CDS, 2023) (a) have done well (b) has done well () shall done well () will done well hall",
       "format": "regular"
     },
     {
       "qno": 32,
-      "question": "Each of the girls narrated their story . \b?",
+      "question": "Each of the girls narrated their story . ?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
         "a": "Each of the girls narrated there story.",
@@ -440,7 +440,7 @@
     },
     {
       "qno": 33,
-      "question": "Each and every one of the boys took their seat in the bus.\b?",
+      "question": "Each and every one of the boys took their seat in the bus.?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
         "a": "Each and every one of the boys took there",
@@ -454,13 +454,13 @@
     },
     {
       "qno": 35,
-      "question": "I called the office two or three times, but .......... time no one responded.\b?",
+      "question": "I called the office two or three times, but .......... time no one responded.?",
       "exam_source": "(UPSC CDS, 2026)",
       "options": {
         "a": "all",
         "b": "some",
         "c": "any",
-        "d": "each"
+        "d": "ach"
       },
       "correct": "d",
       "explanation": "",
@@ -468,10 +468,10 @@
     },
     {
       "qno": 36,
-      "question": "I don't want .......... more vegetables. \b?",
+      "question": "I don't want .......... more vegetables. ?",
       "exam_source": "(UPSC CDS, 2026)",
       "options": {
-        "a": "one",
+        "a": "e",
         "b": "much",
         "c": "many",
         "d": "any"
@@ -482,10 +482,10 @@
     },
     {
       "qno": 37,
-      "question": "Each of these paintings .......... made by a famous painter.\b?",
+      "question": "Each of these paintings .......... made by a famous painter.?",
       "exam_source": "(UPSC CDS, 2024)",
       "options": {
-        "a": "are",
+        "a": "e",
         "b": "is",
         "c": "be",
         "d": "should"
@@ -505,16 +505,16 @@
         "d": "Each"
       },
       "correct": "c",
-      "explanation": "rc 39. (b) 40. (b) Solut",
+      "explanation": "",
       "format": "fill_blank"
     },
     {
       "qno": 39,
-      "question": "Not .......... metal is necessarily solid in its natural state. \b?",
+      "question": "Not .......... metal is necessarily solid in its natural state. ?",
       "exam_source": "(UPSC CDS, 2025)",
       "options": {
-        "a": "each",
-        "b": "every",
+        "a": "ach",
+        "b": "very",
         "c": "all",
         "d": "any"
       },
@@ -524,11 +524,11 @@
     },
     {
       "qno": 40,
-      "question": "Each of the scholars .......... \b?",
+      "question": "Each of the scholars .......... ?",
       "exam_source": "(UPSC CDS, 2023)",
       "options": {
-        "a": "have done well",
-        "b": "has done well",
+        "a": "ve done well",
+        "b": "s done well",
         "c": "shall done well",
         "d": "will done well"
       },

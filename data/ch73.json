@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 195,
   "end_page": 196,
-  "theory": " Beside means 'by the side of or next to' (osQ ikl ;k cxy esa)\n     Besides means 'in addition to or apart from' (osQ vykok)\n\t\tNote- Besides is used as both Preposition and Adverb.\n\n                           Beside                                            Besides\n\n                        Preposition                            Preposition                 Adverb\n\n             Example\n\n           1 Besides English, the students used to speak Hindi fluently.\n\n        \t\tPreposition\n\n           2 The dog was sitting beside the chair.\n\n         \t\t\t\t\t\t\t Preposition\n\n           3 It is too late, besides we have no money.\n\n         \t\t\t\t\t Adverb\n\n           4 The task is very difficult, besides we have little time left.\n\n         \t\t\t\t\t\t\t\t\t\t Adverb\n\n           5 Besides working full time, she is pursuing her studies.\n\n        \t\tPreposition",
+  "theory": " Beside means 'by the side of or next to' (osQ ikl ;k cxy esa)\n  Besides means 'in addition to or apart from' (osQ vykok)\n Note- Besides is used as both Preposition and Adverb.\n\n Beside Besides\n\n Preposition Preposition Adverb\n\n Example\n\n 1 Besides English, the students used to speak Hindi fluently.\n\n Preposition\n\n 2 The dog was sitting beside the chair.\n\n Preposition\n\n 3 It is too late, besides we have no money.\n\n Adverb\n\n 4 The task is very difficult, besides we have little time left.\n\n Adverb\n\n 5 Besides working full time, she is pursuing her studies.\n\n Preposition",
   "mcqs": [
     {
       "qno": 1,
@@ -95,7 +95,7 @@
       "options": {
         "a": "/ besides each otherdf",
         "c": "/ No error",
-        "d": "e p",
+        "d": "p",
         "b": "/ that"
       },
       "correct": "b",
@@ -195,7 +195,7 @@
     },
     {
       "qno": 15,
-      "question": "The old lady needed love and care beyond money.\b?",
+      "question": "The old lady needed love and care beyond money.?",
       "exam_source": "(SSC CGL, 2022)",
       "options": {
         "a": "beside",
@@ -209,7 +209,7 @@
     },
     {
       "qno": 16,
-      "question": "Tom was standing besides the schoolhouse poster, when the ball rolled towards him. \b?",
+      "question": "Tom was standing besides the schoolhouse poster, when the ball rolled towards him. ?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "standing beside the schoolhouse poster",
@@ -218,12 +218,12 @@
         "d": "stand beside the schoolhouse poster"
       },
       "correct": "a",
-      "explanation": "17. (b) 18. (b) 19. (a) 20. (b) tions",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {
       "qno": 17,
-      "question": "Beside being a poet, he is also a famous singer. \b?",
+      "question": "Beside being a poet, he is also a famous singer. ?",
       "exam_source": "(SSC CHSL, 2017)",
       "options": {
         "a": "Besides becoming",
@@ -237,7 +237,7 @@
     },
     {
       "qno": 18,
-      "question": "What other sport do you play .......... hockey. \b?",
+      "question": "What other sport do you play .......... hockey. ?",
       "exam_source": "(UPSC CDS, 2026)",
       "options": {
         "a": "beside",
@@ -257,7 +257,7 @@
         "a": "beside",
         "b": "besides",
         "c": "next to",
-        "d": "close"
+        "d": "lose"
       },
       "correct": "a",
       "explanation": "",

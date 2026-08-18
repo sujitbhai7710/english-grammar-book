@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 247,
   "end_page": 248,
-  "theory": " A Bare Infinitive is a base form of a Verb. It is a non-finite verb. It does not show tense,\n        person, or number.\n Bare Infinitive verb dk og base form (V1) gksrk gS ftlds igys \"to\" ugha yxk;k tkrkA bls non-finite\n\n verb Hkh dgrs gSa D;ksafd ;g tense, person vkSj number ugha crkrkA\n        Where to use Bare Infinitive:\n       1 Modal + VBase\n       2 See/ Notice/ Feel/ Hear/ Smell/ Watch/ Help + VBase\n       3 Had better/ Had rather/ Would better/ Would rather + VBase\n    \t\t\t        Note: Sub + would + Sub + Past indefinite (V2)\n       4 Do nothing but + VBase\n       5 Cannot but + VBase\n       6 Why + VBase (Suggestion/Complain)\n       7 Make/ Let/ Bid/ Have + VBase\n       8 Can't help but + VBase",
+  "theory": " A Bare Infinitive is a base form of a Verb. It is a non-finite verb. It does not show tense,\n person, or number.\n Bare Infinitive verb dk og base form (V1) gksrk gS ftlds igys \"to\" ugha yxk;k tkrkA bls non-finite\n\n verb Hkh dgrs gSa D;ksafd ;g tense, person vkSj number ugha crkrkA\n Where to use Bare Infinitive:\n 1 Modal + VBase\n 2 See/ Notice/ Feel/ Hear/ Smell/ Watch/ Help + VBase\n 3 Had better/ Had rather/ Would better/ Would rather + VBase\n Note: Sub + would + Sub + Past indefinite (V2)\n 4 Do nothing but + VBase\n 5 Cannot but + VBase\n 6 Why + VBase (Suggestion/Complain)\n 7 Make/ Let/ Bid/ Have + VBase\n 8 Can't help but + VBase",
   "mcqs": [
     {
       "qno": 1,
@@ -47,7 +47,7 @@
     },
     {
       "qno": 4,
-      "question": "The supervisor had the workers complete the task on time?",
+      "question": "The supervisor had the workers complete the task time?",
       "exam_source": "",
       "options": {
         "a": "/ despite facing several",
@@ -55,7 +55,7 @@
         "c": "/ No"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -94,7 +94,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -191,16 +191,16 @@
     },
     {
       "qno": 15,
-      "question": "Choose the grammatically correct sentence. \b al?",
+      "question": "Choose the grammatically correct sentence.  al?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
-        "a": "He did nothing but complain. df",
-        "b": "He did nothing but to complain.f re",
-        "c": "G-",
+        "a": "He did nothing but complain.",
+        "b": "He did nothing but to complain.",
+        "c": "-",
         "d": "He does nothing thanocomplain."
       },
       "correct": "a",
-      "explanation": "hoose the grammatically correct sentence. \b al (SSC CHSL, 2025) (a) He did nothing but complain. df (b) He did nothing but to complain.f re (c) G- He did nothing but complained. (d) He does nothing thanocomplain. Answers",
+      "explanation": "hoose the grammatically correct sentence.  al (SSC CHSL, 2025) (a) He did nothing but complain. (b) He did nothing but to complain. () - He did nothing but complained. () He does nothing thanocomplain. Answers",
       "format": "regular"
     }
   ]

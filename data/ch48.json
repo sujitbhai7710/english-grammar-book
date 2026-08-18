@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 129,
   "end_page": 130,
-  "theory": "Part-A\n      \"It is time/high time\" is used when it is already late to do something, and it is followed\n         by the past form (V2) of the verb.\n    \"It is time/high time\" dk use rc fd;k tkrk gS tc fdlh dke dks djus esa already nsj gks pqdh\n\n    gks] vkSj blosQ ckn verb dh past form (V2) dk use fd;k tkrk gSA\n          It is time\n\n       It is high time\n                                   + subject + V2 + .....\n      It is about time\n\n       It is now time\n\n       Note\n                  It is time + to + V1 + object ........... (Active Voice)\n\n              It is time + for + object + to + be + V3 + ........... (Passive Voice)\n\n    Part-B\n        \"As if/As though\" dk use rc              fd;k tkrk gS tc dksbZ situation real u gksdj osQoy\n           imagination ij based gksA\n\n                   Clause1                                                    Clause2 [Past Form (V2)]\n                                           as if / as though\n                 (ekuks dh tSls)                                                 Unreal situation",
+  "theory": "Part-A\n  \"It is time/high time\" is used when it is already late to do something, and it is followed\n by the past form (V2) of the verb.\n \"It is time/high time\" dk use rc fd;k tkrk gS tc fdlh dke dks djus esa already nsj gks pqdh\n\n gks] vkSj blosQ ckn verb dh past form (V2) dk use fd;k tkrk gSA\n It is time\n\n It is high time\n + subject + V2 + .....\n It is about time\n\n It is now time\n\n Note\n  It is time + to + V1 + object ........... (Active Voice)\n\n  It is time + for + object + to + be + V3 + ........... (Passive Voice)\n\n Part-B\n  \"As if/As though\" dk use rc fd;k tkrk gS tc dksbZ situation real u gksdj osQoy\n imagination ij based gksA\n\n Clause1 Clause2 [Past Form (V2)]\n as if / as though\n (ekuks dh tSls) Unreal situation",
   "mcqs": [
     {
       "qno": 1,
@@ -110,13 +110,13 @@
     },
     {
       "qno": 9,
-      "question": "After reviewing the current situation carefully ll?",
+      "question": "After reviewing the current situation carefully ?",
       "exam_source": "",
       "options": {
         "a": "/ the authorities concluded that it'spdtime",
         "b": "/frtoeecontrol",
         "c": "/ and ensure proper",
-        "d": "T G-"
+        "d": "T"
       },
       "correct": "b",
       "explanation": "\"are\" should be replaced with \"were\" of use will be because \"It is",
@@ -166,7 +166,7 @@
       "question": "The lawyer argued the case as if he has been knowing every minor detail since the very beginning.",
       "exam_source": "",
       "options": {
-        "a": "had been knowing every minor detail",
+        "a": "been knowing every minor detail",
         "b": "knew every minor detail",
         "c": "5.",
         "d": "15."
@@ -181,7 +181,7 @@
       "exam_source": "",
       "options": {
         "a": "start",
-        "b": "had started",
+        "b": "started",
         "c": "will start",
         "d": "No improvement"
       },

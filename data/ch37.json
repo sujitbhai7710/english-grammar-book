@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 106,
   "end_page": 107,
-  "theory": "1      Along                                                2    Across\n\n                                                                                             o the\n                    Road                                                                 the\n\n                                                                               side\n                                                                            ne         River\n\n                                                                    fro\n\n                         Parallel\n\n                                            3     Through\n\n                      Via                         Tunnel                           Via\n\n     Along - It is used to show that something is in a line or direction parallel to the other.\n  \t\tfdlh pht ds lkFk&lkFk ;k lekarj fn'kk esa vkxs c<+rs gq,A\n   Across - It is used to show movement from one side of something to the other side.\n  \t\t,d side ls nwljh side rdA\n   Through - It is used to show movement inside something from one side to the other\n    side (enclosed space, area or object).\n\n   fdlh pht ds vanj ls gksrs gq, ,d side ls nwljh side rdA\n      Note\n    Along → Side by side movement/Parallel\n    Across → Movement from one side to another over a surface\n    Through → Inside something (3D movement)",
+  "theory": "1 Along 2 Across\n\n o the\n Road the\n\n side\n ne River\n\n fro\n\n Parallel\n\n 3 Through\n\n Via Tunnel Via\n\n  Along - It is used to show that something is in a line or direction parallel to the other.\n fdlh pht ds lkFk&lkFk ;k lekarj fn'kk esa vkxs <+rs gq,A\n  Across - It is used to show movement from one side of something to the other side.\n , side ls nwljh side rdA\n  Through - It is used to show movement inside something from one side to the other\n side (enclosed space, area or object).\n\n fdlh pht ds vanj ls gksrs gq, , side ls nwljh side rdA\n Note\n Along → Side by side movement/Parallel\n Across → Movement from one side to another over a surface\n Through → Inside something (3D movement)",
   "mcqs": [
     {
       "qno": 1,
@@ -106,7 +106,7 @@
         "c": "/ No"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -117,7 +117,7 @@
         "a": "/ through the river",
         "b": "/ and tiedll",
         "c": "/ on the other side.",
-        "d": "fh d"
+        "d": "h"
       },
       "correct": "b",
       "explanation": "Through the river should be replaced with across the",
@@ -125,7 +125,7 @@
     },
     {
       "qno": 10,
-      "question": "The old woman slowly made her-@ way out the crowd . TG \b on ear?",
+      "question": "The old woman slowly made her-@ way out the crowd .  ear?",
       "exam_source": "(DP HCM, 2026)",
       "options": {
         "a": "aside the crowd",
@@ -148,7 +148,7 @@
         "d": "No substitution"
       },
       "correct": "d",
-      "explanation": "12. (a) 13. (d) 14. (c) 15. (a) Solut",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {
@@ -195,7 +195,7 @@
     },
     {
       "qno": 15,
-      "question": "They walked slowly .......... the narrow path. \b?",
+      "question": "They walked slowly .......... the narrow path. ?",
       "exam_source": "(DP HCM, 2026)",
       "options": {
         "a": "along",
@@ -218,7 +218,7 @@
         "d": "across"
       },
       "correct": "b",
-      "explanation": "17. (c) 18. (a) 19. (b) 20. (c) tions",
+      "explanation": "",
       "format": "fill_blank"
     },
     {

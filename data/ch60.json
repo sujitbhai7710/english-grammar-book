@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 160,
   "end_page": 162,
-  "theory": "Active Voice                                           Passive Voice\n\n        Subject            Verb            Object              Subject             Verb               Object\n\n         Doer                              Receiver            Receiver                               Doer\n\n        Active Voice — If the Doer of the action is Subject and the receiver of the action is\n             Object, the sentence is in Active Voice.\n     \t\t;fn okD; esa dke djus okyk (Doer) gh Subject gks rFkk ftl ij dke dk izHkko iM+rk gS\n       (Receiver) og Object gks] rks okD; Active Voice esa gksrk gSA\n      Passive Voice — If the Receiver of the action is Subject and the Doer of the action\n       is Object, the sentence is in Passive Voice.\n      ;fn okD; esa dke dk izHkko ftl ij iM+rk gS (Receiver) Subject cu tkrk gS rFkk dke djus\n\n      okyk (Doer) Object cu tkrk gS] rks okD; Passive Voice esa gksrk gSA\n\n                  Condition                     Active Voice                      Passive Voice\n         1     Infinitive                  To + V1                      To + be + V3\n\n         2     Perfect Infinitive          To + have + V3               To + have + been + V3\n\n         3     Modal Indefinite            Modal + V1                   Modal + be + V3\n\n         4     Modal Perfect               Modal + have + V3            Modal + have + been + V3\n\n         5     Present Indefinite          V1/(V1 +s/es)                is/am/are + V3\n\n         6     Past Indefinite             V2                           was/were + V3\n\n         7     Present Continuous          is/am/are+V1+ing             is/am/are + being + V3\n\n         8     Past Continuous             was/were + V1 + ing          was/were + being + V3\n\n         9     Present Perfect             has/have + V3                has/have + been + V3\n\n        10     Past Perfect                had + V3                     had + been + V3",
+  "theory": "Active Voice Passive Voice\n\n Subject Verb Object Subject Verb Object\n\n Doer Receiver Receiver Doer\n\n  Active Voice — If the Doer of the action is Subject and the receiver of the action is\n Object, the sentence is in Active Voice.\n ;fn okD; esa dke djus okyk (Doer) gh Subject gks rFkk ftl ij dke dk izHkko iM+rk gS\n (Receiver) og Object gks] rks okD; Active Voice esa gksrk gSA\n  Passive Voice — If the Receiver of the action is Subject and the Doer of the action\n is Object, the sentence is in Passive Voice.\n ;fn okD; esa dke dk izHkko ftl ij iM+rk gS (Receiver) Subject cu tkrk gS rFkk dke djus\n\n okyk (Doer) Object cu tkrk gS] rks okD; Passive Voice esa gksrk gSA\n\n Condition Active Voice Passive Voice\n 1 Infinitive To + V1 To + be + V3\n\n 2 Perfect Infinitive To + have + V3 To + have + been + V3\n\n 3 Modal Indefinite Modal + V1 Modal + be + V3\n\n 4 Modal Perfect Modal + have + V3 Modal + have + been + V3\n\n 5 Present Indefinite V1/(V1 +s/es) is/am/are + V3\n\n 6 Past Indefinite V2 was/were + V3\n\n 7 Present Continuous is/am/are+V1+ing is/am/are + being + V3\n\n 8 Past Continuous was/were + V1 + ing was/were + being + V3\n\n 9 Present Perfect has/have + V3 has/have + been + V3\n\n 10 Past Perfect had + V3 had + been + V3",
   "mcqs": [
     {
       "qno": 1,
@@ -78,7 +78,7 @@
       "options": {
         "a": "/ make pasta is to be",
         "b": "/ Chef Kapoor’s instructions",
-        "c": "/ on"
+        "c": "/"
       },
       "correct": "b",
       "explanation": "to be followed should be replaced with to follow of use",
@@ -242,7 +242,7 @@
     },
     {
       "qno": 21,
-      "question": "This heap of rubbish has not been remove for 6 months. \b?",
+      "question": "This heap of rubbish has not been remove for 6 months. ?",
       "exam_source": "(SSC CHSL, 2023)",
       "options": {
         "a": "No improvement",
@@ -251,7 +251,7 @@
         "d": "been removed for"
       },
       "correct": "d",
-      "explanation": "22. (a) 15. Why should I suspect by you (a)/ when I have always (b)/ supported your decisions? (c)/ No error (d) 16. She wanted the documents (a)/ to submit before the deadline (b)/ to avoid any complications in the process. (c)/ No error (d) 17. The manager expected the project (a)/ to have completed properly (b)/ before the deadline was extended (c)/ due to unavoidable circumstances. (d) 18. The authorities believed the bridge to have constructed (a)/ within the stipulated time without any delay (b)/ before the monsoon season began in the region. (c)/ No error (d) 19. The survey conducting by the independent research (a)/ organisation revealed several important facts about (b)/ the lifestyle of people living in metropolitan cities. (c)/ No error (d) 20. The dictator ordered the traitor were jailed. (a) was jailed (b) to jail (c) is jailed (d) to be jailed 21. This heap of rubbish has not been remove for 6 months. \b (SSC CHSL, 2023) (a) No improvement (b) been removing from (c) been removes since (d) been removed for 22. The enemy, beating at every point, fled from the field. (a) having been beaten (b) was beaten (c) to beaten (d) No improvement",
+      "explanation": "22. (a) 15. Why should I suspect by you (a)/ when I have always (b)/ supported your decisions? ()/ No error () 16. She wanted the documents (a)/ to submit before the deadline (b)/ to avoid any complications in the process. ()/ No error () 17. The manager expected the project (a)/ to have completed properly (b)/ before the deadline was extended ()/ due to unavoidable circumstances. () 18. The authorities believed the bridge to have constructed (a)/ within the stipulated time without any delay (b)/ before the monsoon season began in the region. ()/ No error () 19. The survey conducting by the independent research (a)/ organisation revealed several important facts about (b)/ the lifestyle of people living in metropolitan cities. ()/ No error () 20. The dictator ordered the traitor were jailed. (a) was jailed (b) to jail () is jailed () to be jailed 21. This heap of rubbish has not been remove for 6 months.  (SSC CHSL, 2023) (a) No improvement (b) been removing from () been removes since () been removed for 22. The enemy, beating at every point, fled from the field. (a) having been beaten (b) was beaten () to beaten () No improvement",
       "format": "sentence_improve"
     },
     {
@@ -259,7 +259,7 @@
       "question": "The enemy, beating at every point, fled from the field.",
       "exam_source": "",
       "options": {
-        "a": "having been beaten",
+        "a": "ving been beaten",
         "b": "was beaten",
         "c": "to beaten",
         "d": "No improvement"

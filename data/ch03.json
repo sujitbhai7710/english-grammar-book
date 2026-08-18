@@ -4,11 +4,11 @@
   "section": "A",
   "start_page": 18,
   "end_page": 22,
-  "theory": "Timeline                                Time\n\n                                                                                                Present\n\n                                            Past Perfect       Past Indefinite\n\n                        Past indefinite   Action at a definite time in the past.\n                        Past Perfect    Action completed before another action/time in the past.\n\n  1        PAST INDEFINITE\n\n   Past Indefinite: Past Indefinite tense is used to express an action which takes place in the\n    past at a definite time.\n       Past Indefinite tense dk ç;ksx mu dk;ks± dks O;Dr djus ds fy, fd;k tkrk gS] tks Past esa fdlh fuf'pr\n       le; ij gksrs gSaA\n       Structure\n       Subject + V2 + Object\n       Subject + Did + Not + V1 + Object\n       Did + Subject + V1 + Object ?\n       Did + Subject + Not + V1 + Object?\n       WH- Word + Did + Subject + V1 + Object ?\n       WH- Word + Did + Subject + Not + V1 + Object?\n                                                                                                Past Indefinite\n\n  2        PAST PERFECT\n                                                                       Structure\n   Past Perfect: Past Perfect tense is used to\n                                                                       Subject + Had + V3 + Object\n    express an action which takes place before\n                                                                       Subject + Had + Not + V3 + Object\n    another action or time in the past.                                Had + Subject + V3 + Object ?\n       Past Perfect tense dk ç;ksx mu dk;ks± dks O;Dr                  Had + Subject + Not + V3 + Object?\n       djus ds fy, fd;k tkrk gS] tks Past esa fdlh nwljs dk;Z          WH- Word + Had + Subject + V3 + Object?\n                                                                       WH- \u0007Word + Had + Subject + Not + V3 +\n       ;k le; ls igys iw.kZ gks pqds gksrs gSaA                              Object?",
+  "theory": "Timeline Time\n\n Present\n\n Past Perfect Past Indefinite\n\n  Past indefinite Action at a definite time in the past.\n  Past Perfect Action completed before another action/time in the past.\n\n 1 PAST INDEFINITE\n\n  Past Indefinite: Past Indefinite tense is used to express an action which takes place in the\n past at a definite time.\n Past Indefinite tense dk ç;ksx mu dk;ks± dks O;Dr djus ds fy, fd;k tkrk gS] tks Past esa fdlh fuf'pr\n le; ij gksrs gSaA\n Structure\n  Subject + V2 + Object\n  Subject + Did + Not + V1 + Object\n  Did + Subject + V1 + Object ?\n  Did + Subject + Not + V1 + Object?\n  WH- Word + Did + Subject + V1 + Object ?\n  WH- Word + Did + Subject + Not + V1 + Object?\n Past Indefinite\n\n 2 PAST PERFECT\n Structure\n  Past Perfect: Past Perfect tense is used to\n  Subject + Had + V3 + Object\n express an action which takes place before\n  Subject + Had + Not + V3 + Object\n another action or time in the past.  Had + Subject + V3 + Object ?\n Past Perfect tense dk ç;ksx mu dk;ks± dks O;Dr  Had + Subject + Not + V3 + Object?\n djus ds fy, fd;k tkrk gS] tks Past esa fdlh nwljs dk;Z  WH- Word + Had + Subject + V3 + Object?\n  WH- \u0007Word + Had + Subject + Not + V3 +\n ;k le; ls igys iw.kZ gks pqds gksrs gSaA Object?",
   "mcqs": [
     {
       "qno": 1,
-      "question": "Although the manager was keen on getting the work?",
+      "question": "Although the manager was keen getting the work?",
       "exam_source": "",
       "options": {
         "a": "/ done through Sudhir yesterday",
@@ -174,7 +174,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error.",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -450,7 +450,7 @@
         "a": "/ candidates appearing",
         "b": "/ because he barely know it properly despitell",
         "c": "/ studied the concept earlier in fha",
-        "d": "ep"
+        "d": "p"
       },
       "correct": "c",
       "explanation": "\"know\" should be replaced with \"knew\" of use will be because",
@@ -624,25 +624,25 @@
     },
     {
       "qno": 51,
-      "question": "Long after those five horses finish drinking water from the trough, an old horse appeared over the brow of the hill.\b?",
+      "question": "Long after those five horses finish drinking water from the trough, an old horse appeared over the brow of the hill.?",
       "exam_source": "(SSC CGL, 2020)",
       "options": {
-        "a": "had finished",
-        "b": "have finished",
+        "a": "inished",
+        "b": "ve finished",
         "c": "No improvement",
-        "d": "had been finishing"
+        "d": "been finishing"
       },
       "correct": "a",
-      "explanation": "52. (a) 53. (b) 54. (c) 55. (a)",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {
       "qno": 52,
-      "question": "By the time we reached the station, the train left.\b?",
+      "question": "By the time we reached the station, the train left.?",
       "exam_source": "(SSC PHASE XIII, 2025)",
       "options": {
-        "a": "had left",
-        "b": "has left",
+        "a": "left",
+        "b": "s left",
         "c": "was leaving",
         "d": "is leaving"
       },
@@ -655,10 +655,10 @@
       "question": "The price of petrol has increased yesterday.",
       "exam_source": "(SSC STENO, 2025)",
       "options": {
-        "a": "rose yesterday",
+        "a": "ose yesterday",
         "b": "increased yesterday",
-        "c": "has been increased yesterday",
-        "d": "rised yesterday"
+        "c": "s been increased yesterday",
+        "d": "ised yesterday"
       },
       "correct": "b",
       "explanation": "",
@@ -672,7 +672,7 @@
         "a": "No substitution",
         "b": "save the Union alongside",
         "c": "saved the Union during",
-        "d": "saved the Union on"
+        "d": "saved the Union"
       },
       "correct": "c",
       "explanation": "",
@@ -680,10 +680,10 @@
     },
     {
       "qno": 55,
-      "question": "They are finishing the project before the deadline yesterday. \b AIRFORCE Intake 01, 2027 (30/March/2026)",
+      "question": "They are finishing the project before the deadline yesterday.  AIRFORCE Intake 01, 2027 (30/March/2026)",
       "exam_source": "",
       "options": {
-        "a": "finished",
+        "a": "inished",
         "b": "was finish",
         "c": "were finished",
         "d": "will finish"
@@ -697,13 +697,13 @@
       "question": "The man was convicted for murder by the jury but he is not committed it.",
       "exam_source": "(SSC CGL, 2023)",
       "options": {
-        "a": "have not committed it",
-        "b": "has not committed it",
-        "c": "had not committed it",
+        "a": "ve not committed it",
+        "b": "s not committed it",
+        "c": "not committed it",
         "d": "am not committed it"
       },
       "correct": "c",
-      "explanation": "57. (b) 58. (c) 59. (b) 60. (b) tions",
+      "explanation": "",
       "format": "regular"
     },
     {
@@ -711,9 +711,9 @@
       "question": "There was a noise that was wake me up.",
       "exam_source": "(SSC CHSL, 2024)",
       "options": {
-        "a": "has woken me up",
+        "a": "s woken me up",
         "b": "woke me up",
-        "c": "had woken me up",
+        "c": "woken me up",
         "d": "woken me up"
       },
       "correct": "b",
@@ -736,13 +736,13 @@
     },
     {
       "qno": 59,
-      "question": "The ship sank because the engineer has not called for help.\b?",
+      "question": "The ship sank because the engineer has not called for help.?",
       "exam_source": "(SSC CPO, 2022)",
       "options": {
         "a": "was not call for help",
-        "b": "did not call for help",
+        "b": "id not call for help",
         "c": "will not call for help",
-        "d": "did not called for help"
+        "d": "id not called for help"
       },
       "correct": "b",
       "explanation": "",
@@ -753,10 +753,10 @@
       "question": "The researchers analyse the data carefully before they submitted the final report. (AIRFORCE Intake 01, 2027 [30/March/2026])",
       "exam_source": "",
       "options": {
-        "a": "has analysed",
-        "b": "had analysed all",
+        "a": "s analysed",
+        "b": "analysed all",
         "c": "analyses",
-        "d": "analysing df"
+        "d": "analysing"
       },
       "correct": "b",
       "explanation": "",
@@ -764,20 +764,20 @@
     },
     {
       "qno": 61,
-      "question": "He went home and excitedly .......... his re mother the story.\b @ CPO, 2025) (SSC?",
+      "question": "He went home and excitedly .......... his mother the story. @ CPO, 2025) (SSC?",
       "exam_source": "",
       "options": {
-        "a": "told G-",
-        "b": "Ttelling",
+        "a": "told",
+        "b": "telling",
         "c": "tells n talking"
       },
       "correct": "a",
-      "explanation": "62. (a) 63. (d) 64. (d) Solut",
+      "explanation": "",
       "format": "fill_blank"
     },
     {
       "qno": 62,
-      "question": "The other youths .......... to talk about their seeds and the plants.\b?",
+      "question": "The other youths .......... to talk about their seeds and the plants.?",
       "exam_source": "(SSC CPO, 2025)",
       "options": {
         "a": "began",
@@ -791,13 +791,13 @@
     },
     {
       "qno": 63,
-      "question": "They .......... their objections by the time the committee convened.\b?",
+      "question": "They .......... their objections by the time the committee convened.?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
-        "a": "raised",
-        "b": "have raised",
+        "a": "aised",
+        "b": "ve raised",
         "c": "will raise",
-        "d": "had raised"
+        "d": "aised"
       },
       "correct": "d",
       "explanation": "",
@@ -808,9 +808,9 @@
       "question": "The milk in the carton .......... almost over. Someone .......... it last night.",
       "exam_source": "(DP HCM, 2026)",
       "options": {
-        "a": "has, drank",
-        "b": "have, have drank",
-        "c": "are, has drunk",
+        "a": "s, drank",
+        "b": "ve, have drank",
+        "c": ", has drunk",
         "d": "is, drank"
       },
       "correct": "d",

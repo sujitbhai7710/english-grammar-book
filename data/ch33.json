@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 95,
   "end_page": 97,
-  "theory": "Verb1                    Verb2          Verb3            Meaning\n     Fly                      Flew           Flown            mM+uk\n\n     Flow                     Flowed         Flowed           cguk\n     Hang                     Hanged         Hanged           iQk¡lh nsuk\n\n     Hang                     Hung           Hung             yVdkuk@Vk¡xuk\n     Lie                      Lied           Lied             >wB cksyuk\n3    Lie                      Lay            Lain             ysVuk\n     Lay                      Laid           Laid             j•uk@vaMs nsuk @ fcNkuk\n     Bear                     Bore           Born             iSnk djuk @ gksuk\n\n     Bear                     Bore           Borne            lguk\n     Fall                     Fell           Fallen           fxjuk\n5    Fell                     Felled         Felled           fxjkuk\n     Befall                   Befell         Befallen         fdlh ij eqlhcr iM+uk\n     Find                     Found          Found            ikuk\n\n     Found                    Founded        Founded          LFkkfir djuk\n     Rise                     Rose           Risen            mBuk @ c<+uk (Intransitive)\n7    Raise                    Raised         Raised           mBkuk @ c<+kuk (Transitive)\n     Raze                     Razed          Razed            u\"V djuk\n     Grind                    Ground         Ground           ihluk\n\n     Ground                   Grounded       Grounded         tehu ij ykuk\n     Bid                      Bid            Bid              cksyh yxkuk\n\n     Bid                      Bade           Bidden           vfHkoknu djuk\n     See                      Saw            Seen             ns•uk\n\n     Saw                      Sawed          Sawed/Sawn       vkjh ls dkVuk\n     Wind                     Wound          Wound            pkHkh yxkuk\n\n     Wound                    Wounded        Wounded          ?kk;y djuk\n     Rend                     Rent           Rent             phjuk\n\n     Rent                     Rented         Rented           fdjk;s ij nsuk\n13            Practice                     Noun                                vH;kl@izFkk\n14            Practise                     Verb                              vH;kl djuk\n15            Advice                       Noun                                   lykg\n16            Advise                       Verb                                lykg nsuk\n17          Complaint                      Noun                                  f'kdk;r\n\n18          Complain                       Verb                              f'kdk;r djuk                ha\n\n19             Effect                    Noun/Verb                        vlj@ykxw djuk free\n\n20            Affect                       Verb                                     TG\n                                                                               vlj djuk\n\n21             Loss                        Noun                                r  ho\n                                                                                c?kkVk@gkfu\n\n    22             Lose                               Verb                                          •ksuk@gkjuk\n    23            Loose                             Adjective                                           <hyk\n    24             Sink                               Verb                                     Mwcuk (futhZo dk)\n    25            Drown                               Verb                                   Mwcuk @ Mqckuk (O;fDr)\n    26            Invent                              Verb                                       vkfo\"dkj djuk\n    27           Discover                             Verb                                         •kst djuk\n    28              Site                              Noun                                         fuekZ.k LFky\n    29             Sight                              Noun                                        utkjk ;k n`f\"V\n    30             Cite                               Verb                                        mYys• djuk",
+  "theory": "Verb1 Verb2 Verb3 Meaning\n Fly Flew Flown mM+uk\n\n Flow Flowed Flowed cguk\n Hang Hanged Hanged iQk¡lh nsuk\n\n Hang Hung Hung yVdkukVk¡xuk\n Lie Lied Lied >wB cksyuk\n3 Lie Lay Lain ysVuk\n Lay Laid Laid j•ukvaMs nsuk @ fcNkuk\n Bear Bore Born iSnk djuk @ gksuk\n\n Bear Bore Borne lguk\n Fall Fell Fallen fxjuk\n5 Fell Felled Felled fxjkuk\n Befall Befell Befallen fdlh ij eqlhcr iM+uk\n Find Found Found ikuk\n\n Found Founded Founded LFkkfir djuk\n Rise Rose Risen mBuk @ <+uk (Intransitive)\n7 Raise Raised Raised mBkuk @ <+kuk (Transitive)\n Raze Razed Razed u\"V djuk\n Grind Ground Ground ihluk\n\n Ground Grounded Grounded tehu ij ykuk\n Bid Bid Bid cksyh yxkuk\n\n Bid Bade Bidden vfHkoknu djuk\n See Saw Seen ns•uk\n\n Saw Sawed Sawed/Sawn vkjh ls dkVuk\n Wind Wound Wound pkHkh yxkuk\n\n Wound Wounded Wounded ?kk;y djuk\n Rend Rent Rent phjuk\n\n Rent Rented Rented fdjk;s ij nsuk\n13 Practice Noun vH;klizFkk\n14 Practise Verb vH;kl djuk\n15 Advice Noun lykg\n16 Advise Verb lykg nsuk\n17 Complaint Noun 'kdk;\n\n18 Complain Verb 'kdk; djuk \n\n19 Effect Noun/Verb vljykxw djuk free\n\n20 Affect Verb \n vlj djuk\n\n21 Loss Noun ho\n ?kkVkgkfu\n\n 22 Lose Verb •ksukgkjuk\n 23 Loose Adjective <hyk\n 24 Sink Verb Mwcuk (futhZo dk)\n 25 Drown Verb Mwcuk @ Mqckuk (O;fDr)\n 26 Invent Verb vkfo\"dkj djuk\n 27 Discover Verb •kst djuk\n 28 Site Noun fuekZ.k LFky\n 29 Sight Noun utkjk ;k n`\"V\n 30 Cite Verb mYys• djuk",
   "mcqs": [
     {
       "qno": 1,
@@ -107,7 +107,7 @@
       "question": "The economic slowdown that the country experienced last year?",
       "exam_source": "",
       "options": {
-        "a": "/ had a serious affect on",
+        "a": "/ had a serious affect",
         "b": "/ operating in",
         "c": "/ No error"
       },
@@ -142,7 +142,7 @@
     },
     {
       "qno": 11,
-      "question": "After completing the repair work on the old clock?",
+      "question": "After completing the repair work the old clock?",
       "exam_source": "",
       "options": {
         "a": "/ the mechanic wounded the spring tightly",
@@ -305,8 +305,8 @@
       "exam_source": "",
       "options": {
         "a": "/ affects of the",
-        "b": "/ sector can be optimized d",
-        "d": "e ep"
+        "b": "/ sector can be optimized",
+        "d": "e"
       },
       "correct": "b",
       "explanation": "\"affects\" should be replaced with \"effects\" of use will be",
@@ -314,7 +314,7 @@
     },
     {
       "qno": 24,
-      "question": "The teacher said, \"the sun raises day\".\b cho?",
+      "question": "The teacher said, \"the sun raises day\". cho?",
       "exam_source": "(SSC CHSL, 2021)",
       "options": {
         "a": "the sun will rise in the east",
@@ -331,9 +331,9 @@
       "question": "He hanged his portrait in the main hall.",
       "exam_source": "",
       "options": {
-        "a": "hang",
+        "a": "ng",
         "b": "was hung",
-        "c": "hung",
+        "c": "ung",
         "d": "No improvement"
       },
       "correct": "a",
@@ -342,7 +342,7 @@
     },
     {
       "qno": 26,
-      "question": "The Kingfisher is a bird founded most in the Eastern Hemisphere, especially in the Southeast Asian countries. \b?",
+      "question": "The Kingfisher is a bird founded most in the Eastern Hemisphere, especially in the Southeast Asian countries. ?",
       "exam_source": "(SSC CPO, 2015)",
       "options": {
         "a": "a bird found mostly",
@@ -351,12 +351,12 @@
         "c": "11."
       },
       "correct": "a",
-      "explanation": "27. (a) 28. (d) tions",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {
       "qno": 27,
-      "question": "She decided to ........... down and rest for a while. \b?",
+      "question": "She decided to ........... down and rest for a while. ?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
         "a": "lie",
@@ -370,10 +370,10 @@
     },
     {
       "qno": 28,
-      "question": "Reading ability in young children ........ by speech disorders. \b?",
+      "question": "Reading ability in young children ........ by speech disorders. ?",
       "exam_source": "(UPSC CDS, 2024)",
       "options": {
-        "a": "effected",
+        "a": "ted",
         "b": "affected",
         "c": "is effected",
         "d": "is affected"

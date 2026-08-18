@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 225,
   "end_page": 226,
-  "theory": " Some nouns appear singular in form but are always treated as plural and take plural verbs.\n dqN Nouns Singular fn•kbZ nsrs gSa] ysfdu mUgsa ges'kk Plural ekuk tkrk gS vkSj muds lkFk Plural verb\n\n      dk ç;ksx fd;k tkrk gS\n     Important Words\n    Police, Cattle, People, Gentry, Clergy, Peasantry, Poultry, Vermin, Folk, Cavalry etc.\n\n     Collective nouns\n       Collective nouns (Committee, Team, Jury, Audience, Board etc.) can be used as both\n          singular and plural depending on whether the group is taken as a single unit or\n          separate individuals.\n           As a Single Unit (Singular)                         As Separate Individuals (Plural)\n                   The team is playing well.                   The team are arguing among\n\n                                                               themselves.\n                   The committee has taken a\n             2                                                 The committee have different opinions.\n                   decision.",
+  "theory": " Some nouns appear singular in form but are always treated as plural and take plural verbs.\n dqN Nouns Singular fn•kbZ nsrs gSa] ysfdu mUgsa ges'kk Plural ekuk tkrk gS vkSj muds lkFk Plural verb\n\n dk ç;ksx fd;k tkrk gS\n Important Words\n Police, Cattle, People, Gentry, Clergy, Peasantry, Poultry, Vermin, Folk, Cavalry etc.\n\n Collective nouns\n  Collective nouns (Committee, Team, Jury, Audience, Board etc.) can be used as both\n singular and plural depending whether the group is taken as a single unit or\n separate individuals.\n As a Single Unit (Singular) As Separate Individuals (Plural)\n The team is playing well. The team are arguing among\n\n themselves.\n The committee has taken a\n 2 The committee have different opinions.\n decision.",
   "mcqs": [
     {
       "qno": 1,
@@ -36,7 +36,7 @@
       "question": "The local gentry?",
       "exam_source": "",
       "options": {
-        "a": "/ is remarkably keen on",
+        "a": "/ is remarkably keen",
         "c": "/ of the"
       },
       "correct": "b",
@@ -205,7 +205,7 @@
       "options": {
         "a": "/ was divided in their",
         "b": "/ about the quality of the dancers.@ fr/eNo error",
-        "d": "T G-"
+        "d": "T"
       },
       "correct": "b",
       "explanation": "Was should be replaced with were of use will be, because",
@@ -213,7 +213,7 @@
     },
     {
       "qno": 17,
-      "question": "All the jury members was divided in their opinions. \b?",
+      "question": "All the jury members was divided in their opinions. ?",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
         "a": "All the jury member were divided",
@@ -222,18 +222,18 @@
         "d": "All juries have divided"
       },
       "correct": "b",
-      "explanation": "ll the jury members was divided in their opinions. \b (SSC CHSL, 2025) (a) All the jury member were divided (b) All the jury members were divided (c) All the jury were divided (d) All juries have divided 18. The committee have submitted its final report. \b (SSC CPO, 2025) (a) has submitted its final report (b) have submitted their final reports (c) has submitted their final report (d) had submitted its final report Answers",
+      "explanation": "the jury members was divided in their opinions.  (SSC CHSL, 2025) (a) All the jury member were divided (b) All the jury members were divided () All the jury were divided () All juries have divided 18. The committee have submitted its final report.  (SSC CPO, 2025) (a) has submitted its final report (b) have submitted their final reports () has submitted their final report () had submitted its final report Answers",
       "format": "regular"
     },
     {
       "qno": 18,
-      "question": "The committee have submitted its final report. \b?",
+      "question": "The committee have submitted its final report. ?",
       "exam_source": "(SSC CPO, 2025)",
       "options": {
-        "a": "has submitted its final report",
-        "b": "have submitted their final reports",
-        "c": "has submitted their final report",
-        "d": "had submitted its final report"
+        "a": "s submitted its final report",
+        "b": "ve submitted their final reports",
+        "c": "s submitted their final report",
+        "d": "submitted its final report"
       },
       "correct": "a",
       "explanation": "",
@@ -241,10 +241,10 @@
     },
     {
       "qno": 19,
-      "question": "The police is investigating the matter seriously. \b?",
+      "question": "The police is investigating the matter seriously. ?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
-        "a": "are investigating the matter seriously",
+        "a": "investigating the matter seriously",
         "b": "investigates the matter",
         "c": "were investigating seriously the matter",
         "d": "is in investigation"
@@ -261,7 +261,7 @@
         "a": "believes",
         "b": "is believing",
         "c": "believe",
-        "d": "have believed"
+        "d": "ve believed"
       },
       "correct": "a",
       "explanation": "",

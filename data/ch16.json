@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 54,
   "end_page": 55,
-  "theory": "Uses of Since\n\n              Preposition                          Conjunction                              Conjunction\n                 Time                          From then till now                               Because\n                                              (rc ls ysdj vc rd)                                (D;ksafd)\n\n          1 Since as a Preposition– ;g vius ckn                  3 Since as a Conjunction of Reason–\n            Time Expressions, (Noun rFkk Noun                      Since ;gk¡ because/as dh rjg function\n            Phrase) ysrk gSA                                         djrk gSA\n                                                                     D;ksfdReason                   Result\n                                 Since + Time                        Since\n                                                                          Clause 1                 Clause 2\n                                 Preposition                    Conjunction\n\n          2 Since as a Conjunction of Time– Main clause esa present perfect/present perfect\n            continuous tense rFkk since clause esa past indefinite tense vkrk gSA\n\n                                        rc ls ysdj vc\n                                     Present perfect   d    r\n\n                               Present Perfect Continuous        Past Indefinite\n                                                          Since\n                                        Clause 1                    Clause 2\n                                                        Conjunction",
+  "theory": "Uses of Since\n\n Preposition Conjunction Conjunction\n Time From then till now Because\n (rc ls ysdj vc rd) (D;ksafd)\n\n 1 Since as a Preposition– ;g vius ckn 3 Since as a Conjunction of Reason–\n Time Expressions, (Noun rFkk Noun Since ;gk¡ because/as dh rjg function\n Phrase) ysrk gSA djrk gSA\n D;ksfdReason Result\n Since + Time Since\n Clause 1 Clause 2\n Preposition Conjunction\n\n 2 Since as a Conjunction of Time– Main clause esa present perfect/present perfect\n continuous tense rFkk since clause esa past indefinite tense vkrk gSA\n\n rc ls ysdj vc\n Present perfect \n\n Present Perfect Continuous Past Indefinite\n Since\n Clause 1 Clause 2\n Conjunction",
   "mcqs": [
     {
       "qno": 1,
@@ -123,7 +123,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -143,9 +143,9 @@
       "question": "From the beginning of this year the company?",
       "exam_source": "",
       "options": {
-        "b": "a/ll",
+        "b": "a/",
         "c": "/ No error",
-        "d": "e pd"
+        "d": "pd"
       },
       "correct": "a",
       "explanation": "From should be replaced with since of use will because",
@@ -249,8 +249,8 @@
       "exam_source": "",
       "options": {
         "a": "because",
-        "b": "for",
-        "c": "from",
+        "b": "or",
+        "c": "om",
         "d": "since"
       },
       "correct": "d",

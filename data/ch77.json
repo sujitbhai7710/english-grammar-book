@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 203,
   "end_page": 204,
-  "theory": "quantity\n\n      Points to Remember\n   Plural noun dk dksbZ Hkh Fraction ;k Percent Plural gksxk vkSj Verb Hkh Plural gksxhA\n   Singular noun dk dksbZ Hkh Fraction ;k Percent Singular gksxk vkSj Verb Hkh Singular gksxhA\n      Uncountable noun dk dksbZ Hkh Fraction ;k Percent Uncountable gksxk vkSj Verb Hkh Singular gksxhA\n      Note\n      The Percentage of + noun osQ case esa ges'kk Singular Verb vk,xhA",
+  "theory": "quantity\n\n Points to Remember\n  Plural noun dk dksbZ Hkh Fraction ;k Percent Plural gksxk vkSj Verb Hkh Plural gksxhA\n  Singular noun dk dksbZ Hkh Fraction ;k Percent Singular gksxk vkSj Verb Hkh Singular gksxhA\n  Uncountable noun dk dksbZ Hkh Fraction ;k Percent Uncountable gksxk vkSj Verb Hkh Singular gksxhA\n Note\n The Percentage of + noun osQ case esa ges'kk Singular Verb vk,xhA",
   "mcqs": [
     {
       "qno": 1,
@@ -42,7 +42,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -146,7 +146,7 @@
         "c": "/ No"
       },
       "correct": "d",
-      "explanation": "No error.",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -164,13 +164,13 @@
     },
     {
       "qno": 14,
-      "question": "Ten percent of the scenery in this valley ......... breathtaking. h all?",
+      "question": "Ten percent of the scenery in this valley ......... breathtaking. all?",
       "exam_source": "",
       "options": {
         "a": "is",
-        "b": "are d f",
+        "b": "e",
         "c": "were",
-        "d": "have rbeen"
+        "d": "ve rbeen"
       },
       "correct": "a",
       "explanation": "",
@@ -178,13 +178,13 @@
     },
     {
       "qno": 15,
-      "question": "A significant fraction of the wealth G -@ ........ spent on charitable causes last year. o nT?",
+      "question": "A significant fraction of the wealth -@ ........ spent charitable causes last year. o nT?",
       "exam_source": "",
       "options": {
         "a": "were",
         "b": "was",
-        "c": "are a rch",
-        "d": "have"
+        "c": "a rch",
+        "d": "ve"
       },
       "correct": "b",
       "explanation": "",

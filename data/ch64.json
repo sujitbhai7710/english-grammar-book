@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 172,
   "end_page": 173,
-  "theory": " A complement is a word or a group of words that completes the meaning of the subject or\n        object in a sentence.\n\n fdlh okD; esa dksbZ 'kCn ;k 'kCnksa dk lewg subject ;k object ds vFkZ dks iwjk djrk gS] rks mls complement\n dgrs gaSA\n   Subject Complement                                      Object Complement\n   Comes after a linking verb and describes               Gives additional information about the\n     the subject. It may be a noun, an adjective\n                                                             object.\n     or a phrase.\n    Subject + linking verb + Subject Complement            Subject + verb + Object + Object Complement\n\nEx. 1 Sandeep became a doctor.                        Ex. 1 The teacher made Ravi monitor.\n\n \t\t\t\t\t                   Subject Complement\n                                                       \t\t\t\t\t\tObject Object complement\n                     (Sandeep gh Doctor gSA)          \b             Complement (Ravi gh Monitor gSA)",
+  "theory": " A complement is a word or a group of words that completes the meaning of the subject or\n object in a sentence.\n\n fdlh okD; esa dksbZ 'kCn ;k 'kCnksa dk lewg subject ;k object ds vFkZ dks iwjk djrk gS] rks mls complement\n dgrs gaSA\n Subject Complement Object Complement\n  Comes after a linking verb and describes  Gives additional information about the\n the subject. It may be a noun, an adjective\n object.\n or a phrase.\n Subject + linking verb + Subject Complement Subject + verb + Object + Object Complement\n\nEx. 1 Sandeep became a doctor. Ex. 1 The teacher made Ravi monitor.\n\n Subject Complement\n Object Object complement\n (Sandeep gh Doctor gSA) \b Complement (Ravi gh Monitor gSA)",
   "mcqs": [
     {
       "qno": 1,
@@ -17,7 +17,7 @@
         "d": "Object complement"
       },
       "correct": "c",
-      "explanation": "2. (d) 3. (b) 4. (d) 5. (b)",
+      "explanation": "",
       "format": "regular"
     },
     {
@@ -45,18 +45,18 @@
         "d": "Object complement"
       },
       "correct": "b",
-      "explanation": "amini got angry yesterday. Subject complement (Damini gh ukjkt gSA) 4. Damini loves Amit. Object. (Damini, Amit ugha gSA) Linking Verbs that Take Complement Be (is / am / are / was / were / been), Become, S Remain, Stay, Turn, Grow, Get, Prove, etc. Practice Questions 1. She became a successful entrepreneur. (a) Subject (b) Object (c) Subject complement (d) Object complement 2. They elected him Captain. (a) Subject (b) Object (c) Subject complement (d) Object complement Subject Vs Object Complement rds that completes the meaning of the subject or ;k object ds vFkZ dks iwjk djrk gS] rks mls complement Object Complement  Gives additional information about the object. Subject + verb + Object + Object Complement Ex. 1 The teacher made Ravi monitor. Object Object complement \b Complement (Ravi gh Monitor gSA) 2. The teacher gave Ravi a pen. Indirect Object Direct Object \b (Ravi pen ugha gSA) Seem, Appear, Look, Feel, Sound, Smell, Taste, 3. The teacher praised the boy. (a) Subject (b) Object (c) Subject complement (d) Object complement 4. We found the movie boring. ll (a) Noun d (b) Object e ep (c) Subject complement G -@ (d) Object complement n T ear 5. I, the owner of this building have a car. (a) Adjective (b) Object (c) Subject complement (d) Object complement 6. Her sudden silence made everyone in the room uneasy and suspicious of her intentions. (a) Subject complement (b) Object complement (c) Object (d) Adjective 7. The weather turned unusually cold and unpleasant for this time of the year. (a) Subject complement (b) Object complement (c) Object (d) Noun 8. After years of hard work and dedication, she became a great leader in her organization. (a) Subject (b) Object (c) Subject complement (d) Object complement 9. Ayush Shetty became the first Indian men’s singles player in six decades to reach this stage of the continental meet. (a) Subject (b) Object (c) Subject complement (d) Object complement 10. The coach found Ayush slightly impatient in the title decider compared to earlier matches. (a) Subject (b) Object (c) Subject complement (d) Object complement 11. The talks were part of an ongoing diplomatic process rather than a one-off effort between the two countries. Answers",
+      "explanation": "amini got angry yesterday. Subject complement (Damini gh ukjkt gSA) 4. Damini loves Amit. Object. (Damini, Amit ugha gSA) Linking Verbs that Take Complement Be (is / am / are / was / were / been), Become, S Remain, Stay, Turn, Grow, Get, Prove, etc. Practice Questions 1. She became a successful entrepreneur. (a) Subject (b) Object () Subject complement () Object complement 2. They elected him Captain. (a) Subject (b) Object () Subject complement () Object complement Subject Vs Object Complement rds that completes the meaning of the subject or ;k object ds vFkZ dks iwjk djrk gS] rks mls complement Object Complement  Gives additional information about the object. Subject + verb + Object + Object Complement Ex. 1 The teacher made Ravi monitor. Object Object complement  Complement (Ravi gh Monitor gSA) 2. The teacher gave Ravi a pen. Indirect Object Direct Object  (Ravi pen ugha gSA) Seem, Appear, Look, Feel, Sound, Smell, Taste, 3. The teacher praised the boy. (a) Subject (b) Object () Subject complement () Object complement 4. We found the movie boring. (a) Noun (b) Object () Subject complement -@ () Object complement n ear 5. I, the owner of this building have a car. (a) Adjective (b) Object () Subject complement () Object complement 6. Her sudden silence made everyone in the room uneasy and suspicious of her intentions. (a) Subject complement (b) Object complement () Object () Adjective 7. The weather turned unusually cold and unpleasant for this time of the year. (a) Subject complement (b) Object complement () Object () Noun 8. After years of hard work and dedication, she became a great leader in her organization. (a) Subject (b) Object () Subject complement () Object complement 9. Ayush Shetty became the first Indian men’s singles player in six decades to reach this stage of the continental meet. (a) Subject (b) Object () Subject complement () Object complement 10. The coach found Ayush slightly impatient in the title decider compared to earlier matches. (a) Subject (b) Object () Subject complement () Object complement 11. The talks were part of an ongoing diplomatic process rather than a one-off effort between the two countries. Answers",
       "format": "regular"
     },
     {
       "qno": 4,
-      "question": "We found the movie boring. ll?",
+      "question": "We found the movie boring. ?",
       "exam_source": "",
       "options": {
-        "a": "Noun d",
-        "b": "Object e ep",
+        "a": "Noun",
+        "b": "Object",
         "c": "Subject complement G -@",
-        "d": "Object complement n T"
+        "d": "Object complement n"
       },
       "correct": "d",
       "explanation": "",
@@ -87,7 +87,7 @@
         "d": "Adjective"
       },
       "correct": "b",
-      "explanation": "7. (a) 8. (c) 9. (c) 10. (d)",
+      "explanation": "",
       "format": "regular"
     },
     {
@@ -148,7 +148,7 @@
     },
     {
       "qno": 11,
-      "question": "The talks were part of an ongoing diplomatic process rather than a one-off effort between the two countries. Answers 1. (c) 2. (d) 3. (b) 4. (d) 5. (b) 11. (c) 12. (d) 13. (d) 14. (c) 15. (c)",
+      "question": "The talks were part of an ongoing diplomatic process rather than a one-off effort between the two countries. Answers 1. () 2. () 3. (b) 4. () 5. (b) 11. () 12. () 13. () 14. () 15. ()",
       "exam_source": "",
       "options": {
         "c": "2.",
@@ -157,7 +157,7 @@
         "a": "Subject"
       },
       "correct": "c",
-      "explanation": "12. (d) 13. (d) 14. (c) 15. (c) (a) Subject (b) Object (c) Subject complement (d) Object complement 12. The government has made the deportation policy stricter to control illegal migration across states. (a) Subject (b) Object (c) Subject complement (d) Object complement 13. The committee considered the proposal impractical and poorly structured despite its initial appeal. (a) Subject (b) Object (c) Subject complement (d) Object complement 14. After years of dedication, she became one of the most respected scientists in the country. (a) Subject (b) Object (c) Subject complement (d) Object complement 15. The results of the experiment were highly unexpected and difficult to interpret. (a) Subject (b) Object (c) Subject complement (d) Object complement 16. The audience found the performance rather disappointing given the high expectations. (a) Subject (b) Object (c) Subject complement (d) Object complement",
+      "explanation": "12. () 13. () 14. () 15. () (a) Subject (b) Object () Subject complement () Object complement 12. The government has made the deportation policy stricter to control illegal migration across states. (a) Subject (b) Object () Subject complement () Object complement 13. The committee considered the proposal impractical and poorly structured despite its initial appeal. (a) Subject (b) Object () Subject complement () Object complement 14. After years of dedication, she became one of the most respected scientists in the country. (a) Subject (b) Object () Subject complement () Object complement 15. The results of the experiment were highly unexpected and difficult to interpret. (a) Subject (b) Object () Subject complement () Object complement 16. The audience found the performance rather disappointing given the high expectations. (a) Subject (b) Object () Subject complement () Object complement",
       "format": "regular"
     },
     {
@@ -227,7 +227,7 @@
         "d": "Object complement"
       },
       "correct": "d",
-      "explanation": "hall -@f ear",
+      "explanation": "",
       "format": "regular"
     }
   ]

@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 220,
   "end_page": 222,
-  "theory": " When two conjunctions are always used in pairs and they connect two similar parts of a\n sentence (words, phrases, or clauses), they are called Correlative Conjunctions.\n\n tc nks conjunctions ges'kk pair esa bLrseky gksrs gSa vkSj sentence esa nks leku parts (words/\n phrases/clauses) dks tksM+rs gSa] mUgsa Correlative Conjunctions dgk tkrk gSA\n\n                                         List of Correlative Conjunctions\n           1     Either ...... or                        10        As ...... As\n\n           2     Neither ...... nor                      11        So ...... As\n\n           3     Not only ...... but also                12        Although / Though ...... yet\n\n           4     Both ...... and                         13        Rather / Other ...... than\n\n           5     Whether ...... or                       14        Else ...... but\n\n           6     No sooner ...... than                   15        The reason why ...... that\n\n           7     Hardly / Scarcely ...... when           16        Lest ...... should\n\n           8     So ...... that                          17        Between ...... and\n\n           9     Such ...... that                        18        From ...... to",
+  "theory": " When two conjunctions are always used in pairs and they connect two similar parts of a\n sentence (words, phrases, or clauses), they are called Correlative Conjunctions.\n\n tc nks conjunctions ges'kk pair esa bLrseky gksrs gSa vkSj sentence esa nks leku parts (words/\n phrases/clauses) dks tksM+rs gSa] mUgsa Correlative Conjunctions dgk tkrk gSA\n\n List of Correlative Conjunctions\n 1 Either ...... or 10 As ...... As\n\n 2 Neither ...... nor 11 So ...... As\n\n 3 Not only ...... but also 12 Although / Though ...... yet\n\n 4 Both ...... and 13 Rather / Other ...... than\n\n 5 Whether ...... or 14 Else ...... but\n\n 6 No sooner ...... than 15 The reason why ...... that\n\n 7 Hardly / Scarcely ...... when 16 Lest ...... should\n\n 8 So ...... that 17 Between ...... and\n\n 9 Such ...... that 18 From ...... to",
   "mcqs": [
     {
       "qno": 1,
@@ -61,7 +61,7 @@
       "question": "He did nothing else?",
       "exam_source": "",
       "options": {
-        "a": "/ and waste his time on",
+        "a": "/ and waste his time",
         "b": "/ throughout the day"
       },
       "correct": "b",
@@ -124,10 +124,10 @@
     },
     {
       "qno": 12,
-      "question": "Hardly had we get in but the train-started. T?",
+      "question": "Hardly had we get in but the train-started. ?",
       "exam_source": "(SSC CGL, 2022)",
       "options": {
-        "a": "we get in than on",
+        "a": "we get in than",
         "b": "we got in before",
         "c": "No substitution required",
         "d": "we got in when"
@@ -152,10 +152,10 @@
     },
     {
       "qno": 14,
-      "question": "The place was not cold only and also damp. \b?",
+      "question": "The place was not cold only and also damp. ?",
       "exam_source": "(SSC CGL, 2020)",
       "options": {
-        "a": "only cold not also",
+        "a": "ly cold not also",
         "b": "No improvement",
         "c": "not only cold but also",
         "d": "not only cold and both"
@@ -166,7 +166,7 @@
     },
     {
       "qno": 15,
-      "question": "The exam was not so easy that we had expected. \b?",
+      "question": "The exam was not so easy that we had expected. ?",
       "exam_source": "(SSC CPO, 2020)",
       "options": {
         "a": "such easy as",
@@ -180,7 +180,7 @@
     },
     {
       "qno": 16,
-      "question": "As long to funding is not made available, our construction dreams have been deferred. \b?",
+      "question": "As long to funding is not made available, our construction dreams have been deferred. ?",
       "exam_source": "(SSC CHSL, 2020)",
       "options": {
         "a": "As high as",
@@ -189,7 +189,7 @@
         "d": "So long as"
       },
       "correct": "d",
-      "explanation": "17. (c) 18. (d) 19. (b) 20. (c)",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {
@@ -198,7 +198,7 @@
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "in order that he does not fail",
-        "b": "for not failing",
+        "b": "or not failing",
         "c": "lest he should fail",
         "d": "so that he did not fail"
       },
@@ -214,7 +214,7 @@
         "a": "No improvement",
         "b": "jam and butter",
         "c": "no jam or butter",
-        "d": "either jam or butter"
+        "d": "ither jam or butter"
       },
       "correct": "d",
       "explanation": "",
@@ -222,7 +222,7 @@
     },
     {
       "qno": 19,
-      "question": "The firing of the missile not only killed innocent persons and also created political furore. \b?",
+      "question": "The firing of the missile not only killed innocent persons and also created political furore. ?",
       "exam_source": "(SSC CHSL, 2020)",
       "options": {
         "a": "not only kill innocent persons and also",
@@ -236,7 +236,7 @@
     },
     {
       "qno": 20,
-      "question": "So much as you behave like this, the decision of the management against you cannot be revoked. \b?",
+      "question": "So much as you behave like this, the decision of the management against you cannot be revoked. ?",
       "exam_source": "(SSC CHSL, 2020)",
       "options": {
         "a": "As long to",
@@ -250,7 +250,7 @@
     },
     {
       "qno": 21,
-      "question": "Lenovo has launched ThinkPad X1 Fold, the world's first foldable laptop which is claimed to be so durable as its other devices. \b?",
+      "question": "Lenovo has launched ThinkPad X1 Fold, the world's first foldable laptop which is claimed to be so durable as its other devices. ?",
       "exam_source": "(SSC CHSL, 2020)",
       "options": {
         "a": "to be as durable as",
@@ -259,12 +259,12 @@
         "d": "No improvement"
       },
       "correct": "a",
-      "explanation": "22. (a) 23. (a) 24. (c) 25. (c) Solut",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {
       "qno": 22,
-      "question": "Few solutions were .......... promising as this one. \b?",
+      "question": "Few solutions were .......... promising as this one. ?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "so",
@@ -278,10 +278,10 @@
     },
     {
       "qno": 23,
-      "question": "The chief engineer recommended replacing the obsolete part .......... than repairing it. \b (SSC CGL. 2025)",
+      "question": "The chief engineer recommended replacing the obsolete part .......... than repairing it.  (SSC CGL. 2025)",
       "exam_source": "",
       "options": {
-        "a": "rather",
+        "a": "ather",
         "b": "as",
         "c": "other",
         "d": "more"
@@ -292,7 +292,7 @@
     },
     {
       "qno": 24,
-      "question": "He neither attended the seminar .......... submitted his report on time.",
+      "question": "He neither attended the seminar .......... submitted his report time.",
       "exam_source": "(SSC CHSL, 2025)",
       "options": {
         "a": "but also",
@@ -306,12 +306,12 @@
     },
     {
       "qno": 25,
-      "question": "We can .......... go to the movie theater .......... stay at home and watch a movie. \b?",
+      "question": "We can .......... go to the movie theater .......... stay at home and watch a movie. ?",
       "exam_source": "(IB ACIO, 2025)",
       "options": {
-        "a": "either, nor",
-        "b": "either, and",
-        "c": "either, or",
+        "a": "ither, nor",
+        "b": "ither, and",
+        "c": "ither, or",
         "d": "neither, or"
       },
       "correct": "c",
@@ -329,12 +329,12 @@
         "d": "very"
       },
       "correct": "a",
-      "explanation": "27. (a) 28. (b) 29. (b) 30. (a) tions",
+      "explanation": "",
       "format": "fill_blank"
     },
     {
       "qno": 27,
-      "question": "No other candidate is .......... qualified for the role as she is. \b?",
+      "question": "No other candidate is .......... qualified for the role as she is. ?",
       "exam_source": "(SSC CPO, 2025)",
       "options": {
         "a": "so",
@@ -348,13 +348,13 @@
     },
     {
       "qno": 28,
-      "question": "Although I enjoyed my stay in India during thell cultural exchange program and learned many ha new things, .......... I was still glad to comeep df home.",
+      "question": "Although I enjoyed my stay in India during thell cultural exchange program and learned many new things, .......... I was still glad to comeep home.",
       "exam_source": "",
       "options": {
         "a": "but",
-        "b": "yet fre",
+        "b": "yet",
         "c": "still",
-        "d": "G -@"
+        "d": "-@"
       },
       "correct": "b",
       "explanation": "",
@@ -362,7 +362,7 @@
     },
     {
       "qno": 29,
-      "question": "Meena Muthiah was .......... a distinguished educationist and philanthropist .......... she left a lasting impact on society and women’s education?",
+      "question": "Meena Muthiah was .......... a distinguished educationist and philanthropist .......... she left a lasting impact society and women’s education?",
       "exam_source": "",
       "options": {
         "a": "so, that",

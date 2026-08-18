@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 116,
   "end_page": 117,
-  "theory": " Synthesis means combining two or more sentences into a single sentence without changing\n      the meaning.\n \"Synthesis\" dk vFkZ gS nks ;k nks ls vf/d okD;ksa dks fcuk vFkZ cnys ,d okD; esa tksM+ukA\n\n     1 Subject1 + Verb + as/so + Positive Degree            2 Subject1 + Verb + Comparative Degree\n        + as + Subject2                                         + than + Subject2\n\n                                                  Combined Pattern\n                       Subject1 + Verb + so/as + Positive Degree + as + Connector (if not, or\n                                  even) + Comparative Degree + than + Subject2",
+  "theory": " Synthesis means combining two or more sentences into a single sentence without changing\n the meaning.\n \"Synthesis\" dk vFkZ gS nks ;k nks ls vf/ okD;ksa dks fcuk vFkZ cnys , okD; esa tksM+ukA\n\n 1 Subject1 + Verb + as/so + Positive Degree 2 Subject1 + Verb + Comparative Degree\n + as + Subject2 + than + Subject2\n\n Combined Pattern\n Subject1 + Verb + so/as + Positive Degree + as + Connector (if not, or\n even) + Comparative Degree + than + Subject2",
   "mcqs": [
     {
       "qno": 1,
@@ -28,7 +28,7 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -122,7 +122,7 @@
         "d": "No improvement"
       },
       "correct": "a",
-      "explanation": "12. (c) 13. (c) 14. (b) 15. (d) Solut",
+      "explanation": "",
       "format": "sentence_improve"
     },
     {
@@ -169,13 +169,13 @@
     },
     {
       "qno": 15,
-      "question": "She was as pretty as, if not prettier than any ll other girl at the party. f ha?",
+      "question": "She was as pretty as, if not prettier than any other girl at the party. ?",
       "exam_source": "",
       "options": {
-        "a": "she was very pretty e ep",
-        "b": "if not more prettier than fr",
+        "a": "she was very pretty",
+        "b": "if not more prettier than",
         "c": "she was the prettiest G -@",
-        "d": "No improvement on"
+        "d": "No improvement"
       },
       "correct": "d",
       "explanation": "",

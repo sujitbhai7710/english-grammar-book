@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 249,
   "end_page": 250,
-  "theory": " There are some words that look like plural and are used as Plural.\n dqN 'kCn ,sls gksrs gSa tks ns•us esa Plural yxrs gSa vkSj mudk ç;ksx Hkh plural ds :i esa gh fd;k tkrk gSA\n\n     English Word             Hindi Meaning                English Word               Hindi Meaning\n  Scissors                dSaph                          Glasses                p'ek\n  Eatables                •k| inkFkZ @ •kus dh phtsa Spectacles                 p'ek\n  Valuables               dherh lkeku                Binoculars                 nwjchu\n  Goods                   eky @ lkeku                Bellows                    /kSaduh\n  Belongings              laifÙk @ viuk lkeku        Shorts                     fuDdj @ gkiQ iSaV\n  Surroundings            vkl&iM+ksl @ okrkoj.k      Pants                      iSaV\n  Movables                py laifÙk                  Pliers                     Iykl\n  Congratulations         c/kbZ                      Pincers                    fpeVh\n  Thanks                  /U;okn @ 'kqfØ;k           Tongs                      fpeVk\n  Arrears                 cdk;k                      Outskirts                  ljgn @ ckgjh bykdk\n  Dues                    cdk;k jkf'k                Archives                   ,sfrgkfld fjdkWMZ\n  Savings                 cpr                        Earnings                   dekbZ @ vk;\n  Proceeds                equkiQk @ vk; @ çkfIr      Premises                   ifjlj\n  Riches                  /u&nkSyr @ vehjh           Annals                     okf\"kZd fooj.k\n  Alms                    Hkh• @ nku                 Tidings                    lekpkj @ •cj\n  Embers                  vaxkjs                     Contents                   lkexzh @ fo\"k;&lwph\n  Ashes                   jk•                        Headquarters               eq[;ky;\n  Regards                 lEeku @ 'kqHkdkeuk,a       Whereabouts                vrk&irk @ fBdkuk\n  Trousers                irywu                      Pyjamas                    iktkek\n                                Note\n                                                 Salary/Payment (Plural)\n                                  Wages\n                                                 Result (Singular)",
+  "theory": " There are some words that look like plural and are used as Plural.\n dqN 'kCn ,sls gksrs gSa tks ns•us esa Plural yxrs gSa vkSj mudk ç;ksx Hkh plural ds :i esa gh fd;k tkrk gSA\n\n English Word Hindi Meaning English Word Hindi Meaning\n Scissors dSaph Glasses p'ek\n Eatables •k| inkFkZ @ •kus dh phtsa Spectacles p'ek\n Valuables dherh lkeku Binoculars nwjchu\n Goods eky @ lkeku Bellows /kSaduh\n Belongings laifÙk @ viuk lkeku Shorts fuDdj @ gkiQ iSaV\n Surroundings vkl&iM+ksl @ okrkoj.k Pants iSaV\n Movables py laifÙk Pliers Iykl\n Congratulations /kbZ Pincers fpeVh\n Thanks /U;okn @ 'kqfØ;k Tongs fpeVk\n Arrears cdk;k Outskirts ljgn @ ckgjh bykdk\n Dues cdk;k jkf'k Archives ,sfrgkfld fjdkWMZ\n Savings cpr Earnings dekbZ @ vk;\n Proceeds equkiQk @ vk; @ çkfIr Premises ifjlj\n Riches /u&nkSyr @ vehjh Annals okf\"kZd fooj.k\n Alms Hkh• @ nku Tidings lekpkj @ •cj\n Embers vaxkjs Contents lkexzh @ fo\"k;&lwph\n Ashes jk• Headquarters eq[;ky;\n Regards lEeku @ 'kqHkdkeuk,a Whereabouts vrk&irk @ fBdkuk\n Trousers irywu Pyjamas iktkek\n Note\n Salary/Payment (Plural)\n Wages\n Result (Singular)",
   "mcqs": [
     {
       "qno": 1,
@@ -105,7 +105,7 @@
         "a": "/ was",
         "b": "/ carefully cath othe airport.",
         "c": "/ No",
-        "d": "ea"
+        "d": "a"
       },
       "correct": "b",
       "explanation": "\"was\" should be replaced with \"were\" of use will be because",
@@ -113,7 +113,7 @@
     },
     {
       "qno": 9,
-      "question": "A pair of scissors that was kept carelessly on the cluttered study table?",
+      "question": "A pair of scissors that was kept carelessly the cluttered study table?",
       "exam_source": "",
       "options": {
         "a": "/ are now lying",
@@ -121,7 +121,7 @@
         "c": "/ before any work can be started"
       },
       "correct": "b",
-      "explanation": "pair of scissors that was kept carelessly on the cluttered study table (a)/ are now lying near the edge (b)/ which needs to be cleaned properly (c)/ before any work can be started again. (d) 10. The premises of the old shopping complex (a)/ is being renovated to accommodate (b)/ several international brands next year. (c)/ No error (d) 11. The eatable (a)/ kept in the (b)/ refrigerator have gone bad. (c)/ No error (d) Answers",
+      "explanation": "pair of scissors that was kept carelessly the cluttered study table (a)/ are now lying near the edge (b)/ which needs to be cleaned properly ()/ before any work can be started again. () 10. The premises of the old shopping complex (a)/ is being renovated to accommodate (b)/ several international brands next year. ()/ No error () 11. The eatable (a)/ kept in the (b)/ refrigerator have gone bad. ()/ No error () Answers",
       "format": "error_spotting"
     },
     {
@@ -133,7 +133,7 @@
         "c": "/ No"
       },
       "correct": "b",
-      "explanation": "\"is\" osQ LFkku ij \"are\" dk use gksxk D;ksafd \"Premises\" dks ,d Plural Noun ekuk tkrk gS vkSj blosQ lkFk Plural Verb dk use gksrk gSA",
+      "explanation": "\"is\" osQ LFkku ij \"are\" dk use gksxk D;ksafd \"Premises\" dks , Plural Noun ekuk tkrk gS vkSj blosQ lkFk Plural Verb dk use gksrk gSA",
       "format": "error_spotting"
     },
     {
@@ -147,7 +147,7 @@
         "d": "Answers"
       },
       "correct": "a",
-      "explanation": "12. (b) 13. (b) 14. (c) 15. (a) Solut",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -159,7 +159,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "\"has\" osQ LFkku ij \"have\" dk use gksxk D;ksafd \"Archives\" dks ,d Plural Noun ekuk tkrk gS vkSj blosQ lkFk Plural Verb dk use gksrk gSA",
+      "explanation": "\"has\" osQ LFkku ij \"have\" dk use gksxk D;ksafd \"Archives\" dks , Plural Noun ekuk tkrk gS vkSj blosQ lkFk Plural Verb dk use gksrk gSA",
       "format": "error_spotting"
     },
     {
@@ -172,7 +172,7 @@
         "c": "/ No error"
       },
       "correct": "b",
-      "explanation": "\"contains\" osQ LFkku ij \"contain\" dk use gksxk D;ksafd \"Annals\" dks ,d Plural Noun ekuk tkrk gS vkSj blosQ lkFk Plural Verb dk use gksrk gSA",
+      "explanation": "\"contains\" osQ LFkku ij \"contain\" dk use gksxk D;ksafd \"Annals\" dks , Plural Noun ekuk tkrk gS vkSj blosQ lkFk Plural Verb dk use gksrk gSA",
       "format": "error_spotting"
     },
     {
@@ -184,7 +184,7 @@
         "c": "/ No error"
       },
       "correct": "c",
-      "explanation": "\"has\" osQ LFkku ij \"have\" dk use gksxk D;ksafd \"Arrears\" dks ,d Plural Noun ekuk tkrk gS vkSj blosQ lkFk Plural Verb dk use gksrk gSA",
+      "explanation": "\"has\" osQ LFkku ij \"have\" dk use gksxk D;ksafd \"Arrears\" dks , Plural Noun ekuk tkrk gS vkSj blosQ lkFk Plural Verb dk use gksrk gSA",
       "format": "error_spotting"
     },
     {
@@ -198,7 +198,7 @@
         "b": "7."
       },
       "correct": "a",
-      "explanation": "\"congratulation\" osQ LFkku ij \"congratulations\" dk use gksxkA h all - @f ear",
+      "explanation": "\"congratulation\" osQ LFkku ij \"congratulations\" dk use gksxkA all - @ ear",
       "format": "error_spotting"
     }
   ]

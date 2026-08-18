@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 231,
   "end_page": 232,
-  "theory": "Uses\n        Simple Present (Present Indefinite) tense is used to express:\n\n       1 Routine Action → Ravi goes to school every day.\n       2 Irregular Action → She seldom visits her grandparents.\n       3 Habits → Rahul drinks tea every morning.\n       4 Universal Truth → The sun rises in the east.\n       5 General Facts → Water boils at 100°C.\n       6 Geographical Truth → The Ganga flows into the Bay of Bengal.\n       7 Stative Verbs → I believe your story.\n       8 Socially Accepted Belief → Girls are more sincere than boys.\n       9 Proverbs → Honesty pays in the long run.\n      10 Fixed Schedule → The train leaves at 6 P.M.\n\n       Keywords\n    With keywords like daily, usually, often, always, every day, every morning, every week, once\n    a week, twice a day, seldom, rarely, sometimes, generally, frequently, occasionally, never,\n    barely, hardly, scarcely, repeatedly etc., we use Present Indefinite Tense.\n\n      Structure\n         Subject + V1/ (V1 + s/es) + Object.\n         Subject + do/does + not + V1 + Object.\n         Do/does + Subject + not + V1 + Object?\n         WH word + do/does + Subject + not + V1 + Object?\n\n       Note\n      I/ We/ You/ They/ Plural noun → V1/ do\n      He/ She/ It/ Singular noun → (V1 + s/es)/ does",
+  "theory": "Uses\n  Simple Present (Present Indefinite) tense is used to express:\n\n 1 Routine Action → Ravi goes to school every day.\n 2 Irregular Action → She seldom visits her grandparents.\n 3 Habits → Rahul drinks tea every morning.\n 4 Universal Truth → The sun rises in the east.\n 5 General Facts → Water boils at 100°C.\n 6 Geographical Truth → The Ganga flows into the Bay of Bengal.\n 7 Stative Verbs → I believe your story.\n 8 Socially Accepted Belief → Girls are more sincere than boys.\n 9 Proverbs → Honesty pays in the long run.\n 10 Fixed Schedule → The train leaves at 6 P.M.\n\n Keywords\n With keywords like daily, usually, often, always, every day, every morning, every week, once\n a week, twice a day, seldom, rarely, sometimes, generally, frequently, occasionally, never,\n barely, hardly, scarcely, repeatedly etc., we use Present Indefinite Tense.\n\n Structure\n  Subject + V1/ (V1 + s/es) + Object.\n  Subject + do/does + not + V1 + Object.\n  Do/does + Subject + not + V1 + Object?\n  WH word + do/does + Subject + not + V1 + Object?\n\n Note\n  I/ We/ You/ They/ Plural noun → V1/ do\n  He/ She/ It/ Singular noun → (V1 + s/es)/ does",
   "mcqs": [
     {
       "qno": 1,
@@ -54,7 +54,7 @@
       "options": {
         "c": "/ No error",
         "d": "Simple Present Tense",
-        "a": "/ a close eye on",
+        "a": "/ a close eye",
         "b": "/ the"
       },
       "correct": "a",
@@ -153,7 +153,7 @@
     },
     {
       "qno": 16,
-      "question": "The sun rise in the east and sets in the west. \b (AIRFORCE Intake 01, 2027 [30/March/2026]) Answers 1. (c) 2.",
+      "question": "The sun rise in the east and sets in the west.  (AIRFORCE Intake 01, 2027 [30/March/2026]) Answers 1. () 2.",
       "exam_source": "",
       "options": {
         "c": "2.",
@@ -162,16 +162,16 @@
         "b": "13."
       },
       "correct": "a",
-      "explanation": "17. (b) 18. (b) 19. (c) 20. (b) tions D;ksafd sentence esa general fact crk;k x;k gSA",
+      "explanation": "17. (b) 18. (b) 19. () 20. (b) tions D;ksafd sentence esa general fact crk;k x;k gSA",
       "format": "regular"
     },
     {
       "qno": 17,
-      "question": "The river flowing under the bridge. \b?",
+      "question": "The river flowing under the bridge. ?",
       "exam_source": "(SSC CGL, 2023)",
       "options": {
         "a": "was flow",
-        "b": "flows",
+        "b": "lows",
         "c": "is flow",
         "d": "is flowed"
       },
@@ -184,9 +184,9 @@
       "question": "I am having two sisters.",
       "exam_source": "",
       "options": {
-        "a": "have had",
-        "b": "have",
-        "c": "had",
+        "a": "ve had",
+        "b": "ve",
+        "c": "d",
         "d": "No improvement"
       },
       "correct": "b",
@@ -195,7 +195,7 @@
     },
     {
       "qno": 19,
-      "question": "He is wanting in a little common sense. \b?",
+      "question": "He is wanting in a little common sense. ?",
       "exam_source": "(SSC CGL, 2015)",
       "options": {
         "a": "No improvement",
@@ -209,11 +209,11 @@
     },
     {
       "qno": 20,
-      "question": "Where are you coming from? \b?",
+      "question": "Where are you coming from? ?",
       "exam_source": "(SSC GD, 2015)",
       "options": {
         "a": "No improvement",
-        "b": "do you come from",
+        "b": "o you come from",
         "c": "were you from",
         "d": "you are coming from"
       },

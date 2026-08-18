@@ -4,7 +4,7 @@
   "section": "A",
   "start_page": 286,
   "end_page": 287,
-  "theory": " A cleft sentence is a sentence divided into two parts to emphasize a particular element\n (subject, object, time, place, etc.).\n Cleft sentence og okD; gksrk gS] ftls nks Hkkxksa esa ck¡Vdj fdlh ,d fgLls ij tksj (emphasis) fn;k tkrk gSA\n\n      Structures\n         1 It-cleft structure: It + be (is/was) + emphasized part + that/who + rest of the sentence\n         2 Wh-cleft (Pseudo-cleft) structure: Wh-word (what/where/why etc.) + clause + be +\n              emphasized part\n      Note\n     When a noun clause performs the function of the subject of a verb, a singular verb is\n      used. Noun Clause as subject usually begins with (that, what, who, whoever, whether,\n      how, etc).\n    \t\ttc dksbZ Noun Clause, verb osQ Subject osQ :i esa dk;Z djrk gS] rc singular verb dk iz;ksx\n      fd;k tkrk gS] vkSj Noun Clause as a subject, lkekU;r% that, what, who, whoever, whether,\n      how vkfn ls 'kq: gksrk gSA",
+  "theory": " A cleft sentence is a sentence divided into two parts to emphasize a particular element\n (subject, object, time, place, etc.).\n Cleft sentence og okD; gksrk gS] ftls nks Hkkxksa esa ck¡Vdj fdlh , fgLls ij tksj (emphasis) fn;k tkrk gSA\n\n Structures\n 1 It-cleft structure: It + be (is/was) + emphasized part + that/who + rest of the sentence\n 2 Wh-cleft (Pseudo-cleft) structure: Wh-word (what/where/why etc.) + clause + be +\n emphasized part\n Note\n  When a noun clause performs the function of the subject of a verb, a singular verb is\n used. Noun Clause as subject usually begins with (that, what, who, whoever, whether,\n how, etc).\n tc dksbZ Noun Clause, verb osQ Subject osQ :i esa dk;Z djrk gS] rc singular verb dk iz;ksx\n fd;k tkrk gS] vkSj Noun Clause as a subject, lkekU;% that, what, who, whoever, whether,\n how vkfn ls 'kq: gksrk gSA",
   "mcqs": [
     {
       "qno": 1,
@@ -16,12 +16,12 @@
         "c": "/ No error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
       "qno": 2,
-      "question": "What the committee failed to deliberate on adequately?",
+      "question": "What the committee failed to deliberate adequately?",
       "exam_source": "(SSC CGL, 2025)",
       "options": {
         "a": "/ were not the policy's objectives",
@@ -98,7 +98,7 @@
     },
     {
       "qno": 8,
-      "question": "That the Delhi High Court came down heavily on the police?",
+      "question": "That the Delhi High Court came down heavily the police?",
       "exam_source": "",
       "options": {
         "a": "/ have raised serious concerns",
@@ -151,17 +151,17 @@
       "question": "Why several senior officials suddenly resigned from their positions remains unclear?",
       "exam_source": "",
       "options": {
-        "a": "/ because f ha",
+        "a": "/ because",
         "b": "/ regarding fr the",
         "c": "/G -@error"
       },
       "correct": "d",
-      "explanation": "No error",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
       "qno": 14,
-      "question": "It was during the final phaseo n Tof the economic ar senior officials raised reforms?",
+      "question": "It was during the final phaseo n Tof the economic senior officials raised reforms?",
       "exam_source": "",
       "options": {
         "a": "/ when several",
@@ -195,7 +195,7 @@
         "c": "/ the"
       },
       "correct": "b",
-      "explanation": "17. (b) 18. (c) 19. (b) 20. (b) tions",
+      "explanation": "",
       "format": "error_spotting"
     },
     {
@@ -236,7 +236,7 @@
         "d": "\b"
       },
       "correct": "b",
-      "explanation": "‘Are’ osQ LFkku ij ‘is’ dk use gksxk, D;ksafd subject l ‘all that is needed’ ,d complete idea fhdks al singular :i esa fn•k jgk gSA p d f r ee",
+      "explanation": "‘Are’ osQ LFkku ij ‘is’ dk use gksxk, D;ksafd subject l ‘all that is needed’ , complete idea fhdks al singular :i esa fn•k jgk gSA",
       "format": "error_spotting"
     },
     {
@@ -250,7 +250,7 @@
         "d": "\b 6."
       },
       "correct": "b",
-      "explanation": "‘Where’ osQ LFkku ij ‘that’ dk use @ gksxk, D;ksafd T G- phrase’ osQ cleft sentence esa ‘It was + place/time ckn generally ‘that’ dk use on ch fd;k tkrk gSA",
+      "explanation": "‘Where’ osQ LFkku ij ‘that’ dk use @ gksxk, D;ksafd - phrase’ osQ cleft sentence esa ‘It was + place/time ckn generally ‘that’ dk use fd;k tkrk gSA",
       "format": "error_spotting"
     }
   ]
