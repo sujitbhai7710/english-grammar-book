@@ -1,0 +1,632 @@
+{
+  "chapter_no": 8,
+  "title": "Fixed Preposition 'Of'",
+  "section": "A",
+  "start_page": 32,
+  "end_page": 37,
+  "theory": " There are some words and phrases that take preposition \"Of\" after them. Such words\n       and phrases are:\n\n          Word + Preposition                     English Meaning           Hindi Meaning\n1      Afraid of                       Fearful                          Mjk gqvk\n2      Avail of                        Use                              mi;ksx djuk\n3      Aware of                        Conscious                        voxr\n4      Beware of                       Cautious                         lko/ku\n5      Bereft of                       Without                          jfgr\n6      Deprived of                     Lacking                          oafpr\n7      Chary of                        Cautious                         lroZQ\n8      Wary of                         Careful                          lko/ku\n9      Cognizant of                    Aware                            tkudkj\n10     Certain of                      Sure about                       fuf'pr\n11     Sure of                         Confident about                  iDdk\n\n                                                                        lacaf/r gksuk@ls mRiUu\n       Come of                         Belong to/result from\n                                                                        gksuk\n13     Confident of                    Self-assured                     vkRefo'oklh\n14     Convinced of                    Fully believe                    vk'oLr\n15     Accused of                      Charged                          vkjksfir\n16     Acquit of                       Free from charge                 cjh djuk\n17     Guilty of                       Responsible for a crime          nks\"kh\n18     Desirous of                     Wanting                          bPNqd\n19     Devoid of                       Without                          jfgr\n20     Die of                          Disease/Hunger                   ls ejuk\n21     Dispose of                      Get rid of                       NqVdkjk ikuk\n22     Enamoured of                    In love with                     eksfgr                          ll\n\n23     Fond of                         Liking                           'kkSdhu             ep\n\n                                                                                     - @f\n24     Envious of                      Jealous                           bZ\";kZyq TG\n\n25     For want of                     Lack of                           deh\n                                                                           rch ds dkj.k\n\n26   Full of           Filled                              Hkjk gqvk\n27   Heedless of       Careless                            ykijokg\n28   Irrespective of   Without considering                 fcuk ijokg fd,\n29   Jealous of        Feeling envious                     tyu j•us okyk\n30   Mindful of        Careful                             è;ku j•us okyk\n31   Proud of          Feeling pride in                    xfoZr\n32   Regardless of     Without caring                      fcuk è;ku fn,\n33   Weary of          Tired of                            Åc x;k\n34   Worthy of         Deserving                           ;ksX;\n35   Capable of        Able                                l{ke\n36   Warn of           Give warning                        psrkouh nsuk\n37   Consist of        Made up of                          ls cuk gksuk\n38   Comprised of      In passive voice                    'kkfey gksuk\n39   Covetous of       Greedy for                          ykyph\n40   Vain of           Proud                               ?keaMh\n41   Abundance of      Plenty of                           çpqjrk\n42   Inquire of        Ask someone                         iwNuk\n43   Independent of    Free from                           Lora=k\n44   Dream of          Imagine                             liuk ns•uk\n45   Lack of           Absence                             deh\n46   Despair of        Lose hope                           fujk'k gksuk\n47   Hopeful of        Expecting                           vk'kkoku] vk'kkfUor\n48   Think of          Consider                            fopkj djuk\n49   Tired of          Fed up with                         Fkdk gqvk\n50   Sick of           Annoyed                             ijs'kku\n51   Born of           Originated from                     ls mRiUu\n\n52   Complain of       Express pain or dissatisfaction     f'kdk;r djuk                 ha\n\n     Cause of          Reason                              dkj.k          - @f\n\n54   Enquire of        Ask                                 iwNuk o   nT\n\n55   Suspect of        Doubt on someone           lansg djuk\n56   Assure of         Confirm                    vk'oLr djuk\n57   Healed of         Recovered from illness     Bhd gqvk\n58   Cured of          Relieved                   Bhd fd;k x;k\n59   In need of        Requirement                vko';drk gksuk\n60   Short of          Not enough                 deh\n61   Abhorrence of     Hatred                     ?k`.kk\n62   Change of         Alteration                 ifjorZu\n63   Distrust of       Lack of trust              vfo'okl\n64   Doubt of          Uncertainty                lansg\n65   Observance of     Following                  ikyu\n66   Proof of          Evidence                   çek.k\n67   Result of         Outcome                    ifj.kke\n68   Want of           Lack                       deh\n69   Apprehensive of   Fearful                    vk'kafdr\n70   Apprised of       Informed                   lwfpr\n71   Cautious of       Careful                    lko/ku\n72   Composed of       Made up                    ls cuk gqvk\n73   Conscious of      Aware                      lpsr\n74   Convicted of      Found guilty               nks\"kh fl¼\n75   Destitute of      Without                    jfgr\n76   Ignorant of       Unaware                    vutku\n77   Negligent of      Careless                   ykijokg\n78   Sanguine of       Optimistic                 vk'kkoknh\n79   Suspicious of     Doubtful                   lafnX/                         ll\n\n80   Void of           Empty of                   jfgr                    df\n\n81   Ashamed of        Feeling shame               'kfeZank G-  @f\n\n82   Illustrative of   Example of                         on\n                                                   dkchmnkgj.k",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "God did not?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "/ create any",
+        "b": "/ form in life",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "\"form in life\" should be replaced with \"form of life\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "The new encryption protocol is capable for thwarting?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ sophisticated cyber-",
+        "b": "/ impervious to defensive measures",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"capable for \" should be replaced with \"capable of\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The current state of the literature?",
+      "exam_source": "(SSC CHSL, 2023)",
+      "options": {
+        "a": "/ on the",
+        "b": "/ for individuals with generalised anxiety",
+        "c": "/ suggests that it is a promising",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "\"efficacy under\" should be replaced with \"efficacy of\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The only disadvantage with teaching?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "/ is",
+        "b": "/ curriculum again and",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"disadvantage with\" should be replaced with \"disadvantage",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "It was rude about the?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "/ professor’s daughter",
+        "b": "/ rejected the red rose which was",
+        "c": "/ being given by the young student.",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"rude about\" should be replaced with \"rude of\" of use will be.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "High level security arrangements?",
+      "exam_source": "(SSC CGL, 2018)",
+      "options": {
+        "a": "/ were",
+        "b": "/ visit to the",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "\"visit to\" should be replaced with \"visit of\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "She was accused?",
+      "exam_source": "",
+      "options": {
+        "a": "/ with stealing the money",
+        "b": "/ by the cashier",
+        "c": "/ at the bank",
+        "d": "."
+      },
+      "correct": "b",
+      "explanation": "\"accused with\" should be replaced with \"accused of\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The whole family?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ would burst into",
+        "c": "/ No Error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "\"peals for laughter\" should be replaced with \"peals of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "Iron is?",
+      "exam_source": "(UPSC CDS, 2019)",
+      "options": {
+        "a": "/ the most useful",
+        "b": "/ against all",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "\"against all metals\" should be replaced with \"of all metals\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "He is guilty?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for killing",
+        "b": "/ an innocent",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "guilty for\" should be replaced with \"guilty of\" of use will be.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "He will be?",
+      "exam_source": "(UPSC CDS, 2016)",
+      "options": {
+        "a": "/ cured from",
+        "b": "/ his fever.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "\"cured from\" should be replaced with \"cured of\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "Being apprised with our approach,?",
+      "exam_source": "(UPSC CDS, 2019)",
+      "options": {
+        "a": "/ the",
+        "b": "/ came out to meet",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"apprised with\" should be replaced with \"apprised of\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "The celebrated grammarian Patanjali?",
+      "exam_source": "(UPSC CDS, 2019)",
+      "options": {
+        "a": "/ was",
+        "b": "/ a contemporary to Pushyamitra Sunga.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "contemporary to\" should be replaced with \"contemporary",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "She is?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ confident to win",
+        "b": "/ the match.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "\"confident to win\" should be replaced with \"confident of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "The child is?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ afraid from",
+        "b": "/ the dark.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "\"afraid from\" should be replaced with \"afraid of\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "This container is full with water?",
+      "exam_source": "(SSC CPO, 2017)",
+      "options": {
+        "a": "/ so I can't",
+        "b": "/ long distance at one go.",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"full with\" should be replaced with \"full of\" of use will be.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "He was accused for stealing confidential data. \b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "accused with stealing",
+        "b": "accused of stealing",
+        "c": "accused to stealing",
+        "d": "No substitution"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 18,
+      "question": "She was conscious about her appearance throughout the event. \b?",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "conscious of",
+        "b": "conscious with",
+        "c": "conscious to",
+        "d": "No substitution"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 19,
+      "question": "He was incapable to handle the pressure during the crisis.",
+      "exam_source": "",
+      "options": {
+        "a": "incapable for handling",
+        "b": "incapable of handling",
+        "c": "incapable in handling",
+        "d": "no substitution"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 20,
+      "question": "She has the reputation to be a kind woman. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "to have kindness woman.",
+        "b": "of being a kind woman.",
+        "c": "of being the kind woman.",
+        "d": "to be kind-hearted woman."
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 21,
+      "question": "He was accused for theft. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "with theft.",
+        "b": "by theft.",
+        "c": "of theft.",
+        "d": "on theft."
+      },
+      "correct": "c",
+      "explanation": "22. (c) 23. (b) 24. (b) 25. (d)",
+      "format": "regular"
+    },
+    {
+      "qno": 22,
+      "question": "I am confident to pass the examination. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "in passing the exam.",
+        "b": "to passing the exam. ll",
+        "c": "of passing the examination. f ha",
+        "d": "for passing examination."
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 23,
+      "question": "The manager has been dismissed@on fr charges to accept bribes. \b G - CGL, ear?",
+      "exam_source": "(SSC, 2025)",
+      "options": {
+        "a": "has been dismissed on charges for",
+        "b": "dismissed on charges of accepting bribes.",
+        "c": "was dismissed for accepting bribes.",
+        "d": "had been dismissed on charges of bribing."
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 24,
+      "question": "The man died by a heart attack. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "is died with",
+        "b": "died of",
+        "c": "was died due to",
+        "d": "dead from"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 25,
+      "question": "He is capable to do this work. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "of doing the work.",
+        "b": "for doing the work.",
+        "c": "in doing this work.",
+        "d": "of doing this work."
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 26,
+      "question": "This building is built from bricks. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "is made by bricks.",
+        "b": "has built of bricks.",
+        "c": "is built of bricks.",
+        "d": "is constructed with brick."
+      },
+      "correct": "c",
+      "explanation": "27. (c) 28. (a) 29. (b) 30. (d)",
+      "format": "regular"
+    },
+    {
+      "qno": 27,
+      "question": "He visits the needy to relieve them .......... their sufferings and poverty\b?",
+      "exam_source": "(UPSC NDA, 2020)",
+      "options": {
+        "a": "from",
+        "b": "off",
+        "c": "of",
+        "d": "on"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 28,
+      "question": "I will take care .......... myself. You don't bother about me.\b?",
+      "exam_source": "(UPSC CDS, 2021)",
+      "options": {
+        "a": "of",
+        "b": "about",
+        "c": "for",
+        "d": "off"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 29,
+      "question": "He is afraid .......... snakes. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "to",
+        "b": "of",
+        "c": "with",
+        "d": "for"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 30,
+      "question": "The minister was apprised .......... the current situation. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "to",
+        "b": "about",
+        "c": "at",
+        "d": "of"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 31,
+      "question": "She is capable .......... handling the situation. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "of",
+        "b": "in",
+        "c": "by",
+        "d": "to"
+      },
+      "correct": "a",
+      "explanation": "32. (c) 33. (c) 34. (a) 35. (b)",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 32,
+      "question": "The patient was devoid .......... any hope of recovery. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "in",
+        "b": "with",
+        "c": "of",
+        "d": "at"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 33,
+      "question": "He was deprived .......... his rights. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "with",
+        "b": "from",
+        "c": "of",
+        "d": "by"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 34,
+      "question": "She is fond .......... classical music. \b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "of",
+        "b": "in",
+        "c": "with",
+        "d": "for"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 35,
+      "question": "The young man resorted to frequent outings in pursuit .......... happiness. \b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "for",
+        "b": "of",
+        "c": "by",
+        "d": "after"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 36,
+      "question": "The captain was confident .......... winning this match. \b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "on",
+        "b": "of",
+        "c": "for",
+        "d": "by"
+      },
+      "correct": "b",
+      "explanation": "37. (d) 38. (a) 39. (c) 40. (b) h all -@f ear",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 37,
+      "question": "Shakespeare had always been desirous .......... captivating the audience. \b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "about",
+        "b": "by",
+        "c": "to",
+        "d": "of"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 38,
+      "question": "The poor and the downtrodden were deprived .......... their basic necessities. \b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "of",
+        "b": "up",
+        "c": "for",
+        "d": "about"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 39,
+      "question": "She was envious .......... her friend’s success. \b?",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "for",
+        "b": "with",
+        "c": "of",
+        "d": "by"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 40,
+      "question": "The athlete has no chance .......... winning this match.\b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "on",
+        "b": "of",
+        "c": "for",
+        "d": "by"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 41,
+      "question": "The bikers robbed the old woman .......... her gold chain.\b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "of",
+        "b": "from",
+        "c": "by",
+        "d": "out"
+      },
+      "correct": "a",
+      "explanation": "42. (c) 43. (c) 44. (c) 45. (b) tions",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 42,
+      "question": "Mr. Saxena was accused .......... theft from the museum \b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "for",
+        "b": "by",
+        "c": "of",
+        "d": "at"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 43,
+      "question": "My neighbour is envious .......... me for my new car\b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "for",
+        "b": "on",
+        "c": "of",
+        "d": "to"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 44,
+      "question": "He is a man .......... means \b (UPSC CDS, 2021)ll h a?",
+      "exam_source": "",
+      "options": {
+        "a": "for",
+        "b": "in df",
+        "c": "of",
+        "d": "above eep"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 45,
+      "question": "She is a woman .......... humble origin \b TG NDA, 2020) n (UPSC?",
+      "exam_source": "",
+      "options": {
+        "a": "off o",
+        "b": "of",
+        "d": "within",
+        "c": "from ar"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

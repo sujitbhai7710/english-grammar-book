@@ -1,0 +1,251 @@
+{
+  "chapter_no": 110,
+  "title": "Which, That and Whose",
+  "section": "A",
+  "start_page": 291,
+  "end_page": 292,
+  "theory": " Which – It is used for things, animals, and ideas (non-human nouns).\n   That – It is used for both persons and things.\n    Use \"that\" in case of:\n        (a) Superlative degree\n        (b) All, everything, nothing, Anything, Something\n        (c) The same, the first, the last, the only.\n        (d) When a human and a non-human is given.\n\n Whose: It shows possession over noun.\n Whoever: used to refer to any person who performs an action, without specifying which\n  person (acts as the subject of a verb).\n Whomever: used to refer to any person who receives an action, without specifying which\n  person (acts as the object of a verb or preposition).\n Whatever: used to refer to anything or any thing, no matter what it is or which one.",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The employees who the management considers?",
+      "exam_source": "",
+      "options": {
+        "a": "/ as highly efficient and reliable",
+        "b": "/ are the",
+        "c": "/ has consistently"
+      },
+      "correct": "a",
+      "explanation": "Whom should be replaced with whose of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "The manager, who's approach to problem- solving?",
+      "exam_source": "",
+      "options": {
+        "a": "/ has been widely appreciated",
+        "b": "/ is",
+        "c": "/ during"
+      },
+      "correct": "a",
+      "explanation": "Whos should be replaced with whose of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The report who the manager submitted to the board yesterday?",
+      "exam_source": "",
+      "options": {
+        "a": "/ contains several important",
+        "b": "/ regarding the company’s",
+        "c": "/ and expansion plans."
+      },
+      "correct": "a",
+      "explanation": "Who should be replaced with that/which of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "He is one of the most dedicated employees which has consistently delivered results?",
+      "exam_source": "",
+      "options": {
+        "a": "/ even under",
+        "b": "/ and challenging working",
+        "c": "/ over the years."
+      },
+      "correct": "a",
+      "explanation": "Which has should be replaced with who/that have of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "The company has requested funds from investors,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ who will be utilized to expand operations",
+        "b": "/ in emerging markets across the region."
+      },
+      "correct": "b",
+      "explanation": "Who should be replaced with which of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The research team has gathered?",
+      "exam_source": "",
+      "options": {
+        "a": "/ valuable data",
+        "b": "/ whom",
+        "c": "/ to draw conclusions that are"
+      },
+      "correct": "c",
+      "explanation": "Whom should be replaced with which of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "The committee recommended the same proposal?",
+      "exam_source": "",
+      "options": {
+        "a": "/ which had already been rejected",
+        "b": "/ by the",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "Which should be replaced with as of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "India, in the present era of rapid globalization and cultural transformation, needs a value-based education system?",
+      "exam_source": "",
+      "options": {
+        "a": "/ who will not only inculcate",
+        "b": "/ but also",
+        "c": "/ to prepare them for future"
+      },
+      "correct": "b",
+      "explanation": "Who should be replaced with which of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "The master did not know?",
+      "exam_source": "",
+      "options": {
+        "a": "/ who of the servants",
+        "b": "/ had broken the glass.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "Who of should be replaced with which of of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "The candidate has appealed?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for donations",
+        "b": "/ who will be used to",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "Who should be replaced with which of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "Nobody was interested in the fish who Gopal had catch from the river.",
+      "exam_source": "(SSC CGL, 2022)",
+      "options": {
+        "a": "which Gopal had catch",
+        "b": "no improvement required",
+        "c": "who Gopal had caught",
+        "d": "which Gopal had caught"
+      },
+      "correct": "d",
+      "explanation": "12. (c) 13. (a) 14. (d) 15. (b) Solut",
+      "format": "regular"
+    },
+    {
+      "qno": 12,
+      "question": "Expensive oil could hit consumption and public investment and dent private investment what is not a path to a sustained revival.",
+      "exam_source": "(SSC CGL, 2018)",
+      "options": {
+        "a": "who is not a path",
+        "b": "whom is not a path",
+        "c": "which is not a path",
+        "d": "No improvement"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 13,
+      "question": "This is a class who is expected to do exceptionally well in the quiz next week.",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "which is expected to do",
+        "b": "No improvement fr",
+        "c": "that is expecting to done G-@",
+        "d": "which are expecting tonbeT doing"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 14,
+      "question": "I saw a man .......... was wearing a black coat.",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "which",
+        "b": "whom",
+        "c": "whose",
+        "d": "who"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 15,
+      "question": "The manuscript was replete with obscure references, many of .......... baffled reviewers.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "whom",
+        "b": "which",
+        "c": "them",
+        "d": "those"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 16,
+      "question": "He is a man .......... word is his bond. (SSC Phase XIII, 2025)",
+      "exam_source": "",
+      "options": {
+        "a": "who",
+        "b": "whom",
+        "c": "whose",
+        "d": "which"
+      },
+      "correct": "c",
+      "explanation": "17. (d) 18. (b) 19. (a) 20. (d) tions",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 17,
+      "question": "About three years ago, an old man, .......... name was Paul, used to live in this house.",
+      "exam_source": "(SSC MTS, 2022)",
+      "options": {
+        "a": "whom",
+        "b": "who",
+        "c": "which",
+        "d": "whose"
+      },
+      "correct": "d",
+      "explanation": "bout three years ago, an old man, .......... name was Paul, used to live in this house. (SSC MTS, 2022) (a) whom (b) who (c) which (d) whose Answers",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 18,
+      "question": "The award will go to .......... the jury, after prolonged deliberation, finds to possess both intellectual depth and creative originality.",
+      "exam_source": "(SSC CPO, 2019)",
+      "options": {
+        "a": "whoever",
+        "b": "whomever",
+        "c": "whatever",
+        "d": "whosoever"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

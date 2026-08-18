@@ -1,0 +1,274 @@
+{
+  "chapter_no": 47,
+  "title": "One of",
+  "section": "A",
+  "start_page": 127,
+  "end_page": 128,
+  "theory": "1 One of osQ lkFk noun ges'kk plural form esa gksrk gS rFkk verb ges'kk singular form esa gksrh gSA\n          One of + Plural Noun + Singular Verb + .........\n\n    2 One of osQ ckn vkus okys relative clause esa verb ges'kk plural form esa gksrh gSA\n         Subject + one of + Plural Noun + who/which/that + Plural Verb + .........\n\n    3 The only one of osQ ckn vkus okys relative clause esa verb ges'kk singular form esa gksrh gSA\n         Subject + the only one of + Plural Noun + who/which/that + Singular Verb + .........",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "One of the guest speakers who addressed the seminar?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ and interacted with students",
+        "b": "/ were praised widely for their clarity and",
+        "c": "/ during the closing ceremony.",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "\"were\" should be replaced with \"was\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "He is one of the best players?",
+      "exam_source": "",
+      "options": {
+        "a": "/ who has always",
+        "b": "/ the country in international",
+        "c": "/ over the last decade."
+      },
+      "correct": "b",
+      "explanation": "\"has\" should be replaced with \"have\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "She is one?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ of the best",
+        "b": "/ singer in the city.",
+        "c": "No error"
+      },
+      "correct": "c",
+      "explanation": "\"singer\" should be replaced with \"singers\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "Indian film industry?",
+      "exam_source": "(UPSC CDS, 2021)",
+      "options": {
+        "a": "/ is considered to be",
+        "b": "/ one of the symbol of cultural and social",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"symbol\" should be replaced with \"symbols\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "The senior manager of the multinational company?",
+      "exam_source": "",
+      "options": {
+        "a": "/ who has been handling several",
+        "b": "/ was",
+        "c": "/ during the"
+      },
+      "correct": "c",
+      "explanation": "\"employee\" should be replaced with \"employees\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "One of the?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ questions were",
+        "b": "/ very",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"were\" should be replaced with \"was\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "One of the most intelligent student in the class?",
+      "exam_source": "",
+      "options": {
+        "a": "/ has consistently performed well",
+        "b": "/ in all",
+        "c": "/ conducted"
+      },
+      "correct": "a",
+      "explanation": "\"student\" should be replaced with \"students\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "He is the only one of the players?",
+      "exam_source": "",
+      "options": {
+        "a": "/ who have",
+        "b": "/ in every match played",
+        "d": "One of"
+      },
+      "correct": "b",
+      "explanation": "\"have\" should be replaced with \"has\" of use will be because \"the",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "One of the boys who were selected?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for the",
+        "b": "/ have refused to",
+        "c": "/ due to personal reasons."
+      },
+      "correct": "c",
+      "explanation": "\"have\" should be replaced with \"has\" of use will be because boys",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "The mountain lion is?",
+      "exam_source": "",
+      "options": {
+        "a": "/ one of the slyest and",
+        "b": "/ elusive animal in the woods.",
+        "c": "/ No"
+      },
+      "correct": "c",
+      "explanation": "animal should be replaced with \"animals\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "This is one of the machines that works efficiently?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in difficult conditions",
+        "b": "/ at all",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"works\" should be replaced with \"work\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "Virat Kohli is?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the only one of the best",
+        "c": "/ in"
+      },
+      "correct": "c",
+      "explanation": "\"have\" should be replaced with \"has\" of use will be because \"the",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "The blue lotus?",
+      "exam_source": "(SSC CHSL, 2019)",
+      "options": {
+        "a": "/ is one of the most",
+        "c": "/ which grows in her"
+      },
+      "correct": "d",
+      "explanation": "\"grows\" should be replaced with \"grow\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "One of the senior officer in the department?",
+      "exam_source": "",
+      "options": {
+        "b": "/ to the newly",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"officer\" should be replaced with \"officers\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "He is one of those students who has never cheated.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "have never been cheating",
+        "b": "have never cheated",
+        "c": "had never cheated ll",
+        "d": "have even cheated f ha"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 16,
+      "question": "One of the most valuable paintings e ep were stolen from the gallery last night.@fr G XIII, 2025) (SSC T PHASE ear?",
+      "exam_source": "",
+      "options": {
+        "a": "was stolen",
+        "b": "have stolen",
+        "c": "had stolen",
+        "d": "No substitution required"
+      },
+      "correct": "a",
+      "explanation": "17. (d) 18. (b) 19. (d) 20. (b) tions",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 17,
+      "question": "The Yoruba was one of the west African city state culture.",
+      "exam_source": "(SSC MTS, 2023)",
+      "options": {
+        "a": "No substitution required",
+        "b": "one of a west African city-state cultures",
+        "c": "one of the west's African city-state culture",
+        "d": "one of the west African city-state cultures"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 18,
+      "question": "This is one of the boldest economic reform that have ever been introduced. Answers 1. (c) 2. (b) 3. (c) 4. (c) 5. (c) 11.",
+      "exam_source": "(SSC CPO, 2019)",
+      "options": {
+        "c": "2.",
+        "b": "3.",
+        "a": "12.",
+        "d": "14."
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 19,
+      "question": "He is one of those players who has scored the most goals.\b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "had been scoring",
+        "b": "had scored",
+        "c": "scores",
+        "d": "have scored"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 20,
+      "question": "I am not one of these people who believes in rumours.\b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "believer",
+        "b": "believe",
+        "c": "believing",
+        "d": "to believe"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    }
+  ]
+}

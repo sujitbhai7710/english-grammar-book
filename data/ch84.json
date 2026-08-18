@@ -1,0 +1,392 @@
+{
+  "chapter_no": 84,
+  "title": "Correlative Pairs of Conjunctions",
+  "section": "A",
+  "start_page": 220,
+  "end_page": 222,
+  "theory": " When two conjunctions are always used in pairs and they connect two similar parts of a\n sentence (words, phrases, or clauses), they are called Correlative Conjunctions.\n\n tc nks conjunctions ges'kk pair esa bLrseky gksrs gSa vkSj sentence esa nks leku parts (words/\n phrases/clauses) dks tksM+rs gSa] mUgsa Correlative Conjunctions dgk tkrk gSA\n\n                                         List of Correlative Conjunctions\n           1     Either ...... or                        10        As ...... As\n\n           2     Neither ...... nor                      11        So ...... As\n\n           3     Not only ...... but also                12        Although / Though ...... yet\n\n           4     Both ...... and                         13        Rather / Other ...... than\n\n           5     Whether ...... or                       14        Else ...... but\n\n           6     No sooner ...... than                   15        The reason why ...... that\n\n           7     Hardly / Scarcely ...... when           16        Lest ...... should\n\n           8     So ...... that                          17        Between ...... and\n\n           9     Such ...... that                        18        From ...... to",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The reason for his failure?",
+      "exam_source": "(SSC CGL, 2017)",
+      "options": {
+        "a": "/ is because he",
+        "c": "/ for the exam."
+      },
+      "correct": "b",
+      "explanation": "because should be replaced with that of use will be, because The",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "Both the manager as well as the employees?",
+      "exam_source": "",
+      "options": {
+        "b": "/ during the meeting",
+        "c": "/ held"
+      },
+      "correct": "a",
+      "explanation": "as well as should be replaced with and of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The training program will run?",
+      "exam_source": "",
+      "options": {
+        "a": "/ from Monday",
+        "b": "/ for all newly recruited employees.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "till should be replaced with to of use will be, because vof/ crkus",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The negotiations continued?",
+      "exam_source": "",
+      "options": {
+        "a": "/ between the",
+        "b": "/ regarding the",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "to should be replaced with and of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "He did nothing else?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and waste his time on",
+        "b": "/ throughout the day"
+      },
+      "correct": "b",
+      "explanation": "and waste should be replaced with but waste of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "He would rather stay at home after completing all his pending work and taking proper rest?",
+      "exam_source": "",
+      "options": {
+        "b": "/ with his friends despite repeated warnings",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "but to go should be replaced with than go of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "It remains unclear whether the board intends to Correlative Pairs of Conjunctions pairs and they connect two similar parts of a are called Correlative Conjunctions. gksrs gSa vkSj sentence esa nks leku parts (words/ ve Conjunctions dgk tkrk gSA tive Conjunctions 0 As ...... As 1 So ...... As 2 Although / Though ...... yet 3 Rather / Other ...... than 4 Else ...... but 5 The reason why ...... that 6 Lest ...... should 7 Between ...... and 8 From ...... to implement the proposal?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ or if the statement",
+        "b": "/ aimed at",
+        "c": "/ in light of the recent",
+        "d": "\b 8. Neither teachers or"
+      },
+      "correct": "b",
+      "explanation": "or if should be replaced with or of use will be, because parallel",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "No sooner did?",
+      "exam_source": "(SSC CPO, 2019)",
+      "options": {
+        "a": "/ the dark clouds gather",
+        "b": "/ in",
+        "c": "/ when the electricity was switched off.",
+        "d": "\b"
+      },
+      "correct": "d",
+      "explanation": "when should be replaced with than of use will be, because No",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "Different-coloured natural foods?",
+      "exam_source": "",
+      "options": {
+        "a": "/ not only",
+        "b": "/ and alsoll",
+        "c": "/ their overall growth.",
+        "d": "a"
+      },
+      "correct": "c",
+      "explanation": "and also should be replaced with but also of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "Hardly had we get in but the train-started. T?",
+      "exam_source": "(SSC CGL, 2022)",
+      "options": {
+        "a": "we get in than on",
+        "b": "we got in before",
+        "c": "No substitution required",
+        "d": "we got in when"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 13,
+      "question": "Banning food and beverages is not desirable nor feasible in a civilized society.",
+      "exam_source": "(SSC MTS, 2022)",
+      "options": {
+        "a": "neither",
+        "b": "No improvement required",
+        "c": "none",
+        "d": "nor"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 14,
+      "question": "The place was not cold only and also damp. \b?",
+      "exam_source": "(SSC CGL, 2020)",
+      "options": {
+        "a": "only cold not also",
+        "b": "No improvement",
+        "c": "not only cold but also",
+        "d": "not only cold and both"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 15,
+      "question": "The exam was not so easy that we had expected. \b?",
+      "exam_source": "(SSC CPO, 2020)",
+      "options": {
+        "a": "such easy as",
+        "b": "as easy as",
+        "c": "as easy so",
+        "d": "No substitution required"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 16,
+      "question": "As long to funding is not made available, our construction dreams have been deferred. \b?",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "As high as",
+        "b": "In as much as",
+        "c": "No improvement",
+        "d": "So long as"
+      },
+      "correct": "d",
+      "explanation": "17. (c) 18. (d) 19. (b) 20. (c)",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 17,
+      "question": "He worked very hard lest he may fail.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "in order that he does not fail",
+        "b": "for not failing",
+        "c": "lest he should fail",
+        "d": "so that he did not fail"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 18,
+      "question": "The Dean said, \"you can have neither jam nor butter but not both.\"?",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "No improvement",
+        "b": "jam and butter",
+        "c": "no jam or butter",
+        "d": "either jam or butter"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 19,
+      "question": "The firing of the missile not only killed innocent persons and also created political furore. \b?",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "not only kill innocent persons and also",
+        "b": "\u0007not only killed innocent persons but also",
+        "c": "No improvement",
+        "d": "but killed innocent person and also"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 20,
+      "question": "So much as you behave like this, the decision of the management against you cannot be revoked. \b?",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "As long to",
+        "b": "As much to",
+        "c": "As long as",
+        "d": "No improvement"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 21,
+      "question": "Lenovo has launched ThinkPad X1 Fold, the world's first foldable laptop which is claimed to be so durable as its other devices. \b?",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "to be as durable as",
+        "b": "to be most durable as",
+        "c": "to be very durable as",
+        "d": "No improvement"
+      },
+      "correct": "a",
+      "explanation": "22. (a) 23. (a) 24. (c) 25. (c) Solut",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 22,
+      "question": "Few solutions were .......... promising as this one. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "so",
+        "b": "as",
+        "c": "that",
+        "d": "too"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 23,
+      "question": "The chief engineer recommended replacing the obsolete part .......... than repairing it. \b (SSC CGL. 2025)",
+      "exam_source": "",
+      "options": {
+        "a": "rather",
+        "b": "as",
+        "c": "other",
+        "d": "more"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 24,
+      "question": "He neither attended the seminar .......... submitted his report on time.",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "but also",
+        "b": "of",
+        "c": "nor",
+        "d": "and"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 25,
+      "question": "We can .......... go to the movie theater .......... stay at home and watch a movie. \b?",
+      "exam_source": "(IB ACIO, 2025)",
+      "options": {
+        "a": "either, nor",
+        "b": "either, and",
+        "c": "either, or",
+        "d": "neither, or"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 26,
+      "question": "Their approach proved .......... effective that competitors quickly emulated it.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "so",
+        "b": "too",
+        "c": "as",
+        "d": "very"
+      },
+      "correct": "a",
+      "explanation": "27. (a) 28. (b) 29. (b) 30. (a) tions",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 27,
+      "question": "No other candidate is .......... qualified for the role as she is. \b?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "so",
+        "b": "such",
+        "c": "more",
+        "d": "as"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 28,
+      "question": "Although I enjoyed my stay in India during thell cultural exchange program and learned many ha new things, .......... I was still glad to comeep df home.",
+      "exam_source": "",
+      "options": {
+        "a": "but",
+        "b": "yet fre",
+        "c": "still",
+        "d": "G -@"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 29,
+      "question": "Meena Muthiah was .......... a distinguished educationist and philanthropist .......... she left a lasting impact on society and women’s education?",
+      "exam_source": "",
+      "options": {
+        "a": "so, that",
+        "b": "such, that",
+        "c": "very, that",
+        "d": "too, to"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 30,
+      "question": "Scarcely had the CEO concluded her speech .......... the shareholders rose to their feet.",
+      "exam_source": "",
+      "options": {
+        "a": "when",
+        "b": "than",
+        "c": "so",
+        "d": "that"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "chapter_no": 80,
+  "title": "Second Conditional",
+  "section": "A",
+  "start_page": 210,
+  "end_page": 211,
+  "theory": " When a sentence expresses an imaginary, unreal, or unlikely situation in the present or\n       future and its possible result, it is called a Second Conditional. It shows situations that are\n       not real or are contrary to facts.\n       Second Conditional og okD; gksrk gS] tks fd present ;k future esa fdlh imaginary, unreal ;k de\n       laHkkouk okyh fLFkfr rFkk mlosQ possible result dks O;Dr djrk gSA ;g mu situations dks n'kkZrk gS] tks\n       real ugha gksrh ;k facts osQ foijhr gksrh gSA\n     Structures\n\n   1 bl structure esa condition iwjh rjg imaginary ;k unreal fLFkfr dks n'kkZrh gS] tgk¡ \"were\" dk iz;ksx\n        lHkh subjects osQ lkFk fd;k tkrk gSA ;g vf/d hypothetical ;k contrary-to-fact situations dks\n        fn[kkus osQ fy, use gksrk gSA\n        Structure - \n                    If + Subject + were + imaginary status , \n                                                             Subject + would + V1 + object\n                                                                               \n \t\t                                          Clause 1                                    Clause 2\n\n   2 bl structure esa condition past form (V2) esa gksrh gS] tks present/future dh unlikely ;k unreal\n        fLFkfr dks O;Dr djrh gSA ;g lkekU; imaginary situations dks crkus os fy, use gksrk gS] ftldk\n        result fliQZ dYiuk ij vk/kfjr gksrk gSA\n        Structure - \n                    If + Subject + V 2 + Object\n                                      , Subject\n                                                      would + V\n                                                         +    \n\n                                       Clause 1                        Clause 2",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "If I was?",
+      "exam_source": "",
+      "options": {
+        "a": "/ rich, I would",
+        "b": "/ travel the world.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "was should be replaced with were will come, because imaginary",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "If I?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "/ was you",
+        "b": "/ I wouldn't",
+        "c": "/ do this."
+      },
+      "correct": "d",
+      "explanation": "was you should be replaced with were you of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "If he would try harder?",
+      "exam_source": "",
+      "options": {
+        "a": "/ he could achieve",
+        "c": "/ in the examination."
+      },
+      "correct": "a",
+      "explanation": "If he would should be replaced with If he tried will come,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "If I had enough money?",
+      "exam_source": "",
+      "options": {
+        "a": "/ I would buy",
+        "b": "/ a",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "If the weather was better,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ we would go",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "was better should be replaced with were better of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "I wish he is?",
+      "exam_source": "",
+      "options": {
+        "a": "/ more responsible",
+        "b": "/ in handling",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "he is should be replaced with he were of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "Would that he knows?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the importance of time",
+        "b": "/ before it is too late for him.",
+        "c": "/ No error",
+        "d": "8. \"If I can see you"
+      },
+      "correct": "a",
+      "explanation": "he knows should be replaced with he knew of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "If she knew?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the answer, she",
+        "b": "/ will tell you",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "conditional clause in V2 gS, second",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "If the farmer got a washing machine?",
+      "exam_source": "",
+      "options": {
+        "a": "/ his wife",
+        "b": "/ do the laundry quickly.",
+        "c": "/ No error",
+        "d": "11. \"Unless you did not"
+      },
+      "correct": "b",
+      "explanation": "Sentence second conditional of is If-clause",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "If they had?",
+      "exam_source": "",
+      "options": {
+        "a": "/ a playground here",
+        "b": "/ they can",
+        "c": "/ their school is over."
+      },
+      "correct": "c",
+      "explanation": "Sentence second conditional of is If-clause",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "If I was you, I would consult a specialist. (SSC Steno, 2025)",
+      "exam_source": "",
+      "options": {
+        "a": "No substitution required",
+        "b": "am you",
+        "c": "would be you",
+        "d": "were you"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 14,
+      "question": "The child cried as if he was in pain.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "as though he is in pain",
+        "b": "as if he were in pain",
+        "c": "like he was in pain",
+        "d": "as he was in pain"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 15,
+      "question": "If I was you, I would resign immediately.",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "was in your place",
+        "b": "were you",
+        "c": "would be you hall",
+        "d": "am you ep"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 16,
+      "question": "If I would be laid off again, I would @ seriously consider a career switch. T G- on?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "will be laid off again",
+        "b": "had been laid off again",
+        "c": "No improvement required",
+        "d": "were to be laid off again"
+      },
+      "correct": "d",
+      "explanation": "17. (a) 18. (b) 19. (c) 20. (a) tions",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 17,
+      "question": "My doctor knew that I would eventually recover and do the kind of work I would be doing before.",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "had been doing",
+        "b": "would have been doing",
+        "c": "would have done",
+        "d": "No improvement"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 18,
+      "question": "If I would have a degree from the university, I would get a good job.\b?",
+      "exam_source": "(SSC CPO, 2019)",
+      "options": {
+        "a": "No substitution",
+        "b": "If I had a degree",
+        "d": "5.",
+        "c": "13."
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 19,
+      "question": "If I ......... you I ......... love to accept the offer.",
+      "exam_source": "(UPSC CDS, 2018)",
+      "options": {
+        "a": "was, will",
+        "b": "was, would",
+        "c": "were, would",
+        "d": "were, will"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 20,
+      "question": "If I ......... a doctor, I would have treated you all. \b?",
+      "exam_source": "(SSC MTS, 2022)",
+      "options": {
+        "a": "were",
+        "b": "would",
+        "c": "am",
+        "d": "could"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "chapter_no": 111,
+  "title": "Concept of Possession",
+  "section": "A",
+  "start_page": 293,
+  "end_page": 294,
+  "theory": "1 Noun ending with \"s\", use apostrophe (')\n       2 Noun ending without \"s\", use apostrophe ('s)\n       3 In case of things, objects, ideas etc. use preposition of\n       4 Do not use 's with possessive adjective and possessive pronoun.\n       5 's is used with expressions of time, distance and value.\n       6 Add 's to the last word of a compound noun.\n       7 In case of joint possession, add 's to the last noun.\n       8 In case of separate possession, add 's to each noun.\n       9 Use 's with an indefinite pronoun to show possession.\n      10 When \"else\" comes after an indefinite pronoun, the 's is added to \"else\", not to the\n           pronoun.",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "It was not until much later?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ that the",
+        "b": "/ were",
+        "c": "/ whose",
+        "d": "\b"
+      },
+      "correct": "d",
+      "explanation": "else should be replaced with else's will be because \"anyone\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "The building's roof was damaged?",
+      "exam_source": "",
+      "options": {
+        "a": "/ due to",
+        "b": "/ that occurred last night",
+        "c": "/ in"
+      },
+      "correct": "a",
+      "explanation": "building's roof should be replaced with The roof of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The car's door?",
+      "exam_source": "",
+      "options": {
+        "a": "/ was damaged",
+        "b": "/ in the",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "car's should be replaced with The door of the car",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "That the station is?",
+      "exam_source": "",
+      "options": {
+        "a": "/ at ten minutes walk",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "ten minutes walk should be replaced with ten minutes",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "A bigger budget?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "/ has been set aside for",
+        "c": "/ campaign in Asia.",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "years should be replaced with year's marketing will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "Last month details?",
+      "exam_source": "",
+      "options": {
+        "a": "/ will be shared with all the",
+        "b": "/ before the session begins",
+        "c": "/ in"
+      },
+      "correct": "a",
+      "explanation": "month details should be replaced with month's details will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "This is the decision of the committee's?",
+      "exam_source": "",
+      "options": {
+        "b": "/ after a long",
+        "c": "/ among all members."
+      },
+      "correct": "a",
+      "explanation": "the decision of the committee's should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The professors recommendation was?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "/ that",
+        "b": "/ whom she had worked with for",
+        "c": "/ be granted a full scholarship.",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "The professors recommendation of place",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "The meeting scheduled for tomorrow morning?",
+      "exam_source": "",
+      "options": {
+        "a": "/ has been postponed due to yesterday meeting",
+        "b": "/ which affected the entire schedule",
+        "d": "Concept of Possession"
+      },
+      "correct": "b",
+      "explanation": "yesterday meeting should be replaced with yesterday's",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "The passer's-by reactions?",
+      "exam_source": "",
+      "options": {
+        "a": "/ were quite",
+        "b": "/ when the incident occurred"
+      },
+      "correct": "a",
+      "explanation": "passer's-by should be replaced with passers-by's will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "The company?",
+      "exam_source": "",
+      "options": {
+        "a": "/ rejected the proposal",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "machine's efficiency should be replaced with the",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "He ended up using someone's else laptop?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for",
+        "b": "/ without realizing",
+        "c": "/ that it belonged to another colleague."
+      },
+      "correct": "a",
+      "explanation": "someone's else should be replaced with someone else's",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "The responsibility for completing the project?",
+      "exam_source": "",
+      "options": {
+        "b": "/ who was",
+        "c": "/ by the manager earlier."
+      },
+      "correct": "b",
+      "explanation": "somebody else should be replaced with somebody else's",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "The dog, which had been playing energetically?",
+      "exam_source": "",
+      "options": {
+        "a": "/ with the children in the garden, suddenly",
+        "b": "/ hurt its leg while attempting to jump over a",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "The team achieved success?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in the final",
+        "b": "/ after a week intense practice.",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "week intense practice should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "This is your's bag?",
+      "exam_source": "",
+      "options": {
+        "a": "/ which was mistakenly",
+        "b": "/ by me in the hurry",
+        "c": "/ at the station."
+      },
+      "correct": "a",
+      "explanation": "your's bag should be replaced with your bag will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "The journey?",
+      "exam_source": "",
+      "options": {
+        "a": "/ was very tiring",
+        "b": "/ because ten",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "ten kilometers road should be replaced with (ten",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 18,
+      "question": "The performance of the team and the playersll individual efforts?",
+      "exam_source": "",
+      "options": {
+        "a": "/ were appreciated by ftheha",
+        "b": "/ after the match ended",
+        "c": "/ ein their",
+        "d": "fre"
+      },
+      "correct": "a",
+      "explanation": "players individual efforts should be replaced with",
+      "format": "error_spotting"
+    }
+  ]
+}

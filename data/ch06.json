@@ -1,0 +1,142 @@
+{
+  "chapter_no": 6,
+  "title": "A Number of Vs The Number of",
+  "section": "A",
+  "start_page": 29,
+  "end_page": 29,
+  "theory": "6                                   A Number of Vs The Number of\n\n                A number of = Many/Several\n                The number of = Total Count/Exact Number\n\n              Part A A number of + Plural Noun + Plural Verb\n              Part B The number of + Plural Noun + Singular Verb\n\n  Exception\n       The number of + Plural Noun + Relative Pronoun + Plural Verb + ....... + Singular Verb.\n                                                                                 (Main Verb)",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The number of?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ applicants have increased",
+        "b": "/ this year.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"have\" should be replaced with \"has\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "The number of vehicles which is registered in this city?",
+      "exam_source": "",
+      "options": {
+        "a": "/ has increased rapidly",
+        "b": "/ causing",
+        "c": "/ on the roads."
+      },
+      "correct": "a",
+      "explanation": "\"is\" should be replaced with \"are\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "A large number of vehicle on the road?",
+      "exam_source": "",
+      "options": {
+        "b": "/ during peak",
+        "c": "/ despite several preventive"
+      },
+      "correct": "a",
+      "explanation": "\"vehicle\" should be replaced with \"vehicles\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The number of?",
+      "exam_source": "(SSC CHSL, 2019)",
+      "options": {
+        "a": "/ visitors at the fair",
+        "b": "/ were",
+        "c": "/ than expected."
+      },
+      "correct": "c",
+      "explanation": "\"were\" should be replaced with \"was\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "A number of issues that affects the performance of students?",
+      "exam_source": "",
+      "options": {
+        "a": "/ are often ignored",
+        "b": "/ in many educational",
+        "c": "/ across the country."
+      },
+      "correct": "a",
+      "explanation": "\"affects\" should be replaced with \"affect\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The number of applications?",
+      "exam_source": "",
+      "options": {
+        "a": "/ received by",
+        "b": "/ were far greater",
+        "c": "/ than",
+        "d": "Answers"
+      },
+      "correct": "c",
+      "explanation": "were should be replaced with was will be because \"The",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "The number of candidates who have qualified for the interview?",
+      "exam_source": "",
+      "options": {
+        "a": "/ are increasing every year",
+        "b": "/ due to growing competition",
+        "c": "/ in the"
+      },
+      "correct": "b",
+      "explanation": "\"are\" should be replaced with \"is\" of use will be because \"The",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "A number of books in the library?",
+      "exam_source": "",
+      "options": {
+        "a": "/ seems to",
+        "b": "/ so we need to replace",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"seems\" should be replaced with \"seem\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "The number of seats in the movie theatre were reduced to comply with the new social distancing guidelines.\b?",
+      "exam_source": "(SSC CHSL, 2023)",
+      "options": {
+        "a": "of the movie theatre were reduced",
+        "b": "in the movie theatre are reduced",
+        "c": "in the movie theatre was reduced",
+        "d": "in the movie theatre were being reduced"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 10,
+      "question": "The number of women working outside homes have been steadily increasing.",
+      "exam_source": "",
+      "options": {
+        "a": "has been steadily",
+        "b": "had been steadier",
+        "c": "No improvement",
+        "d": "have been steady"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    }
+  ]
+}

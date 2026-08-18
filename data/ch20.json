@@ -1,0 +1,189 @@
+{
+  "chapter_no": 20,
+  "title": "Enough",
+  "section": "A",
+  "start_page": 64,
+  "end_page": 65,
+  "theory": "Enough               Enough + Noun                Adjective      +      Enough\n\n                   Pronoun               Adjective                   Only Positive              Adverb\n                                                                       degree\n\n        tc Enough Noun dks Qualify djrk gS] rks og Adjective (Determiner) dgykrk gSA\n        tc Enough, Adjective ;k Verb dks modify djrk gS rks og Adverb dgykrk gSA ;gk¡ ij Enough\n         ges'kk Adjective @ Verb ds ckn vk,xkA\n        Enough ls igys fn;k x;k Adjective dsoy Positive degree esa gksuk pkfg,A\n        dHkh&dHkh Enough [kqn gh complete meaning ns nsrk gS mlosQ lkFk dksbZ Noun ;k Adjective yxkuk\n         t:jh ugha gksrk gSA rc ;g pronoun dgykrk gSA\n     Note\n     $ Noun ds igys → Adjective,            Adjective ds ckn → Adverb,            vdsyk → Pronoun\n         Example",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The hotel room?",
+      "exam_source": "(SSC CHSL, 2024)",
+      "options": {
+        "a": "/ which we",
+        "b": "/ booked",
+        "d": "\b"
+      },
+      "correct": "d",
+      "explanation": "enough big should be replaced with big enough",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "The food container?",
+      "exam_source": "(SSC CHSL, 2023)",
+      "options": {
+        "a": "/ is not enough big to",
+        "b": "/ the demands of the affected people.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "enough big should be replaced with big enough",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "He was enough tall?",
+      "exam_source": "(SSC CPO, 2022)",
+      "options": {
+        "a": "/ to be admitted",
+        "b": "/ into",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "enough tall should be replaced with tall enough",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "Do you earn?",
+      "exam_source": "(SSC CPO, 2020)",
+      "options": {
+        "a": "/ so much to",
+        "b": "/ make both",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "So much to should be replaced with enough to",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Ramesh is stronger enough?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to handle such",
+        "b": "/ without any external",
+        "c": "/ from others.",
+        "d": "Enough"
+      },
+      "correct": "a",
+      "explanation": "Stronger enough should be replaced with strong",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "We have come to know that?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the company",
+        "b": "/ to",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "resources enough should be replaced with enough",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "He spoke enough clearly?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to make everyone",
+        "b": "/ the importance of discipline",
+        "c": "/ in daily life."
+      },
+      "correct": "a",
+      "explanation": "enough clearly should be replaced with clearly",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "The policy is?",
+      "exam_source": "",
+      "options": {
+        "a": "/ enough effective",
+        "b": "/ toall",
+        "c": "/ No error",
+        "d": "fh"
+      },
+      "correct": "b",
+      "explanation": "enough effective should be replaced with effective",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "We often hear people say?",
+      "exam_source": "(UPSC NDA, 2018)",
+      "options": {
+        "a": "/ that most ep",
+        "b": "/ -or @ grow up",
+        "c": "/ to stick to truth TorGnon-violence.",
+        "d": "ho"
+      },
+      "correct": "c",
+      "explanation": "grow should be replaced with grown will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "He is enough rich to buy a car. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "sufficiently rich",
+        "b": "rich too much",
+        "c": "too rich",
+        "d": "rich enough"
+      },
+      "correct": "d",
+      "explanation": "12. (d) 13. (b) 14. (c) Solut",
+      "format": "regular"
+    },
+    {
+      "qno": 12,
+      "question": "Please don't give me any more, I have had ..........\b?",
+      "exam_source": "(UPSC NDA, 2017)",
+      "options": {
+        "a": "few",
+        "b": "too little",
+        "c": "little",
+        "d": "enough"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 13,
+      "question": "Enough is enough.",
+      "exam_source": "",
+      "options": {
+        "a": "Noun",
+        "b": "Adjective",
+        "c": "Adverb",
+        "d": "Pronoun"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 14,
+      "question": "Amit ran fast enough?",
+      "exam_source": "",
+      "options": {
+        "a": "Pronoun",
+        "b": "Noun",
+        "c": "Adverb",
+        "d": "Determiner"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    }
+  ]
+}

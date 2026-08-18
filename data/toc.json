@@ -1,0 +1,820 @@
+{
+  "sections": [
+    {
+      "id": "A",
+      "name": "Section A — Grammar Concepts",
+      "chapters": [
+        {
+          "chapter_no": 1,
+          "title": "Parts of Speech",
+          "page": "chapters/ch01.html",
+          "mcq_count": 70
+        },
+        {
+          "chapter_no": 2,
+          "title": "Recognition of Sentences",
+          "page": "chapters/ch02.html",
+          "mcq_count": 24
+        },
+        {
+          "chapter_no": 3,
+          "title": "Past Perfect Vs Past Indefinite",
+          "page": "chapters/ch03.html",
+          "mcq_count": 61
+        },
+        {
+          "chapter_no": 4,
+          "title": "Subject-Verb Agreement with Additive Phrases",
+          "page": "chapters/ch04.html",
+          "mcq_count": 20
+        },
+        {
+          "chapter_no": 5,
+          "title": "Transitive Verbs and Superfluous Prepositions",
+          "page": "chapters/ch05.html",
+          "mcq_count": 34
+        },
+        {
+          "chapter_no": 6,
+          "title": "A Number of Vs The Number of",
+          "page": "chapters/ch06.html",
+          "mcq_count": 10
+        },
+        {
+          "chapter_no": 7,
+          "title": "Verb Follows Main Subject",
+          "page": "chapters/ch07.html",
+          "mcq_count": 20
+        },
+        {
+          "chapter_no": 8,
+          "title": "Fixed Preposition 'Of'",
+          "page": "chapters/ch08.html",
+          "mcq_count": 45
+        },
+        {
+          "chapter_no": 9,
+          "title": "Concept of Modals",
+          "page": "chapters/ch09.html",
+          "mcq_count": 20
+        },
+        {
+          "chapter_no": 10,
+          "title": "Hardly/Scarcely/No Sooner",
+          "page": "chapters/ch10.html",
+          "mcq_count": 18
+        },
+        {
+          "chapter_no": 11,
+          "title": "Little, A Little, The Little",
+          "page": "chapters/ch11.html",
+          "mcq_count": 23
+        },
+        {
+          "chapter_no": 12,
+          "title": "Used to",
+          "page": "chapters/ch12.html",
+          "mcq_count": 18
+        },
+        {
+          "chapter_no": 13,
+          "title": "Need Vs Dare",
+          "page": "chapters/ch13.html",
+          "mcq_count": 25
+        },
+        {
+          "chapter_no": 14,
+          "title": "Concept of 'One'",
+          "page": "chapters/ch14.html",
+          "mcq_count": 25
+        },
+        {
+          "chapter_no": 15,
+          "title": "Since Vs For",
+          "page": "chapters/ch15.html",
+          "mcq_count": 25
+        },
+        {
+          "chapter_no": 16,
+          "title": "Uses of Since",
+          "page": "chapters/ch16.html",
+          "mcq_count": 19
+        },
+        {
+          "chapter_no": 17,
+          "title": "Linking Verbs Vs Action Verbs",
+          "page": "chapters/ch17.html",
+          "mcq_count": 30
+        },
+        {
+          "chapter_no": 18,
+          "title": "Superfluous Expressions",
+          "page": "chapters/ch18.html",
+          "mcq_count": 18
+        },
+        {
+          "chapter_no": 19,
+          "title": "Few, A Few, The Few",
+          "page": "chapters/ch19.html",
+          "mcq_count": 19
+        },
+        {
+          "chapter_no": 20,
+          "title": "Enough",
+          "page": "chapters/ch20.html",
+          "mcq_count": 13
+        },
+        {
+          "chapter_no": 21,
+          "title": "Until Vs Unless",
+          "page": "chapters/ch21.html",
+          "mcq_count": 13
+        },
+        {
+          "chapter_no": 22,
+          "title": "Concept of Multiple Adjectives",
+          "page": "chapters/ch22.html",
+          "mcq_count": 16
+        },
+        {
+          "chapter_no": 23,
+          "title": "Suffix",
+          "page": "chapters/ch23.html",
+          "mcq_count": 43
+        },
+        {
+          "chapter_no": 24,
+          "title": "Too much Vs Much too",
+          "page": "chapters/ch24.html",
+          "mcq_count": 12
+        },
+        {
+          "chapter_no": 25,
+          "title": "Verbs with Same Form",
+          "page": "chapters/ch25.html",
+          "mcq_count": 14
+        },
+        {
+          "chapter_no": 26,
+          "title": "Apparently Plural but Functionally Singular Noun",
+          "page": "chapters/ch26.html",
+          "mcq_count": 12
+        },
+        {
+          "chapter_no": 27,
+          "title": "Although / Though Vs Despite / In spite of",
+          "page": "chapters/ch27.html",
+          "mcq_count": 13
+        },
+        {
+          "chapter_no": 28,
+          "title": "Fairly Vs Rather",
+          "page": "chapters/ch28.html",
+          "mcq_count": 13
+        },
+        {
+          "chapter_no": 29,
+          "title": "Third Conditional (Unreal Past)",
+          "page": "chapters/ch29.html",
+          "mcq_count": 27
+        },
+        {
+          "chapter_no": 30,
+          "title": "Distributive Adjectives Vs Pronouns",
+          "page": "chapters/ch30.html",
+          "mcq_count": 39
+        },
+        {
+          "chapter_no": 31,
+          "title": "Double Comparatives and Superlatives",
+          "page": "chapters/ch31.html",
+          "mcq_count": 25
+        },
+        {
+          "chapter_no": 32,
+          "title": "Not only ... But also, Neither ... Nor, Either ... Or",
+          "page": "chapters/ch32.html",
+          "mcq_count": 32
+        },
+        {
+          "chapter_no": 33,
+          "title": "Confusing Pair of Verbs",
+          "page": "chapters/ch33.html",
+          "mcq_count": 28
+        },
+        {
+          "chapter_no": 34,
+          "title": "Fixed Preposition 'From'",
+          "page": "chapters/ch34.html",
+          "mcq_count": 28
+        },
+        {
+          "chapter_no": 35,
+          "title": "Order of Pronouns",
+          "page": "chapters/ch35.html",
+          "mcq_count": 8
+        },
+        {
+          "chapter_no": 36,
+          "title": "The Single Unit Rule",
+          "page": "chapters/ch36.html",
+          "mcq_count": 8
+        },
+        {
+          "chapter_no": 37,
+          "title": "Along/Across/Through",
+          "page": "chapters/ch37.html",
+          "mcq_count": 20
+        },
+        {
+          "chapter_no": 38,
+          "title": "As/Since/Because Vs So/Therefore",
+          "page": "chapters/ch38.html",
+          "mcq_count": 15
+        },
+        {
+          "chapter_no": 39,
+          "title": "Indefinite Pronouns",
+          "page": "chapters/ch39.html",
+          "mcq_count": 9
+        },
+        {
+          "chapter_no": 40,
+          "title": "Future Perfect Vs Future Perfect Continuous",
+          "page": "chapters/ch40.html",
+          "mcq_count": 14
+        },
+        {
+          "chapter_no": 41,
+          "title": "Concept of 'As'",
+          "page": "chapters/ch41.html",
+          "mcq_count": 14
+        },
+        {
+          "chapter_no": 42,
+          "title": "Synthesis of Positive & Comparative Degrees",
+          "page": "chapters/ch42.html",
+          "mcq_count": 13
+        },
+        {
+          "chapter_no": 43,
+          "title": "Non-gradable Adjectives",
+          "page": "chapters/ch43.html",
+          "mcq_count": 9
+        },
+        {
+          "chapter_no": 44,
+          "title": "Half of / Some of / A Lot of",
+          "page": "chapters/ch44.html",
+          "mcq_count": 14
+        },
+        {
+          "chapter_no": 45,
+          "title": "Order of Definite Adjectives",
+          "page": "chapters/ch45.html",
+          "mcq_count": 10
+        },
+        {
+          "chapter_no": 46,
+          "title": "Fixed Preposition 'To'",
+          "page": "chapters/ch46.html",
+          "mcq_count": 25
+        },
+        {
+          "chapter_no": 47,
+          "title": "One of",
+          "page": "chapters/ch47.html",
+          "mcq_count": 20
+        },
+        {
+          "chapter_no": 48,
+          "title": "It's time Phrases & As if / As Though",
+          "page": "chapters/ch48.html",
+          "mcq_count": 15
+        },
+        {
+          "chapter_no": 49,
+          "title": "It Vs There (Dummy Subjects)",
+          "page": "chapters/ch49.html",
+          "mcq_count": 9
+        },
+        {
+          "chapter_no": 50,
+          "title": "Compound Subject as a Single Unit",
+          "page": "chapters/ch50.html",
+          "mcq_count": 10
+        },
+        {
+          "chapter_no": 51,
+          "title": "Stative Verbs Vs Action Verbs",
+          "page": "chapters/ch51.html",
+          "mcq_count": 20
+        },
+        {
+          "chapter_no": 52,
+          "title": "Fixed Preposition 'In'",
+          "page": "chapters/ch52.html",
+          "mcq_count": 25
+        },
+        {
+          "chapter_no": 53,
+          "title": "Causative Verbs",
+          "page": "chapters/ch53.html",
+          "mcq_count": 14
+        },
+        {
+          "chapter_no": 54,
+          "title": "Indefinite Articles: A/An",
+          "page": "chapters/ch54.html",
+          "mcq_count": 30
+        },
+        {
+          "chapter_no": 55,
+          "title": "Uncountable Nouns",
+          "page": "chapters/ch55.html",
+          "mcq_count": 19
+        },
+        {
+          "chapter_no": 56,
+          "title": "'Some' Vs 'Any'",
+          "page": "chapters/ch56.html",
+          "mcq_count": 16
+        },
+        {
+          "chapter_no": 57,
+          "title": "Confusing Pair of Prepositions",
+          "page": "chapters/ch57.html",
+          "mcq_count": 30
+        },
+        {
+          "chapter_no": 58,
+          "title": "Present Subjunctive Mood",
+          "page": "chapters/ch58.html",
+          "mcq_count": 15
+        },
+        {
+          "chapter_no": 59,
+          "title": "Present Perfect Continuous Vs Past Perfect Continuous",
+          "page": "chapters/ch59.html",
+          "mcq_count": 24
+        },
+        {
+          "chapter_no": 60,
+          "title": "Active and Passive Voice",
+          "page": "chapters/ch60.html",
+          "mcq_count": 20
+        },
+        {
+          "chapter_no": 61,
+          "title": "Confusion of 'ly'",
+          "page": "chapters/ch61.html",
+          "mcq_count": 20
+        },
+        {
+          "chapter_no": 62,
+          "title": "Fixed Preposition 'With'",
+          "page": "chapters/ch62.html",
+          "mcq_count": 29
+        },
+        {
+          "chapter_no": 63,
+          "title": "Helping Verb Vs Main Verb",
+          "page": "chapters/ch63.html",
+          "mcq_count": 16
+        },
+        {
+          "chapter_no": 64,
+          "title": "Subject Vs Object Complement",
+          "page": "chapters/ch64.html",
+          "mcq_count": 16
+        },
+        {
+          "chapter_no": 65,
+          "title": "Exam Oriented Homonyms",
+          "page": "chapters/ch65.html",
+          "mcq_count": 19
+        },
+        {
+          "chapter_no": 66,
+          "title": "On / Upon / Over",
+          "page": "chapters/ch66.html",
+          "mcq_count": 15
+        },
+        {
+          "chapter_no": 67,
+          "title": "Position of Adverbs",
+          "page": "chapters/ch67.html",
+          "mcq_count": 18
+        },
+        {
+          "chapter_no": 68,
+          "title": "Fixed Preposition 'For'",
+          "page": "chapters/ch68.html",
+          "mcq_count": 24
+        },
+        {
+          "chapter_no": 69,
+          "title": "Clause and Its Kinds",
+          "page": "chapters/ch69.html",
+          "mcq_count": 18
+        },
+        {
+          "chapter_no": 70,
+          "title": "Between Vs Among Vs Amid",
+          "page": "chapters/ch70.html",
+          "mcq_count": 22
+        },
+        {
+          "chapter_no": 71,
+          "title": "Concept of Short Reply (Inversion)",
+          "page": "chapters/ch71.html",
+          "mcq_count": 15
+        },
+        {
+          "chapter_no": 72,
+          "title": "Use of Preposition 'By'",
+          "page": "chapters/ch72.html",
+          "mcq_count": 24
+        },
+        {
+          "chapter_no": 73,
+          "title": "Beside Vs Besides",
+          "page": "chapters/ch73.html",
+          "mcq_count": 20
+        },
+        {
+          "chapter_no": 74,
+          "title": "Concept of Repeated Expressions",
+          "page": "chapters/ch74.html",
+          "mcq_count": 10
+        },
+        {
+          "chapter_no": 75,
+          "title": "Inversion",
+          "page": "chapters/ch75.html",
+          "mcq_count": 17
+        },
+        {
+          "chapter_no": 76,
+          "title": "Omission of Articles",
+          "page": "chapters/ch76.html",
+          "mcq_count": 24
+        },
+        {
+          "chapter_no": 77,
+          "title": "Fraction Vs Percent",
+          "page": "chapters/ch77.html",
+          "mcq_count": 14
+        },
+        {
+          "chapter_no": 78,
+          "title": "Who Vs Whom",
+          "page": "chapters/ch78.html",
+          "mcq_count": 24
+        },
+        {
+          "chapter_no": 79,
+          "title": "Zero Vs First Conditional",
+          "page": "chapters/ch79.html",
+          "mcq_count": 24
+        },
+        {
+          "chapter_no": 80,
+          "title": "Second Conditional",
+          "page": "chapters/ch80.html",
+          "mcq_count": 18
+        },
+        {
+          "chapter_no": 81,
+          "title": "So...That Vs Too...To",
+          "page": "chapters/ch81.html",
+          "mcq_count": 15
+        },
+        {
+          "chapter_no": 82,
+          "title": "Concept of Adjectives",
+          "page": "chapters/ch82.html",
+          "mcq_count": 20
+        },
+        {
+          "chapter_no": 83,
+          "title": "Uses of definite article 'THE'",
+          "page": "chapters/ch83.html",
+          "mcq_count": 33
+        },
+        {
+          "chapter_no": 84,
+          "title": "Correlative Pairs of Conjunctions",
+          "page": "chapters/ch84.html",
+          "mcq_count": 28
+        },
+        {
+          "chapter_no": 85,
+          "title": "Prepositions of Time",
+          "page": "chapters/ch85.html",
+          "mcq_count": 19
+        },
+        {
+          "chapter_no": 86,
+          "title": "Collective Nouns",
+          "page": "chapters/ch86.html",
+          "mcq_count": 20
+        },
+        {
+          "chapter_no": 87,
+          "title": "Present Perfect Tense",
+          "page": "chapters/ch87.html",
+          "mcq_count": 21
+        },
+        {
+          "chapter_no": 88,
+          "title": "Wrong Uses of Conjunctions",
+          "page": "chapters/ch88.html",
+          "mcq_count": 17
+        },
+        {
+          "chapter_no": 89,
+          "title": "Simple Present Tense",
+          "page": "chapters/ch89.html",
+          "mcq_count": 16
+        },
+        {
+          "chapter_no": 90,
+          "title": "Use of Article 'THE' with Comparative Degree",
+          "page": "chapters/ch90.html",
+          "mcq_count": 15
+        },
+        {
+          "chapter_no": 91,
+          "title": "Discourse Markers",
+          "page": "chapters/ch91.html",
+          "mcq_count": 23
+        },
+        {
+          "chapter_no": 92,
+          "title": "Infinitive (To + V1)",
+          "page": "chapters/ch92.html",
+          "mcq_count": 23
+        },
+        {
+          "chapter_no": 93,
+          "title": "Gerund",
+          "page": "chapters/ch93.html",
+          "mcq_count": 25
+        },
+        {
+          "chapter_no": 94,
+          "title": "Bare Infinitive",
+          "page": "chapters/ch94.html",
+          "mcq_count": 15
+        },
+        {
+          "chapter_no": 95,
+          "title": "Nouns in Plural Form",
+          "page": "chapters/ch95.html",
+          "mcq_count": 15
+        },
+        {
+          "chapter_no": 96,
+          "title": "Reflexive Pronoun",
+          "page": "chapters/ch96.html",
+          "mcq_count": 25
+        },
+        {
+          "chapter_no": 97,
+          "title": "Fixed Preposition 'At'",
+          "page": "chapters/ch97.html",
+          "mcq_count": 18
+        },
+        {
+          "chapter_no": 98,
+          "title": "Degree of Comparison",
+          "page": "chapters/ch98.html",
+          "mcq_count": 17
+        },
+        {
+          "chapter_no": 99,
+          "title": "Confusing Adjectives and Adverbs",
+          "page": "chapters/ch99.html",
+          "mcq_count": 15
+        },
+        {
+          "chapter_no": 100,
+          "title": "Fixed Preposition 'On'",
+          "page": "chapters/ch100.html",
+          "mcq_count": 20
+        },
+        {
+          "chapter_no": 101,
+          "title": "Noun and the Number",
+          "page": "chapters/ch101.html",
+          "mcq_count": 19
+        },
+        {
+          "chapter_no": 102,
+          "title": "Participle",
+          "page": "chapters/ch102.html",
+          "mcq_count": 25
+        },
+        {
+          "chapter_no": 103,
+          "title": "Question Tag",
+          "page": "chapters/ch103.html",
+          "mcq_count": 30
+        },
+        {
+          "chapter_no": 104,
+          "title": "Comparison between Two Similar Things: That of/Those of",
+          "page": "chapters/ch104.html",
+          "mcq_count": 15
+        },
+        {
+          "chapter_no": 105,
+          "title": "Confusing Adjectives: Meaning and Usage",
+          "page": "chapters/ch105.html",
+          "mcq_count": 20
+        },
+        {
+          "chapter_no": 106,
+          "title": "Basic Concept of Preposition",
+          "page": "chapters/ch106.html",
+          "mcq_count": 20
+        },
+        {
+          "chapter_no": 107,
+          "title": "Phrase and Its Kinds",
+          "page": "chapters/ch107.html",
+          "mcq_count": 19
+        },
+        {
+          "chapter_no": 108,
+          "title": "Cleft Sentences",
+          "page": "chapters/ch108.html",
+          "mcq_count": 19
+        },
+        {
+          "chapter_no": 109,
+          "title": "Possessive Adjectives",
+          "page": "chapters/ch109.html",
+          "mcq_count": 25
+        },
+        {
+          "chapter_no": 110,
+          "title": "Which, That and Whose",
+          "page": "chapters/ch110.html",
+          "mcq_count": 18
+        },
+        {
+          "chapter_no": 111,
+          "title": "Concept of Possession",
+          "page": "chapters/ch111.html",
+          "mcq_count": 18
+        },
+        {
+          "chapter_no": 112,
+          "title": "Each other Vs One another",
+          "page": "chapters/ch112.html",
+          "mcq_count": 12
+        },
+        {
+          "chapter_no": 113,
+          "title": "Very Vs Much",
+          "page": "chapters/ch113.html",
+          "mcq_count": 10
+        },
+        {
+          "chapter_no": 114,
+          "title": "Preposition Before Indirect Objects",
+          "page": "chapters/ch114.html",
+          "mcq_count": 9
+        },
+        {
+          "chapter_no": 115,
+          "title": "More than one",
+          "page": "chapters/ch115.html",
+          "mcq_count": 10
+        },
+        {
+          "chapter_no": 116,
+          "title": "Irregular Verbs",
+          "page": "chapters/ch116.html",
+          "mcq_count": 23
+        },
+        {
+          "chapter_no": 117,
+          "title": "Subject Verb Agreement",
+          "page": "chapters/ch117.html",
+          "mcq_count": 20
+        },
+        {
+          "chapter_no": 118,
+          "title": "Parallelism",
+          "page": "chapters/ch118.html",
+          "mcq_count": 20
+        },
+        {
+          "chapter_no": 119,
+          "title": "Sentences and Their Kinds",
+          "page": "chapters/ch119.html",
+          "mcq_count": 13
+        },
+        {
+          "chapter_no": 120,
+          "title": "Idioms and Phrasal Verbs",
+          "page": "chapters/ch120.html",
+          "mcq_count": 51
+        },
+        {
+          "chapter_no": 121,
+          "title": "Such...as, Such...that",
+          "page": "chapters/ch121.html",
+          "mcq_count": 10
+        },
+        {
+          "chapter_no": 122,
+          "title": "Nouns with Different Meanings",
+          "page": "chapters/ch122.html",
+          "mcq_count": 12
+        },
+        {
+          "chapter_no": 123,
+          "title": "Predicative Adjectives",
+          "page": "chapters/ch123.html",
+          "mcq_count": 15
+        },
+        {
+          "chapter_no": 124,
+          "title": "Emphasis on Subject",
+          "page": "chapters/ch124.html",
+          "mcq_count": 10
+        },
+        {
+          "chapter_no": 125,
+          "title": "Nouns and the Group",
+          "page": "chapters/ch125.html",
+          "mcq_count": 20
+        },
+        {
+          "chapter_no": 126,
+          "title": "Figure of Speech",
+          "page": "chapters/ch126.html",
+          "mcq_count": 24
+        },
+        {
+          "chapter_no": 127,
+          "title": "Degree Modifiers and Multiplicative Comparison",
+          "page": "chapters/ch127.html",
+          "mcq_count": 15
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "name": "Section B — Transformations",
+      "chapters": [
+        {
+          "chapter_no": 128,
+          "title": "Active & Passive Voice",
+          "page": "chapters/ch128.html",
+          "mcq_count": 155
+        },
+        {
+          "chapter_no": 129,
+          "title": "Direct and Indirect Speech",
+          "page": "chapters/ch129.html",
+          "mcq_count": 135
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "name": "Section C — Miscellaneous Errors",
+      "chapters": [
+        {
+          "chapter_no": 130,
+          "title": "Level-1 (Miscellaneous Errors)",
+          "page": "chapters/ch130.html",
+          "mcq_count": 396
+        },
+        {
+          "chapter_no": 131,
+          "title": "Level-2 (Miscellaneous Errors)",
+          "page": "chapters/ch131.html",
+          "mcq_count": 291
+        }
+      ]
+    },
+    {
+      "id": "D",
+      "name": "Section D — Sentence Improvement",
+      "chapters": [
+        {
+          "chapter_no": 132,
+          "title": "Sentence Improvement",
+          "page": "chapters/ch132.html",
+          "mcq_count": 240
+        }
+      ]
+    }
+  ]
+}

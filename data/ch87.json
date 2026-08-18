@@ -1,0 +1,293 @@
+{
+  "chapter_no": 87,
+  "title": "Present Perfect Tense",
+  "section": "A",
+  "start_page": 227,
+  "end_page": 228,
+  "theory": " Present Perfect tense shows an action that has been completed recently or has a\n         connection with the present.\n   tks dk;Z vHkh&vHkh ;k gky fiQygky •Re gqvk gks mls Present Perfect tense esa fy•rs gSaA\n\n                                                                                 Tense of Totality\n\n                                               3            rd\n                                                   j   vc\n                                               ysd                               Present Perfect\n\n                                      s   ls\n                                  ihN\n\n         Structure                                                           Note\n       Subject + has / have + V + object.       3                         Words like Yet, Recently, Already, So\n       Subject + has / have + not + V3 + object.                          far, Just, Till now, Up to now, To this\n                                                                           day, Till today, Ever, Lately, etc are\n       Has / have + Subject + not + V3 + object ?\n                                                                           used in Present Perfect Tense.",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "Shweta did not do?",
+      "exam_source": "(SSC CGL, 2019)",
+      "options": {
+        "a": "/ any work",
+        "b": "/ so far.",
+        "d": "2. \"I done",
+        "c": "/ she"
+      },
+      "correct": "a",
+      "explanation": "did not do should be replaced with has not done of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "I did not see?",
+      "exam_source": "",
+      "options": {
+        "a": "/ her since she left",
+        "b": "/ India two",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "did not see should be replaced with have not seen of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "He has saw?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ the movie",
+        "b": "/ three times",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "has saw should be replaced with has seen of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "My sister?",
+      "exam_source": "(SSC GD, 2023)",
+      "options": {
+        "a": "/ is come for",
+        "b": "/ a short holiday",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "is come should be replaced with has come of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "He has completed the project successfully and submit it to the authority?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for approval",
+        "c": "/ given earlier."
+      },
+      "correct": "a",
+      "explanation": "submit should be replaced with submitted of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "Ten years lapsed since Monika left?",
+      "exam_source": "",
+      "options": {
+        "a": "/ Delhi",
+        "b": "/ from a reputed university.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "lapsed should be replaced with have lapsed of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "Till today, we?",
+      "exam_source": "",
+      "options": {
+        "a": "/ do not receive any official",
+        "b": "/ regarding the issue.",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "do not receive should be replaced with have not received",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "In the previous class,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the concept explained",
+        "b": "/ doesn't understood by the",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "doesnt understood should be replaced with has not been",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "To explore new opportunities in different cities,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ he had visited several places lately",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "had visited should be replaced with has visited of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "The use of?",
+      "exam_source": "(SSC GD, 2019)",
+      "options": {
+        "a": "/ new technology",
+        "b": "/ has bring",
+        "c": "/ the price of books."
+      },
+      "correct": "c",
+      "explanation": "has bring should be replaced with has brought of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "The Indian cricket team?",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "/ was done very well",
+        "b": "/ this year",
+        "c": "/ and is ranked number one now.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "was done should be replaced with has done of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "The Public Works Department has propose?",
+      "exam_source": "(SSC CHSL, 2019)",
+      "options": {
+        "b": "/which will",
+        "c": "/ to the National Highway.",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "has propose should be replaced with has proposed of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "I have been working with children before, so I know what to expect.\b?",
+      "exam_source": "(SSC CGL, 2020)",
+      "options": {
+        "a": "am working",
+        "b": "have worked",
+        "c": "work",
+        "d": "No improvement"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 15,
+      "question": "It is convey to all the residents by now that they are required to apply for parking stickers. dfh ee 2019) (SSC CGL,?",
+      "exam_source": "",
+      "options": {
+        "a": "It will be conveyed to all the-@",
+        "b": "It has been conveyed to all",
+        "c": "onresidents",
+        "d": "No improvement r c"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 16,
+      "question": "How long you are living in this city?",
+      "exam_source": "(SSC CGL, 2019)",
+      "options": {
+        "a": "have you lived",
+        "b": "are you been living",
+        "c": "are you live",
+        "d": "No improvement"
+      },
+      "correct": "a",
+      "explanation": "17. (d) 18. (a) 19. (b) 20. (d) tions",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 17,
+      "question": "Don’t sit on this bench as it is just painted.",
+      "exam_source": "(SSC GD, 2023)",
+      "options": {
+        "a": "it was painted just",
+        "b": "it had been painted just",
+        "c": "it had painted just",
+        "d": "it has just been painted"
+      },
+      "correct": "d",
+      "explanation": "on’t sit on this bench as it is just painted. (SSC GD, 2023) (a) it was painted just (b) it had been painted just (c) it had painted just (d) it has just been painted 18. Despite the repeated reminders, the contractor did not complete the construction of the flyover yet. (a) has not completed (b) had not completed (c) is not completing (d) No improvement 19. They have hold, it is in the fitness of things that the legislature should be taken into confidence on Brexit.\b (SSC CGL, 2018) Answers",
+      "format": "regular"
+    },
+    {
+      "qno": 18,
+      "question": "Despite the repeated reminders, the contractor did not complete the construction of the flyover yet.",
+      "exam_source": "",
+      "options": {
+        "a": "has not completed",
+        "b": "had not completed",
+        "c": "is not completing",
+        "d": "No improvement"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 19,
+      "question": "They have hold, it is in the fitness of things that the legislature should be taken into confidence on Brexit.\b Answers 1.",
+      "exam_source": "(SSC CGL, 2018)",
+      "options": {
+        "a": "2.",
+        "b": "11.",
+        "c": "12.",
+        "d": "No improvement"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 20,
+      "question": "The student .......... his homework yet. (SSC Steno, 2025)",
+      "exam_source": "",
+      "options": {
+        "a": "have not completed",
+        "b": "did not complete",
+        "c": "was not completed",
+        "d": "has not completed"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 21,
+      "question": "The new policy .......... a significant impact on the local economy since it was implemented. (SSC Steno, 2025)",
+      "exam_source": "",
+      "options": {
+        "a": "had",
+        "b": "will have",
+        "c": "has had",
+        "d": "was having"
+      },
+      "correct": "c",
+      "explanation": "22. (c) Solut",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 22,
+      "question": "Michal dispatched my parcel last week but I .......... it yet.\b?",
+      "exam_source": "(IB ACIO, 2025)",
+      "options": {
+        "a": "hasn’t received",
+        "b": "didn’t receive",
+        "c": "haven’t received",
+        "d": "don’t receive"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

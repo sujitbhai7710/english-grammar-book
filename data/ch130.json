@@ -1,0 +1,5111 @@
+{
+  "chapter_no": 130,
+  "title": "Level-1 (Miscellaneous Errors)",
+  "section": "C",
+  "start_page": 362,
+  "end_page": 386,
+  "theory": "Level-1",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "Meaningful ecological?",
+      "exam_source": "",
+      "options": {
+        "a": "/ affects of the",
+        "b": "/ sector can be optimized"
+      },
+      "correct": "d",
+      "explanation": "Affects should be replaced with effects will come, because subject",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "She is considered to be?",
+      "exam_source": "",
+      "options": {
+        "a": "/ much talented than",
+        "b": "/ in her department",
+        "d": "."
+      },
+      "correct": "d",
+      "explanation": "much talented should be replaced with more talented of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Airlines have increased fares?",
+      "exam_source": "",
+      "options": {
+        "a": "/ because",
+        "b": "/ the new rules only limiting",
+        "d": "."
+      },
+      "correct": "d",
+      "explanation": "limiting should be replaced with limited of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "John is more polite and respectful towards his?",
+      "exam_source": "",
+      "options": {
+        "a": "/ teachers and elders but not so kind-",
+        "b": "/ compassionate as his brother.",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "but not so should be replaced with than of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "After a month-long vacation?",
+      "exam_source": "(SSC GD, 2021)",
+      "options": {
+        "a": "/ due to the",
+        "b": "/ Mani’s school has been",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "has been resuming should be replaced with resumes / is",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "I asked him how far had he come?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in his",
+        "b": "/ to give me a",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "had he come should be replaced with he had come of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "It is alleged that the number of athletes?",
+      "exam_source": "",
+      "options": {
+        "b": "/ are on",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "are should be replaced with is of use will be, because subject the",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The organisers expect?",
+      "exam_source": "",
+      "options": {
+        "a": "/ as much as ten",
+        "b": "/ to attend the rally.",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "as much as should be replaced with as many as of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "In no case we can measure?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the candidates'",
+        "b": "/ that is absolutely",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "In no case we can should be replaced with In no case",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "Although I have never seen the girl before,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ I recognised her at once",
+        "b": "/ from her",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "Although I have never seen should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "Since the beginning of the term,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ we are",
+        "b": "/ several important chapters",
+        "d": "."
+      },
+      "correct": "b",
+      "explanation": "are completing should be replaced with have completed",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "Rohan has told his friends that?",
+      "exam_source": "",
+      "options": {
+        "a": "/ he will",
+        "b": "/ with his mentor when",
+        "c": "/ he will meet him tomorrow",
+        "d": "."
+      },
+      "correct": "d",
+      "explanation": "he will meet should be replaced with he meets of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "Due to the heavy workload and upcoming deadline, Ajay will complete his assignment?",
+      "exam_source": "",
+      "options": {
+        "a": "/ by the time his teacher checks",
+        "b": "/ the",
+        "c": "/ No error",
+        "d": "."
+      },
+      "correct": "a",
+      "explanation": "will complete should be replaced with will have completed",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "The pair of trousers?",
+      "exam_source": "",
+      "options": {
+        "a": "/ you bought for me",
+        "b": "/ do not fit me.",
+        "c": "/ No error.",
+        "d": "13."
+      },
+      "correct": "c",
+      "explanation": "do not fit should be replaced with does not fit of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "The assignment, which the teacher had instructed?",
+      "exam_source": "",
+      "options": {
+        "a": "/ should have been completed",
+        "b": "/ were finally submitted",
+        "c": "/ a day after the due date",
+        "d": "."
+      },
+      "correct": "c",
+      "explanation": "were finally submitted should be replaced with was finally",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "The manager believes?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that the company",
+        "b": "/ great success",
+        "c": "/ this year",
+        "d": "."
+      },
+      "correct": "b",
+      "explanation": "achieves should be replaced with will achieve of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "She decided to take the help of a guide in a new country?",
+      "exam_source": "",
+      "options": {
+        "a": "/ lest she missed the way to her",
+        "b": "/ in order to avoid confusion",
+        "c": "/ No",
+        "d": "."
+      },
+      "correct": "b",
+      "explanation": "missed should be replaced with should miss of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 18,
+      "question": "She asked her teacher?",
+      "exam_source": "(SSC GD, 2021)",
+      "options": {
+        "a": "/ that if she could",
+        "c": "/ problem again."
+      },
+      "correct": "b",
+      "explanation": "that if she could should be replaced with if she could of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 19,
+      "question": "Mr. Abhilash and his family?",
+      "exam_source": "",
+      "options": {
+        "a": "/ have received",
+        "b": "/ no informations",
+        "c": "/ about the incident."
+      },
+      "correct": "c",
+      "explanation": "informations should be replaced with information of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 20,
+      "question": "The tea at this café?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is best than",
+        "b": "/ at the",
+        "c": "/ in our office."
+      },
+      "correct": "b",
+      "explanation": "best than should be replaced with better than of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 21,
+      "question": "After the concert was over,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ they went to",
+        "b": "/ had dinner together",
+        "c": "/ and"
+      },
+      "correct": "b",
+      "explanation": "restaurant should be replaced with a restaurant of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 22,
+      "question": "No other place?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in this country is",
+        "b": "/ so",
+        "c": "/ Gulmarg, Kashmir."
+      },
+      "correct": "c",
+      "explanation": "so better as should be replaced with so good as of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 23,
+      "question": "Our family is planning?",
+      "exam_source": "",
+      "options": {
+        "a": "/ a trip to Europe",
+        "b": "/ where we should visit",
+        "c": "/ landmarks and enjoy local"
+      },
+      "correct": "c",
+      "explanation": "should should be replaced with will of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 24,
+      "question": "The windows?",
+      "exam_source": "",
+      "options": {
+        "a": "/ violent banged",
+        "b": "/ during",
+        "c": "/ storm yesterday."
+      },
+      "correct": "b",
+      "explanation": "violent banged should be replaced with violently banged",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 25,
+      "question": "Jim Corbett's books?",
+      "exam_source": "(SSC GD, 2021)",
+      "options": {
+        "a": "/ bringing to light",
+        "c": "/ amidst nature."
+      },
+      "correct": "b",
+      "explanation": "bringing should be replaced with bring of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 26,
+      "question": "Solutions to?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the country’s interior",
+        "c": "/ a long way away."
+      },
+      "correct": "b",
+      "explanation": "interior should be replaced with internal of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 27,
+      "question": "They secret?",
+      "exam_source": "",
+      "options": {
+        "a": "/ decided",
+        "b": "/ to leave",
+        "c": "/ the"
+      },
+      "correct": "a",
+      "explanation": "secret should be replaced with secretly of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 28,
+      "question": "Mrs. Sreelakshmi’s?",
+      "exam_source": "",
+      "options": {
+        "a": "/ musical intelligence",
+        "b": "/ is superior than",
+        "c": "/ Mrs. Suma’s."
+      },
+      "correct": "c",
+      "explanation": "superior than should be replaced with superior to of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 29,
+      "question": "The employees were comfortable?",
+      "exam_source": "",
+      "options": {
+        "a": "/ with me",
+        "b": "/ their problems since",
+        "c": "/ I has worked there as a manager."
+      },
+      "correct": "d",
+      "explanation": "I has worked should be replaced with I had worked of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 30,
+      "question": "My brother received?",
+      "exam_source": "",
+      "options": {
+        "a": "/ his MBA degree into",
+        "b": "/ the university last year.",
+        "c": "/ No error",
+        "d": "hall"
+      },
+      "correct": "b",
+      "explanation": "into should be replaced with from of use will be, because degree",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 31,
+      "question": "Whenever the sky is?",
+      "exam_source": "",
+      "options": {
+        "a": "/ clear, you can see",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "in the night should be replaced with at night of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 32,
+      "question": "By the end of?",
+      "exam_source": "",
+      "options": {
+        "a": "/ this month, he",
+        "b": "/ will be",
+        "c": "/ for five years."
+      },
+      "correct": "c",
+      "explanation": "will be working should be replaced with will have been",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 33,
+      "question": "I have the hundred reasons?",
+      "exam_source": "",
+      "options": {
+        "a": "/ not to attend",
+        "b": "/ the meeting tomorrow.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "the hundred reasons should be replaced with a hundred",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 34,
+      "question": "Having known that?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the train was already",
+        "b": "/ the platform",
+        "c": "/ they ran fastly to catch"
+      },
+      "correct": "d",
+      "explanation": "fastly should be replaced with fast of use will be, because fast",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 35,
+      "question": "Deepa and Seema are both good with running,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ but Deepa is also good at catching the ball",
+        "b": "/ and throwing it to the right corner",
+        "c": "/ in"
+      },
+      "correct": "a",
+      "explanation": "good with running should be replaced with good at",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 36,
+      "question": "Pray to the Almighty God?",
+      "exam_source": "(SSC GD, 2021)",
+      "options": {
+        "a": "/ with utmost",
+        "b": "/ and help the needy",
+        "c": "/ and poor.",
+        "d": "\b"
+      },
+      "correct": "d",
+      "explanation": "poor should be replaced with the poor of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 37,
+      "question": "People admired him, for?",
+      "exam_source": "",
+      "options": {
+        "a": "/ he lived by the",
+        "b": "/ principals",
+        "c": "/ that he preached."
+      },
+      "correct": "c",
+      "explanation": "principals should be replaced with principles of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 38,
+      "question": "On hearing the news over the radio that?",
+      "exam_source": "",
+      "options": {
+        "b": "/ I jumped",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "has won should be replaced with had won of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 39,
+      "question": "My uncle frequently goes to abroad?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for",
+        "b": "/ by air.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "goes to abroad should be replaced with goes abroad of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 40,
+      "question": "Mr Sunil Pawar, our representative,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ he will",
+        "b": "/ on our behalf.",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "he will attend should be replaced with will attend of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 41,
+      "question": "I am sorry I was not at home when you came;?",
+      "exam_source": "",
+      "options": {
+        "a": "/ I had gone to congratulate Mr Suresh",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "for his success should be replaced with on his success",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 42,
+      "question": "Can you tell us?",
+      "exam_source": "",
+      "options": {
+        "a": "/ what do you read",
+        "b": "/ in",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "what do you read should be replaced with what you read",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 43,
+      "question": "He never talks?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for anybody.",
+        "b": "/ He is",
+        "c": "/ all day."
+      },
+      "correct": "b",
+      "explanation": "for anybody should be replaced with to anybody of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 44,
+      "question": "We took dinner?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in a Chinese restaurant",
+        "c": "/ the interior of a"
+      },
+      "correct": "d",
+      "explanation": "a restaurant should be replaced with the restaurant of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 45,
+      "question": "Two of the world’s?",
+      "exam_source": "",
+      "options": {
+        "a": "/ best forwards",
+        "b": "/ has",
+        "c": "/ David Beckham."
+      },
+      "correct": "c",
+      "explanation": "has played should be replaced with have played of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 46,
+      "question": "Mr. Suman?",
+      "exam_source": "",
+      "options": {
+        "a": "/ asked me",
+        "b": "/ to pack",
+        "c": "/ my"
+      },
+      "correct": "d",
+      "explanation": "luggages should be replaced with luggage of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 47,
+      "question": "The accusation of abatement to the crime?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that had been levelled at him",
+        "b": "/ was",
+        "c": "/ No error.",
+        "d": "35."
+      },
+      "correct": "a",
+      "explanation": "abatement should be replaced with abetment of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 48,
+      "question": "Camels tend to?",
+      "exam_source": "",
+      "options": {
+        "a": "/ move slowly",
+        "b": "/ than other",
+        "c": "/ domestic animals in the plains."
+      },
+      "correct": "b",
+      "explanation": "slowly should be replaced with more slowly of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 49,
+      "question": "Deepak is studying?",
+      "exam_source": "",
+      "options": {
+        "a": "/ B.tech. at IIT Delhi",
+        "c": "/ the engineer."
+      },
+      "correct": "d",
+      "explanation": "the engineer should be replaced with an engineer of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 50,
+      "question": "The lions became violently?",
+      "exam_source": "",
+      "options": {
+        "a": "/ when the",
+        "b": "/ started throwing",
+        "c": "/ stones at"
+      },
+      "correct": "a",
+      "explanation": "violently should be replaced with violent of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 51,
+      "question": "The company specialises at?",
+      "exam_source": "",
+      "options": {
+        "a": "/ designing",
+        "b": "/ exquisite",
+        "c": "/ of exceptional"
+      },
+      "correct": "a",
+      "explanation": "specialises at should be replaced with specialises in of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 52,
+      "question": "While the solar energy has grabbed the spotlight,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ wind power too has been made",
+        "b": "/ across the world and in",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "has been made should be replaced with has made (Active",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 53,
+      "question": "The teacher asked?",
+      "exam_source": "",
+      "options": {
+        "a": "/ him not to keep",
+        "c": "/ but it had no affect."
+      },
+      "correct": "d",
+      "explanation": "affect should be replaced with effect of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 54,
+      "question": "It takes me an hour to get to work?",
+      "exam_source": "",
+      "options": {
+        "a": "/ at",
+        "b": "/ but when the new road is",
+        "c": "/ it be much quicker."
+      },
+      "correct": "d",
+      "explanation": "it be should be replaced with it will be of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 55,
+      "question": "The couple?",
+      "exam_source": "",
+      "options": {
+        "a": "/ preferred to walk",
+        "b": "/ until the",
+        "c": "/ of the town."
+      },
+      "correct": "c",
+      "explanation": "until should be replaced with up to of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 56,
+      "question": "Ramayana is an ancient?",
+      "exam_source": "",
+      "options": {
+        "a": "/ Sanskrit epic; it is",
+        "b": "/ believed to be written",
+        "c": "/ around 500 BC"
+      },
+      "correct": "a",
+      "explanation": "Ramayana should be replaced with The Ramayana of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 57,
+      "question": "She always?",
+      "exam_source": "",
+      "options": {
+        "a": "/ likes to",
+        "b": "/ show on",
+        "c": "/ her"
+      },
+      "correct": "c",
+      "explanation": "show on should be replaced with show off of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 58,
+      "question": "If it?",
+      "exam_source": "",
+      "options": {
+        "a": "/ will rain tomorrow",
+        "b": "/ I will",
+        "c": "/ stay"
+      },
+      "correct": "b",
+      "explanation": "will rain should be replaced with rains of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 59,
+      "question": "Every person who believes in principles?",
+      "exam_source": "",
+      "options": {
+        "b": "/ for their convictions.",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "their should be replaced with his/her of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 60,
+      "question": "When it?",
+      "exam_source": "",
+      "options": {
+        "a": "/ come to football",
+        "b": "/ my brother is",
+        "c": "/ an addict."
+      },
+      "correct": "b",
+      "explanation": "come should be replaced with comes of use will be, because it",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 61,
+      "question": "Throw of?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the old shoes;",
+        "b": "/ nobody will",
+        "c": "/ them now."
+      },
+      "correct": "a",
+      "explanation": "Throw of should be replaced with Throw away of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 62,
+      "question": "They have decided?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to wind out",
+        "b": "/ their",
+        "c": "/ without delay."
+      },
+      "correct": "b",
+      "explanation": "wind out should be replaced with wind up of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 63,
+      "question": "I’m not working tomorrow,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ so I don’t had",
+        "b": "/ get up early.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "dont had to should be replaced with dont have to of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 64,
+      "question": "I noticed that they?",
+      "exam_source": "",
+      "options": {
+        "a": "/ did not listened to",
+        "c": "/ a shopping complex."
+      },
+      "correct": "b",
+      "explanation": "did not listened to should be replaced with did not listen",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 65,
+      "question": "Since the little girl answers?",
+      "exam_source": "",
+      "options": {
+        "a": "/ a few simple",
+        "b": "/ her parents say that",
+        "c": "/ she is",
+        "d": "hall"
+      },
+      "correct": "d",
+      "explanation": "too intelligent should be replaced with very intelligent of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 66,
+      "question": "It is difficult to live in?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the societal",
+        "b": "/ when one has",
+        "c": "/ fewer"
+      },
+      "correct": "a",
+      "explanation": "live in should be replaced with live up to of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 67,
+      "question": "Nursery classes?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for the children",
+        "b": "/ starts",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "starts on April should be replaced with start in April of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 68,
+      "question": "We took?",
+      "exam_source": "",
+      "options": {
+        "a": "/ an ice",
+        "b": "/ and applied it on"
+      },
+      "correct": "b",
+      "explanation": "an ice should be replaced with some ice of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 69,
+      "question": "Ramya is working?",
+      "exam_source": "",
+      "options": {
+        "a": "/ hardly",
+        "b": "/ to get good",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "hardly should be replaced with hard of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 70,
+      "question": "Urgent activities are those things?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that you",
+        "b": "/ as they require",
+        "c": "/ and cannot be put on."
+      },
+      "correct": "d",
+      "explanation": "put on should be replaced with put off of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 71,
+      "question": "Rahim was one of that?",
+      "exam_source": "",
+      "options": {
+        "a": "/ selected for",
+        "b": "/ the",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "one of that should be replaced with one of those of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 72,
+      "question": "When Christy?",
+      "exam_source": "",
+      "options": {
+        "a": "/ grew out",
+        "b": "/ he turned out",
+        "c": "/ to be a gentleman."
+      },
+      "correct": "b",
+      "explanation": "grew out should be replaced with grew up of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 73,
+      "question": "Rashmi was?",
+      "exam_source": "",
+      "options": {
+        "a": "/ quite amusing when",
+        "b": "/ she",
+        "c": "/ what had happened."
+      },
+      "correct": "b",
+      "explanation": "amusing should be replaced with amused of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 74,
+      "question": "Today she said to?",
+      "exam_source": "",
+      "options": {
+        "a": "/ her friend, “You’re",
+        "c": "/ I have met ever”."
+      },
+      "correct": "d",
+      "explanation": "I have met ever should be replaced with I have ever met",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 75,
+      "question": "I seen?",
+      "exam_source": "",
+      "options": {
+        "a": "/ her with her mother",
+        "b": "/ in the",
+        "c": "/ yesterday."
+      },
+      "correct": "a",
+      "explanation": "I seen should be replaced with I saw of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 76,
+      "question": "The science is?",
+      "exam_source": "",
+      "options": {
+        "a": "/ opposed to",
+        "b": "/ religion."
+      },
+      "correct": "a",
+      "explanation": "The science should be replaced with Science of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 77,
+      "question": "By arresting the local criminals and to encourage good people,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ we can end",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "to encourage should be replaced with encouraging of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 78,
+      "question": "Sharad was entrusted with?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the task of",
+        "b": "/ but"
+      },
+      "correct": "c",
+      "explanation": "does not do should be replaced with did not do of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 79,
+      "question": "Having deprived from their?",
+      "exam_source": "",
+      "options": {
+        "a": "/ homes in the",
+        "b": "/ to take shelter in a school.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "Having deprived from their homes of place",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 80,
+      "question": "The technician reminded them to have a?",
+      "exam_source": "",
+      "options": {
+        "b": "/ machine after",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "thoroughly cleaning should be replaced with thorough",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 81,
+      "question": "Mr. Narayanan?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is a rather",
+        "b": "/ lazy man.",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 82,
+      "question": "Many people in the village and nearby areas regarded?",
+      "exam_source": "",
+      "options": {
+        "a": "/ him as an experienced and",
+        "b": "/ but some critics",
+        "c": "/ him an impostor and called"
+      },
+      "correct": "d",
+      "explanation": "called him as a villain should be replaced with called",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 83,
+      "question": "The children?",
+      "exam_source": "(SSC GD, 2021)",
+      "options": {
+        "a": "/ were warned",
+        "b": "/ to keep",
+        "c": "/ for the edge of the cliff.",
+        "d": "Answer Key"
+      },
+      "correct": "d",
+      "explanation": "for should be replaced with from of use will be, because keep",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 84,
+      "question": "My daughter participates?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in the dance",
+        "b": "/ that organises every year"
+      },
+      "correct": "c",
+      "explanation": "organises should be replaced with is organised of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 85,
+      "question": "The aeroplane took down?",
+      "exam_source": "",
+      "options": {
+        "a": "/ without the",
+        "b": "/ after making a sudden",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "took down should be replaced with took off of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 86,
+      "question": "The soldiers?",
+      "exam_source": "",
+      "options": {
+        "a": "/ were selected",
+        "b": "/ on the",
+        "c": "/ of ‘gallantry of spirits’."
+      },
+      "correct": "c",
+      "explanation": "on the section should be replaced with on the basis of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 87,
+      "question": "The teacher will never?",
+      "exam_source": "",
+      "options": {
+        "a": "/ give you punishment",
+        "b": "/ if you will",
+        "c": "/ come on time."
+      },
+      "correct": "c",
+      "explanation": "will come should be replaced with come of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 88,
+      "question": "I like reading?",
+      "exam_source": "(SSC MTS, 2021)",
+      "options": {
+        "a": "/ fictional stories besides",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "write should be replaced with writing of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 89,
+      "question": "With hard work, commitment?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and proper",
+        "b": "/ Sivaram has become",
+        "c": "/ a IPS"
+      },
+      "correct": "d",
+      "explanation": "a IPS officer should be replaced with an IPS officer of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 90,
+      "question": "That day we reached late?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for the competition",
+        "b": "/ even though the competition went on",
+        "c": "/ I felt bad about Shivani losing it."
+      },
+      "correct": "c",
+      "explanation": "smooth should be replaced with smoothly of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 91,
+      "question": "This task is being undertaken?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for the",
+        "b": "/ at the",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "in needed should be replaced with in need of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 92,
+      "question": "The general’s address?",
+      "exam_source": "",
+      "options": {
+        "a": "/ was applauds",
+        "c": "/ of society."
+      },
+      "correct": "b",
+      "explanation": "was applauds should be replaced with was applauded of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 93,
+      "question": "A part?",
+      "exam_source": "",
+      "options": {
+        "a": "/ of an",
+        "b": "/ apple is",
+        "c": "/ rotten."
+      },
+      "correct": "b",
+      "explanation": "an should be replaced with the of use will be because specific",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 94,
+      "question": "The politicians?",
+      "exam_source": "",
+      "options": {
+        "a": "/ parted ways",
+        "b": "/ due",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "due towards should be replaced with due to of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 95,
+      "question": "How long are you working?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for your",
+        "b": "/ and why don’t you"
+      },
+      "correct": "a",
+      "explanation": "are you working should be replaced with have you been",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 96,
+      "question": "The judges eliminated the?",
+      "exam_source": "",
+      "options": {
+        "a": "/ classical singer",
+        "b": "/ she dropped of",
+        "c": "/ in the middle of the"
+      },
+      "correct": "c",
+      "explanation": "dropped of should be replaced with dropped out of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 97,
+      "question": "Everything is going well;?",
+      "exam_source": "",
+      "options": {
+        "a": "/ we didn’t have",
+        "b": "/ any problem.",
+        "c": "/ No error."
+      },
+      "correct": "b",
+      "explanation": "we didn't have should be replaced with we don't have of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 98,
+      "question": "There are eight planets?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in our solar system",
+        "b": "/ and a Earth is the third",
+        "c": "/ planet from"
+      },
+      "correct": "c",
+      "explanation": "a Earth should be replaced with the Earth of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 99,
+      "question": "The unintentional mistakes?",
+      "exam_source": "",
+      "options": {
+        "a": "/ made by the",
+        "b": "/ was overlooked by the officer.",
+        "c": "/ No error."
+      },
+      "correct": "c",
+      "explanation": "was overlooked should be replaced with were overlooked",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 100,
+      "question": "He told the policeman that he would rather?",
+      "exam_source": "",
+      "options": {
+        "a": "/ starve to stealing to get",
+        "b": "/ what he has",
+        "c": "/ No error",
+        "d": "hall"
+      },
+      "correct": "b",
+      "explanation": "starve to stealing should be replaced with starve than steal",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 101,
+      "question": "The demand of the workers union that the dismissed?",
+      "exam_source": "",
+      "options": {
+        "a": "/ employee is reinstated",
+        "b": "/ has",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "is reinstated should be replaced with be reinstated of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 102,
+      "question": "He read widely,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ though hardly",
+        "b": "/ and",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "though hardly should be replaced with thought deeply",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 103,
+      "question": "On the second visit to the spot, some twenty years later,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ John was sad to see",
+        "b": "/ the",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "denuded from should be replaced with denuded of of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 104,
+      "question": "At that time, little did he knew?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that one",
+        "b": "/ commitment for him.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "knew should be replaced with know of use will be, because did",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 105,
+      "question": "It was noticed?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that he truthful",
+        "b": "/ answered",
+        "c": "/ raised by the Headmistress."
+      },
+      "correct": "b",
+      "explanation": "truthful should be replaced with truthfully of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 106,
+      "question": "Pride brings a?",
+      "exam_source": "",
+      "options": {
+        "a": "/ great dealing of vanity",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "great dealing of should be replaced with great deal of of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 107,
+      "question": "A company can?",
+      "exam_source": "",
+      "options": {
+        "a": "/ make money by",
+        "b": "/ obtain",
+        "c": "/ more affordably."
+      },
+      "correct": "c",
+      "explanation": "obtain should be replaced with obtaining of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 108,
+      "question": "I used to eat into?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in the evening",
+        "b": "/ when",
+        "c": "/ were on night shifts."
+      },
+      "correct": "a",
+      "explanation": "eat into should be replaced with eat out of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 109,
+      "question": "If you are interested in?",
+      "exam_source": "",
+      "options": {
+        "a": "/ applying for the",
+        "b": "/ must receive by",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "must receive should be replaced with must be received of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 110,
+      "question": "Hardly had our friend begun to enquire about?",
+      "exam_source": "",
+      "options": {
+        "a": "/ her hour old call",
+        "b": "/ that the phone was",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "that should be replaced with when of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 111,
+      "question": "The government should take?",
+      "exam_source": "",
+      "options": {
+        "a": "/ stern",
+        "b": "/ when militancy was starting to",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "was starting should be replaced with starts of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 112,
+      "question": "We must go?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and congratulated him on his",
+        "b": "/ performance.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "congratulated should be replaced with congratulate of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 113,
+      "question": "At last the rain ceased and the sky was?",
+      "exam_source": "",
+      "options": {
+        "b": "/ and lightning.",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "cleared by should be replaced with clear of of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 114,
+      "question": "It seems evident to me that?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the visits",
+        "b": "/ were not very",
+        "c": "/ No error",
+        "d": "Answer Key"
+      },
+      "correct": "c",
+      "explanation": "frequently should be replaced with frequent of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 115,
+      "question": "The manager noticed?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that Pragya",
+        "b": "/ was",
+        "c": "/ the office on Saturday."
+      },
+      "correct": "c",
+      "explanation": "was first should be replaced with was the first of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 116,
+      "question": "She was fond of walking?",
+      "exam_source": "",
+      "options": {
+        "a": "/ along the path",
+        "b": "/ besides the lake.",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "besides should be replaced with beside of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 117,
+      "question": "You don’t have?",
+      "exam_source": "",
+      "options": {
+        "a": "/ a monopoly on suffering;",
+        "b": "/ other people don’t have problems too.",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "dont have problems too should be replaced with have",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 118,
+      "question": "It is his job?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to chase out",
+        "b": "/ clients with"
+      },
+      "correct": "b",
+      "explanation": "chase out should be replaced with chase up will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 119,
+      "question": "My Vice-Chancellor works?",
+      "exam_source": "",
+      "options": {
+        "a": "/ eighteen hours",
+        "b": "/ a day",
+        "c": "/ seven days week."
+      },
+      "correct": "d",
+      "explanation": "seven days week should be replaced with seven days a",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 120,
+      "question": "The manager asked?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the cooking team",
+        "b": "/ among you is to baked the"
+      },
+      "correct": "c",
+      "explanation": "is to baked should be replaced with is to bake will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 121,
+      "question": "The Supreme Court set away?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the verdict of",
+        "b": "/ and agreed to hear the plea",
+        "c": "/ of the complainant."
+      },
+      "correct": "a",
+      "explanation": "set away should be replaced with set aside will be, because set",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 122,
+      "question": "It became a known fact?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that they most",
+        "b": "/ techno music",
+        "c": "/ at every party."
+      },
+      "correct": "b",
+      "explanation": "most played should be replaced with mostly played will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 123,
+      "question": "I will watch film?",
+      "exam_source": "",
+      "options": {
+        "a": "/ if I finish the work",
+        "b": "/ in",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "watch film should be replaced with watch a film will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 124,
+      "question": "That accident happened?",
+      "exam_source": "",
+      "options": {
+        "a": "/ a long time ago",
+        "b": "/ I have shivered at",
+        "c": "/ the thought of"
+      },
+      "correct": "d",
+      "explanation": "ever for should be replaced with ever since will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 125,
+      "question": "Why does the lapse rate?",
+      "exam_source": "",
+      "options": {
+        "a": "/ effect the tendency",
+        "b": "/ of air to rise?",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "effect should be replaced with affect will be, because sentence in",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 126,
+      "question": "When I saw?",
+      "exam_source": "",
+      "options": {
+        "a": "/ her, she write",
+        "b": "/ a poem"
+      },
+      "correct": "b",
+      "explanation": "write should be replaced with was writing will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 127,
+      "question": "Amit told to Divya?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that he would come",
+        "b": "/ with a reward for her.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "told to Divya should be replaced with told Divya will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 128,
+      "question": "When she heard the news?",
+      "exam_source": "",
+      "options": {
+        "a": "/ she hasn’t been",
+        "b": "/ very pleased.",
+        "c": "/ No error."
+      },
+      "correct": "b",
+      "explanation": "hasnt been should be replaced with wasnt will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 129,
+      "question": "Since 1988,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the people of Rajasthan",
+        "c": "/ for 25-year-old man."
+      },
+      "correct": "d",
+      "explanation": "for 25-year-old man should be replaced with for a 25-year-",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 130,
+      "question": "His condition has?",
+      "exam_source": "(SSC CHSL, 2016)",
+      "options": {
+        "a": "/ only deteriorated, his",
+        "b": "/ hangs with a thread.",
+        "c": "/ No error",
+        "d": "h all"
+      },
+      "correct": "c",
+      "explanation": "with should be replaced with by of use will be, because correct",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 131,
+      "question": "Dr. Paramahamsa has been working?",
+      "exam_source": "",
+      "options": {
+        "a": "/ as a",
+        "b": "/ of Mathematics",
+        "c": "/ in"
+      },
+      "correct": "b",
+      "explanation": "as a Assistant Professor should be replaced with as an",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 132,
+      "question": "Where are you coming from?",
+      "exam_source": "",
+      "options": {
+        "a": "/ Are you",
+        "b": "/ an American?",
+        "c": "/ No error."
+      },
+      "correct": "a",
+      "explanation": "Where are you coming from? should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 133,
+      "question": "Mr. Unkerton glanced?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to the inspector",
+        "b": "/ who merely snorted",
+        "c": "/ and looked at the"
+      },
+      "correct": "b",
+      "explanation": "to should be replaced with at of use will be, because glance of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 134,
+      "question": "The guards in the colony?",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "/ always keep",
+        "c": "/ going on around."
+      },
+      "correct": "c",
+      "explanation": "an eye in things should be replaced with an eye on things",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 135,
+      "question": "The more it rains,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ worse",
+        "b": "/ the roads",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "worse should be replaced with the worse of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 136,
+      "question": "Ravi always?",
+      "exam_source": "",
+      "options": {
+        "a": "/ boasts at",
+        "b": "/ his"
+      },
+      "correct": "b",
+      "explanation": "boasts at should be replaced with boasts of of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 137,
+      "question": "Bill was looking impatient?",
+      "exam_source": "",
+      "options": {
+        "a": "/ at the useless",
+        "b": "/ who showed",
+        "c": "/ no signs of leaving"
+      },
+      "correct": "a",
+      "explanation": "looking impatient should be replaced with looking",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 138,
+      "question": "A species is considered?",
+      "exam_source": "",
+      "options": {
+        "a": "/ endangered when",
+        "b": "/ in a very high risk of extinction in the",
+        "c": "/ No error."
+      },
+      "correct": "c",
+      "explanation": "in a very high risk should be replaced with at a very high",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 139,
+      "question": "Akash would be staying?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to his uncle’s",
+        "b": "/ during",
+        "c": "/ the holidays."
+      },
+      "correct": "b",
+      "explanation": "to his uncles place should be replaced with at his uncles",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 140,
+      "question": "Coimbatore is one of?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the biggest cities in",
+        "b": "/ and is considered",
+        "c": "/ as a"
+      },
+      "correct": "d",
+      "explanation": "as because consider with object",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 141,
+      "question": "We have?",
+      "exam_source": "(SSC GD, 2021)",
+      "options": {
+        "a": "/ run out eggs;",
+        "b": "/ could you buy",
+        "c": "/ some more?",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "out eggs should be replaced with out of eggs will be because correct",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 142,
+      "question": "She spotted the novel?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and shouted, “Here",
+        "b": "/ that we were searching for",
+        "c": "/ all around.”"
+      },
+      "correct": "b",
+      "explanation": "Here the book lies should be replaced with Here lies",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 143,
+      "question": "No girl in her troupe?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is as sprightly as",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 144,
+      "question": "Each cigarette a person smoke?",
+      "exam_source": "",
+      "options": {
+        "a": "/ does some",
+        "b": "/ it may cause a serious",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "smoke should be replaced with smokes will be because Each",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 145,
+      "question": "He served?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the country with heart and soul",
+        "b": "/ but got nothing in return.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "with heart and soul should be replaced with heart and soul",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 146,
+      "question": "I do not understand what makes people?",
+      "exam_source": "",
+      "options": {
+        "a": "/ so",
+        "b": "/ such minor problems.",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "for should be replaced with about will be because unhappy of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 147,
+      "question": "He demonstrated them how?",
+      "exam_source": "",
+      "options": {
+        "a": "/ he prepared",
+        "b": "/ the miraculous fuel.",
+        "c": "/ No error",
+        "d": "Answer Key"
+      },
+      "correct": "a",
+      "explanation": "demonstrated them should be replaced with demonstrated",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 148,
+      "question": "I am sorry?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to intrude by",
+        "b": "/ you at"
+      },
+      "correct": "b",
+      "explanation": "by should be replaced with on will be because intrude on",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 149,
+      "question": "I always love?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to eat snacks",
+        "b": "/ at evening.",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "at evening should be replaced with in the evening will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 150,
+      "question": "You are?",
+      "exam_source": "(SSC MTS, 2019)",
+      "options": {
+        "a": "/ not expect",
+        "b": "/ to do",
+        "c": "/ the work",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "expect should be replaced with expected will be because be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 151,
+      "question": "Rahul asked me?",
+      "exam_source": "",
+      "options": {
+        "a": "/ whether I was interested",
+        "b": "/ to joining the group for the trip.",
+        "c": "/ No"
+      },
+      "correct": "c",
+      "explanation": "to joining should be replaced with in joining will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 152,
+      "question": "When you were?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in trouble",
+        "b": "/ it was me",
+        "c": "/ who helped you."
+      },
+      "correct": "c",
+      "explanation": "it was me should be replaced with it was I of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 153,
+      "question": "Gandhi ji considered?",
+      "exam_source": "",
+      "options": {
+        "a": "/ it wrongly",
+        "b": "/ to use",
+        "c": "/ even for fair ends."
+      },
+      "correct": "b",
+      "explanation": "wrongly should be replaced with wrong will be because consider",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 154,
+      "question": "He firmly believes that radical change?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in",
+        "b": "/ various departments",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "radical change from before 'a' of use will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 155,
+      "question": "If you are going?",
+      "exam_source": "",
+      "options": {
+        "a": "/ next Monday, when will",
+        "b": "/ return your home?",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "your home from before 'to' of use will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 156,
+      "question": "Had I been at your place,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ I would not have",
+        "b": "/ approved of the proposal.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "at should be replaced with 'in' of use will be because in your",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 157,
+      "question": "The behaviour?",
+      "exam_source": "",
+      "options": {
+        "a": "/ of boys and girls",
+        "b": "/ are",
+        "c": "/ during assembly."
+      },
+      "correct": "c",
+      "explanation": "are should be replaced with is subject",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 158,
+      "question": "Broadly in layman’s language, disability can be?",
+      "exam_source": "",
+      "options": {
+        "a": "/ classified between groups",
+        "b": "/ namely",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "between should be replaced with into will be because classify",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 159,
+      "question": "Though the?",
+      "exam_source": "",
+      "options": {
+        "a": "/ global financial crisis",
+        "c": "/ to grow at an"
+      },
+      "correct": "a",
+      "explanation": "Though the should be replaced with Despite will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 160,
+      "question": "Surgical strike is not the?",
+      "exam_source": "(SSC MTS, 2021)",
+      "options": {
+        "a": "/ only solution to",
+        "b": "/ standing at front of us.",
+        "d": "\b 161. ‘Where there is a will",
+        "c": "/ No error."
+      },
+      "correct": "c",
+      "explanation": "at front of us should be replaced with in front of us will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 162,
+      "question": "Raghu did not get the job?",
+      "exam_source": "",
+      "options": {
+        "a": "/ because he did",
+        "b": "/ experience enough",
+        "c": "/ for the"
+      },
+      "correct": "c",
+      "explanation": "experience enough should be replaced with enough",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 163,
+      "question": "Shyamali is?",
+      "exam_source": "",
+      "options": {
+        "a": "/ very",
+        "b": "/ careful for",
+        "c": "/ her"
+      },
+      "correct": "c",
+      "explanation": "for should be replaced with about will be because careful with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 164,
+      "question": "LIC was found?",
+      "exam_source": "",
+      "options": {
+        "a": "/ on September 1, 1956",
+        "c": "/ No",
+        "b": "137.",
+        "d": "140."
+      },
+      "correct": "a",
+      "explanation": "found should be replaced with founded will be because any",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 165,
+      "question": "Indian feminism grew out of the women’s movements?",
+      "exam_source": "",
+      "options": {
+        "a": "/ of the late nineteenth century",
+        "b": "/ reached full maturity in the early twentieth",
+        "c": "/ No error."
+      },
+      "correct": "c",
+      "explanation": "reached should be replaced with and reached will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 166,
+      "question": "The police are searching?",
+      "exam_source": "",
+      "options": {
+        "a": "/ about the missing",
+        "b": "/ jewellery.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "about go,xk because search after",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 167,
+      "question": "Sachin and Sehwag are?",
+      "exam_source": "",
+      "options": {
+        "a": "/ great batsmen",
+        "c": "/ than latter."
+      },
+      "correct": "d",
+      "explanation": "latter before the because definite of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 168,
+      "question": "The murder was?",
+      "exam_source": "",
+      "options": {
+        "a": "/ too abominable",
+        "b": "/ to",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "described should be replaced with be described will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 169,
+      "question": "Mrs. Premlatha asked?",
+      "exam_source": "",
+      "options": {
+        "a": "/ Malini to hand",
+        "b": "/ all the",
+        "c": "/ payment slips."
+      },
+      "correct": "b",
+      "explanation": "hand down should be replaced with hand over will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 170,
+      "question": "My secretary is disposed of?",
+      "exam_source": "",
+      "options": {
+        "a": "/ discuss",
+        "b": "/ before she begins",
+        "c": "/ the actual work."
+      },
+      "correct": "a",
+      "explanation": "disposed of should be replaced with disposed to will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 171,
+      "question": "The greatest merit of democracy?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is that",
+        "b": "/ and can pursues his",
+        "c": "/ No error."
+      },
+      "correct": "c",
+      "explanation": "pursues should be replaced with pursue will be because modal",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 172,
+      "question": "No one turned up?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to claim the stowed away",
+        "b": "/ which was discovered on",
+        "c": "/ No"
+      },
+      "correct": "c",
+      "explanation": "on should be replaced with in will be because any okgu of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 173,
+      "question": "In accordance to?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the factual data",
+        "c": "/ to control"
+      },
+      "correct": "a",
+      "explanation": "to should be replaced with with will be because correct phrase in",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 174,
+      "question": "The teacher checked?",
+      "exam_source": "",
+      "options": {
+        "a": "/ whether each of them",
+        "b": "/ have a blanket",
+        "c": "/ as it was a cold night."
+      },
+      "correct": "c",
+      "explanation": "have should be replaced with had will be because main clause",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 175,
+      "question": "He dropped out?",
+      "exam_source": "",
+      "options": {
+        "a": "/ at his friend’s house",
+        "c": "/ the day before yesterday."
+      },
+      "correct": "a",
+      "explanation": "dropped out should be replaced with dropped in will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 176,
+      "question": "All stake holders of education?",
+      "exam_source": "",
+      "options": {
+        "a": "/ have the",
+        "b": "/ in every",
+        "c": "/ No error."
+      },
+      "correct": "c",
+      "explanation": "every aspects should be replaced with every aspect will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 177,
+      "question": "Persuasion happens only?",
+      "exam_source": "",
+      "options": {
+        "a": "/ when someone",
+        "b": "/ from which he has unwilling",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "has unwilling should be replaced with is unwilling will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 178,
+      "question": "He was acquitted to?",
+      "exam_source": "",
+      "options": {
+        "a": "/ a cyber crime",
+        "b": "/ on",
+        "c": "/ given to the court.",
+        "d": "Answer Key"
+      },
+      "correct": "a",
+      "explanation": "acquitted to should be replaced with acquitted of will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 179,
+      "question": "I was compelled to do it?",
+      "exam_source": "",
+      "options": {
+        "a": "/ as I strongly felt",
+        "b": "/ the safety of my friends were at stake."
+      },
+      "correct": "c",
+      "explanation": "were should be replaced with was will be because safety ,d",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 180,
+      "question": "Ravi works?",
+      "exam_source": "",
+      "options": {
+        "a": "/ too hard so that he does not",
+        "b": "/ fail in the examination.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "too should be replaced with very of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 181,
+      "question": "We admired the way he had completed all his work?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and appreciating the method",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "appreciating should be replaced with appreciated of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 182,
+      "question": "Our neighbours had repeated?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the same",
+        "b": "/ facts to their notice.",
+        "c": "/ No"
+      },
+      "correct": "a",
+      "explanation": "had repeated should be replaced with would have",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 183,
+      "question": "Due to certain inevitable circumstances, the scheduled programme had to be?",
+      "exam_source": "",
+      "options": {
+        "b": "/ but the members",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "indefinite should be replaced with indefinitely of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 184,
+      "question": "Honesty and integrity are the qualities which cannot be?",
+      "exam_source": "",
+      "options": {
+        "a": "/ done away with",
+        "b": "/ and, hence",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "it assumes should be replaced with they assume of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 185,
+      "question": "He shouted at his servants in a very harsh tone?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and told them that",
+        "b": "/ he does not need",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "does not should be replaced with did not of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 186,
+      "question": "Reasonable ambition, if supported?",
+      "exam_source": "",
+      "options": {
+        "a": "/ by",
+        "b": "/ is like to yield the",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "like should be replaced with likely of use will be.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 187,
+      "question": "Even after worked in the office?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for as",
+        "b": "/ he still does not",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "worked should be replaced with working of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 188,
+      "question": "They are forbidden?",
+      "exam_source": "",
+      "options": {
+        "a": "/ not to enter the sacred",
+        "b": "/ and disobedience is punished with",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "not to enter should be replaced with to enter of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 189,
+      "question": "It has been?",
+      "exam_source": "",
+      "options": {
+        "a": "/ noticed that",
+        "b": "/ across all his",
+        "c": "/ he is admired."
+      },
+      "correct": "c",
+      "explanation": "across should be replaced with despite of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 190,
+      "question": "Learning many languages?",
+      "exam_source": "",
+      "options": {
+        "a": "/ promotes",
+        "c": "/ No error."
+      },
+      "correct": "b",
+      "explanation": "harmonies should be replaced with harmony of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 191,
+      "question": "Despite the challenges,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ they ultimate",
+        "b": "/ their goal of launching",
+        "c": "/ their"
+      },
+      "correct": "b",
+      "explanation": "ultimate should be replaced with ultimately of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 192,
+      "question": "If you say that someone?",
+      "exam_source": "",
+      "options": {
+        "a": "/ you admire has",
+        "b": "/ you mean that they have",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "they have should be replaced with he has of use will",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 193,
+      "question": "The thieves had no alternative?",
+      "exam_source": "",
+      "options": {
+        "a": "/ but to",
+        "b": "/ the orders of",
+        "c": "/ the police."
+      },
+      "correct": "b",
+      "explanation": "acquiesce with should be replaced with acquiesce in of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 194,
+      "question": "Tara was late for the meeting?",
+      "exam_source": "",
+      "options": {
+        "a": "/ but somehow",
+        "b": "/ to catch out with",
+        "c": "/ everything"
+      },
+      "correct": "c",
+      "explanation": "catch out with should be replaced with catch up with of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 195,
+      "question": "Irrigation works have a special importance?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in an agricultural countries like India",
+        "b": "/ where rainfall is unequally distributed",
+        "c": "/ No error."
+      },
+      "correct": "b",
+      "explanation": "an agricultural countries should be replaced with an",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 196,
+      "question": "My sister-in-law is the most?",
+      "exam_source": "",
+      "options": {
+        "a": "/ succeeded for",
+        "b": "/ the industrialists",
+        "c": "/ in this country"
+      },
+      "correct": "b",
+      "explanation": "succeeded for all should be replaced with successful of all",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 197,
+      "question": "I hope that?",
+      "exam_source": "",
+      "options": {
+        "a": "/ yesterday’s lunch",
+        "b": "/ at Rahul’s",
+        "c": "/ was at your liking."
+      },
+      "correct": "d",
+      "explanation": "at your liking should be replaced with to your liking of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 198,
+      "question": "She forbade?",
+      "exam_source": "",
+      "options": {
+        "a": "/ him not",
+        "b": "/ to enter that"
+      },
+      "correct": "b",
+      "explanation": "him not should be replaced with him of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 199,
+      "question": "In 1989, the government?",
+      "exam_source": "",
+      "options": {
+        "a": "/ did an about-",
+        "b": "/ it’s family planning",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "its should be replaced with its of use will be, because possessive",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 200,
+      "question": "If the scheme would have been implemented effectively?",
+      "exam_source": "",
+      "options": {
+        "a": "/ all affected",
+        "b": "/ would have",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "Would have been should be replaced with had been of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 201,
+      "question": "Malini’s family?",
+      "exam_source": "",
+      "options": {
+        "a": "/ doesn’t know",
+        "b": "/ how she",
+        "c": "/ the work pressure."
+      },
+      "correct": "c",
+      "explanation": "bears out of bears up will come",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 202,
+      "question": "His skills in programming?",
+      "exam_source": "",
+      "options": {
+        "a": "/ are more",
+        "b": "/ to those of most developers",
+        "c": "/ in"
+      },
+      "correct": "b",
+      "explanation": "\"Superior\" vius vki in ,d Comparative",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 203,
+      "question": "The brave and courageous soldiers?",
+      "exam_source": "",
+      "options": {
+        "a": "/ of our",
+        "b": "/ fell into the enemy",
+        "c": "/ and"
+      },
+      "correct": "c",
+      "explanation": "fell into of fell on will come",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 204,
+      "question": "She collected?",
+      "exam_source": "",
+      "options": {
+        "a": "/ some armful of medicines",
+        "b": "/ poured them down a drain.",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "\"Armful\" of plural armfuls is gS fd",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 205,
+      "question": "Evolutionary biology leave us?",
+      "exam_source": "",
+      "options": {
+        "a": "/ distinctly",
+        "b": "/ that",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"Evolutionary biology\" ,d Singular Subject",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 206,
+      "question": "Hardly the speaker had finished speaking?",
+      "exam_source": "",
+      "options": {
+        "b": "/ and there was a",
+        "c": "/ No error",
+        "d": "Answer Key",
+        "a": "206."
+      },
+      "correct": "a",
+      "explanation": "tc of \"Hardly\" from is gS,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 207,
+      "question": "The government warned the meat-sellers that if they persist in?",
+      "exam_source": "",
+      "options": {
+        "a": "/ charging unfair prices",
+        "b": "/ their licences would be cancelled.",
+        "c": "/ No"
+      },
+      "correct": "a",
+      "explanation": "Main Clause in \"warned\" (Past Tense)",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 208,
+      "question": "In a country like our,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the legal, social and",
+        "b": "/ push the problem",
+        "c": "/ No"
+      },
+      "correct": "a",
+      "explanation": "\"country like...\" after any Noun of use not",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 209,
+      "question": "This is the most perfect piece of art?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that",
+        "b": "/ because only she",
+        "c": "/ No"
+      },
+      "correct": "a",
+      "explanation": "\"Perfect\" vius vki in ,d Absolute Adjective",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 210,
+      "question": "Finishing my lunch?",
+      "exam_source": "",
+      "options": {
+        "a": "/ I started working on",
+        "b": "/ that required my immediate",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "d dke iwjh Re to be after dke 'kq:",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 211,
+      "question": "I am sorry to disappoint you?",
+      "exam_source": "",
+      "options": {
+        "a": "/ but I cannot",
+        "b": "/ had any more money",
+        "c": "/ till the"
+      },
+      "correct": "c",
+      "explanation": "let\" after always Bare Infinitive of use is gS,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 212,
+      "question": "Bread, butter and?",
+      "exam_source": "",
+      "options": {
+        "a": "/ jam common breakfast",
+        "b": "/ that are consumed by many",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "iwjk to do for \"items\" from before Auxiliary",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 213,
+      "question": "Had he not cautioned me?",
+      "exam_source": "",
+      "options": {
+        "a": "/ I may have come",
+        "b": "/ with this proposal.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "tc \"If Clause\" in Past Perfect Tense",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 214,
+      "question": "He not only comes there?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for swimming",
+        "b": "/ new aspirants."
+      },
+      "correct": "a",
+      "explanation": "\"but also\" after \"for coaching\" (Preposition",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 215,
+      "question": "Even though the shirt is rather expensive,?",
+      "exam_source": "",
+      "options": {
+        "b": "/ purchase it with my own",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"Even though\" \"Although/Though\" from 'kq:",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 216,
+      "question": "The superintendent of police has announced that those who are found guilty of breach of peace?",
+      "exam_source": "",
+      "options": {
+        "a": "/ or of taking the law into their own",
+        "b": "/ they will be taken to task.",
+        "c": "/ No"
+      },
+      "correct": "c",
+      "explanation": "of Subject \"those\" before gh come gS, and",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 217,
+      "question": "More widely popular?",
+      "exam_source": "",
+      "options": {
+        "a": "/ than the hunting of",
+        "b": "/ were the pursuit of the hare.",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "this of real Subject \"the pursuit of the",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 218,
+      "question": "Stephan, however, contrived?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to put away",
+        "b": "/ his departure",
+        "c": "/ for eighteen months."
+      },
+      "correct": "b",
+      "explanation": "to put away of to put off will come.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 219,
+      "question": "It took her a long time?",
+      "exam_source": "(SSC CGL, 2016)",
+      "options": {
+        "a": "/ to get off",
+        "b": "/ the",
+        "c": "/No error"
+      },
+      "correct": "b",
+      "explanation": "to get off of to get over will come.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 220,
+      "question": "He was constantly?",
+      "exam_source": "",
+      "options": {
+        "a": "/ gazing on the",
+        "b": "/ crime",
+        "c": "/ find some clues."
+      },
+      "correct": "b",
+      "explanation": "\"Gaze\" with always Fixed Preposition \"at\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 221,
+      "question": "At the beginning of the nineteenth century,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ female literacy was extremely lowed",
+        "b": "/ in",
+        "c": "/ No error",
+        "d": "all"
+      },
+      "correct": "b",
+      "explanation": "extremely lowed of extremely low",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 222,
+      "question": "We?",
+      "exam_source": "",
+      "options": {
+        "a": "/ enjoyed lunch",
+        "b": "/ he gave",
+        "c": "/ us."
+      },
+      "correct": "b",
+      "explanation": "to that Specific Lunch of be gS which \"mlus",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 223,
+      "question": "What to speak of?",
+      "exam_source": "(SSC CHSL, 2016)",
+      "options": {
+        "a": "/ shelter even food",
+        "b": "/ was",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "of gS\" of meaning in correct phrase",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 224,
+      "question": "In addition with?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the existing crisis in",
+        "b": "/ the rise of hunger index",
+        "c": "/ is"
+      },
+      "correct": "a",
+      "explanation": "\"blosQ vykok\" osQ vFkZ esa lgh Phrase \"In addition to\" gksrk gSA",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 225,
+      "question": "No matter?",
+      "exam_source": "(SSC CHSL, 2019)",
+      "options": {
+        "a": "/ what that",
+        "b": "/ the mother did",
+        "c": "/ the baby didn't stop crying."
+      },
+      "correct": "b",
+      "explanation": "\"No matter what\" correct Phrase gS,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 226,
+      "question": "Nagamani, a brave student,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ lodged a F.I.R.",
+        "b": "/ against",
+        "c": "/ the criminal."
+      },
+      "correct": "b",
+      "explanation": "Vowel Sound from 'kq: to be okys Abbreviations",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 227,
+      "question": "The team with a high motivation level?",
+      "exam_source": "",
+      "options": {
+        "b": "/ despite of the",
+        "c": "/ it faced."
+      },
+      "correct": "c",
+      "explanation": "Despite\" with \"of\" not",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 228,
+      "question": "India is not?",
+      "exam_source": "",
+      "options": {
+        "a": "/ on war",
+        "b": "/ with Pakistan."
+      },
+      "correct": "b",
+      "explanation": "\"at war\" ,d Fixed Phrase gS, \"on war\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 229,
+      "question": "A probe has been ordered?",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "/ by the incident",
+        "b": "/ that occurred at the celebrations.",
+        "c": "/ No",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "order a probe into something ,d correct",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 230,
+      "question": "The students were asked?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to turn up",
+        "c": "/ by Friday."
+      },
+      "correct": "b",
+      "explanation": "\"assignment any dke submit to do\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 231,
+      "question": "The train is running?",
+      "exam_source": "",
+      "options": {
+        "a": "/ late by six hours",
+        "c": "/ cannot make over the time."
+      },
+      "correct": "d",
+      "explanation": "\"time uqdlku of HkjikbZ to do (compensate",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 232,
+      "question": "The workers called out?",
+      "exam_source": "(SSC CHSL, 2024)",
+      "options": {
+        "a": "/ the strike because",
+        "b": "/ the management acceded to",
+        "c": "/ all their",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "okil ysus to do\" of context in correct",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 233,
+      "question": "Even now, when I see the spot,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ I am",
+        "b": "/ that took",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "consonant sound from 'kq: to be okys 'kCnksa before",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 234,
+      "question": "The saint at that time believes?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that it was",
+        "b": "/ the message of God",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "in \"at that time\" and \"it was\" of use done gS,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 235,
+      "question": "We take up this issue in the?",
+      "exam_source": "",
+      "options": {
+        "a": "/ next meeting",
+        "b": "/ our housing society.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"next meeting\" of be gS, which fd Future",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 236,
+      "question": "The book is written in a simple and?",
+      "exam_source": "",
+      "options": {
+        "a": "/ lucid",
+        "b": "/ number of well-drawn",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "illustrations of use will be because a number of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 237,
+      "question": "We have not had?",
+      "exam_source": "",
+      "options": {
+        "a": "/ such a good crop of",
+        "b": "/ since ten years.",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "Period of Time for \"for\" of use is gS,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 238,
+      "question": "I have been?",
+      "exam_source": "",
+      "options": {
+        "a": "/ looking by my",
+        "b": "/ cream",
+        "c": "/ a few weeks now."
+      },
+      "correct": "b",
+      "explanation": "any <w<us\" of context in correct",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 239,
+      "question": "It was an interesting chat with?",
+      "exam_source": "",
+      "options": {
+        "a": "/ an European",
+        "b": "/ that changed my mindset",
+        "d": "Answer Key",
+        "c": "242."
+      },
+      "correct": "b",
+      "explanation": "consonant sound from 'kq: to be okys 'kCnksa before",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 240,
+      "question": "The eldest?",
+      "exam_source": "(SSC GD, 2021)",
+      "options": {
+        "a": "/ prince is",
+        "b": "/ the heir",
+        "c": "/ of the"
+      },
+      "correct": "d",
+      "explanation": "\"heir\" with always Fixed Preposition \"to\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 241,
+      "question": "The robbers stabbed him?",
+      "exam_source": "",
+      "options": {
+        "a": "/ by a sharp knife",
+        "b": "/ he started bleeding",
+        "c": "/ profusely on"
+      },
+      "correct": "b",
+      "explanation": "tc ge fdlh Instrument/Tool dk use djosQ dksbZ dke djrs gSa, rks mlosQ fy, \"with\" dk use gksrk gS, \"by\" dk ughaA",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 242,
+      "question": "He was lying at?",
+      "exam_source": "",
+      "options": {
+        "a": "/ his bed when he",
+        "b": "/ saw",
+        "c": "/ through the window."
+      },
+      "correct": "a",
+      "explanation": "on ysVus of context in \"in bed\" \"on his",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 243,
+      "question": "The instructions on the bottle?",
+      "exam_source": "(SSC GD, 2022)",
+      "options": {
+        "a": "/ say -open the",
+        "b": "/ poured the contents",
+        "c": "/ into"
+      },
+      "correct": "c",
+      "explanation": "part 'b' in \"open\" (V1) gS, therefore 'and' from",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 244,
+      "question": "She learnt?",
+      "exam_source": "",
+      "options": {
+        "a": "/ how to play a piano",
+        "b": "/ when",
+        "c": "/ in Class 6th."
+      },
+      "correct": "b",
+      "explanation": "tc Musical Instrument piano, guitar,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 245,
+      "question": "The 100-year-old banyan?",
+      "exam_source": "",
+      "options": {
+        "a": "/ was blown off",
+        "b": "/ in the storm",
+        "c": "/ last night."
+      },
+      "correct": "b",
+      "explanation": "\"come/h rwiQku of any isM+ bekjr of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 246,
+      "question": "Gita got onto?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the book",
+        "b": "/ she was reading",
+        "c": "/ this morning."
+      },
+      "correct": "a",
+      "explanation": "\"any #fp with i<+uk 'kq: to do of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 247,
+      "question": "The servant was beaten?",
+      "exam_source": "(SSC MTS, 2019)",
+      "options": {
+        "a": "/ through his master",
+        "b": "/ with a stick.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "d Passive Voice of sentence gS, tc any",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 248,
+      "question": "The company decided?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to phase up its",
+        "b": "/ outdated technology",
+        "c": "/ and embrace"
+      },
+      "correct": "b",
+      "explanation": "\"any pj.kksa in iwjh from can do",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 249,
+      "question": "Although experts are worried?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that retail",
+        "b": "/ at a steep rate",
+        "c": "/ the"
+      },
+      "correct": "d",
+      "explanation": "blow away of blow over will come",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 250,
+      "question": "Much of the beauty and glory?",
+      "exam_source": "",
+      "options": {
+        "a": "/ of life",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "of real Subject \"Much\" gS, which fd ,d",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 251,
+      "question": "My friend Jatin?",
+      "exam_source": "(SSC MTS, 2021)",
+      "options": {
+        "a": "/ usually wears",
+        "b": "/ a",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "English in always Plural Form in \"spectacles\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 252,
+      "question": "An eucalyptus tree in my backyard?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is what",
+        "b": "/ a landmark for many",
+        "c": "/ to reach"
+      },
+      "correct": "a",
+      "explanation": "consonants sound from 'kq: to be okys 'kCnksa before",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 253,
+      "question": "The brass?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is not a",
+        "b": "/ very expensive",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "Material Nouns before any Article (A,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 254,
+      "question": "They would rather have a drink or play cards?",
+      "exam_source": "",
+      "options": {
+        "a": "/ after a hard day’s work",
+        "b": "/ than learning",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "part 'a' in 'would rather' after \"have\" and",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 255,
+      "question": "Referring the problem of rebel candidates,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ he said it worked both ways",
+        "b": "/ and",
+        "c": "/ No error",
+        "d": "h all"
+      },
+      "correct": "a",
+      "explanation": "'Refer' with always Fixed Preposition \"to\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 256,
+      "question": "An open administration will not help?",
+      "exam_source": "",
+      "options": {
+        "b": "/ for the affected public.",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"Complicated\" and \"Incomprehensible\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 257,
+      "question": "A more irrational world?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to this one in",
+        "b": "/ could hardly be",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "Comparative Degree in rqyuk to do for",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 258,
+      "question": "Before the internet?",
+      "exam_source": "",
+      "options": {
+        "a": "/ was available on mobile",
+        "b": "/ I read often books",
+        "c": "/ for entertainment"
+      },
+      "correct": "c",
+      "explanation": "\"Often\" ,d Adverb of Frequency gS,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 259,
+      "question": "More than 30 people?",
+      "exam_source": "",
+      "options": {
+        "a": "/ were arresting",
+        "b": "/ on",
+        "c": "/ in Jammu"
+      },
+      "correct": "b",
+      "explanation": "tc Subject qn dke not does, to that on dke",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 260,
+      "question": "They decided to?",
+      "exam_source": "",
+      "options": {
+        "a": "/ start their journey",
+        "c": "/ in midnight."
+      },
+      "correct": "d",
+      "explanation": "\"come/h in\" for always \"at midnight\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 261,
+      "question": "A good lawyer?",
+      "exam_source": "",
+      "options": {
+        "a": "/ always looks in the",
+        "c": "/ attends court."
+      },
+      "correct": "b",
+      "explanation": "\"any ekeys of gop-iM+rky to do\" of context in",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 262,
+      "question": "I regret?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in notify that",
+        "b": "/ the model you",
+        "c": "/ is out of stock."
+      },
+      "correct": "b",
+      "explanation": "'regret' with Object Infinitive (to +",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 263,
+      "question": "The book that I lost it?",
+      "exam_source": "(SSC STENO, 2022)",
+      "options": {
+        "a": "/ is too expensive",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "in \"The book\" main Object gS, to join",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 264,
+      "question": "She has taken?",
+      "exam_source": "",
+      "options": {
+        "a": "/ nothing from yesterday",
+        "c": "/ nauseous now."
+      },
+      "correct": "b",
+      "explanation": "tc ge time of any Point of Time from",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 265,
+      "question": "My sister is?",
+      "exam_source": "",
+      "options": {
+        "a": "/ allergic with peanuts",
+        "b": "/ so",
+        "c": "/ when preparing her meal."
+      },
+      "correct": "b",
+      "explanation": "\"allergic\" with always Fixed Preposition \"to\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 266,
+      "question": "Full many a flower?",
+      "exam_source": "",
+      "options": {
+        "a": "/ are born",
+        "b": "/ to blush",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "tc in \"Many a\" \"Many a + Singular",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 267,
+      "question": "Whenever she is coming?",
+      "exam_source": "",
+      "options": {
+        "a": "/ here, she brings",
+        "b": "/ many gifts for everyone.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "habitual actions always Simple Present",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 268,
+      "question": "After school, we?",
+      "exam_source": "",
+      "options": {
+        "a": "/ went home and",
+        "b": "/ told",
+        "c": "/ off the incident."
+      },
+      "correct": "d",
+      "explanation": "any ?kVuk of in crkus of sense in \"tell",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 269,
+      "question": "I still?",
+      "exam_source": "",
+      "options": {
+        "a": "/ do not understand",
+        "b": "/ why he did",
+        "c": "/ reply my email."
+      },
+      "correct": "d",
+      "explanation": "\"Reply\" tc ,d of verb use is gS and",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 270,
+      "question": "Who?",
+      "exam_source": "",
+      "options": {
+        "a": "/ do you wish",
+        "b": "/ to see?",
+        "c": "/ No"
+      },
+      "correct": "a",
+      "explanation": "tc ge any Object of in iwNrs are, \"Who\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 271,
+      "question": "His artwork is?",
+      "exam_source": "",
+      "options": {
+        "a": "/ more intricate",
+        "b": "/ than any",
+        "c": "/ in the gallery."
+      },
+      "correct": "c",
+      "explanation": "272. (c) 273. (a) 274. (c) @ (a) (b) (b) 283. (c) 284. 281. 282. h on (a) 285. (c) 290. The peon refused to move out (a)/ because it was bitter cold (b)/ and he was not well. (c)/ No error (d) 291. I consider it as my duty (a)/ to extend help and cooperation (b)/ to the humble and the poor. (c)/ No error (d) 292. We threw out some old furniture (a)/ so that the new television set (b)/ has enough space. (c)/ No error (d) 293. Meatless Days (a)/ have been made (b)/ into a film. (c)/ No error (d) 294. Religious people are to be (a)/ afraid of (b)/ sinful actions. (c)/ No error (d) 295. A boy was injured (a) / in the accident and was taken (b) / onto hospital. (c) / No error (d) (UPSC CDS 2 2024) 296. In his well-recognised stentorian yet amused voice (a) / the principal demanded an unique excuse (b) / from the student hauled up for alleged minor misdemeanour. (c) / No error (d)\b (UPSC CDS 2 2025) 297. People put considerably many more effort (a)/ when working in groups than (b)/ when working alone. (c)/ No error (d) 298. Neither of the (a)/ teachers is participating (b)/ on this event. (c)/ No error (d) 299. Her latest novel is considered (a)/ one of the most captivating story (b)/ in contemporary literature, earning praise (c)/ for its intricate plot and well-developed characters. (d) 300. In the nineteenth century, (a) / most traditional scholars (b) / tried to stay clear from the imperial Government. (c) / No error (d) (UPSC NDA 1 2021) 301. During the long journey (a)/ he amused for (b)/ quite some time watching videos (c)/ on his phone. (d) 302. Once considered ninth planet of the solar system, (a) / Pluto is today listed as the (b) / largest dwarf planet of the solar system. (c) / No error (d) (UPSC NDA 1 2022) 303. Some bacterial cells on our hands (a)/ may have genes that enabling them (b)/ to be resistant to a given (c)/ antibacterial agent. (d) Answer Key",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 272,
+      "question": "He has?",
+      "exam_source": "",
+      "options": {
+        "a": "/ no",
+        "b": "/ influence about",
+        "c": "/ me."
+      },
+      "correct": "c",
+      "explanation": "\"any on effect to be\" of context in",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 273,
+      "question": "We knocked around?",
+      "exam_source": "",
+      "options": {
+        "a": "/ early on Saturday",
+        "c": "/ the beautiful weather."
+      },
+      "correct": "a",
+      "explanation": "mBus from vkus\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 274,
+      "question": "Prateek doesn’t?",
+      "exam_source": "",
+      "options": {
+        "a": "/ look well today",
+        "c": "/ No error",
+        "b": "258.",
+        "d": "266."
+      },
+      "correct": "c",
+      "explanation": "main sentence Negative gS,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 275,
+      "question": "Please hang with?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for two minutes",
+        "c": "/ the utensils."
+      },
+      "correct": "a",
+      "explanation": "barkkj to do #of jgus\" of context in correct",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 276,
+      "question": "She told me?",
+      "exam_source": "",
+      "options": {
+        "a": "/ her name but",
+        "b": "/ I’m not",
+        "c": "/ it now."
+      },
+      "correct": "c",
+      "explanation": "Im not remembering of don't",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 277,
+      "question": "Although there is no proven data,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the",
+        "b": "/ that",
+        "c": "/ stock of iron ore in"
+      },
+      "correct": "b",
+      "explanation": "of Subject \"the Centre for Policy",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 278,
+      "question": "Glimpses to the religious side of nature?",
+      "exam_source": "",
+      "options": {
+        "b": "/ majority of his plays.",
+        "c": "/ No"
+      },
+      "correct": "a",
+      "explanation": "\"Glimpse\" with always Fixed Preposition",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 279,
+      "question": "Every one of the survivors?",
+      "exam_source": "",
+      "options": {
+        "a": "/ of the ill-fated",
+        "b": "/ have told the same story.",
+        "c": "/ No"
+      },
+      "correct": "c",
+      "explanation": "tc of Subject \"Every one of\", \"Each",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 280,
+      "question": "He is reported to have seen?",
+      "exam_source": "",
+      "options": {
+        "a": "/ a man and",
+        "b": "/ near the shore.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "tc Nouns 'and' from happens",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 281,
+      "question": "In the early days of petroleum exploration,?",
+      "exam_source": "",
+      "options": {
+        "b": "/ from the materials buried",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "okD; Past Time dh ckr dj jgk gSA blosQ vykok vkxs \"leaked\" (V2) dk use Hkh gqvk gSA blfy, \"postulate\" dh txg Past Tense (postulated) dk use gksxkA",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 282,
+      "question": "On my way to the office?",
+      "exam_source": "",
+      "options": {
+        "a": "/ I suddenly came",
+        "b": "/ a man whom I had never seen",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"Come across\" vius vki in Phrasal Verb gS",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 283,
+      "question": "As soon as the clock?",
+      "exam_source": "",
+      "options": {
+        "a": "/ chimed to announce",
+        "b": "/ she sprung up from",
+        "c": "/ No error."
+      },
+      "correct": "c",
+      "explanation": "in Past Tense gS, therefore 'spring'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 284,
+      "question": "Honesty has always?",
+      "exam_source": "",
+      "options": {
+        "a": "/and will always be",
+        "b": "/ greatest virtues of",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "tc Helping Verbs ,d gh Main",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 285,
+      "question": "He did not know?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the location of school",
+        "c": "/ the school was."
+      },
+      "correct": "c",
+      "explanation": "\"that\" and \"where\" nksuksa of ,d with use wrong",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 286,
+      "question": "Ramesh licked?",
+      "exam_source": "",
+      "options": {
+        "a": "/ honey and",
+        "b": "/ said that"
+      },
+      "correct": "d",
+      "explanation": "287. (c) 288. (b) 289. (a) 275. Please hang with (a)/ for two minutes (b)/ while I finish cleaning (c)/ the utensils. (d) 276. She told me (a)/ her name but (b)/ I’m not remembering (c)/ it now. (d) 277. Although there is no proven data, (a)/ the Centre for Policy Research estimate (b)/ that India has the largest (c)/ stock of iron ore in the world. (d) 278. Glimpses to the religious side of nature (a)/ appear in the (b)/ majority of his plays. (c)/ No error (d) 279. Every one of the survivors (a)/ of the ill-fated aircraft (b)/ have told the same story. (c)/ No error (d) 280. He is reported to have seen (a)/ a man and woman (b)/ near the shore. (c)/ No error (d) 281. In the early days of petroleum exploration, (a)/ many scientists postulate that hydrocarbons leaked upward (b)/ from the materials buried within the earth during its formation. (c)/ No error (d) 282. On my way to the office (a)/ I suddenly came across with (b)/ a man whom I had never seen before. (c)/ No error (d) 283. As soon as the clock (a) / chimed to announce the hour at midnight (b) / she sprung up from her bed. (c) / No error. (d) (UPSC CDS 1 2025) 284. Honesty has always (a)/and will always be regarded as one of the(b)/ greatest virtues of human character.(c)/ No error (d) 285. He did not know (a)/ the location of school (b)/ so, he enquired that where (c)/ the school was. (d) 286. Ramesh licked (a)/ honey and (b)/ said that (c)/ it tasted sweetly. (d) 287. Had you been (a)/ working regularly, (b)/ you had completed (c)/ the project yesterday. (d) 288. The food consumed (a) / is converted on (b) / the body into glucose. (c) / No error (d) (UPSC CDS 2 2022) 289. Migrating elephant herds appear like (a) / West Bengal so much that they spend more (b) / time here than in the neighbouring states from where they cross over. (c) / No error (d) (UPSC CDS 2 2023)ll (b) (b) 263. (a) 264. (b) 265. 261. 262. ee (b) fr275.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 287,
+      "question": "Had you been?",
+      "exam_source": "",
+      "options": {
+        "a": "/ working regularly",
+        "b": "/ you",
+        "c": "/ the project yesterday."
+      },
+      "correct": "c",
+      "explanation": "tc \"If Clause\" in Past Perfect",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 288,
+      "question": "The food consumed?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is converted on",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "converted in the body of use will be.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 289,
+      "question": "Migrating elephant herds appear like?",
+      "exam_source": "",
+      "options": {
+        "b": "/ time here than in the neighbouring states",
+        "c": "/ No error",
+        "a": "264."
+      },
+      "correct": "a",
+      "explanation": "appear like should be replaced with appear to like of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 290,
+      "question": "The peon refused to move out?",
+      "exam_source": "",
+      "options": {
+        "a": "/ because it",
+        "b": "/ and he was not well."
+      },
+      "correct": "b",
+      "explanation": "\"Cold\" ,d Adjective of dke do gS,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 291,
+      "question": "I consider it as my duty?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to extend help and",
+        "b": "/ to the humble and the poor.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"Consider\" Verb after \"as\" of use not done",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 292,
+      "question": "We threw out some old furniture?",
+      "exam_source": "",
+      "options": {
+        "a": "/ so that",
+        "b": "/ has enough space.",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "main sentence in Past Tense be, vkus",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 293,
+      "question": "Meatless Days?",
+      "exam_source": "",
+      "options": {
+        "a": "/ have been made",
+        "b": "/ into a",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"Meatless Days\" ,d fiQYe of uke",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 294,
+      "question": "Religious people are to be?",
+      "exam_source": "",
+      "options": {
+        "a": "/ afraid of",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"are to be afraid of\" of meaning wrong",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 295,
+      "question": "A boy was injured?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in the accident and was",
+        "b": "/ onto hospital.",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "place fnkus for \"to\" of use is gS,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 296,
+      "question": "In his well-recognised stentorian yet amused voice?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the principal demanded an unique",
+        "b": "/ from the student hauled up for",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "consonant sound from 'kq: to be okys 'kCnksa before",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 297,
+      "question": "People put considerably many more effort?",
+      "exam_source": "",
+      "options": {
+        "a": "/ when working in groups than",
+        "b": "/ when",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"Effort\" should be replaced with efforts will come",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 298,
+      "question": "Neither of the?",
+      "exam_source": "",
+      "options": {
+        "a": "/ teachers is participating",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "any worke lekjksg in ysus for",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 299,
+      "question": "Her latest novel is considered?",
+      "exam_source": "",
+      "options": {
+        "a": "/ one of the",
+        "b": "/ in contemporary",
+        "c": "/ for its intricate"
+      },
+      "correct": "b",
+      "explanation": "tc in \"one of the\" of use is gS,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 300,
+      "question": "In the nineteenth century,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ most traditional",
+        "b": "/ tried to stay clear from the",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"any from jguk jguk\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 301,
+      "question": "During the long journey?",
+      "exam_source": "",
+      "options": {
+        "a": "/ he amused for",
+        "b": "/ quite some time watching videos",
+        "c": "/ on"
+      },
+      "correct": "b",
+      "explanation": "amuse himself will be because tc viuk",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 303,
+      "question": "Some bacterial cells on our hands?",
+      "exam_source": "",
+      "options": {
+        "a": "/ may have",
+        "b": "/ to be resistant to",
+        "c": "/ antibacterial agent.",
+        "d": "Answer Key"
+      },
+      "correct": "b",
+      "explanation": "enabling should be replaced with enable will be because modal",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 304,
+      "question": "Over long periods of time,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ layers of",
+        "b": "/ to a height of a few",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "builds up should be replaced with build up will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 305,
+      "question": "I cannot forget?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the kindness which",
+        "b": "/ he",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "which should be replaced with with which will be because \"treat\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 306,
+      "question": "Many a student?",
+      "exam_source": "",
+      "options": {
+        "a": "/ have been placed",
+        "b": "/ in",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "have been placed should be replaced with has been placed",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 307,
+      "question": "It is raining?",
+      "exam_source": "",
+      "options": {
+        "a": "/ cats and dogs",
+        "b": "/ for the last",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "It is raining should be replaced with It has been raining",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 308,
+      "question": "Caricature, a type of exaggeration,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is",
+        "b": "/ political cartoons.",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "common should be replaced with commonly will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 309,
+      "question": "My left leg has just been operated by?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the",
+        "b": "/ a big hospital.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "operated by should be replaced with operated on by will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 310,
+      "question": "In some ways, the Diwali festival corresponds with Christmas?",
+      "exam_source": "",
+      "options": {
+        "a": "/ which is celebrated with",
+        "b": "/ all over the",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "with should be replaced with to of use will be.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 311,
+      "question": "I am looking forward?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to meet you",
+        "b": "/ at",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "to meet should be replaced with to meeting will be because \"look",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 312,
+      "question": "Early cities rely on food and water?",
+      "exam_source": "",
+      "options": {
+        "a": "/ from",
+        "b": "/ but today",
+        "c": "/ No"
+      },
+      "correct": "a",
+      "explanation": "rely on should be replaced with relied on will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 313,
+      "question": "The opportunity to attain foundational literacy?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and pursue a honest livelihood",
+        "b": "/ must"
+      },
+      "correct": "b",
+      "explanation": "a honest livelihood should be replaced with an honest",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 314,
+      "question": "Visitors to Chernobyl?",
+      "exam_source": "",
+      "options": {
+        "a": "/ are advised not to",
+        "b": "/ touching",
+        "c": "/ the dogs."
+      },
+      "correct": "c",
+      "explanation": "touching should be replaced with touch will be because \"to\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 315,
+      "question": "Hearing a love one’s voice?",
+      "exam_source": "",
+      "options": {
+        "a": "/ can convey",
+        "b": "/ without the constant visual",
+        "c": "/ of separation."
+      },
+      "correct": "a",
+      "explanation": "love ones should be replaced with loved ones will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 316,
+      "question": "If you were to?",
+      "exam_source": "",
+      "options": {
+        "a": "/ come to Chennai to settle",
+        "b": "/ it will be the best possible decision.",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "will be should be replaced with would be will be because \"If +",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 317,
+      "question": "I saw so much?",
+      "exam_source": "",
+      "options": {
+        "a": "/ of those pleasant carts",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "so much should be replaced with so many will be because \"carts\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 318,
+      "question": "I do not think that?",
+      "exam_source": "(SSC CGL, 2016)",
+      "options": {
+        "a": "/ I can cope up",
+        "b": "/ with",
+        "c": "/ No errог",
+        "d": "hall"
+      },
+      "correct": "b",
+      "explanation": "cope up should be replaced with cope will be because cope with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 319,
+      "question": "He went on committing crime after crime,?",
+      "exam_source": "",
+      "options": {
+        "b": "/ I could not",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "to do should be replaced with from doing will be because prevent",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 320,
+      "question": "How can we break upon?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the barriers of",
+        "b": "/ which divide the two",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "break upon should be replaced with break through will be.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 321,
+      "question": "It is incumbent?",
+      "exam_source": "",
+      "options": {
+        "a": "/ with all the students",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "with should be replaced with upon will be because \"incumbent",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 322,
+      "question": "He gave them no money?",
+      "exam_source": "",
+      "options": {
+        "a": "/ nor he did help",
+        "b": "/ in any way.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "nor he did help them should be replaced with nor did",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 323,
+      "question": "We build the roof?",
+      "exam_source": "",
+      "options": {
+        "a": "/ with a steep slope",
+        "b": "/ so",
+        "c": "/ slide off."
+      },
+      "correct": "a",
+      "explanation": "build should be replaced with built will be because sentence past",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 324,
+      "question": "He then set out on his journey,?",
+      "exam_source": "(SSC CGL, 2020)",
+      "options": {
+        "a": "/ and rides",
+        "b": "/ where",
+        "c": "/ water and shady trees.",
+        "d": "325. “Would you liked"
+      },
+      "correct": "b",
+      "explanation": "rides should be replaced with rode will be because sentence past",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 326,
+      "question": "Either Sam or Ishita?",
+      "exam_source": "",
+      "options": {
+        "a": "/ have invited her",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "have invited should be replaced with has invited will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 327,
+      "question": "Have a high fever early?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in pregnancy",
+        "b": "/ risk of certain",
+        "c": "/ birth"
+      },
+      "correct": "a",
+      "explanation": "Have should be replaced with Having will be because sentence",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 328,
+      "question": "Our team leader?",
+      "exam_source": "(SSC CGL, 2021)",
+      "options": {
+        "a": "/ told us to be at the work",
+        "b": "/ by 9 a.m.",
+        "c": "/ the next morning."
+      },
+      "correct": "b",
+      "explanation": "at the work should be replaced with at work will be because at",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 329,
+      "question": "Either of them have?",
+      "exam_source": "",
+      "options": {
+        "a": "/ started the protest",
+        "c": "/ my house."
+      },
+      "correct": "a",
+      "explanation": "have should be replaced with has will be because Either of +",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 330,
+      "question": "You must not?",
+      "exam_source": "(SSC CHSL, 2016)",
+      "options": {
+        "a": "/ look down into",
+        "b": "/parents'",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "look down into should be replaced with look down upon",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 331,
+      "question": "My cognitive process is?",
+      "exam_source": "",
+      "options": {
+        "a": "/ far most distinct",
+        "b": "/ than her ideologies.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "far most distinct should be replaced with far more distinct",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 332,
+      "question": "These are your slippers?",
+      "exam_source": "",
+      "options": {
+        "a": "/ on the ground",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "isnt they should be replaced with arent they will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 333,
+      "question": "You had better not to try?",
+      "exam_source": "(SSC CHSL, 2019)",
+      "options": {
+        "a": "/ and feed the",
+        "b": "/ in the zoo",
+        "c": "/ it is forbidden."
+      },
+      "correct": "a",
+      "explanation": "not to should be replaced with not will be because had",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 334,
+      "question": "The Chandrayaan 2 could have been a success,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ if it hadn’t lost the connection with control",
+        "b": "/ in the final moments of its landing.",
+        "c": "/ No error",
+        "d": "Answer Key"
+      },
+      "correct": "b",
+      "explanation": "control room should be replaced with the control room will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 335,
+      "question": "The deeper the pain,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the much helpless we",
+        "b": "/ dealing with our difficulties.",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "much helpless should be replaced with more helpless",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 336,
+      "question": "Einstein's school teachers?",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "/ thought he",
+        "b": "/ never success",
+        "c": "/ in life."
+      },
+      "correct": "c",
+      "explanation": "success should be replaced with succeed will be because would",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 337,
+      "question": "The smallest?",
+      "exam_source": "",
+      "options": {
+        "a": "/ dog barks",
+        "b": "/ the loud."
+      },
+      "correct": "c",
+      "explanation": "the loud should be replaced with the loudest will be because \"the",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 338,
+      "question": "The investigation yielded?",
+      "exam_source": "",
+      "options": {
+        "a": "/ little if nothing",
+        "b": "/ substantial evidence",
+        "c": "/ against the"
+      },
+      "correct": "b",
+      "explanation": "nothing should be replaced with anything will be because little if",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 339,
+      "question": "The notice?",
+      "exam_source": "(SSC CHSL, 2021)",
+      "options": {
+        "a": "/ that the office",
+        "b": "/ pasted over",
+        "c": "/ is very appropriate."
+      },
+      "correct": "c",
+      "explanation": "over should be replaced with on will be because notice wall",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 340,
+      "question": "Ganga was?",
+      "exam_source": "(SSC CHSL, 2024)",
+      "options": {
+        "a": "/ out shopping at the mall",
+        "c": "/ her schoolmate."
+      },
+      "correct": "c",
+      "explanation": "ran over should be replaced with ran into will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 341,
+      "question": "There?",
+      "exam_source": "",
+      "options": {
+        "a": "/ have been a series of abductions",
+        "c": "/ of the schools in the area."
+      },
+      "correct": "b",
+      "explanation": "have been should be replaced with has been will be because \"a",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 342,
+      "question": "Although his speech?",
+      "exam_source": "",
+      "options": {
+        "a": "/ was not very clearly",
+        "b": "/ everyone understood",
+        "c": "/ the underlying"
+      },
+      "correct": "b",
+      "explanation": "clearly should be replaced with clear will be because linking",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 343,
+      "question": "Despite working?",
+      "exam_source": "",
+      "options": {
+        "a": "/ very hard he",
+        "b": "/ failed to",
+        "c": "/ desiring results."
+      },
+      "correct": "d",
+      "explanation": "desiring should be replaced with desired will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 344,
+      "question": "When you were?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in trouble",
+        "b": "/ It was me",
+        "c": "/ who helped you."
+      },
+      "correct": "c",
+      "explanation": "me should be replaced with I will be because It is/was + Subject",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 345,
+      "question": "The behaviour?",
+      "exam_source": "",
+      "options": {
+        "a": "/ of boys and girls",
+        "b": "/ are",
+        "c": "/ during assembly."
+      },
+      "correct": "c",
+      "explanation": "are should be replaced with is will be because main subject",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 346,
+      "question": "The doctor did not put?",
+      "exam_source": "(SSC CPO, 2020)",
+      "options": {
+        "a": "/ the patient on",
+        "b": "/ yet still made",
+        "c": "/ him"
+      },
+      "correct": "c",
+      "explanation": "yet still in still redundant)gS because yet",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 347,
+      "question": "Fortunately, he passed the exams?",
+      "exam_source": "(SSC CPO, 2022)",
+      "options": {
+        "a": "/ with dint",
+        "b": "/ sheer hard work and diligence.",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "with dint of should be replaced with by dint of will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 348,
+      "question": "The devastating experiences?",
+      "exam_source": "",
+      "options": {
+        "a": "/ of many",
+        "b": "/ the necessary",
+        "c": "/ at the expense of",
+        "d": "hall"
+      },
+      "correct": "c",
+      "explanation": "necessary should be replaced with necessity will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 349,
+      "question": "The officials believed that the upcoming monsoon season?",
+      "exam_source": "",
+      "options": {
+        "a": "/ will bring relief to farmers",
+        "b": "/ but unexpected",
+        "c": "/ altered their"
+      },
+      "correct": "b",
+      "explanation": "will bring should be replaced with would bring will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 350,
+      "question": "Our digestive system produces an assimilable,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ nutrient-rich liquid that builds and",
+        "c": "/ No"
+      },
+      "correct": "c",
+      "explanation": "nourish should be replaced with nourishes will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 351,
+      "question": "On all intents and purposes,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the manager",
+        "b": "/ master of the firm.",
+        "c": "/ No error",
+        "d": "."
+      },
+      "correct": "a",
+      "explanation": "On all intents should be replaced with To all intents will be.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 352,
+      "question": "The newly appointed director laid emphasis on?",
+      "exam_source": "",
+      "options": {
+        "a": "/ administrative efficiency rather than",
+        "b": "/ research activities and innovation",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "at should be replaced with on will be because \"emphasis on\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 353,
+      "question": "You ought not have spoken to him?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in such",
+        "b": "/ but you did.",
+        "c": "/ No"
+      },
+      "correct": "a",
+      "explanation": "ought not have spoken should be replaced with ought not",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 354,
+      "question": "Today, smallpox is almost?",
+      "exam_source": "",
+      "options": {
+        "a": "/unheard of as",
+        "b": "/ it as a result",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "immune from should be replaced with immune to will be.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 355,
+      "question": "The rare painting fetched?",
+      "exam_source": "",
+      "options": {
+        "a": "/ a mammoth",
+        "b": "/ the auction of antique artefacts.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "on should be replaced with at will be because at an auction correct",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 356,
+      "question": "Since the organisation is established?",
+      "exam_source": "",
+      "options": {
+        "a": "/ ten",
+        "b": "/ it has expanded its operations",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "is established should be replaced with was established will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 357,
+      "question": "The manager assured the staff that?",
+      "exam_source": "",
+      "options": {
+        "a": "/ if no",
+        "b": "/ he would",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "volunteer should be replaced with volunteered will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 358,
+      "question": "They have been?",
+      "exam_source": "",
+      "options": {
+        "a": "/ very close friends",
+        "c": "No error"
+      },
+      "correct": "a",
+      "explanation": "have should be replaced with had will be because until + Past",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 359,
+      "question": "Do you find me unavailable,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ please do not",
+        "b": "/ a message behind.",
+        "c": "/ No"
+      },
+      "correct": "a",
+      "explanation": "360. (a) 361. (b) 362. (b) 363. (b)",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 360,
+      "question": "As sooner as the train grinds to a halt, he?",
+      "exam_source": "",
+      "options": {
+        "b": "/with parched throats to quench their",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "As sooner as should be replaced with As soon as will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 361,
+      "question": "It is the complexity of how the system operates?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that make it difficult to understand",
+        "c": "/ in"
+      },
+      "correct": "b",
+      "explanation": "make should be replaced with makes will be because subject",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 362,
+      "question": "God is great?",
+      "exam_source": "(SSC GD, 2021)",
+      "options": {
+        "a": "/ and we could",
+        "b": "/ be grateful",
+        "c": "/ he has bestowed on",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "could should be replaced with should will be because duty/",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 363,
+      "question": "The panel of senior economists was unanimous?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in their assessment that the policy would",
+        "b": "/ due to its flawed assumptions and lack",
+        "c": "351.",
+        "d": "370."
+      },
+      "correct": "b",
+      "explanation": "their assessment should be replaced with its assessment",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 364,
+      "question": "We discussed the problem so thoroughly?",
+      "exam_source": "",
+      "options": {
+        "b": "/ that I found",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "at the eve of should be replaced with on the eve of will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 365,
+      "question": "Happily, zoo officials were?",
+      "exam_source": "",
+      "options": {
+        "a": "/ unwilling to",
+        "b": "/ at a scheme that was potentially",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "cooperate at should be replaced with cooperate in will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 366,
+      "question": "A leading textile manufacturer, one of the fastest growing in the industry,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is looking",
+        "b": "/ to look after the",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "marketing manager should be replaced with a marketing",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 367,
+      "question": "I could not put up in the hotel?",
+      "exam_source": "",
+      "options": {
+        "a": "/ because",
+        "b": "/ were",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "put up should be replaced with put up at will be meaning",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 368,
+      "question": "The scientist was seemed?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to be excited",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "was seemed should be replaced with seemed will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 369,
+      "question": "Dad, will you get me a box of crayons?",
+      "exam_source": "(SSC GD, 2022)",
+      "options": {
+        "a": "/ on",
+        "b": "/ a box of crayons with you",
+        "c": "/ Or I will not be let"
+      },
+      "correct": "d",
+      "explanation": "will not be let you stay should be replaced with will not let",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 370,
+      "question": "The number of seats is increasing?",
+      "exam_source": "",
+      "options": {
+        "a": "/ steadily",
+        "b": "/ and it will rise by",
+        "c": "/ according to official"
+      },
+      "correct": "a",
+      "explanation": "is increasing should be replaced with has been increasing",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 371,
+      "question": "He is known for exaggerating facts?",
+      "exam_source": "",
+      "options": {
+        "a": "/ so you",
+        "b": "/ with a",
+        "c": "/ believing them in any"
+      },
+      "correct": "b",
+      "explanation": "to take should be replaced with take will be because had better",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 372,
+      "question": "His brother deals in electrical appliances?",
+      "exam_source": "",
+      "options": {
+        "b": "/ in",
+        "c": "/ with considerable"
+      },
+      "correct": "b",
+      "explanation": "manage should be replaced with manages will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 373,
+      "question": "Radha woke up?",
+      "exam_source": "(SSC MTS, 2019)",
+      "options": {
+        "a": "/ early that morning",
+        "c": "/ the beautiful"
+      },
+      "correct": "c",
+      "explanation": "should watch should be replaced with could watch will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 374,
+      "question": "Sometimes we interact?",
+      "exam_source": "(SSC MTS, 2021)",
+      "options": {
+        "a": "/ to people who are",
+        "b": "/ and not willing to listen.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "interact to should be replaced with interact with will be.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 375,
+      "question": "In today's world new ways of?",
+      "exam_source": "",
+      "options": {
+        "a": "/ teaching",
+        "b": "/ have to be adopting.",
+        "c": "366."
+      },
+      "correct": "c",
+      "explanation": "adopting should be replaced with adopted will be because have",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 376,
+      "question": "While driving, Satheesh always?",
+      "exam_source": "(SSC STENO, 2022)",
+      "options": {
+        "a": "/switches",
+        "b": "/ and kept it in the",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "kept should be replaced with keeps will be because always",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 377,
+      "question": "Ashoka adopt Buddhism?",
+      "exam_source": "",
+      "options": {
+        "a": "/ after the Kalinga",
+        "b": "/ in his empire",
+        "c": "/ during"
+      },
+      "correct": "a",
+      "explanation": "adopt should be replaced with adopted will be because \"after the",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 378,
+      "question": "It is about time she acknowledged her pride?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and admit the truth of her feelings",
+        "c": "/ without hesitation."
+      },
+      "correct": "b",
+      "explanation": "admit should be replaced with admitted will be because \"It is",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 379,
+      "question": "He commands as if he were the ruler of all lands?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and governs the people without",
+        "b": "/ in his empire",
+        "c": "/ arrogantly."
+      },
+      "correct": "b",
+      "explanation": "governs should be replaced with governed will be because \"as if\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 380,
+      "question": "I shall be glad to help?",
+      "exam_source": "",
+      "options": {
+        "a": "/ every one of my",
+        "b": "/ in their studies.",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "their should be replaced with his will be because everyone",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 381,
+      "question": "His written statement?",
+      "exam_source": "",
+      "options": {
+        "a": "/ defers in several",
+        "b": "/ from his oral statement.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "defers should be replaced with differs will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 382,
+      "question": "It was one of?",
+      "exam_source": "",
+      "options": {
+        "a": "/ most eloquent speeches",
+        "b": "/ delivered by Swami Vivekananda.",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "most eloquent speeches should be replaced with the most",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 384,
+      "question": "Columbus made his?",
+      "exam_source": "",
+      "options": {
+        "a": "/ first voyage from",
+        "b": "/ on 1492.",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "on 1492 should be replaced with in 1492 will be because year of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 385,
+      "question": "Clarity comes?",
+      "exam_source": "",
+      "options": {
+        "a": "/ from doing, not",
+        "b": "/ think",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "think should be replaced with thinking will be because from",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 386,
+      "question": "No sooner did?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the doctor enter the house",
+        "b": "/ than the patient died.",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 387,
+      "question": "There are psychological biases?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that prevent",
+        "b": "/ an objective reality",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "to see should be replaced with from seeing will be because prevent",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 388,
+      "question": "The unfair distribution?",
+      "exam_source": "",
+      "options": {
+        "a": "/ of assets among",
+        "b": "/ angered the more",
+        "c": "/ No error",
+        "d": "387."
+      },
+      "correct": "c",
+      "explanation": "more hardworking members should be replaced with most",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 389,
+      "question": "He began his discussion by pointing over?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that men and women",
+        "b": "/ had different",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "pointing over should be replaced with pointing out will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 390,
+      "question": "The greatest glory in life?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is to be able",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "ones should be replaced with one's will be because (dreams)",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 391,
+      "question": "When a gas is?",
+      "exam_source": "",
+      "options": {
+        "a": "/ cooled down it turns into a",
+        "b": "/ from a process called condensation.",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "from a process should be replaced with through a process",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 392,
+      "question": "The participants were seated?",
+      "exam_source": "",
+      "options": {
+        "a": "/ at the",
+        "b": "/ before the",
+        "c": "/ began in the evening",
+        "d": "."
+      },
+      "correct": "b",
+      "explanation": "at the conference hall should be replaced with in the",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 393,
+      "question": "A company of five thousand soldiers,?",
+      "exam_source": "",
+      "options": {
+        "b": "/ have just moved into their cantonment.",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "have should be replaced with has will be because \"A company\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 394,
+      "question": "Though there is progress?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for different",
+        "b": "/ why is there no brotherhood?",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "for different directions should be replaced with in different",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 395,
+      "question": "They had promised to delivered?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the",
+        "b": "/ to enable us to",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "to delivered should be replaced with to deliver will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 396,
+      "question": "John could not come?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to school",
+        "b": "/ as he",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "ill from cold should be replaced with ill with cold will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 397,
+      "question": "One of my best friends?",
+      "exam_source": "",
+      "options": {
+        "a": "/ was involved in",
+        "b": "/ which resulted",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "resulted of should be replaced with resulted in will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 398,
+      "question": "Though she has aptitude in Mathematics?",
+      "exam_source": "",
+      "options": {
+        "b": "/ because",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "aptitude in Mathematics should be replaced with aptitude",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 399,
+      "question": "There has been?",
+      "exam_source": "",
+      "options": {
+        "a": "/ little change in the patient's",
+        "b": "/ since he was moved to the",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "little should be replaced with a little(some) will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 400,
+      "question": "The king was embarrassed?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to find",
+        "b": "/ against his own queen.",
+        "c": "/ No",
+        "d": "all h"
+      },
+      "correct": "b",
+      "explanation": "evidences should be replaced with evidence will be because",
+      "format": "error_spotting"
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "chapter_no": 59,
+  "title": "Present Perfect Continuous Vs Past Perfect Continuous",
+  "section": "A",
+  "start_page": 157,
+  "end_page": 159,
+  "theory": "Present Perfect Continuous\n\n                            Past                                             Present\n                                             ous\n                                  C  ontinu\n                           erfect\n         Since       Past P\n\n          For                                                                    on tinuo\n                                                                  n t Pe rfect C\n                                                           Pre se\n         Time\n\n         Since\n          For\n\n        Time\n\n    Past Perfect Continuous: Action started in the past and continued up to a certain point\n   in the past.\n \t\ttks dk;Z Past esa 'kq: gqvk gks vkSj Past dh fdlh nwljh ?kVuk ;k le; rd tkjh jgsA\n  Present Perfect Continuous: Action started in the past and continues up to the present.\n \t\ttks dk;Z Past esa 'kq: gqvk gks vkSj Present rd tkjh jgsA\n    Structure\n   $ Present Perfect Continuous: Subject + has/have + been + V1+ing + object + since/for + time\n   $ Past Perfect Continuous: Subject + had + been + V1+ing + object + since/for + time",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "He is?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ living in Chennai",
+        "b": "/ for five years.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "is living should be replaced with has been living of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "He was sleeping?",
+      "exam_source": "(CRPF HCM, 2023)",
+      "options": {
+        "a": "/ for two hours",
+        "b": "/when",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "was sleeping should be replaced with had been sleeping",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "She has been cooking?",
+      "exam_source": "(CRPF HCM, 2023)",
+      "options": {
+        "a": "/ the meal for over an",
+        "b": "/ when we arrived at her house."
+      },
+      "correct": "a",
+      "explanation": "has been cooking should be replaced with had been",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "She needed a break then?",
+      "exam_source": "(DP HCM, 2022)",
+      "options": {
+        "a": "/ because she had",
+        "b": "/ mathematical problems",
+        "c": "/ all"
+      },
+      "correct": "b",
+      "explanation": "had solved should be replaced with had been solving of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Our soldiers have being?",
+      "exam_source": "(SSC GD, 2022)",
+      "options": {
+        "a": "/ making a clean",
+        "b": "/ sheep and poultry on the",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "have being should be replaced with have been of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "Smita lived in?",
+      "exam_source": "(SSC CGL, 2021)",
+      "options": {
+        "a": "/ this house since",
+        "b": "/ she was",
+        "c": "/ No error",
+        "d": "Present Perfect Continuous"
+      },
+      "correct": "a",
+      "explanation": "lived should be replaced with has lived/has been living",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "Kaira has upset?",
+      "exam_source": "(SSC MTS, 2019)",
+      "options": {
+        "a": "/ with me since",
+        "b": "/ the",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "has upset should be replaced with has been upset of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "Ravi has been waiting for a long time?",
+      "exam_source": "",
+      "options": {
+        "a": "/ when",
+        "b": "/ about the",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "has been waiting should be replaced with had been waiting",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "Annu had been working in the?",
+      "exam_source": "",
+      "options": {
+        "a": "/ company",
+        "b": "/ now she plans to",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "had been working should be replaced with has been",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "It is raining?",
+      "exam_source": "",
+      "options": {
+        "a": "/ insistently in Mussoorie",
+        "b": "/ all",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "is raining should be replaced with has been raining of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "The old lady was unable to climb stairs because her legs are aching constantly since morning.\b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "is been aching constantly",
+        "b": "have been aching constantly",
+        "c": "had been aching constantly ll",
+        "d": "No substitution f ha"
+      },
+      "correct": "c",
+      "explanation": "12. (c) 13. (c) 14. (a) 15. (b)",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 12,
+      "question": "He is living here since 2020. pd f r (SSC-@ STENO, 2025)",
+      "exam_source": "",
+      "options": {
+        "a": "is staying G",
+        "b": "T lives",
+        "c": "has been living"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 13,
+      "question": "My friend lives in a village since 2015.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "living in a village",
+        "b": "is living",
+        "c": "has been living in a village",
+        "d": "has lived in village"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 14,
+      "question": "The research team is studying the effects of the new drug on patients for the last six months, but they haven't found any conclusive evidence yet.",
+      "exam_source": "",
+      "options": {
+        "a": "has been studying",
+        "b": "had studied",
+        "c": "have been studying",
+        "d": "no improvement"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 15,
+      "question": "When the renovation finally ended, we realized that the contractors were working on the wrong wing of the building for nearly two weeks.",
+      "exam_source": "",
+      "options": {
+        "a": "have been working",
+        "b": "had been working",
+        "c": "were worked",
+        "d": "No improvement"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 16,
+      "question": "How long are you waiting for the manager to sign these documents before you decided to leave?",
+      "exam_source": "",
+      "options": {
+        "a": "have you been waiting",
+        "b": "had you been waiting",
+        "c": "you had been waiting",
+        "d": "no improvement"
+      },
+      "correct": "b",
+      "explanation": "17. (b) 18. (d) 19. (c) 20. (d) h all -@f ear Solut",
+      "format": "regular"
+    },
+    {
+      "qno": 17,
+      "question": "The investigation revealed that the syndicate ......... funds through offshore accounts for over a decade before the regulatory authorities finally intervened in 2022.",
+      "exam_source": "",
+      "options": {
+        "a": "has been laundering",
+        "b": "had been laundering",
+        "c": "was laundering",
+        "d": "had laundered"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 18,
+      "question": "Radhika ......... TV for an hour when her husband arrived. Answers 1.",
+      "exam_source": "",
+      "options": {
+        "a": "2.",
+        "b": "5.",
+        "c": "12.",
+        "d": "22."
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 19,
+      "question": "I ......... to contact you all day, but your phone is switched off.",
+      "exam_source": "",
+      "options": {
+        "a": "am trying",
+        "b": "was trying",
+        "c": "have been trying",
+        "d": "had been trying"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 20,
+      "question": "Mr. Sinha ......... teaching for 10 years in the school when he took retirement last year.",
+      "exam_source": "",
+      "options": {
+        "a": "is",
+        "b": "was",
+        "c": "has been",
+        "d": "had been"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 21,
+      "question": "Manoj ......... for the exam for 3 hours when power suddenly went off last night.",
+      "exam_source": "",
+      "options": {
+        "a": "is studying",
+        "b": "was studying",
+        "c": "has been studying",
+        "d": "had been studying"
+      },
+      "correct": "d",
+      "explanation": "22. (a) 23. (c) 24. (b) (a) was watching (b) is watching (c) has been watching (d) had been watching 19. I ......... to contact you all day, but your phone is switched off. (a) am trying (b) was trying (c) have been trying (d) had been trying 20. Mr. Sinha ......... teaching for 10 years in the school when he took retirement last year. (a) is (b) was (c) has been (d) had been 21. Manoj ......... for the exam for 3 hours when power suddenly went off last night. (a) is studying (b) was studying (c) has been studying (d) had been studying 22. They ......... in this organisation since 2015 and have gained valuable experience. (a) have been working (b) were working (c) are working (d) had been working 23. The research team ......... on the project for six months before publishing their findings. (SSC STENO, 2025) (a) has been working (b) worked (c) had been working (d) were working 24. Both Amla and Kavitha ......... hard for their Bank PO exams scheduled next month. (DP HCM, 2026) (a) study (b) have been studying (c) has been studying (d) is studying",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 22,
+      "question": "They ......... in this organisation since 2015 and have gained valuable experience.",
+      "exam_source": "",
+      "options": {
+        "a": "have been working",
+        "b": "were working",
+        "c": "are working",
+        "d": "had been working"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 23,
+      "question": "The research team ......... on the project for six months before publishing their findings.",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "has been working",
+        "b": "worked",
+        "c": "had been working",
+        "d": "were working"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 24,
+      "question": "Both Amla and Kavitha ......... hard for their Bank PO exams scheduled next month.",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "study",
+        "b": "have been studying",
+        "c": "has been studying",
+        "d": "is studying"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

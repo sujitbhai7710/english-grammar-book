@@ -1,0 +1,194 @@
+{
+  "chapter_no": 53,
+  "title": "Causative Verbs",
+  "section": "A",
+  "start_page": 141,
+  "end_page": 142,
+  "theory": " Causative verbs are those verbs that show that the Subject does not perform the action\n    itself, but causes someone else to do it.\n Causative Verbs os Verbs gSa ftuesa subject Lo;a dk;Z ugha djrk] cfYd fdlh vU; O;fDr ls dk;Z\n\n      djokrk gSA\n   1 Make dk use fdlh dks etcwj djosQ ;k ncko                            2 Get dk use fdlh dks le>kdj ;k fdlh rjg\n       Mkydj dke djokus osQ fy, fd;k tkrk gSA                               O;oLFkk djosQ dke djokus osQ fy, fd;k tkrk gSA\n                                 Make                                                                Get\n                                      Pa                                                                    Pa\n                          i ve            ss                                               t  i ve                ss\n\n                    A  ct                    iv\n                                                   e                                    Ac                                 e\n\n               VBase                        To+V1                                To+V1                            V3\n           Bare Infinitive                 Infinitive                           Infinitive                  Past Participle\n\n   3 Have dk use fdlh ls dke djokus osQ fy,                               4 \u0007Let dk use fdlh dks permission nsdj\n       fd;k tkrk gS] tgk¡ u rks force gksrk gS vkSj u gh                      dke djus nsus osQ fy, fd;k tkrk gSA\n       eukuk 'kkfey gksrk gSA                                                                        Let\n\n                              Have                                                             e             ss\n                                                                                          tiv                     iv\n\n                                     Pa                                                Ac                              e\n                       iv               ss\n                   Act                     iv\n\n                                                                                 VBase                                     VBase\n             VBase                       V3                                  Bare Infinitive\n         Bare Infinitive           Past Participle",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The HR head made the assistant resubmitting?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ all the documentation after discovering",
+        "b": "/ a discrepancy in the date of joining",
+        "c": "/ for"
+      },
+      "correct": "a",
+      "explanation": "\"resubmitting\" should be replaced with \"resubmit\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "Her father had his car?",
+      "exam_source": "",
+      "options": {
+        "a": "/ be repaired after the",
+        "b": "/ that occurred last night on the",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"be repaired\" should be replaced with \"repaired\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "Anushka made Virat to apologize?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for the",
+        "b": "/ he had committed",
+        "c": "/ during the"
+      },
+      "correct": "a",
+      "explanation": "\"to apologize\" should be replaced with \"apologize\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "The committee decided to have all the documents?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to be examined carefully by the",
+        "b": "/ before taking any final decision on",
+        "c": "/ in the upcoming meeting."
+      },
+      "correct": "b",
+      "explanation": "\"to be examined\" should be replaced with \"examined\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The owner had the plumber?",
+      "exam_source": "",
+      "options": {
+        "a": "/ fixed the",
+        "b": "/ before the guests",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"fixed\" should be replaced with \"fix\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "The company had all the confidential documents?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to be destroyed",
+        "b": "/ after",
+        "c": "/ completed its"
+      },
+      "correct": "b",
+      "explanation": "\"to be destroyed\" should be replaced with \"destroyed\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "She got her dress stitching?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for the function",
+        "b": "/ to look elegant at the party.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"stitching\" should be replaced with \"stitched\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "The teacher let the students to have left early?",
+      "exam_source": "",
+      "options": {
+        "a": "/ after completing the test",
+        "b": "/ successfully",
+        "c": "/ No error",
+        "d": "d f"
+      },
+      "correct": "a",
+      "explanation": "\"to have left\" should be replaced with \"leave\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "Hardly had the supervisor made thereworkers started the cleaning process?",
+      "exam_source": "",
+      "options": {
+        "b": "/ arrived unexpectedly",
+        "d": "h c"
+      },
+      "correct": "a",
+      "explanation": "\"started\" should be replaced with \"start\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "The teacher got the homework completed?",
+      "exam_source": "",
+      "options": {
+        "b": "/ at the end of the day without any delay.",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "The officer ordered that the suspect?",
+      "exam_source": "",
+      "options": {
+        "a": "/should",
+        "b": "/ during the",
+        "c": "/ in"
+      },
+      "correct": "b",
+      "explanation": "\"confess\" should be replaced with \"to confess\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "His miserable condition made us wept.",
+      "exam_source": "",
+      "options": {
+        "a": "made us to wept",
+        "b": "made us to weep",
+        "c": "made us weep",
+        "d": "No improvement"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 14,
+      "question": "I made them cleaning the room thoroughly.",
+      "exam_source": "(SSC CPO, 2019)",
+      "options": {
+        "a": "I make them cleaning",
+        "b": "No substitution required",
+        "c": "I making them clean",
+        "d": "I made them clean"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 15,
+      "question": "Shailesh finally decided to take a back seat and let his son .......... the family business.",
+      "exam_source": "(SSC MTS, 2019)",
+      "options": {
+        "a": "running",
+        "b": "to run",
+        "c": "will run",
+        "d": "run"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

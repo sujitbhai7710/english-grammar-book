@@ -1,0 +1,139 @@
+{
+  "chapter_no": 74,
+  "title": "Concept of Repeated Expressions",
+  "section": "A",
+  "start_page": 197,
+  "end_page": 197,
+  "theory": " When the same singular noun is repeated and connected by prepositions such as \"after, by, to, over,\n     etc.\", the subject is treated as singular. Therefore, the verb used with it must also be singular.\n    X face to face                X hand in hand                  X side by side                 X drop by drop\n    X door to door                X word for word                 X city after city              X one by one\n    X ship after ship             X town after town               X row upon Row                 X layer by layer\n    X step by step                X day by day                    X line by line                 X mile by mile\n    X hand to hand                X year after year               X page after page              X page upon page\n    X back to back                X layer upon layer              X row after row                X letter for letter",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The student wrote the answer word by word?",
+      "exam_source": "",
+      "options": {
+        "a": "/ from the book without understanding",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"word by word\" should be replaced with \"word for word\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "City after city?",
+      "exam_source": "",
+      "options": {
+        "a": "/ were destroyed",
+        "b": "/ by the",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"were\" should be replaced with \"was\" of use will be because tc",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Nowadays, doors to doors service is?",
+      "exam_source": "",
+      "options": {
+        "b": "/ making life",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"doors to doors\" should be replaced with \"door to door\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "My sister?",
+      "exam_source": "",
+      "options": {
+        "a": "/ has read",
+        "b": "/ pages after pages of",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"pages after pages\" should be replaced with \"page after",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Layer upon layer of thick dust?",
+      "exam_source": "",
+      "options": {
+        "a": "/ have",
+        "b": "/ lying in the",
+        "c": "/ for many years."
+      },
+      "correct": "b",
+      "explanation": "\"have\" should be replaced with \"has\" of use will be because tc",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "Row after row of beautifully designed houses?",
+      "exam_source": "",
+      "options": {
+        "a": "/ were destroyed by the sudden landslide",
+        "c": "/ No error",
+        "d": "Answers",
+        "b": "3."
+      },
+      "correct": "b",
+      "explanation": "\"were\" should be replaced with \"was\" of use will be because tc",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "Blows against blows?",
+      "exam_source": "",
+      "options": {
+        "a": "/ was exchanged",
+        "c": "/ in the intense"
+      },
+      "correct": "a",
+      "explanation": "\"Blows against blows\" should be replaced with \"Blow",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "Day by day, the performance?",
+      "exam_source": "",
+      "options": {
+        "a": "/ of the team",
+        "b": "/ practice",
+        "c": "/ of their experienced"
+      },
+      "correct": "b",
+      "explanation": "\"are\" should be replaced with \"is\" of use will be because of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "Lines by lines, the complex poem?",
+      "exam_source": "",
+      "options": {
+        "a": "/ has been",
+        "b": "/ to help the",
+        "c": "/ understand its deeper meaning."
+      },
+      "correct": "a",
+      "explanation": "\"Lines by lines\" should be replaced with \"Line by line\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "Step by step, the complicated process?",
+      "exam_source": "",
+      "options": {
+        "b": "/ even",
+        "c": "/ No",
+        "d": "6.",
+        "a": "8."
+      },
+      "correct": "b",
+      "explanation": "\"have\" should be replaced with \"has\" of use will be because",
+      "format": "error_spotting"
+    }
+  ]
+}

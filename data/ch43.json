@@ -1,0 +1,128 @@
+{
+  "chapter_no": 43,
+  "title": "Non-gradable Adjectives",
+  "section": "A",
+  "start_page": 118,
+  "end_page": 119,
+  "theory": " Non-gradable Adjectives are those Adjectives that cannot be compared or changed in\n            degree because they already express an absolute or extreme condition.\n    \t\tNon-gradable Adjectives os Adjectives gksrh gSa ftudh rqyuk ;k fMxzh esa ifjorZu ugha fd;k tk\n      ldrk D;ksafd os igys ls gh fdlh absolute or extreme fLFkfr dks O;Dr djrh gSaA\n     Non-gradable Adjectives dk Comparative ;k Superlative degree ugha curk gSA\n\n           Important Words\n         Perfect, Unique, Dead, Complete, Empty, Full, Impossible, Infinite, Final, Absolute,\n         Alive, Finished, Excellent, Terrible, Amazing, Fantastic, Horrible, Brilliant, Essential,\n         Entire, Ultimate, Certain, Sure, True, False, Ideal, Blind, Fatal, Chief, Universal, Supreme,\n         Mortal, Alone, Square",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "No other theory in this field is as universal as this one (a / which is considered the most universal principle governing human behaviour (b)/ across different cultures and societies. (c)/ No error (d)",
+      "exam_source": "",
+      "options": {
+        "b": "/ across different cultures and",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "the most universal should be replaced with universal of",
+      "format": "regular"
+    },
+    {
+      "qno": 2,
+      "question": "The scientist had presented his findings?",
+      "exam_source": "",
+      "options": {
+        "b": "/ which",
+        "c": "/ than earlier theories"
+      },
+      "correct": "c",
+      "explanation": "more complete should be replaced with complete will",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "How can divided India become the most supreme power?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in the world by",
+        "b": "/ and",
+        "c": "/in the"
+      },
+      "correct": "a",
+      "explanation": "the most supreme should be replaced with supreme of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The painting?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "/ is the most unique",
+        "b": "/of all",
+        "c": "/ in the gallery.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "the most unique should be replaced with unique of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "The architect claimed that his latest design was the most perfect structure?",
+      "exam_source": "",
+      "options": {
+        "a": "/ever created",
+        "b": "/and advanced",
+        "c": "/ for urban development projects.",
+        "d": "Answers"
+      },
+      "correct": "a",
+      "explanation": "the most perfect should be replaced with perfect of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "The students felt relieved after the examination?",
+      "exam_source": "",
+      "options": {
+        "a": "/ as their work was most finished before the",
+        "b": "/allowing them to revise their",
+        "c": "/without any pressure."
+      },
+      "correct": "b",
+      "explanation": "most finished should be replaced with almost finished of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The manager considered this plan the most ideal?",
+      "exam_source": "",
+      "options": {
+        "a": "/ since it covered the entire scope of",
+        "b": "/ and minimized potential risks.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "the most ideal should be replaced with ideal of use will",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "The condition of the road was most horrible after the heavy rainfall?",
+      "exam_source": "",
+      "options": {
+        "a": "/ which made it",
+        "b": "/during the",
+        "c": "/ in the city."
+      },
+      "correct": "a",
+      "explanation": "most horrible should be replaced with very horrible of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "Happiness is the chiefest aim of mankind?",
+      "exam_source": "",
+      "options": {
+        "c": "/ No",
+        "d": "6.",
+        "b": "8.",
+        "a": "9."
+      },
+      "correct": "a",
+      "explanation": "chiefest should be replaced with chief of use will because",
+      "format": "error_spotting"
+    }
+  ]
+}

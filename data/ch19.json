@@ -1,0 +1,271 @@
+{
+  "chapter_no": 19,
+  "title": "Few, A Few, The Few",
+  "section": "A",
+  "start_page": 62,
+  "end_page": 63,
+  "theory": "We use these words with countable nouns to show number.\n\n               Few                                   A Few                                The Few\n\n           Hardly any                      Some but not many                       All that are available\n\n      (u osQ cjkcj la[;k)              (oqQN ysfdu cgqr T;knk ugha)                 (ftrus gS oks lHkh)\n\n    Examples\n     Few students attended the meeting                Hardly any students / u osQ cjkcj fo|kFkhZ\n     A few people knew about the plan                 Some but not many people/oqQN ysfdu cgqr T;knk\n        yksx ugha\n     The few seats left were in the back row                All those seats that were available/ftrus lhV\n        gS oks lHkh\n                               Word                 Meaning                 Nature\n                           Few               Hardly any                 Negative\n                           A Few             Some but not many          Positive\n                           The Few           All that is available      Definite",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The officer marvelled?",
+      "exam_source": "(UPSC CDS, 2025)",
+      "options": {
+        "a": "/ at the low attendance",
+        "b": "/ remarking on the presence of less than",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "'less' should be replaced with 'fewer' of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "No less than?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ fifty students",
+        "b": "/ were absent.",
+        "c": "/ no error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "'No less than' should be replaced with 'No fewer than' of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The doctor says that?",
+      "exam_source": "(SSC CGL, 2016)",
+      "options": {
+        "a": "/ the patient will recover",
+        "b": "/ in few days.",
+        "c": "/ No Error"
+      },
+      "correct": "c",
+      "explanation": "\"few\" should be replaced with \"a few\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "Deepak said that he would?",
+      "exam_source": "(SSC CHSL, 2019)",
+      "options": {
+        "a": "/ pack few things he",
+        "b": "/had and vacate the hostel room the next day.",
+        "c": "/No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "'few' should be replaced with 'the few' of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "After losing most of his contacts in the industry?",
+      "exam_source": "",
+      "options": {
+        "a": "/ he tried to rely on old connections",
+        "b": "/ but",
+        "c": "/ in his",
+        "d": "Few, A Few, The Few"
+      },
+      "correct": "c",
+      "explanation": "\"few\" should be replaced with \"the few\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "Even after attending several professional training programs?",
+      "exam_source": "",
+      "options": {
+        "a": "/ he struggled to perform efficiently",
+        "b": "/ as little skills acquired were",
+        "c": "/ in real-life situations."
+      },
+      "correct": "c",
+      "explanation": "\"little\" should be replaced with \"the few\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "Only few candidates?",
+      "exam_source": "",
+      "options": {
+        "a": "/ have qualified the",
+        "b": "/ despite the paper being",
+        "c": "/ extremely"
+      },
+      "correct": "a",
+      "explanation": "'few' should be replaced with 'a few' of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "Because of the strike, only?",
+      "exam_source": "",
+      "options": {
+        "a": "/ few buses were",
+        "b": "/ city outskirts this morning.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "'Only' with always 'a few' of use is gS",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "I was surprised that few?",
+      "exam_source": "",
+      "options": {
+        "a": "/ students passed the",
+        "b": "/ as it was much harder than we expected. l",
+        "c": "/ No error",
+        "d": "al"
+      },
+      "correct": "a",
+      "explanation": "'few' should be replaced with 'a few' of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "Out of the many?",
+      "exam_source": "",
+      "options": {
+        "a": "/ candidates who",
+        "b": "/ applied",
+        "c": "/ few who were hired.",
+        "d": "fre"
+      },
+      "correct": "d",
+      "explanation": "\"few\" should be replaced with \"the few\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "Although the desert is a harsh?",
+      "exam_source": "",
+      "options": {
+        "a": "T G-/environment",
+        "b": "/ without any",
+        "c": "c/hNo error"
+      },
+      "correct": "b",
+      "explanation": "\"few\" should be replaced with \"a few\" of use will be because",
+      "format": "regular"
+    },
+    {
+      "qno": 12,
+      "question": "The less clothes that I made for the wedding have gone out of style.",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "The few clothes",
+        "b": "The fewer clothes",
+        "c": "The fewest clothes",
+        "d": "The little clothes"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 13,
+      "question": "There are not lessing than a hundred students in this school.",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "no fewer",
+        "b": "not less",
+        "c": "no less",
+        "d": "only less"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 14,
+      "question": "No less than eight pedestrians were killed in the accident.",
+      "exam_source": "(SSC CHSL, 2023)",
+      "options": {
+        "a": "No few than",
+        "b": "None less than",
+        "c": "No fewer than",
+        "d": "No lesser than"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 15,
+      "question": "She has a little friends who can help her in this difficult situation.",
+      "exam_source": "",
+      "options": {
+        "a": "little",
+        "b": "few",
+        "c": "a few",
+        "d": "No improvement"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 16,
+      "question": "A few people in the village have internet access, so it is difficult for most students to study online.",
+      "exam_source": "",
+      "options": {
+        "a": "Few",
+        "b": "The few",
+        "c": "Little",
+        "d": "No improvement"
+      },
+      "correct": "a",
+      "explanation": "17. (c) 18. (a) 19. (d) 20. (c) tions is present",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 17,
+      "question": "Robin has less marbles than George, which is why he is so upset.",
+      "exam_source": "",
+      "options": {
+        "a": "a few marbles",
+        "b": "few marbles",
+        "c": "fewer marbles",
+        "d": "No improvement"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 18,
+      "question": "Amid .......... incidents of violence, the voting went on well.",
+      "exam_source": "",
+      "options": {
+        "a": "a few",
+        "b": "a very few",
+        "c": "No article",
+        "d": "no"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 19,
+      "question": "She made .......... attempts to solve the problem but failed each time.",
+      "exam_source": "",
+      "options": {
+        "a": "few",
+        "b": "the few",
+        "c": "much",
+        "d": "a few"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

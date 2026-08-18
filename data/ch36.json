@@ -1,0 +1,115 @@
+{
+  "chapter_no": 36,
+  "title": "The Single Unit Rule",
+  "section": "A",
+  "start_page": 104,
+  "end_page": 105,
+  "theory": " When plural nouns are used after cardinal adjectives (One, Two, Three, etc.) to indicate\n             a definite amount, weight, period, distance, they are treated as a Single Unit and take\n             singular verb; if not used as a singular unit, plural verb is used.\n             tc Plural Nouns, cardinal adjectives (One, Two, Three vkfn) ds ckn fdlh fuf'pr ek=kk] otu]\n             le;kof/ ;k nwjh dks O;Dr djrs gSa] rc mUgsa ,d single unit ekuk tkrk gS vkSj muds lkFk singular\n             verb dk ç;ksx fd;k tkrk gSA ysfdu ;fn mUgsa ,d single unit ds :i esa ç;ksx ugha fd;k x;k gks] rks\n             muosQ lkFk plural verb dk ç;ksx fd;k tkrk gSA\n      Examples\n          Used as a Single Unit (Singular Verb)                           Not used as a Single Unit (Plural Verb)",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "Thirty miles?",
+      "exam_source": "(SSC STENO, 2023)",
+      "options": {
+        "a": "/ are",
+        "b": "/ a long way to walk.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "are should be replaced with \"is\" use will be because \"Thirty",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "Two metric tons of hazardous chemical waste?",
+      "exam_source": "",
+      "options": {
+        "a": "/ was distributed among several smaller",
+        "b": "/ to minimize the risk of a spill."
+      },
+      "correct": "b",
+      "explanation": "\"was\" should be replaced with \"were\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Five thousand rupees, which may appear to be modest?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in today's changing economic",
+        "b": "/ considered a handsome",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "Twenty kilometers, considering the rough terrain and extreme weather conditions?",
+      "exam_source": "",
+      "options": {
+        "a": "/ are",
+        "b": "/ especially",
+        "c": "/ during such"
+      },
+      "correct": "b",
+      "explanation": "\"are\" should be replaced with \"is\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Five years of experience in the field?",
+      "exam_source": "",
+      "options": {
+        "a": "/ are",
+        "c": "/ at a"
+      },
+      "correct": "b",
+      "explanation": "\"are\" should be replaced with \"is\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "Ten thousand rupees?",
+      "exam_source": "(SSC CGL, 2018)",
+      "options": {
+        "a": "/ has been spent",
+        "b": "/ on",
+        "c": "/ No error",
+        "d": "Answers"
+      },
+      "correct": "b",
+      "explanation": "\"has\" should be replaced with \"have\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "Exactly fifty gallons of liquid nitrogen .......... needed to cool down the nuclear reactor core during the emergency simulation today.",
+      "exam_source": "",
+      "options": {
+        "a": "are",
+        "b": "were",
+        "c": "is",
+        "d": "have been"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 11,
+      "question": "Five years ......... a long duration to wait for justice, especially when eighty thousand rupees ........ being distributed monthly as interim compensation to individual victims.",
+      "exam_source": "",
+      "options": {
+        "a": "are / is",
+        "b": "is / are",
+        "c": "is / is",
+        "d": "are / are"
+      },
+      "correct": "b",
+      "explanation": "The Single Unit Rule al adjectives (One, Two, Three, etc.) to indicate nce, they are treated as a Single Unit and take it, plural verb is used. e, Two, Three vkfn) ds ckn fdlh fuf'pr ek=kk] otu] d single unit ekuk tkrk gS vkSj muds lkFk singular ,d single unit ds :i esa ç;ksx ugha fd;k x;k gks] rks Not used as a Single Unit (Plural Verb) 1. The thousand rupees were scattered on the floor. 2. Two kilometres were covered on foot. 7. Ten Kilometres are a (a)/ long distance to cover on foot (b)/ for a child. (c)/ No error (d) \b (SSC CGL, 2018) 8. Eighty rupees are (a)/ too much for (b)/ this leather bag, (c)/ which is looking so old. (d) \b (SSC GD, 2021) 9. Two hundred kilograms of iron .......... too heavy for this small truck to carry. (a) have been (b) are (c) were (d) is 10. Exactly fifty gallons of liquid nitrogen .......... needed to cool down the nuclear reactor core during the emergency simulation today. (a) are (b) were (c) is (d) have been 11. Five years ......... a long duration to wait for justice, especially when eighty thousand rupees ........ being distributed monthly as interim compensation to individual victims. (a) are / is (b) is / are (c) is / is (d) are / are",
+      "format": "fill_blank"
+    }
+  ]
+}

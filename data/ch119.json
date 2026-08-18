@@ -1,0 +1,183 @@
+{
+  "chapter_no": 119,
+  "title": "Sentences and Their Kinds",
+  "section": "A",
+  "start_page": 309,
+  "end_page": 310,
+  "theory": " A sentence is a group of words that expresses a complete thought.\n\n       Kinds of Sentence\n       1 Assertive Sentence – Expresses a statement, fact, or opinion.\n      \t\tEx. I am studying English.\n        Interrogative Sentence – Asks a question.\n\n      \t\tEx. Do you play chess?\n      \t\t\t\t Where are you going?\n        Imperative Sentence – Expresses a command, request, order or advice etc.\n\n      \t\tEx. Close the door.\n      \t\t\t\t Bring a glass of water.\n        Optative Sentence – Expresses a wish, prayer, blessings, or curse.\n\n      \t\tEx. God bless you.\n      \t\t\t\t May you succeed in life.\n        Exclamatory Sentence – Expresses sudden feelings like joy, sorrow, surprise, or\n\n        anger.\n      \t\tEx. What a beautiful house.\n      \t\t\t\t Hurray! I have got selected in SSC.\n\n        Note\n      What + a/an + Adjective + Noun\n      How + Adjective/Adverb + Subject + Verb",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "I asked my friend?",
+      "exam_source": "(SSC CGL, 2021)",
+      "options": {
+        "a": "/ where had he",
+        "b": "/learnt to",
+        "c": "/ so well.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "where had he should be replaced with where he had",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "Ajit asked me?",
+      "exam_source": "(SSC GD, 2021)",
+      "options": {
+        "a": "/ how could I solve",
+        "b": "/ the",
+        "c": "/ so easily.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "how could should be replaced with how I could",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The teacher asked him?",
+      "exam_source": "",
+      "options": {
+        "a": "/ which English novel",
+        "b": "/ did he like the most.",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "did he like should be replaced with he liked of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "We must plan?",
+      "exam_source": "",
+      "options": {
+        "a": "/ how can we",
+        "b": "/ cope with the",
+        "c": "/ present situation."
+      },
+      "correct": "b",
+      "explanation": "how can we should be replaced with how we can",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "He wondered what?",
+      "exam_source": "(SSC CPO, 2020)",
+      "options": {
+        "a": "/ was the reason",
+        "b": "/ for",
+        "c": "/ to accompany him.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "was the reason should be replaced with the reason",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "What wonderful?",
+      "exam_source": "",
+      "options": {
+        "a": "/ performance Neetu",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "What wonderful performance should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "She asked me?",
+      "exam_source": "",
+      "options": {
+        "a": "/ where had I",
+        "b": "/ gone for",
+        "c": "/ with my fiance."
+      },
+      "correct": "b",
+      "explanation": "where had should be replaced with where I had",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The magistrate asked?",
+      "exam_source": "(SSC CPO, 2020)",
+      "options": {
+        "a": "/ the prisoner",
+        "c": "/ with his hand in the",
+        "d": "\b Sentences and Their Kinds"
+      },
+      "correct": "c",
+      "explanation": "what was he should be replaced with what he was",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "The principal ordered the peon?",
+      "exam_source": "",
+      "options": {
+        "a": "/ not let the",
+        "b": "/ without permission.",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "not let should be replaced with not to let of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "My mother prayed?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that I could succeed",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "could succeed should be replaced with might succeed",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "I couldn't hear?",
+      "exam_source": "(SSC\n         MTS, 2019)",
+      "options": {
+        "a": "/ what was she saying",
+        "b": "/ due",
+        "c": "/ planes taking off.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "what was she should be replaced with what she was",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "Before accepting the assignment, ensure that you complete all your earlier assignments.",
+      "exam_source": "",
+      "options": {
+        "a": "ensure that you complete",
+        "b": "ensure that you completed",
+        "c": "ensure you can complete",
+        "d": "No correction required"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 13,
+      "question": "Please stating the problem first before all proceeding to suggest the solution. fh?",
+      "exam_source": "",
+      "options": {
+        "a": "first stating the problem e pd",
+        "b": "No correction required @ fre",
+        "c": "state the problem first T G-",
+        "d": "stating the problem first"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    }
+  ]
+}

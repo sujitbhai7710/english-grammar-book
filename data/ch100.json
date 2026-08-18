@@ -1,0 +1,267 @@
+{
+  "chapter_no": 100,
+  "title": "Fixed Preposition 'On'",
+  "section": "A",
+  "start_page": 261,
+  "end_page": 263,
+  "theory": "There are some words and phrases that take preposition \"On\" after them. Such words and phrases\nare:\n       Word + Preposition                English Meaning                     Hindi Meaning\n   1   Depend on                 rely on                         fuHkZj gksuk\n   2   Rely on                   trust completely                Hkjkslk djuk\n   3   Insist on                 demand firmly                   tksj nsuk\n   4   Focus on                  concentrate attention           è;ku yxkuk\n   5   Concentrate on            give full attention             iwjk è;ku nsuk\n   6   Congratulate on           praise for achievement          c/kbZ nsuk\n   7   Reflect on                think about                     fopkj djuk\n   8   Based on                  founded on                      vk/kfjr gksuk\n   9   Count on                  trust someone for help          Hkjkslk djuk\n  10   Call on (visit)           visit a person                  eqykdkr djuk\n  11   Live on (food)            survive by eating               Hkkstu ij fuHkZj jguk\n  12   Elaborate on              explain in detail               foLrkj ls crkuk\n  13   Embark on                 begin                           'kq: djuk\n  14   Keep on                   continue                        tkjh j•uk\n  15 Vote on                     decide by voting                ernku djuk\n  16 Set on                      attack someone                  geyk djuk\n                                 mention briefly/to come close   la{ksi esa mYys• djuk\n  17 Touch on\n                                 or verge on something\n  18 Intrude on                  interfere                       n•y nsuk\n  19 Impose on                   force upon                      Fkksiuk\n  20 Pride oneself on            feel proud of                   xoZ djuk\n                                 expect something with           Hkjkslk djuk\n  21 Bank on\n                                 confidence\n  22 Thrive on                   grow well on                    iQyuk&iQwyuk\n  23 Confer on                   grant                           çnku djuk\n  24 Bestow on                   give formally                   lEeku nsuk\n  25 Pounce on                   attack suddenly/seize eagerly    >iV iM+uk@rqjar çfrfØ;k nsuk             ll\n\n  26 Dote on                     love excessively                cgqr vf/d çse djuk            ep\n\n  27 Operate on                  perform surgery                 vkWijs'ku djuk          -@f\n\n                                                                                o nT\n  28 Dwell on                    think excessively               ckj&ckj ppkZchdjuk\n\n  29 Border on                            be close to                          lhek ls yxk gksuk\n  30 Attend on                            serve                                lsok djuk\n  31 Bear on                              relate to                            lacaf/r gksuk\n  32 Lean on                              depend on                            lgkjk ysuk\n  33 Feed on                              live on                              ij fuHkZj jguk\n  34 Rest on                              depend on                            fuHkZj gksuk\n  35 Compliment on                        praise                               ç'kalk djuk\n  36 Fixate on                            obsessed with                        è;ku dsafær djuk @ vklDr gksuk\n  37 Take pity on                         feel sympathy                        n;k djuk\n  38 Meditate on                          reflect deeply                       è;ku djuk @ fparu djuk\n  39 Bent on                              determined to                        n`<+ fu'p; djuk\n  40 Keen on                              interested in                        #fp j•uk\n  41 Incumbent on                         obligatory for                       drZO; gksuk] vfuok;Z f”kEesnkjh gksuk\n  42 Impinge on                           affect/encroach on                   çHkko Mkyuk@vfrØe.k djuk",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "Some media platforms?",
+      "exam_source": "",
+      "options": {
+        "a": "/ tend to thrive with",
+        "b": "/ because such stories attract"
+      },
+      "correct": "b",
+      "explanation": "thrive with should be replaced with thrive on of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "The manager often prides himself for his ability?",
+      "exam_source": "",
+      "options": {
+        "b": "/ with patience and",
+        "c": "/ during stressful negotiations."
+      },
+      "correct": "a",
+      "explanation": "prides himself for should be replaced with prides himself",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Because of constant criticism and negativity?",
+      "exam_source": "",
+      "options": {
+        "b": "/ and disturbing my",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "preying of should be replaced with preying on of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The researcher was so fixated in proving his hypothesis?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that he ignored contradictory",
+        "b": "/ and failed to",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "fixated in should be replaced with fixated on of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Instead of finding practical solutions?",
+      "exam_source": "",
+      "options": {
+        "a": "/ he",
+        "c": "/ from moving forward"
+      },
+      "correct": "b",
+      "explanation": "dwell about should be replaced with dwell on/upon of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "During the long expedition through the dense forest,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the explorer had to live by dried food",
+        "b": "/ that they had carried with",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "live by should be replaced with live on of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "Since childhood, she has always been keen for learning foreign languages?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and spends several",
+        "b": "/ improving her pronunciation",
+        "c": "/ No error",
+        "d": "lhek ls yxk gksuk"
+      },
+      "correct": "a",
+      "explanation": "keen for learning should be replaced with keen on learning",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "She not only appreciated?",
+      "exam_source": "",
+      "options": {
+        "a": "/ his hard work but",
+        "b": "/ complimented him for his dedication"
+      },
+      "correct": "c",
+      "explanation": "complimented him for should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "In a democratic system of governance?",
+      "exam_source": "",
+      "options": {
+        "a": "/ it is",
+        "c": "/ of the people are"
+      },
+      "correct": "b",
+      "explanation": "incumbent for should be replaced with incumbent on/",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "The policy changes introduced by the government?",
+      "exam_source": "",
+      "options": {
+        "a": "/ may significantly impinge for",
+        "b": "/ the rights of",
+        "c": "/ in the coming years."
+      },
+      "correct": "b",
+      "explanation": "impinge for should be replaced with impinge on of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "In times of uncertainty,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ people often rely on",
+        "b": "/ but sometimes end up counting to",
+        "c": "/ instead of taking action."
+      },
+      "correct": "c",
+      "explanation": "counting to their luck should be replaced with counting on",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "It has been observed by marine biologists that certain?",
+      "exam_source": "",
+      "options": {
+        "a": "/ species of deep-sea hydrothermal vent",
+        "b": "/ by the chemical energy produced",
+        "c": "/ volcanic minerals rather than sunlight."
+      },
+      "correct": "c",
+      "explanation": "feed by should be replaced with feed on of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "Despite repeated advice from his friends and family,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ he remained hell-bent in proving",
+        "b": "/ that his",
+        "d": "ll"
+      },
+      "correct": "b",
+      "explanation": "hell-bent in proving should be replaced with hell-bent on",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "Although the management was initially hesitant f ha about the?",
+      "exam_source": "",
+      "options": {
+        "a": "/ merger, the CEO remainedekeen ep",
+        "c": "/ rival firm, fr"
+      },
+      "correct": "c",
+      "explanation": "keen to the acquisition should be replaced with keen on",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "He reflected about the decisionson he had taken in rch that had significantly the past,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ especiallyathose",
+        "b": "/ before making",
+        "c": "/ any major"
+      },
+      "correct": "a",
+      "explanation": "reflected about should be replaced with reflected on/upon",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "The guest?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "/ asked for a glass",
+        "b": "/ of water to drink",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "in arrival should be replaced with on arrival of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "The opposition strongly criticized?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the",
+        "b": "/ pounced over the",
+        "c": "/ to gain public support."
+      },
+      "correct": "c",
+      "explanation": "pounced over should be replaced with pounced on/upon",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 18,
+      "question": "His promotion was contingent ......... the outcome of the annual review. \b Answers 1. (b) 2.",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "b": "2.",
+        "a": "3.",
+        "c": "12.",
+        "d": "into"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 19,
+      "question": "They congratulated him ......... winning the match. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "of",
+        "b": "for",
+        "c": "at",
+        "d": "on"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 20,
+      "question": "The biochemist insisted ......... conducting a double- blind trial before publication. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "with",
+        "b": "on",
+        "c": "to",
+        "d": "about"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

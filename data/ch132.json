@@ -1,0 +1,3370 @@
+{
+  "chapter_no": 132,
+  "title": "Sentence Improvement",
+  "section": "D",
+  "start_page": 408,
+  "end_page": 432,
+  "theory": "Sentence Improvement",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The meeting has been scheduled on Friday afternoon.\b?",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "in Friday afternoon",
+        "b": "for Friday afternoon",
+        "c": "at Friday afternoon",
+        "d": "No substitution"
+      },
+      "correct": "b",
+      "explanation": "for Friday afternoon will be.",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 2,
+      "question": "The train is heading at the station. \b?",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "heading towards",
+        "b": "heading along",
+        "c": "heading across",
+        "d": "No substitution"
+      },
+      "correct": "a",
+      "explanation": "heading towards of use will be, because any",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 3,
+      "question": "They will arrive in the city hall at 6 p.m. \b?",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "at the city hall on",
+        "b": "at the city hall at",
+        "c": "in the city hall till",
+        "d": "No substitution"
+      },
+      "correct": "d",
+      "explanation": "arrive at of use will be, because any specific",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 4,
+      "question": "I kicked the ball, and it rolled to their yard \b?",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "into their yard",
+        "b": "in their yard",
+        "c": "onto their yard",
+        "d": "No substitution"
+      },
+      "correct": "a",
+      "explanation": "rolled into of use will be, because ball from yard",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 5,
+      "question": "We found the key hidden among a heavy flowerpot by the door.\b?",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "under a heavy flowerpot",
+        "b": "over a heavy flowerpot",
+        "c": "into a heavy flowerpot",
+        "d": "No substitution"
+      },
+      "correct": "a",
+      "explanation": "under of use will be, because key flowerpot of",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 6,
+      "question": "Will your shop remain open to the holiday season?\b?",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "at the holiday season",
+        "b": "into the holiday season",
+        "c": "during the holiday season",
+        "d": "No substitution"
+      },
+      "correct": "c",
+      "explanation": "open during will be, because time-vof/ for",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 7,
+      "question": "He placed the keys in the kitchen counter. \b?",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "in the kitchen counter",
+        "b": "into the kitchen counter",
+        "c": "on the kitchen counter",
+        "d": "No substitution"
+      },
+      "correct": "c",
+      "explanation": "On the kitchen counter of use will be, because",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 8,
+      "question": "Now, the maid is clean the floor which is in the second stair.\b?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "is cleaning",
+        "b": "cleaning",
+        "c": "has cleaned",
+        "d": "cleans"
+      },
+      "correct": "a",
+      "explanation": "is cleaning will be because \"Now\" of meaning",
+      "format": "regular"
+    },
+    {
+      "qno": 9,
+      "question": "The teacher explained the topic so clearly that no one had doubts.\b?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "very clearly that no one had doubts",
+        "b": "so clearly that no one had any doubts",
+        "c": "12.",
+        "d": "clearly so that no doubts were there"
+      },
+      "correct": "b",
+      "explanation": "any of use will be because Negative words",
+      "format": "regular"
+    },
+    {
+      "qno": 10,
+      "question": "The thieves managed to get off the police during the chase.\b?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "get away from",
+        "b": "get along with",
+        "c": "get over",
+        "d": "get through"
+      },
+      "correct": "a",
+      "explanation": "\"Get away from will be because iqfyl from",
+      "format": "regular"
+    },
+    {
+      "qno": 11,
+      "question": "The doctor advised that he takes rest. \b?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "that he rested",
+        "b": "for him to take rest",
+        "c": "that he take rest",
+        "d": "that he should took rest"
+      },
+      "correct": "c",
+      "explanation": "that he take rest will be because Advise,",
+      "format": "regular"
+    },
+    {
+      "qno": 12,
+      "question": "After a moment's thought, a brilliant idea strike him like lightning.\b?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "struck",
+        "b": "striking",
+        "c": "strikes",
+        "d": "will struck"
+      },
+      "correct": "a",
+      "explanation": "\"After a moment's thought\" from is known gS",
+      "format": "regular"
+    },
+    {
+      "qno": 13,
+      "question": "A professor begins class by holding up a glass of water.\b?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "began",
+        "b": "beginning",
+        "c": "is began",
+        "d": "was begins"
+      },
+      "correct": "a",
+      "explanation": "began will be because any ?kVuk/dgkuh",
+      "format": "regular"
+    },
+    {
+      "qno": 14,
+      "question": "If I would be laid off again, I would seriously consider a career switch.\b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "will be laid off again",
+        "b": "had been laid off again",
+        "c": "were to be laid off again",
+        "d": "No improvement required"
+      },
+      "correct": "c",
+      "explanation": "If I were to be laid off again of use will be,",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 15,
+      "question": "The committee concluded that the measures suggested were conducive in bring stability in the financial system.\b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "conducive of bringing stability in",
+        "b": "conducive for bringing stability into",
+        "c": "conducive to bringing stability to",
+        "d": "No improvement required"
+      },
+      "correct": "c",
+      "explanation": "to bringing stability to of use will be, because",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 16,
+      "question": "She enjoys hiking in the mountains, swimming in the ocean, and to ride her bike in the park every weekend.\b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "and ride her bike in the park",
+        "b": "and to ride her bike around the park",
+        "c": "and riding her bike in the park",
+        "d": "No improvement required"
+      },
+      "correct": "c",
+      "explanation": "riding her bike in the park of use will be,",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 17,
+      "question": "The report suggested that unless corrective steps are taken immediately, the problem would aggravate into an uncontrollable crisis. \b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "the problem would alleviate",
+        "b": "the problem will retaliate with",
+        "c": "the problem would escalate into",
+        "d": "No improvement required df"
+      },
+      "correct": "c",
+      "explanation": "would escalate into of use will be, because",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 18,
+      "question": "The NGO has been putting up with severe criticism for its methods.\b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "putting across with severe criticism",
+        "b": "putting out with severe criticism",
+        "c": "putting in with severe criticism",
+        "d": "No improvement required"
+      },
+      "correct": "d",
+      "explanation": "No improvement required",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 19,
+      "question": "The tribe lived with different customs.",
+      "exam_source": "",
+      "options": {
+        "a": "on",
+        "b": "by",
+        "c": "through",
+        "d": "No improvement"
+      },
+      "correct": "b",
+      "explanation": "by of use will be, because live by customs/rules/",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 20,
+      "question": "The prestigious award was given to the scientist for his groundshaking research in genetics.\b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "groundbreaking research in genetics",
+        "b": "groundshaking research in genetic",
+        "c": "ground breaking research in genetics",
+        "d": "No improvement required"
+      },
+      "correct": "a",
+      "explanation": "groundbreaking research in genetics of",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 21,
+      "question": "Regular exercise will have the effect of increasing your energy levels and help you feel more refreshed throughout the day. \b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "will increase your energy levels",
+        "b": "will have the affect of increasing your",
+        "c": "will affect the increase of your energy",
+        "d": "No improvement required"
+      },
+      "correct": "a",
+      "explanation": "will increase your energy levels and help of",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 22,
+      "question": "The members of the club have been waiting eagerly for the chief guest to arrive since two hours.\b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "to the chief guest's arrival since two hours",
+        "b": "for the chief guest to arrive for two hours",
+        "c": "for the chief guest's arrival from two",
+        "d": "No improvement required"
+      },
+      "correct": "b",
+      "explanation": "for two hours of use will be, because duration",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 23,
+      "question": "After reviewing the proposal, the team decided to proceed forward with the project, confident that it would meet the company's goals.\b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "the team decided to proceed forth with",
+        "b": "the team decided to proceed with the",
+        "c": "the team decided to proceed onward with",
+        "d": "No improvement required"
+      },
+      "correct": "b",
+      "explanation": "proceed with of use will be, because proceed of",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 24,
+      "question": "I feel frustrated that she keeps reverting back to her bad habits after brief phases of positive change.\b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "keeps reverting to her bad habits",
+        "b": "keeps reverting backward to her bad",
+        "c": "keeps reverting forth to her bad habits",
+        "d": "No improvement required"
+      },
+      "correct": "a",
+      "explanation": "reverting to of use will be, because revert of meaning",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 25,
+      "question": "The research paper was full of errors because the data is not verified by any expert. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "has not been verified",
+        "b": "is not being verified yet",
+        "c": "No substitution required",
+        "d": "was not verified"
+      },
+      "correct": "d",
+      "explanation": "was not verified of use will be, because main",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 26,
+      "question": "If I was you, I would consult a specialist. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "No substitution required",
+        "b": "am you",
+        "c": "would be you",
+        "d": "were you"
+      },
+      "correct": "d",
+      "explanation": "If I were you of use will be, because unreal/",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 27,
+      "question": "She aren’t believe in wasting time during working hours.\b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "isn’t believe",
+        "b": "No substitution required",
+        "c": "wasn’t believes",
+        "d": "doesn’t believe"
+      },
+      "correct": "d",
+      "explanation": "doesnt believe of use will be, because She",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 28,
+      "question": "The students was asked to submit their assignments by Friday.\b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "are asked to submitted their assignments",
+        "b": "No substitution required",
+        "c": "were asked to submit their assignments",
+        "d": "will asked to submit their assignments"
+      },
+      "correct": "c",
+      "explanation": "were asked to submit their assignments of",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 29,
+      "question": "The doctor gave the patient some medications after he felt some pain on his left knee. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "did feel",
+        "b": "has felt",
+        "c": "had felt",
+        "d": "was felt"
+      },
+      "correct": "c",
+      "explanation": "had felt of use will be, because patient pain",
+      "format": "regular"
+    },
+    {
+      "qno": 30,
+      "question": "The teacher explained him the topic. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "taught him the topic",
+        "b": "told him the topic",
+        "c": "explained the topic to him",
+        "d": "explained to him the topic"
+      },
+      "correct": "c",
+      "explanation": "explained the topic to him of use will be, because",
+      "format": "regular"
+    },
+    {
+      "qno": 31,
+      "question": "He said me a lie.\b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "told me a lie",
+        "b": "said to me lie all",
+        "c": "told me lie",
+        "d": "said lie dfh"
+      },
+      "correct": "a",
+      "explanation": "told me a lie of use will be, because lie with",
+      "format": "regular"
+    },
+    {
+      "qno": 32,
+      "question": "He has much works to finish. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "a lot of work",
+        "b": "plenty works",
+        "c": "many works",
+        "d": "lot of tasks"
+      },
+      "correct": "a",
+      "explanation": "a lot of work of use will be, because work",
+      "format": "regular"
+    },
+    {
+      "qno": 33,
+      "question": "The higher you go, the cooler it get. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "cooler it gets",
+        "b": "cooler it getting",
+        "c": "more cooler it gets",
+        "d": "coolest it becomes"
+      },
+      "correct": "a",
+      "explanation": "cooler it gets of use will be, because subject it",
+      "format": "regular"
+    },
+    {
+      "qno": 34,
+      "question": "I came to know this from a friend. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "to know this through",
+        "b": "to know that from",
+        "c": "to know of it from",
+        "d": "to know it by"
+      },
+      "correct": "a",
+      "explanation": "to know this through of use will be because",
+      "format": "regular"
+    },
+    {
+      "qno": 35,
+      "question": "Seldom we have seen such a performance. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "had we seen",
+        "b": "did we saw",
+        "c": "have we seen",
+        "d": "we had seen"
+      },
+      "correct": "c",
+      "explanation": "Seldom have we seen of use will be, because",
+      "format": "regular"
+    },
+    {
+      "qno": 36,
+      "question": "She prefers to stay at home than go out. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "to staying home than going out",
+        "b": "staying home rather then going out",
+        "c": "staying at home to going out",
+        "d": "to stay at home to going out"
+      },
+      "correct": "c",
+      "explanation": "staying at home to going out of use will be,",
+      "format": "regular"
+    },
+    {
+      "qno": 37,
+      "question": "He insisted to go home.\b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "going on",
+        "b": "upon going",
+        "c": "that he goes",
+        "d": "on going"
+      },
+      "correct": "d",
+      "explanation": "on going home of use will be, because insist of",
+      "format": "regular"
+    },
+    {
+      "qno": 38,
+      "question": "I am used to eat late at night. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "for eating",
+        "b": "eating",
+        "c": "to eating",
+        "d": "in eating"
+      },
+      "correct": "c",
+      "explanation": "used to eating of use will be, because be used to",
+      "format": "regular"
+    },
+    {
+      "qno": 39,
+      "question": "The teacher asked that who was absent. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "that whom",
+        "b": "which student",
+        "c": "who",
+        "d": "whose"
+      },
+      "correct": "c",
+      "explanation": "who of use will be, because indirect question in",
+      "format": "regular"
+    },
+    {
+      "qno": 40,
+      "question": "I wish I am taller.\b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "were taller",
+        "b": "was taller",
+        "c": "would be taller",
+        "d": "could be taller"
+      },
+      "correct": "a",
+      "explanation": "I were taller of use will be, because wish after",
+      "format": "regular"
+    },
+    {
+      "qno": 41,
+      "question": "He behaves as if he knows everything. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "known everything",
+        "b": "knew everything",
+        "c": "has known everything",
+        "d": "have known all"
+      },
+      "correct": "b",
+      "explanation": "if he knew will be because \"As if / As though\" of",
+      "format": "regular"
+    },
+    {
+      "qno": 42,
+      "question": "She did her work very good. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "very well",
+        "b": "too well",
+        "c": "quite good",
+        "d": "really great"
+      },
+      "correct": "a",
+      "explanation": "very well will be because did ,d Verb gS,",
+      "format": "regular"
+    },
+    {
+      "qno": 43,
+      "question": "She succeeded by virtue of her talent. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "owing of",
+        "b": "because",
+        "c": "cause of",
+        "d": "due to"
+      },
+      "correct": "d",
+      "explanation": "due to will be because \"By virtue of\" of meaning is gS",
+      "format": "regular"
+    },
+    {
+      "qno": 44,
+      "question": "We enjoyed during the party last night. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "have enjoyed in party",
+        "b": "enjoyed ourselves at the party",
+        "c": "had enjoyment during party",
+        "d": "enjoyed in the party"
+      },
+      "correct": "b",
+      "explanation": "enjoyed ourselves at the party will be because",
+      "format": "regular"
+    },
+    {
+      "qno": 45,
+      "question": "The fiction and non-fictional book, that I borrowed, was interesting.\b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "whom I borrowed",
+        "b": "what I borrowed",
+        "c": "whose I borrowed",
+        "d": "which I borrowed"
+      },
+      "correct": "d",
+      "explanation": "which I borrowed will be because Things,",
+      "format": "regular"
+    },
+    {
+      "qno": 46,
+      "question": "He doesn't go to shopping as often as he used to.\b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "seldom goes at shop",
+        "b": "go shopping",
+        "c": "rarely goes to purchase",
+        "d": "is rarely going to shop"
+      },
+      "correct": "b",
+      "explanation": "go shopping will be because ,d fixed",
+      "format": "regular"
+    },
+    {
+      "qno": 47,
+      "question": "I wish I were listening to my parents. \b?",
+      "exam_source": "(SSC CGL, 2021)",
+      "options": {
+        "a": "am listening",
+        "b": "have listened",
+        "c": "No substitution",
+        "d": "had listened"
+      },
+      "correct": "d",
+      "explanation": "had listened will be because\"Wish\" after tc",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 48,
+      "question": "As I am hearing the lecture, it reminded me of a book I had read two years ago. \b?",
+      "exam_source": "(SSC CGL, 2021)",
+      "options": {
+        "a": "as I have heard",
+        "b": "when I hear",
+        "c": "as I heard",
+        "d": "No substitution"
+      },
+      "correct": "c",
+      "explanation": "As I heard will be because Stative verbs (hear,",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 49,
+      "question": "You are so far the bright student in the class. \b?",
+      "exam_source": "(SSC CGL, 2021)",
+      "options": {
+        "a": "No improvement",
+        "b": "by so far the brighter",
+        "c": "by far the brightest",
+        "d": "so far most bright"
+      },
+      "correct": "c",
+      "explanation": "By far the brightest will be because Superlative",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 50,
+      "question": "We had to undergo a great many difficulties.",
+      "exam_source": "(SSC CGL, 2021)",
+      "options": {
+        "a": "No improvement",
+        "b": "a great many difficulty",
+        "c": "great many difficulties hall",
+        "d": "much great difficulties df"
+      },
+      "correct": "a",
+      "explanation": "No improvement",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 51,
+      "question": "I don’t fancy to go out this evening.",
+      "exam_source": "(SSC CGL, 2021)",
+      "options": {
+        "a": "to going outside",
+        "b": "No improvement",
+        "c": "to be going out",
+        "d": "going out"
+      },
+      "correct": "d",
+      "explanation": "\"Going out\" will be because\"Fancy\" after Verb",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 52,
+      "question": "Many battles was fought on the soil of India.",
+      "exam_source": "(SSC CGL, 2021)",
+      "options": {
+        "a": "Many a battle was",
+        "b": "No improvement",
+        "c": "Much battle was",
+        "d": "Many battle were"
+      },
+      "correct": "a",
+      "explanation": "Many a battle was will be because \"Many a +",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 53,
+      "question": "I look forward to helping you complete the project.\b?",
+      "exam_source": "(SSC CHSL, 2021)",
+      "options": {
+        "a": "look forward to help",
+        "b": "look forward for help",
+        "c": "look forwarding to helps",
+        "d": "No improvement"
+      },
+      "correct": "d",
+      "explanation": "No improvement",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 54,
+      "question": "The affection of her husband carried her up in the midst of all her problems.\b?",
+      "exam_source": "(SSC CHSL, 2021)",
+      "options": {
+        "a": "stood her up",
+        "b": "tore her up",
+        "c": "drove her up",
+        "d": "bore her up"
+      },
+      "correct": "d",
+      "explanation": "bore her up will be because carried her up",
+      "format": "regular"
+    },
+    {
+      "qno": 55,
+      "question": "Life is hard, unpredictable, but though manageable.\b?",
+      "exam_source": "(SSC CHSL, 2021)",
+      "options": {
+        "a": "though achievable",
+        "b": "although bearable",
+        "c": "despite practicable",
+        "d": "still controllable"
+      },
+      "correct": "d",
+      "explanation": "still controllable will be because but after",
+      "format": "regular"
+    },
+    {
+      "qno": 56,
+      "question": "It was apparent that the girl was heading into a serious disaster.\b?",
+      "exam_source": "(SSC CHSL, 2021)",
+      "options": {
+        "a": "heading along",
+        "b": "heading down",
+        "c": "heading out",
+        "d": "heading for"
+      },
+      "correct": "d",
+      "explanation": "\"Heading for\" will be because Head for of meaning gS",
+      "format": "regular"
+    },
+    {
+      "qno": 57,
+      "question": "I cannot sit up with this sort of insult in office.",
+      "exam_source": "",
+      "options": {
+        "a": "get along with",
+        "b": "cope up with",
+        "c": "put up with",
+        "d": "do away with"
+      },
+      "correct": "c",
+      "explanation": "Put up with will be meaning lgu to do /",
+      "format": "regular"
+    },
+    {
+      "qno": 58,
+      "question": "She should run the fast to win the race. \b?",
+      "exam_source": "(SSC CHSL, 2021)",
+      "options": {
+        "a": "faster",
+        "b": "a fastest",
+        "c": "the faster",
+        "d": "the fastest"
+      },
+      "correct": "d",
+      "explanation": "the fastest\" will be because rqyuk",
+      "format": "regular"
+    },
+    {
+      "qno": 59,
+      "question": "The movie I watched last Saturday was much better interesting than the one I watched today.\b?",
+      "exam_source": "(SSC CHSL, 2021)",
+      "options": {
+        "a": "much lesser interesting",
+        "b": "much interesting",
+        "c": "much more interesting",
+        "d": "much more interested"
+      },
+      "correct": "c",
+      "explanation": "Much more interesting will be because Long",
+      "format": "regular"
+    },
+    {
+      "qno": 60,
+      "question": "She decided to go there, though her husband cautioned her on it.",
+      "exam_source": "",
+      "options": {
+        "a": "against",
+        "b": "for",
+        "c": "about",
+        "d": "No improvement"
+      },
+      "correct": "a",
+      "explanation": "against of use will be, because caution someone",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 61,
+      "question": "Despite not getting approval from the leader, we decided to carry out the plan. \b?",
+      "exam_source": "(SSC MTS, 2021)",
+      "options": {
+        "a": "carry off",
+        "b": "No improvement",
+        "c": "carry away",
+        "d": "carry over"
+      },
+      "correct": "b",
+      "explanation": "No improvement",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 62,
+      "question": "Neither of the leading political parties have had much success in the southern region.",
+      "exam_source": "(SSC MTS, 2021)",
+      "options": {
+        "a": "No improvement",
+        "b": "Neither of the leading political parties",
+        "c": "Neither of the leading political party has",
+        "d": "Neither of the leading political parties"
+      },
+      "correct": "b",
+      "explanation": "Neither of the leading political parties has",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 63,
+      "question": "Water and minerals presented in the soil are absorbed by the roots.\b?",
+      "exam_source": "(SSC MTS, 2021)",
+      "options": {
+        "a": "No improvement",
+        "b": "presented at the soil",
+        "c": "present in the soil",
+        "d": "present for the soil"
+      },
+      "correct": "c",
+      "explanation": "meaning gS \"feV~Vh in ekStwn ikuh and fut\", therefore",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 64,
+      "question": "Doctor Bayley tripped under some large roots and cuts her head on a rock.\b?",
+      "exam_source": "(SSC MTS, 2021)",
+      "options": {
+        "a": "No improvement",
+        "b": "tripped over some large roots and cut",
+        "c": "tripped over some large roots and cutted",
+        "d": "tripped upon some larger roots and cuts"
+      },
+      "correct": "b",
+      "explanation": "Tripped over some large roots and cut",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 65,
+      "question": "The management would prefer you finishing the project on time.",
+      "exam_source": "",
+      "options": {
+        "a": "that you finish",
+        "b": "you had finished",
+        "c": "that you could finish",
+        "d": "No improvement"
+      },
+      "correct": "a",
+      "explanation": "that you finish of use will be, because would be",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 66,
+      "question": "When it comes to love of sports, he takes off his father.\b?",
+      "exam_source": "(SSC MTS, 2021)",
+      "options": {
+        "a": "look after",
+        "b": "is carried away by",
+        "c": "takes after",
+        "d": "No improvement all h"
+      },
+      "correct": "c",
+      "explanation": "Takes after will be meaning vius ekrk-firk",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 67,
+      "question": "The tin-roofed house gave up during the terrible storm.\b (SSC Selection Phase IX, 2021)",
+      "exam_source": "",
+      "options": {
+        "a": "gave way",
+        "b": "gave away",
+        "c": "gave out",
+        "d": "No improvement"
+      },
+      "correct": "a",
+      "explanation": "Gave way will be meaning <g to be, to be",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 68,
+      "question": "He walked bare footed into the room. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "barefoot",
+        "b": "bear feet",
+        "c": "barefooted",
+        "d": "with naked feet"
+      },
+      "correct": "a",
+      "explanation": "Barefoot will be meaning uaxs iSj( Without",
+      "format": "regular"
+    },
+    {
+      "qno": 69,
+      "question": "The police is investigating the matter seriously.\b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "are investigating the matter seriously",
+        "b": "investigates the matter",
+        "c": "were investigating seriously the matter",
+        "d": "is in investigation"
+      },
+      "correct": "a",
+      "explanation": "Are investigating the matter seriously will be",
+      "format": "regular"
+    },
+    {
+      "qno": 70,
+      "question": "The speaker had been hardly audible due to disturbance.\b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "barely heard due to the noise",
+        "b": "barely audible due to the disturbance",
+        "c": "hard to hear because of disturbance",
+        "d": "hardly hearing for the noise"
+      },
+      "correct": "b",
+      "explanation": "barely audible due to the disturbance will be",
+      "format": "regular"
+    },
+    {
+      "qno": 71,
+      "question": "The officer ordered to the soldiers to march ahead.\b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "ordered the soldiers for marching",
+        "b": "ordered the soldiers to march ahead",
+        "c": "gave order the soldiers to march",
+        "d": "ordered to the soldiers to march"
+      },
+      "correct": "b",
+      "explanation": "ordered the soldiers to march ahead will be",
+      "format": "regular"
+    },
+    {
+      "qno": 72,
+      "question": "No other athlete was as great as Sachin is. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "is greater than Sachin",
+        "b": "is so great like Sachin",
+        "c": "has been as great as Sachin",
+        "d": "was as great like Sachin"
+      },
+      "correct": "c",
+      "explanation": "has been as great as Sachin will be because",
+      "format": "regular"
+    },
+    {
+      "qno": 73,
+      "question": "She conversed the matter with me. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "discussed the matter with",
+        "b": "talked over the matter with",
+        "c": "told the matter to",
+        "d": "said me about the matter"
+      },
+      "correct": "a",
+      "explanation": "discussed the matter with will be because",
+      "format": "regular"
+    },
+    {
+      "qno": 74,
+      "question": "The train was late because of the heavy rain falls.\b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "due to the rain fall",
+        "b": "because of heavy rainfall",
+        "c": "owing to heavy rains",
+        "d": "as it rained heavily"
+      },
+      "correct": "b",
+      "explanation": "because of heavy rainfall will be because",
+      "format": "regular"
+    },
+    {
+      "qno": 75,
+      "question": "He asked me that where was the office. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "that where the office was",
+        "b": "where is the office",
+        "c": "where the office was",
+        "d": "where office is"
+      },
+      "correct": "c",
+      "explanation": "where the office was will be because Indirect",
+      "format": "regular"
+    },
+    {
+      "qno": 76,
+      "question": "Presently Rosemary seems to have know those people herself in some deplorable past, and then got on to them and rejected them.",
+      "exam_source": "(SSC GD, 2024)",
+      "options": {
+        "a": "seemed to have known",
+        "b": "seem to know",
+        "c": "seemed to knew",
+        "d": "No correction required"
+      },
+      "correct": "a",
+      "explanation": "seemed to have known will be because Seem/",
+      "format": "regular"
+    },
+    {
+      "qno": 77,
+      "question": "The truck driver pulled in to the side of the road.",
+      "exam_source": "",
+      "options": {
+        "a": "pulled down",
+        "b": "No improvement",
+        "c": "pulled over",
+        "d": "pulled up"
+      },
+      "correct": "c",
+      "explanation": "pulled over will be.",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 78,
+      "question": "She doesn’t want to go on staring but it was very difficult to turn her eyes away.",
+      "exam_source": "(SSC GD, 2024)",
+      "options": {
+        "a": "wanted to go on staring but it",
+        "b": "didn’t want to go on staring but it",
+        "c": "did not want going on staring but it",
+        "d": "No correction required"
+      },
+      "correct": "b",
+      "explanation": "didnt want to go on staring but it will be",
+      "format": "regular"
+    },
+    {
+      "qno": 79,
+      "question": "On our reach at Denmark, we found the king and queen of that country elevated in two arm-chairs.\b?",
+      "exam_source": "(SSC GD, 2024)",
+      "options": {
+        "a": "After our arrival to Denmark",
+        "b": "On our arrival in Denmark",
+        "c": "On our approach at Denmark",
+        "d": "No correction required"
+      },
+      "correct": "b",
+      "explanation": "On our arrival in Denmark will be because",
+      "format": "regular"
+    },
+    {
+      "qno": 80,
+      "question": "The driver cracked his whip and called to his horses, and off they swept on their way to Bukovina.",
+      "exam_source": "(SSC GD, 2024)",
+      "options": {
+        "a": "and off they sweep on their way",
+        "b": "No correction required",
+        "c": "and off they swept on there way",
+        "d": "and of they swept on their way"
+      },
+      "correct": "b",
+      "explanation": "No correction required",
+      "format": "regular"
+    },
+    {
+      "qno": 81,
+      "question": "Their dog chewed up the furniture.",
+      "exam_source": "",
+      "options": {
+        "a": "No improvement",
+        "b": "kicked off",
+        "c": "chewed on",
+        "d": "picked up"
+      },
+      "correct": "c",
+      "explanation": "any nkarksa from pckus oqQrjus of sense in",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 82,
+      "question": "We are used of being happy together every day, and I can’t think of happiness without him.\b?",
+      "exam_source": "(SSC GD, 2024)",
+      "options": {
+        "a": "No correction required",
+        "b": "We were used to be",
+        "c": "We are used to being",
+        "d": "We used to be all"
+      },
+      "correct": "c",
+      "explanation": "be used to + noun / verb+ing (any of",
+      "format": "regular"
+    },
+    {
+      "qno": 83,
+      "question": "As she woke up, the day seemed different to Rosemary than the day before.",
+      "exam_source": "(SSC GD, 2024)",
+      "options": {
+        "a": "No correction required",
+        "b": "then the day previous",
+        "c": "from the day earlier",
+        "d": "from the day before"
+      },
+      "correct": "d",
+      "explanation": "\"from the day before\" will be different",
+      "format": "regular"
+    },
+    {
+      "qno": 84,
+      "question": "The tree blew off in the storm.",
+      "exam_source": "",
+      "options": {
+        "a": "No improvement",
+        "b": "blew over",
+        "c": "blew up",
+        "d": "blew out"
+      },
+      "correct": "b",
+      "explanation": "rwiQku in isM+ of to be of ?kVuk crkus for",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 85,
+      "question": "An awkward neither grammatically accurate sentence is the result of centre implanting.",
+      "exam_source": "(SSC CPO, 2024)",
+      "options": {
+        "a": "awkward unless grammatically",
+        "b": "awkward but grammatically",
+        "c": "awkward either grammatically",
+        "d": "awkward beyond grammatically"
+      },
+      "correct": "b",
+      "explanation": "Sentence in contrast fnkuk gS sentence",
+      "format": "regular"
+    },
+    {
+      "qno": 86,
+      "question": "My son will carry out my business in my absence.",
+      "exam_source": "",
+      "options": {
+        "a": "carry over",
+        "b": "carry away by",
+        "c": "carry off",
+        "d": "carry on"
+      },
+      "correct": "d",
+      "explanation": "\"Carry on\" of use will be because business",
+      "format": "regular"
+    },
+    {
+      "qno": 87,
+      "question": "The Centre of Excellence for Data Analytics CEDA provides quality data analytic services to various government departments on all levels as well as to public sector units at the Centre and in states.\b?",
+      "exam_source": "(SSC CPO, 2024)",
+      "options": {
+        "a": "various government departments at all",
+        "b": "various government departments from",
+        "c": "various government departments",
+        "d": "various government departments in all"
+      },
+      "correct": "a",
+      "explanation": "\"on all levels\" should be replaced with \"at all levels\" of use",
+      "format": "regular"
+    },
+    {
+      "qno": 88,
+      "question": "You have tears, prepare to shed them now.",
+      "exam_source": "(SSC CPO, 2024)",
+      "options": {
+        "a": "If you have tears",
+        "b": "Unless you have tears",
+        "c": "Until you have tears",
+        "d": "If you will have tears"
+      },
+      "correct": "a",
+      "explanation": "sentence condition show do is",
+      "format": "regular"
+    },
+    {
+      "qno": 89,
+      "question": "Before she began, she asked the teacher whether she write with a pen or a pencil.",
+      "exam_source": "(SSC CPO, 2024)",
+      "options": {
+        "a": "she can write",
+        "b": "she should write",
+        "c": "she did write",
+        "d": "she wrote"
+      },
+      "correct": "b",
+      "explanation": "Sentence in yM+of teacher from advice/",
+      "format": "regular"
+    },
+    {
+      "qno": 90,
+      "question": "Not a word didn’t they speak to the others about the sad turn of events.",
+      "exam_source": "(SSC CPO, 2024)",
+      "options": {
+        "a": "No substitution",
+        "b": "do they speak",
+        "c": "had they speak",
+        "d": "did they speak"
+      },
+      "correct": "d",
+      "explanation": "Sentence in Not a word negative",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 91,
+      "question": "Inspite mother’s milk is vital to a child’s health, a number of FMCG companies wrongly advertise artificially prepared infant formulas as being the best for the child.",
+      "exam_source": "(SSC CPO, 2024)",
+      "options": {
+        "a": "No substitution",
+        "b": "Mother’s milk",
+        "c": "Despite mother’s milk",
+        "d": "Though mother’s milk"
+      },
+      "correct": "d",
+      "explanation": "Though/Although (conjunction) + subject",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 92,
+      "question": "I have been yet to go to the flower exhibition at Delhi University.\b?",
+      "exam_source": "(SSC CPO, 2024)",
+      "options": {
+        "a": "have yet",
+        "b": "had been yet",
+        "c": "have yet been",
+        "d": "have yet being"
+      },
+      "correct": "a",
+      "explanation": "Correct structure- Subject + have/has yet to",
+      "format": "regular"
+    },
+    {
+      "qno": 93,
+      "question": "Once the seminar was over, the host gave up the certificates to the active participants.",
+      "exam_source": "(SSC MTS, 2024)",
+      "options": {
+        "a": "brought about",
+        "b": "put across",
+        "c": "come by",
+        "d": "gave away"
+      },
+      "correct": "d",
+      "explanation": "Gave away = distributed/given to others",
+      "format": "regular"
+    },
+    {
+      "qno": 94,
+      "question": "The most effective way to enhance your vocabulary is to look to unknown words in a dictionary.",
+      "exam_source": "(SSC MTS, 2024)",
+      "options": {
+        "a": "look up",
+        "b": "stand by",
+        "c": "set by",
+        "d": "write off"
+      },
+      "correct": "a",
+      "explanation": "Look up = search for information/reference",
+      "format": "regular"
+    },
+    {
+      "qno": 95,
+      "question": "Good nutrition is the bedrock at child survival, health and development.",
+      "exam_source": "(SSC MTS, 2024)",
+      "options": {
+        "a": "bedrock from child survival",
+        "b": "bedrock off child survival",
+        "c": "bedrock through child survival",
+        "d": "bedrock of child survival"
+      },
+      "correct": "d",
+      "explanation": "Correct expression is gS- the bedrock of =",
+      "format": "regular"
+    },
+    {
+      "qno": 96,
+      "question": "The project fell besides due to lack of funding and support.",
+      "exam_source": "(SSC MTS, 2024)",
+      "options": {
+        "a": "fell for due to lack",
+        "b": "fell through due to lack",
+        "c": "fell until due to lack",
+        "d": "fell out due to lack df"
+      },
+      "correct": "b",
+      "explanation": "Fall through = fail to be completed or",
+      "format": "regular"
+    },
+    {
+      "qno": 97,
+      "question": "My mother asked me who did accompany me to the airport.",
+      "exam_source": "(SSC MTS, 2024)",
+      "options": {
+        "a": "who accompanied me",
+        "b": "who accompany me",
+        "c": "whom I was accompanied",
+        "d": "who must accompanied me"
+      },
+      "correct": "a",
+      "explanation": "Indirect question in auxiliary verb did use",
+      "format": "regular"
+    },
+    {
+      "qno": 98,
+      "question": "The children were merry than usual on Sunday.",
+      "exam_source": "(SSC MTS, 2024)",
+      "options": {
+        "a": "merriest",
+        "b": "more merrier",
+        "c": "merrier",
+        "d": "the merriest"
+      },
+      "correct": "c",
+      "explanation": "Sentence in than comparison show do",
+      "format": "regular"
+    },
+    {
+      "qno": 99,
+      "question": "Placing a huge magnet atop the temple pose to being the biggest hurdle for the masons.",
+      "exam_source": "(SSC MTS, 2024)",
+      "options": {
+        "a": "posing to be",
+        "b": "poses for being",
+        "c": "No improvement required",
+        "d": "posed to be"
+      },
+      "correct": "d",
+      "explanation": "Sentence past context in gS, therefore verb",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 100,
+      "question": "Heba dropped of the club unexpectedly to say hello and catch up.",
+      "exam_source": "(SSC MTS, 2024)",
+      "options": {
+        "a": "dropped between the club unexpectedly",
+        "b": "dropped by the club unexpectedly",
+        "c": "dropped for the club unexpectedly",
+        "d": "dropped besides the club unexpectedly"
+      },
+      "correct": "b",
+      "explanation": "drop by + place = make a short informal",
+      "format": "regular"
+    },
+    {
+      "qno": 101,
+      "question": "My brother asked me, “Can I exchange my phone from you?”?",
+      "exam_source": "(SSC MTS, 2024)",
+      "options": {
+        "a": "my phone within yours",
+        "b": "my phone off yours",
+        "c": "my phone with yours",
+        "d": "my phone since yours"
+      },
+      "correct": "c",
+      "explanation": "exchange something with someone/ something (,d ph”k dks nwljh ls cnyuk)",
+      "format": "regular"
+    },
+    {
+      "qno": 102,
+      "question": "Universal high-quality education is the best way forward for developing and maximising our country’s rich talents and resources for the good individual, the society, the country and the world.\b?",
+      "exam_source": "(SSC MTS, 2024)",
+      "options": {
+        "a": "good by the individual",
+        "b": "good for the individual",
+        "c": "good of the individual",
+        "d": "good on the individual"
+      },
+      "correct": "c",
+      "explanation": "Fixed expression is- for the good of +",
+      "format": "regular"
+    },
+    {
+      "qno": 103,
+      "question": "It is all one whether I go today or tomorrow.",
+      "exam_source": "",
+      "options": {
+        "a": "one in all",
+        "b": "all in one",
+        "c": "all the one",
+        "d": "No improvement"
+      },
+      "correct": "d",
+      "explanation": "No improvement",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 104,
+      "question": "The government is developing a new test in recruitment and training of teachers in the upcoming session.",
+      "exam_source": "(SSC MTS, 2024)",
+      "options": {
+        "a": "for recruitment or training of teachers",
+        "b": "in recruitment and training on teachers",
+        "c": "of the recruitment and training of teachers",
+        "d": "for the recruitment and training of"
+      },
+      "correct": "d",
+      "explanation": "Purpose/function crkus for preposition",
+      "format": "regular"
+    },
+    {
+      "qno": 105,
+      "question": "Do you know the purpose of a fire extinguisher? It helps to put up with an engulfing fire, in case of an emergency.",
+      "exam_source": "(SSC MTS, 2024)",
+      "options": {
+        "a": "turn out",
+        "b": "turn over",
+        "c": "stand out",
+        "d": "put out"
+      },
+      "correct": "d",
+      "explanation": "this sentence in cq>kus of context in correct",
+      "format": "regular"
+    },
+    {
+      "qno": 106,
+      "question": "Ajay told the manager that he would not mind standing and eat the lunch.",
+      "exam_source": "",
+      "options": {
+        "a": "standing and eating",
+        "b": "to stand and to eat",
+        "c": "to stand and eat",
+        "d": "No improvement"
+      },
+      "correct": "a",
+      "explanation": "standing and eating of use will be, because mind",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 107,
+      "question": "We demonstrated to them how we were prepared the artistic patterns.",
+      "exam_source": "",
+      "options": {
+        "a": "have prepared",
+        "b": "prepared",
+        "c": "had prepared",
+        "d": "No improvement"
+      },
+      "correct": "c",
+      "explanation": "108. (d) 109. (a) 104. The government is developing a new test in recruitment and training of teachers in the upcoming session. (SSC MTS, 2024) (a) for recruitment or training of teachers (b) in recruitment and training on teachers (c) of the recruitment and training of teachers (d) for the recruitment and training of teachers 105. Do you know the purpose of a fire extinguisher? It helps to put up with an engulfing fire, in case of an emergency. (SSC MTS, 2024) (a) turn out (b) turn over (c) stand out (d) put out 106. Ajay told the manager that he would not mind standing and eat the lunch. (a) standing and eating (b) to stand and to eat (c) to stand and eat (d) No improvement 107. We demonstrated to them how we were prepared the artistic patterns. (a) have prepared (b) prepared (c) had prepared (d) No improvement 108. It is worth noting that the possible from him being voted as the class monitor is next to zero. (SSC MTS, 2024) (a) possibility of his (b) possibly of him (c) possibility at him (d) possibility of him 109. While I was teaching the elder one, the younger one take an opportunity and ran away. (SSC MTS, 2024) (a) the younger one took an opportunity and ran away (b) the younger one has taken an opportunity and ran away (c) the younger one took an opportunity and run away (d) No substitution hall",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 108,
+      "question": "It is worth noting that the possible from him being voted as the class monitor is next to zero.",
+      "exam_source": "(SSC MTS, 2024)",
+      "options": {
+        "a": "possibility of his",
+        "b": "possibly of him",
+        "c": "possibility at him",
+        "d": "possibility of him"
+      },
+      "correct": "d",
+      "explanation": "noun (possibility) because article",
+      "format": "regular"
+    },
+    {
+      "qno": 109,
+      "question": "While I was teaching the elder one, the younger one take an opportunity and ran away.",
+      "exam_source": "(SSC MTS, 2024)",
+      "options": {
+        "a": "the younger one took an opportunity and",
+        "b": "the younger one has taken an opportunity",
+        "c": "the younger one took an opportunity and",
+        "d": "No substitution hall"
+      },
+      "correct": "a",
+      "explanation": "Sentence Past Continuous Tense in 'kq: be",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 110,
+      "question": "Manisha set apart with her friends to explore the countryside.\b?",
+      "exam_source": "(SSC MTS, 2024)",
+      "options": {
+        "a": "No substitution required",
+        "b": "set in",
+        "c": "set out",
+        "d": "set aside"
+      },
+      "correct": "c",
+      "explanation": "this sentence in 'kq: to do any fo'ks\"k",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 111,
+      "question": "Each of our students pay their tuition fee at the beginning of the month.",
+      "exam_source": "",
+      "options": {
+        "a": "student pay their",
+        "b": "student pays their",
+        "c": "students pays his",
+        "d": "No improvement"
+      },
+      "correct": "c",
+      "explanation": "students pays his of use will be, because Each of",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 112,
+      "question": "The sports teacher saw across the game and punished the students who were cheating in the game.\b?",
+      "exam_source": "(SSC MTS, 2024)",
+      "options": {
+        "a": "underneath",
+        "b": "beside",
+        "c": "through",
+        "d": "beneath"
+      },
+      "correct": "c",
+      "explanation": "See through = detect the truth/deception",
+      "format": "regular"
+    },
+    {
+      "qno": 113,
+      "question": "I was delighted to see him fully recover.",
+      "exam_source": "",
+      "options": {
+        "a": "he fully recovered",
+        "b": "him fully recovered",
+        "c": "his full recovery",
+        "d": "No improvement"
+      },
+      "correct": "b",
+      "explanation": "him fully recovered of use will be, because see",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 114,
+      "question": "Although the children studied hard, but they could not understand the topic without the help of the teacher.\b?",
+      "exam_source": "(SSC CGL, 2020)",
+      "options": {
+        "a": "Although the children study hard, but",
+        "b": "No substitution",
+        "c": "Although the children studied hard, they",
+        "d": "Although the children have studied hard"
+      },
+      "correct": "c",
+      "explanation": "Sentence in although and but with in not",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 115,
+      "question": "A need of an hour is to provide employment to the youth of the country.",
+      "exam_source": "(SSC CGL, 2020)",
+      "options": {
+        "a": "No improvement",
+        "b": "The need in an",
+        "c": "The need of the",
+        "d": "The need of an"
+      },
+      "correct": "c",
+      "explanation": "correct phrase gS, the need of the hour",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 116,
+      "question": "These shoes are cheap as well durable.\b?",
+      "exam_source": "(SSC CGL, 2020)",
+      "options": {
+        "a": "more cheaper than durable",
+        "b": "both cheap and durable",
+        "c": "No improvement",
+        "d": "neither cheaper nor durable"
+      },
+      "correct": "b",
+      "explanation": "qualities to join for correct structure, is",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 117,
+      "question": "The house had been auctioning before we reached there.\b Answer Key 110. (c) 111. (c) 112. (c) 113. (b) 114. (c) 120. (b) 121. (d) 122. (b) 123.",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "c": "111.",
+        "b": "114.",
+        "d": "122.",
+        "a": "124."
+      },
+      "correct": "c",
+      "explanation": "sentence in tc past actions are are rc which",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 118,
+      "question": "Large glasses magnified his eyes so that to gave him the appearance of a wise owl.\b?",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "so as to give",
+        "b": "so that it gives",
+        "c": "as though to gave",
+        "d": "No substitution"
+      },
+      "correct": "a",
+      "explanation": "to after, verb of first form comes",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 119,
+      "question": "Unless someone makes a complaint, they will not clear the garbage from the street.\b?",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "Despite someone makes a complaint",
+        "b": "If someone does not a complain",
+        "c": "No substitution",
+        "d": "When someone makes a complaint"
+      },
+      "correct": "c",
+      "explanation": "No substitution",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 120,
+      "question": "The ostrich is a peculiar bird; sometimes it prefer to run around in circles. \b?",
+      "exam_source": "(SSC MTS, 2020)",
+      "options": {
+        "a": "No substitution",
+        "b": "sometimes it prefers to",
+        "c": "sometime it prefer to",
+        "d": "sometimes its prefer to"
+      },
+      "correct": "b",
+      "explanation": "Subject it singular gS, therefore verb",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 121,
+      "question": "If the town had been built at a lower altitude, it will be a lot warmer.\b?",
+      "exam_source": "(SSC MTS, 2020)",
+      "options": {
+        "a": "would be",
+        "b": "should be",
+        "c": "will have been",
+        "d": "would have been"
+      },
+      "correct": "d",
+      "explanation": "third-conditional sentence gS fd past",
+      "format": "regular"
+    },
+    {
+      "qno": 122,
+      "question": "This silver glass will shine if you rub by lemon peel.\b?",
+      "exam_source": "(SSC MTS, 2020)",
+      "options": {
+        "a": "No substitution",
+        "b": "rub it with",
+        "c": "rubbed it by",
+        "d": "rub it by"
+      },
+      "correct": "b",
+      "explanation": "Rub ,d transitive verb gS blosQ ckn object it dk use gksxk rFkk blosQ lkFk lgh preposition, “ with” dk use gksrk gSA",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 123,
+      "question": "No sooner I get the message, I shall pass it on to you.\b?",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "As soon as",
+        "b": "Although",
+        "c": "No substitution",
+        "d": "Hardly"
+      },
+      "correct": "a",
+      "explanation": "No sooner with, than and inverted",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 124,
+      "question": "I reached the office before time as I wanted to have completed some pending jobs. \b?",
+      "exam_source": "(SSC MTS, 2020)",
+      "options": {
+        "a": "wanted to complete",
+        "b": "want to complete",
+        "c": "wanted to completed",
+        "d": "No substitution"
+      },
+      "correct": "a",
+      "explanation": "to after always, verb of first form gS",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 125,
+      "question": "Astronomers consider the year 2020 to be eventful in the celestial world until the four eclipses.\b?",
+      "exam_source": "(SSC MTS, 2020)",
+      "options": {
+        "a": "notwithstanding",
+        "b": "because of",
+        "c": "besides",
+        "d": "No substitution"
+      },
+      "correct": "b",
+      "explanation": "Until (time limit) gS, ysfdu (reason)",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 126,
+      "question": "One of the rooms in the new house had not been yet completed.\b?",
+      "exam_source": "(SSC MTS, 2020)",
+      "options": {
+        "a": "has not yet",
+        "b": "are not yet been",
+        "c": "has not yet been",
+        "d": "have not yet been"
+      },
+      "correct": "c",
+      "explanation": "Has not yet been correct will be, because One of +",
+      "format": "regular"
+    },
+    {
+      "qno": 127,
+      "question": "None of the soldiers did not survive when trapped in the glacier.\b?",
+      "exam_source": "(SSC STENO, 2020)",
+      "options": {
+        "a": "could not survives",
+        "b": "survived",
+        "c": "No substitution",
+        "d": "could survive"
+      },
+      "correct": "d",
+      "explanation": "None of meaning before from gh negative is gS,",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 128,
+      "question": "She walked among me without greeting me.",
+      "exam_source": "(SSC CPO, 2020)",
+      "options": {
+        "a": "No substitution",
+        "b": "about me",
+        "c": "past me",
+        "d": "over me"
+      },
+      "correct": "c",
+      "explanation": "correct phrase past me is gS meaning esjs",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 129,
+      "question": "Every year the family goes for a pilgrim to the temple at Tirupathi.\b?",
+      "exam_source": "(SSC CPO, 2020)",
+      "options": {
+        "a": "at the pilgrim",
+        "b": "on a pilgrimage",
+        "c": "No substitution",
+        "d": "to the pilgrimage"
+      },
+      "correct": "b",
+      "explanation": "Pilgrim of meaning is (person).",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 130,
+      "question": "Everybody who know him agree that he rarely loses his temper.\b?",
+      "exam_source": "(SSC CPO, 2020)",
+      "options": {
+        "a": "No substitution",
+        "b": "who know him agrees that",
+        "c": "who knows him agrees if",
+        "d": "who knows him agrees that"
+      },
+      "correct": "d",
+      "explanation": "Indefinite pronouns fd everybody",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 131,
+      "question": "Being seen the film once he doesn’t want to see it again.\b?",
+      "exam_source": "(SSC CPO, 2020)",
+      "options": {
+        "a": "because seeing the film",
+        "b": "after seeing film",
+        "c": "having seen the film",
+        "d": "No substitution"
+      },
+      "correct": "c",
+      "explanation": "tc ,d dke before iwjk be be, rc (Having + V3)",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 132,
+      "question": "Finally, here are a few examples of passages and their precis.\b?",
+      "exam_source": "(SSC CGL, 2022)",
+      "options": {
+        "a": "of passages and their precises",
+        "b": "No substitution",
+        "c": "by passages and their precis",
+        "d": "of passages and there precis"
+      },
+      "correct": "b",
+      "explanation": "No substitution",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 133,
+      "question": "We live in a populated country of 120 million people.\b?",
+      "exam_source": "(SSC CGL, 2022)",
+      "options": {
+        "a": "congested",
+        "b": "populous",
+        "c": "No substitute",
+        "d": "dense"
+      },
+      "correct": "b",
+      "explanation": "populous of meaning gS having a large",
+      "format": "regular"
+    },
+    {
+      "qno": 134,
+      "question": "I have reached the hotel, by the time you call me.\b?",
+      "exam_source": "(SSC CGL, 2022)",
+      "options": {
+        "a": "had reached the hotel",
+        "b": "will have reached the hotel",
+        "c": "No substitution",
+        "d": "will be reaching the hotel"
+      },
+      "correct": "b",
+      "explanation": "By the time vius with clause in simple",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 135,
+      "question": "Many companies evades to pay income tax last year.",
+      "exam_source": "",
+      "options": {
+        "a": "evaded to pay",
+        "b": "evading to pay",
+        "c": "evaded paying",
+        "d": "No improvement"
+      },
+      "correct": "c",
+      "explanation": "evaded paying of meaning gS pksjh-fNis Hkqxrku to do",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 136,
+      "question": "Hardly had the news leaked out my telephone started ringing.",
+      "exam_source": "",
+      "options": {
+        "a": "No sooner did the news leak out than",
+        "b": "Hardly the news had leaked out when",
+        "c": "No improvement",
+        "d": "As soon as the news leak out"
+      },
+      "correct": "a",
+      "explanation": "Hardly with when No sooner with",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 137,
+      "question": "He spent many an hours playing the chess across the city.",
+      "exam_source": "(SSC CHSL, 2022)",
+      "options": {
+        "a": "He spent many hour playing the chess",
+        "b": "No improvement",
+        "c": "He spent many an hour playing the chess",
+        "d": "He had spent many hours playing the"
+      },
+      "correct": "c",
+      "explanation": "many an vius after singular noun is",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 138,
+      "question": "He is working hard with a view to attain good marks in the examination.",
+      "exam_source": "",
+      "options": {
+        "a": "with a view of attaining",
+        "b": "with a view to attaining",
+        "c": "with a view for attaining",
+        "d": "No improvement"
+      },
+      "correct": "b",
+      "explanation": "With a view to attaining of use will be, because",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 139,
+      "question": "The government appears to be in war with it’s own people.",
+      "exam_source": "(SSC MTS, 2022)",
+      "options": {
+        "a": "To be on war with its own people",
+        "b": "To be at war against it's own people",
+        "c": "No substitution required",
+        "d": "To be at war with its own people"
+      },
+      "correct": "d",
+      "explanation": "correct phrase at war with is gS, and vius",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 140,
+      "question": "Hardly did the ink phase out on my weekly column, when one of my readers called me.",
+      "exam_source": "(SSC MTS, 2022)",
+      "options": {
+        "a": "Hardly had the ink dried up last week’s",
+        "b": "No substitution required",
+        "c": "Hardly had the ink dried on last week’s",
+        "d": "Hardly did the ink eke out last week’s"
+      },
+      "correct": "c",
+      "explanation": "correct idiomatic phrase \"the ink had",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 141,
+      "question": "The only course of action to dwell on the loud clamour of conspiracy theories is to keep everyone fully informed.\b?",
+      "exam_source": "(SSC MTS, 2022)",
+      "options": {
+        "a": "fend off the loud clamour of conspiracy",
+        "b": "No substitution required",
+        "c": "call upon the loud clamour off conspiracy",
+        "d": "fond of the loud clamour of conspiracy"
+      },
+      "correct": "a",
+      "explanation": "correct phrase fend off is gS meaning gS to do",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 142,
+      "question": "Christian turned round and staved off into the blackness and I got into my car.",
+      "exam_source": "",
+      "options": {
+        "a": "strode off",
+        "b": "gave off",
+        "c": "eased off",
+        "d": "No correction required"
+      },
+      "correct": "a",
+      "explanation": "Stride of verb of second form strode",
+      "format": "regular"
+    },
+    {
+      "qno": 143,
+      "question": "How can a book such as be written before I’d lived the incidents it described?",
+      "exam_source": "",
+      "options": {
+        "a": "No correction required",
+        "b": "could such a book",
+        "c": "must such a book",
+        "d": "would such a book"
+      },
+      "correct": "b",
+      "explanation": "Sentence past context in gS, therefore can of",
+      "format": "regular"
+    },
+    {
+      "qno": 144,
+      "question": "They got across on a station in the very heart of London.",
+      "exam_source": "",
+      "options": {
+        "a": "No correction required",
+        "b": "They got off at",
+        "c": "They got down to",
+        "d": "They got across at"
+      },
+      "correct": "b",
+      "explanation": "correct phrase get off is gS meaning gS",
+      "format": "regular"
+    },
+    {
+      "qno": 145,
+      "question": "She was born full sight and hearing.",
+      "exam_source": "(SSC MTS, 2022)",
+      "options": {
+        "a": "full sighting",
+        "b": "fully sight",
+        "c": "full sighted",
+        "d": "No improvement"
+      },
+      "correct": "d",
+      "explanation": "No improvement",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 146,
+      "question": "The people of Philippines has voted to elect a new president.\b?",
+      "exam_source": "(SSC MTS, 2022)",
+      "options": {
+        "a": "No substitution required",
+        "b": "the people of Philippines have voted",
+        "c": "141.",
+        "d": "people of Philippines have voted"
+      },
+      "correct": "c",
+      "explanation": "Philippines before article the",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 147,
+      "question": "You must cut off your expenses if you want to save money. \b?",
+      "exam_source": "(SSC CPO, 2022)",
+      "options": {
+        "a": "cut out for",
+        "b": "cut in",
+        "c": "cut down on",
+        "d": "do away with"
+      },
+      "correct": "c",
+      "explanation": "cut off should be replaced with cut down on of use",
+      "format": "regular"
+    },
+    {
+      "qno": 148,
+      "question": "They are cautious about their car as it’s door is broken.\b?",
+      "exam_source": "(SSC CPO, 2022)",
+      "options": {
+        "a": "No substitution",
+        "b": "because it’s",
+        "c": "as it is",
+        "d": "as its"
+      },
+      "correct": "d",
+      "explanation": "possessive adjective its of use car of",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 149,
+      "question": "How did you come about his purse? \b?",
+      "exam_source": "(SSC CPO, 2022)",
+      "options": {
+        "a": "come off",
+        "b": "come by",
+        "c": "come up with",
+        "d": "come down with"
+      },
+      "correct": "b",
+      "explanation": "come by of use will be because kIr to do /",
+      "format": "regular"
+    },
+    {
+      "qno": 150,
+      "question": "He is a weak student and somehow pulled over the exams. \b?",
+      "exam_source": "(SSC CPO, 2022)",
+      "options": {
+        "a": "pulled through",
+        "b": "pulled up",
+        "c": "pulled together",
+        "d": "pulled down"
+      },
+      "correct": "a",
+      "explanation": "pulled through of use will be because",
+      "format": "regular"
+    },
+    {
+      "qno": 151,
+      "question": "It was quite clear that the athlete can be able to improve upon his own record.",
+      "exam_source": "",
+      "options": {
+        "a": "will be able to",
+        "b": "could be able",
+        "c": "would be able",
+        "d": "No correction required"
+      },
+      "correct": "c",
+      "explanation": "can able of use ,d with not is done",
+      "format": "regular"
+    },
+    {
+      "qno": 152,
+      "question": "The passenger got over the bus in rage, prepared to confront the conductor.",
+      "exam_source": "",
+      "options": {
+        "a": "got off the bus in rage",
+        "b": "got down the bus into a rage",
+        "c": "got off the bus in a rage",
+        "d": "No improvement required"
+      },
+      "correct": "c",
+      "explanation": "Got off the bus in a rage of use will be, because",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 153,
+      "question": "Since we are living in New Delhi for five years, we are reluctant to move to another city.",
+      "exam_source": "",
+      "options": {
+        "a": "Being that we living",
+        "b": "Since we were living",
+        "c": "Since we have been living",
+        "d": "No correction required"
+      },
+      "correct": "c",
+      "explanation": "Since we have been living will be, because action",
+      "format": "regular"
+    },
+    {
+      "qno": 154,
+      "question": "The patient couldn’t survive the injuries and succumbed with death.\b?",
+      "exam_source": "(SSC STENO, 2024)",
+      "options": {
+        "a": "succumbed by death",
+        "b": "succumbed to death",
+        "c": "succumbed into death",
+        "d": "succumbed in death all h"
+      },
+      "correct": "b",
+      "explanation": "Succumbed to death",
+      "format": "regular"
+    },
+    {
+      "qno": 155,
+      "question": "Doctor wants Tony to fall back on junk foods.",
+      "exam_source": "",
+      "options": {
+        "a": "to doze off",
+        "b": "to figure out",
+        "c": "to cut back on",
+        "d": "to dispose of"
+      },
+      "correct": "c",
+      "explanation": "to cut back on meaning is gS any of",
+      "format": "regular"
+    },
+    {
+      "qno": 156,
+      "question": "I don’t trust my friend because he has not and can never be trusted because of his deeds. \b?",
+      "exam_source": "(SSC STENO, 2024)",
+      "options": {
+        "a": "has not been and can never be",
+        "b": "has been not and can never be",
+        "c": "has not be and can never be",
+        "d": "has not and can’t be"
+      },
+      "correct": "a",
+      "explanation": "Has not been and can never be",
+      "format": "regular"
+    },
+    {
+      "qno": 157,
+      "question": "He was not happy until he gave up his job and live as a fakir in the forests. \b?",
+      "exam_source": "(SSC CHSL, 2024)",
+      "options": {
+        "a": "until he gave up his job and lived",
+        "b": "until he gives up his job and live",
+        "c": "unless he gave up his job and live",
+        "d": "until he gave up his job and lives"
+      },
+      "correct": "a",
+      "explanation": "Until he gave up his job and lived",
+      "format": "regular"
+    },
+    {
+      "qno": 158,
+      "question": "Dhruv’s anger blazed of uncontrollably. \b?",
+      "exam_source": "(SSC CHSL, 2024)",
+      "options": {
+        "a": "anger blazed onwards",
+        "b": "anger blazed up",
+        "c": "anger blazed into",
+        "d": "anger blazed after"
+      },
+      "correct": "b",
+      "explanation": "Anger blazed up",
+      "format": "regular"
+    },
+    {
+      "qno": 159,
+      "question": "Samita asked out a favour of going early today.\b?",
+      "exam_source": "(SSC CHSL, 2024)",
+      "options": {
+        "a": "asked for",
+        "b": "went about",
+        "c": "asked around",
+        "d": "asked after"
+      },
+      "correct": "a",
+      "explanation": "Asked for meaning any from help",
+      "format": "regular"
+    },
+    {
+      "qno": 160,
+      "question": "We feel warm on the subject. \b?",
+      "exam_source": "(SSC CHSL, 2024)",
+      "options": {
+        "a": "fob off",
+        "b": "keep up with",
+        "c": "follow up",
+        "d": "warmly about"
+      },
+      "correct": "d",
+      "explanation": "correct phrase warmly about gS, meaning gS",
+      "format": "regular"
+    },
+    {
+      "qno": 161,
+      "question": "The Privacy Shield establishes a process to allow companies to transfer consumer data from European Union countries to the United States in compliance in EU law. \b?",
+      "exam_source": "(SSC CHSL, 2024)",
+      "options": {
+        "a": "in compliance with",
+        "b": "in compliance under the",
+        "c": "in compliance for the",
+        "d": "No improvement"
+      },
+      "correct": "a",
+      "explanation": "In compliance with",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 162,
+      "question": "He asked his father when would come the next letter.\b?",
+      "exam_source": "(SSC CHSL, 2024)",
+      "options": {
+        "a": "come the next letter",
+        "b": "the next letter would come",
+        "c": "No substitution required",
+        "d": "would the next letter come"
+      },
+      "correct": "b",
+      "explanation": "the next letter would come",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 163,
+      "question": "Since my friend was not feeling well, she asked me to come over and take care of her. \b?",
+      "exam_source": "(SSC CHSL, 2024)",
+      "options": {
+        "a": "come through",
+        "b": "come into",
+        "c": "come across",
+        "d": "No improvement"
+      },
+      "correct": "d",
+      "explanation": "No improvement",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 164,
+      "question": "Yoga may manage pain and helping reduce stress.",
+      "exam_source": "",
+      "options": {
+        "a": "help reduce",
+        "b": "helped reduce",
+        "c": "help reduced",
+        "d": "help to reduce"
+      },
+      "correct": "a",
+      "explanation": "help reduce",
+      "format": "regular"
+    },
+    {
+      "qno": 165,
+      "question": "As there was no one to look through the orphan, he had to take refuge in the orphanage.",
+      "exam_source": "",
+      "options": {
+        "a": "look upon",
+        "b": "look after",
+        "c": "look down upon",
+        "d": "look into"
+      },
+      "correct": "b",
+      "explanation": "look after",
+      "format": "regular"
+    },
+    {
+      "qno": 166,
+      "question": "I cannot use my office at the moment because it being painted.",
+      "exam_source": "",
+      "options": {
+        "a": "it is painted",
+        "b": "it is being painted",
+        "c": "No substitution required",
+        "d": "being painted"
+      },
+      "correct": "b",
+      "explanation": "it is being painted",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 167,
+      "question": "He has recovered now and is feeling too strong to walk.",
+      "exam_source": "",
+      "options": {
+        "a": "strong to walk",
+        "b": "too weak to walk",
+        "c": "weak enough to walk",
+        "d": "strong enough to walk"
+      },
+      "correct": "d",
+      "explanation": "strong enough to walk",
+      "format": "regular"
+    },
+    {
+      "qno": 168,
+      "question": "Do not later about the street.",
+      "exam_source": "",
+      "options": {
+        "a": "latter about",
+        "b": "loiter around",
+        "c": "litter about",
+        "d": "loiter out"
+      },
+      "correct": "b",
+      "explanation": "Loiter around meaning gS without wandering-wandering",
+      "format": "regular"
+    },
+    {
+      "qno": 169,
+      "question": "He was an irresponsible person to the matter of taking up responsibilities.",
+      "exam_source": "",
+      "options": {
+        "a": "by the matter of taking up",
+        "b": "at the matter of taking up",
+        "c": "in the matter of taking up",
+        "d": "along the matter of taking up"
+      },
+      "correct": "c",
+      "explanation": "in the matter of taking up",
+      "format": "regular"
+    },
+    {
+      "qno": 170,
+      "question": "Charles Darwin is renowned for his book on evolution, ‘On the Origin of Species’, which laid down a treasure of substantiation that evolution occurs, and projected a mechanism, that is, natural selection, for how it does so.",
+      "exam_source": "",
+      "options": {
+        "a": "laid out a treasure of substantiation",
+        "b": "laid into a treasure of substantiation",
+        "c": "laid away a treasure of substantiation",
+        "d": "laid about a treasure of substantiation"
+      },
+      "correct": "a",
+      "explanation": "laid out a treasure of substantiation",
+      "format": "regular"
+    },
+    {
+      "qno": 171,
+      "question": "It is very hard for her to provide the necessities of her family.",
+      "exam_source": "",
+      "options": {
+        "a": "the necessity of her family",
+        "b": "the necessities from her families",
+        "c": "the necessities to her family",
+        "d": "the necessities by her family"
+      },
+      "correct": "c",
+      "explanation": "The necessities to her family",
+      "format": "regular"
+    },
+    {
+      "qno": 172,
+      "question": "Her thinning grey hair was hanging on her bony forehead.",
+      "exam_source": "",
+      "options": {
+        "a": "straggling over",
+        "b": "sinking from",
+        "c": "falling about",
+        "d": "urging ahead"
+      },
+      "correct": "a",
+      "explanation": "Straggling over",
+      "format": "regular"
+    },
+    {
+      "qno": 173,
+      "question": "It is nothing else your pride on which makes you say such a thing.",
+      "exam_source": "",
+      "options": {
+        "a": "else your pride that makes",
+        "b": "else but your pride which makes",
+        "c": "else your pride which make",
+        "d": "else but your pride which make"
+      },
+      "correct": "b",
+      "explanation": "Else but your pride which makes",
+      "format": "regular"
+    },
+    {
+      "qno": 174,
+      "question": "Mr. Adhil called back but he wasn’t able to find the scooter part he needed.",
+      "exam_source": "",
+      "options": {
+        "a": "called off but he wasn’t able to",
+        "b": "called down but he wasn’t able to",
+        "c": "called around but he wasn’t able to",
+        "d": "called up to but he wasn’t able to"
+      },
+      "correct": "c",
+      "explanation": "Called around but he wasnt able to",
+      "format": "regular"
+    },
+    {
+      "qno": 175,
+      "question": "Nearly two-thirds of the region are devastated by landslides after the torrential rainfall.",
+      "exam_source": "",
+      "options": {
+        "a": "two-thirds of the region is devastated",
+        "b": "two-third of the region was devastated",
+        "c": "two-thirds of the region has devastated",
+        "d": "No improvement required"
+      },
+      "correct": "a",
+      "explanation": "Two-thirds of + singular noun for",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 176,
+      "question": "I am liking this movie a lot.\b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "have liked",
+        "b": "like",
+        "c": "liked",
+        "d": "am enjoy this movie"
+      },
+      "correct": "b",
+      "explanation": "177. (a) 178. (b) n T (d) 179. 180. (d)",
+      "format": "regular"
+    },
+    {
+      "qno": 177,
+      "question": "He did not know where was the book kept.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "where the book was kept",
+        "b": "where was the book",
+        "c": "where did the book kept",
+        "d": "where the book has kept"
+      },
+      "correct": "a",
+      "explanation": "where the book was kept",
+      "format": "regular"
+    },
+    {
+      "qno": 178,
+      "question": "She insisted that she comes with us.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "had came with us",
+        "b": "should come with us",
+        "c": "is coming with us",
+        "d": "has to come with us"
+      },
+      "correct": "b",
+      "explanation": "should come with us",
+      "format": "regular"
+    },
+    {
+      "qno": 179,
+      "question": "He speaks English good.\b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "very good",
+        "b": "nicely",
+        "c": "fluently",
+        "d": "well"
+      },
+      "correct": "d",
+      "explanation": "well Verb (speaks) dks qualify djus osQ fy, adverb pkfg,A good ,d adjective gSA",
+      "format": "regular"
+    },
+    {
+      "qno": 180,
+      "question": "He walked slowly lest he should fall.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "in order to not fall",
+        "b": "so that he may not fall",
+        "c": "lest he fall",
+        "d": "No improvement"
+      },
+      "correct": "d",
+      "explanation": "No improvement",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 181,
+      "question": "She avoids to go to crowded places.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "avoids to going to crowded places",
+        "b": "avoids from going to crowded places",
+        "c": "avoids going to crowded places",
+        "d": "is avoiding to go to crowded place"
+      },
+      "correct": "c",
+      "explanation": "avoids going to crowded places",
+      "format": "regular"
+    },
+    {
+      "qno": 182,
+      "question": "He is going to abroad for higher studies.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "is going abroad",
+        "b": "goes to abroad",
+        "c": "is going to the abroad",
+        "d": "is going for abroad"
+      },
+      "correct": "a",
+      "explanation": "is going abroad",
+      "format": "regular"
+    },
+    {
+      "qno": 183,
+      "question": "I was discussing about the issue with him.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "discussed regarding the issue",
+        "b": "had discussion on issue",
+        "c": "was discussing the issue with him",
+        "d": "had been discussing about issue"
+      },
+      "correct": "c",
+      "explanation": "discussing the issue with him",
+      "format": "regular"
+    },
+    {
+      "qno": 184,
+      "question": "It is high time you must change your habits.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "changed your habits",
+        "b": "must have changed your habits",
+        "c": "change your habit",
+        "d": "will change the habit"
+      },
+      "correct": "a",
+      "explanation": "changed your habits",
+      "format": "regular"
+    },
+    {
+      "qno": 185,
+      "question": "They returned back to home after the event.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "back to their house",
+        "b": "returned to their house",
+        "c": "returned home",
+        "d": "return back to their house"
+      },
+      "correct": "c",
+      "explanation": "returned home",
+      "format": "regular"
+    },
+    {
+      "qno": 186,
+      "question": "The judge declared the prisoner as guilty.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "guilty for",
+        "b": "guilty",
+        "c": "as being guilty",
+        "d": "guilty to crime"
+      },
+      "correct": "b",
+      "explanation": "guilty",
+      "format": "regular"
+    },
+    {
+      "qno": 187,
+      "question": "I suggested that he goes to the doctor immediately.\b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "go to doctor at once",
+        "b": "should goes to the doctor",
+        "c": "go to the doctor immediately",
+        "d": "should have go to the doctor pd e"
+      },
+      "correct": "c",
+      "explanation": "go to the doctor immediately",
+      "format": "regular"
+    },
+    {
+      "qno": 188,
+      "question": "No one knows where is he hiding.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "where hiding he is",
+        "b": "where he is hiding",
+        "c": "where he hiding is",
+        "d": "where has he hidden"
+      },
+      "correct": "b",
+      "explanation": "where he is hiding",
+      "format": "regular"
+    },
+    {
+      "qno": 189,
+      "question": "The doctor advised him to avoid eating sweets and doing exercise regularly.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "avoiding sweets and doing regular",
+        "b": "to avoid sweets and to exercises regularly",
+        "c": "to avoid eating sweets and to exercise",
+        "d": "to not eat sweets and do exercises"
+      },
+      "correct": "c",
+      "explanation": "to avoid eating sweets and to exercise",
+      "format": "regular"
+    },
+    {
+      "qno": 190,
+      "question": "The frog adopts itself to live both in water and on land.\b?",
+      "exam_source": "(SSC CGL, 2023)",
+      "options": {
+        "a": "No substitution",
+        "b": "frog alters itself",
+        "c": "frog adepts itself",
+        "d": "frog adapts itself"
+      },
+      "correct": "d",
+      "explanation": "frog adapts itself",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 191,
+      "question": "It is reported that she has win a prize money of ten lakhs at a reality show.\b?",
+      "exam_source": "(SSC CGL, 2023)",
+      "options": {
+        "a": "she had won",
+        "b": "she will won",
+        "c": "No substitution required",
+        "d": "she has won"
+      },
+      "correct": "d",
+      "explanation": "she has won",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 192,
+      "question": "The mob drove on the rampage and looted several shops in the locality.",
+      "exam_source": "(SSC CGL, 2023)",
+      "options": {
+        "a": "played on the rampage",
+        "b": "strolled on the rampage",
+        "c": "ran on the rampage",
+        "d": "went on the rampage"
+      },
+      "correct": "d",
+      "explanation": "Went on the rampage",
+      "format": "regular"
+    },
+    {
+      "qno": 193,
+      "question": "Please ask the dog to get of my couch.",
+      "exam_source": "(SSC CGL, 2023)",
+      "options": {
+        "a": "get of mine",
+        "b": "get off my",
+        "c": "No substitution",
+        "d": "get off mine"
+      },
+      "correct": "b",
+      "explanation": "Get off my",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 194,
+      "question": "The company decided to sell their stake in their subsidiary because it was under massive debts.\b?",
+      "exam_source": "(SSC CGL, 2023)",
+      "options": {
+        "a": "No substitution",
+        "b": "sell its stake in their subsidiary",
+        "c": "sell their stake in its subsidiary",
+        "d": "sell its stake in its subsidiary"
+      },
+      "correct": "d",
+      "explanation": "Sell its stake in its subsidiary",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 195,
+      "question": "Brian remained silent during the board meeting, though Rahul was unaware that he had an ace up his sheath the entire time. Answer Key 188. (b) 189. (c) 190. (d) 191. (d) 192. (d) 198.",
+      "exam_source": "(SSC CGL, 2023)",
+      "options": {
+        "b": "189.",
+        "c": "190.",
+        "d": "191.",
+        "a": "199."
+      },
+      "correct": "d",
+      "explanation": "An ace up his sleeve",
+      "format": "regular"
+    },
+    {
+      "qno": 196,
+      "question": "While he saw the bear, he ran to the nearest tree, dropped his gun and climbed to a safe place.\b?",
+      "exam_source": "(SSC CGL, 2023)",
+      "options": {
+        "a": "Hardly he saw the bear",
+        "b": "No substitution",
+        "c": "When he saw the bear",
+        "d": "No sooner did he see"
+      },
+      "correct": "c",
+      "explanation": "When he saw the bear",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 197,
+      "question": "Delegates of the conflicting countries formally meet at a conference to hold out their differences.",
+      "exam_source": "",
+      "options": {
+        "a": "to prevail upon",
+        "b": "No substitution",
+        "c": "to iron out",
+        "d": "to make off with"
+      },
+      "correct": "c",
+      "explanation": "to iron out because to + of use is is",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 198,
+      "question": "The young boy displayed an aptitude on scientific research.",
+      "exam_source": "",
+      "options": {
+        "a": "aptitude for",
+        "b": "aptitude by",
+        "c": "aptitude in",
+        "d": "aptitude at"
+      },
+      "correct": "a",
+      "explanation": "aptitude for",
+      "format": "regular"
+    },
+    {
+      "qno": 199,
+      "question": "Court Cinema provides the most universal entertainment.",
+      "exam_source": "",
+      "options": {
+        "a": "No correction required",
+        "b": "an universal",
+        "c": "more universal",
+        "d": "a universal"
+      },
+      "correct": "d",
+      "explanation": "A universal",
+      "format": "regular"
+    },
+    {
+      "qno": 200,
+      "question": "The commander made the amphibious machines to capture thermal images from the hostile terrain.",
+      "exam_source": "",
+      "options": {
+        "a": "machines capture thermal images",
+        "b": "machines to capturing thermal images",
+        "c": "machines capturing thermal images",
+        "d": "No improvement required"
+      },
+      "correct": "a",
+      "explanation": "Machines capture thermal images correct",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 201,
+      "question": "Peter was brought in the penalty area.",
+      "exam_source": "(SSC CHSL, 2023)",
+      "options": {
+        "a": "was brought down in the",
+        "b": "was brought of the",
+        "c": "was brought on the",
+        "d": "was brought down of the"
+      },
+      "correct": "a",
+      "explanation": "Was brought down in the",
+      "format": "regular"
+    },
+    {
+      "qno": 202,
+      "question": "Since the storm knocked in the power, we’ve been using candles to light our home.",
+      "exam_source": "(SSC CHSL, 2023)",
+      "options": {
+        "a": "No substitution required",
+        "b": "the storm knocked over the power",
+        "c": "the storm knocked out the power",
+        "d": "the storm knocked away the power"
+      },
+      "correct": "c",
+      "explanation": "The storm knocked out the power",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 203,
+      "question": "I enjoy learn languages because I like them.",
+      "exam_source": "",
+      "options": {
+        "a": "learning ll",
+        "b": "No substitution required f ha",
+        "c": "to learning",
+        "d": "lean fr @"
+      },
+      "correct": "a",
+      "explanation": "enjoy vius after gerund (V-ing) is therefore",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 204,
+      "question": "Raja has the guts to rise from the occasion and come out successfully.",
+      "exam_source": "",
+      "options": {
+        "a": "to rise in",
+        "b": "to raise with",
+        "c": "No correction required",
+        "d": "to rise to"
+      },
+      "correct": "d",
+      "explanation": "Rise to the occasion correct phrase gS, meaning",
+      "format": "regular"
+    },
+    {
+      "qno": 205,
+      "question": "Milk producers have urged the State government by giving a subsidy of Rs 5 per litre of milk to Aavin, which has reduced the sale price by Rs 3 per litre.",
+      "exam_source": "",
+      "options": {
+        "a": "has urged the State government for",
+        "b": "have urged the State government to give",
+        "c": "have been urged the State government to",
+        "d": "No correction required"
+      },
+      "correct": "b",
+      "explanation": "sentence in subject Milk producers plural gS,",
+      "format": "regular"
+    },
+    {
+      "qno": 206,
+      "question": "The development of skills can contribute to structural transformation and economic growth in enhance employability and labour productivity and helping countries to become more competitive.\b?",
+      "exam_source": "(SSC MTS, 2023)",
+      "options": {
+        "a": "by enhancing employability",
+        "b": "for enhanced employability",
+        "c": "about enhancing employability",
+        "d": "by enhanced employability"
+      },
+      "correct": "a",
+      "explanation": "By enhancing employability",
+      "format": "regular"
+    },
+    {
+      "qno": 207,
+      "question": "Digital platforms have intensified ideological divisions across society, leading concerns about social media's impact on public discourse and dialogue, especially among younger users who spend hours on these apps every day.",
+      "exam_source": "",
+      "options": {
+        "a": "leading to concerns about",
+        "b": "lead to concerns about",
+        "c": "leading to concerns on",
+        "d": "No improvement required"
+      },
+      "correct": "a",
+      "explanation": "Leading to concerns about of use will be,",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 208,
+      "question": "The team, which was under pressure to deliver on time, advised that they must complete the project before the deadline to avoid any penalties from the client.",
+      "exam_source": "",
+      "options": {
+        "a": "was advised to complete the project",
+        "b": "advised to complete the project before the",
+        "c": "were advised that they must complete the",
+        "d": "No improvement required"
+      },
+      "correct": "a",
+      "explanation": "Was advised to complete the project before",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 209,
+      "question": "The committee members had different opinions on the issue, but after a long debate, they finally agreed with the best course of action and decided to move forward with the revised plan.",
+      "exam_source": "",
+      "options": {
+        "a": "finally agreed to the best course of action",
+        "b": "finally had agreed on the best course of",
+        "c": "finally agreed on the best course of action",
+        "d": "No improvement required"
+      },
+      "correct": "c",
+      "explanation": "Finally agreed on the best course of action",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 210,
+      "question": "The latest economic report suggests that the economy is growing stronger and expects to recover soon, which has boosted confidence among businesses and investors.",
+      "exam_source": "",
+      "options": {
+        "a": "suggest the economy is growing stronger",
+        "b": "suggests that the economy is growing",
+        "c": "suggests that the economy growing",
+        "d": "No improvement required"
+      },
+      "correct": "b",
+      "explanation": "Suggests that the economy is growing",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 211,
+      "question": "The teacher reminded the class that the students was asked for submit their assignments by Friday, and late submissions would not be accepted under any circumstances.",
+      "exam_source": "",
+      "options": {
+        "a": "were asked to submit",
+        "b": "asked to submit",
+        "c": "were asked to be submitted",
+        "d": "No improvement required"
+      },
+      "correct": "a",
+      "explanation": "were asked to submit of use will be, because",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 212,
+      "question": "There is an urgent need to look over alternative sources of potable water in places where quality has deteriorated sharply.",
+      "exam_source": "",
+      "options": {
+        "a": "a urgent need to look for",
+        "b": "an urgent to look after",
+        "c": "an urgent need to look for",
+        "d": "No correction required"
+      },
+      "correct": "c",
+      "explanation": "An urgent need to look for correct will be, because",
+      "format": "regular"
+    },
+    {
+      "qno": 213,
+      "question": "Many people believes whether regular exercise and a balanced diet are essential for maintaining good health and preventing lifestyle diseases, but they often fail to follow this advice in their daily routine.",
+      "exam_source": "",
+      "options": {
+        "a": "believe that regular exercise and a",
+        "b": "are believing that regular exercise and",
+        "c": "believe that regular exercise and a",
+        "d": "No improvement required f"
+      },
+      "correct": "a",
+      "explanation": "Believe that regular exercise and a balanced",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 214,
+      "question": "The artist, along with his assistants, have been working on the mural for the past three months to complete it before the festival, which is one of the most important cultural events in the city.",
+      "exam_source": "",
+      "options": {
+        "a": "has been working on the mural for the",
+        "b": "is working on the mural for the past three",
+        "c": "has been working on the mural for the",
+        "d": "No improvement required"
+      },
+      "correct": "a",
+      "explanation": "has been working on the mural for the past",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 215,
+      "question": "The board members agreed that the company should diversify its operations despite depending on a single product for revenue, which would reduce risk and make the business more stable in the long run.",
+      "exam_source": "",
+      "options": {
+        "a": "instead of depending on a single product",
+        "b": "besides depending on a single product",
+        "c": "with a view to depending on a single",
+        "d": "No improvement required"
+      },
+      "correct": "a",
+      "explanation": "tc ,d choice dks replace djosQ dksbZ nwljh choice dks pick fd;k tkrk gS rks 'instead of' dk use fd;k tkrk gSA",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 216,
+      "question": "The young scientist is confidence that her research will lead to a significant breakthrough in the field of renewable energy in future, and she is already planning to publish her findings in an international journal.",
+      "exam_source": "",
+      "options": {
+        "a": "is confident that her research will lead to",
+        "b": "is confident of that her research will lead",
+        "c": "is confident that her research would lead",
+        "d": "No improvement required"
+      },
+      "correct": "a",
+      "explanation": "is confident that of use will be, because on",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 217,
+      "question": "The principal emphasised during the assembly that discipline and punctuality go hand in hand for success on academic life, and students who follow these values are more likely to perform well in exams and in life.",
+      "exam_source": "",
+      "options": {
+        "a": "go hand in hand for success in academic",
+        "b": "goes hand in hand to success in academic",
+        "c": "go hand and hand for success in academic",
+        "d": "No improvement required"
+      },
+      "correct": "a",
+      "explanation": "go hand in hand for success in academic",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 218,
+      "question": "The charity organisation depends largely on donations from the public, which enables it provide free medical care to poor families in remote villages.",
+      "exam_source": "",
+      "options": {
+        "a": "enables it to provide free medical care to",
+        "b": "enabled it to provide free medical care to",
+        "c": "enable it to provide free medical care for",
+        "d": "No improvement required"
+      },
+      "correct": "a",
+      "explanation": "Enables it to provide free medical care to",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 219,
+      "question": "The chairman, together with the directors, was present at the inauguration of the company's new manufacturing plant in the industrial area.",
+      "exam_source": "",
+      "options": {
+        "a": "was present at the inauguration of the",
+        "b": "were present at the inauguration of the",
+        "c": "was present in the inauguration of the",
+        "d": "No improvement required"
+      },
+      "correct": "d",
+      "explanation": "No substitution required",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 220,
+      "question": "At the monthly meeting, the employer assured the workers that their salaries will be credited into their accounts by tomorrow evening without any delay.",
+      "exam_source": "",
+      "options": {
+        "a": "will be credited to their accounts by",
+        "b": "will be credited into his accounts by",
+        "c": "will credit to their accounts by tomorrow",
+        "d": "No improvement required"
+      },
+      "correct": "a",
+      "explanation": "will be credited to their accounts by",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 221,
+      "question": "The villagers complained to the local authorities that the drinking water supplied to them often smells unpleasant and contains visible impurity, making it unsafe to daily use.",
+      "exam_source": "",
+      "options": {
+        "a": "contains visible impurities, making it",
+        "b": "contained visible impurities, making it",
+        "c": "contain visible impurities, making it l",
+        "d": "No improvement required ep"
+      },
+      "correct": "a",
+      "explanation": "contains visible impurities, making it",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 222,
+      "question": "In many rural areas, farmers are facing serious financial difficulties because the prices of fertilisers and seeds have sharply risen this season because supply issues.",
+      "exam_source": "",
+      "options": {
+        "a": "have sharply raised this season due to",
+        "b": "has sharply risen this season due to",
+        "c": "have sharply risen this season due to",
+        "d": "No improvement required"
+      },
+      "correct": "c",
+      "explanation": "have sharply risen this season due to",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 223,
+      "question": "After listening patiently to our complaint, the manager said that he would look into the matter and revert back to us by tomorrow evening with a solution.",
+      "exam_source": "",
+      "options": {
+        "a": "revert to us by tomorrow evening with a",
+        "b": "revert us by tomorrow evening on a",
+        "c": "reverted to us by tomorrow evening with",
+        "d": "No improvement required"
+      },
+      "correct": "a",
+      "explanation": "revert to us of use will be, because revert to",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 224,
+      "question": "It has been ten years when I last saw you.",
+      "exam_source": "",
+      "options": {
+        "a": "that",
+        "b": "since",
+        "c": "before",
+        "d": "No improvement"
+      },
+      "correct": "b",
+      "explanation": "Since correct will be, because point of time crkus of",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 225,
+      "question": "The head coach declared that the player who will score the most points in the game will clinch the trophy this year.",
+      "exam_source": "",
+      "options": {
+        "a": "who have scored the maximum points",
+        "b": "who will score the maximum points",
+        "c": "who scores the maximum points",
+        "d": "No improvement"
+      },
+      "correct": "c",
+      "explanation": "who scores the maximum points of use",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 226,
+      "question": "In the party she spoke to me very friendly.",
+      "exam_source": "",
+      "options": {
+        "a": "in very friendly manner",
+        "b": "with very friendly manner",
+        "c": "in a very friendly manner",
+        "d": "No improvement"
+      },
+      "correct": "c",
+      "explanation": "In a very friendly manner correct will be, because",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 227,
+      "question": "Effective responses of climate change are imperative to protect the world's children and fulfil their rights.",
+      "exam_source": "",
+      "options": {
+        "a": "responses from climate change",
+        "b": "responses with climate change",
+        "c": "responses at climate change",
+        "d": "responses to climate change"
+      },
+      "correct": "d",
+      "explanation": "responses to climate change of use will be,",
+      "format": "regular"
+    },
+    {
+      "qno": 228,
+      "question": "It is a fact that the same judgement can often be taken by more than one way. Answer Key 222. (c) 223.",
+      "exam_source": "",
+      "options": {
+        "c": "223.",
+        "a": "224.",
+        "b": "225.",
+        "d": "233."
+      },
+      "correct": "c",
+      "explanation": "be taken in more than of use will be, because in",
+      "format": "regular"
+    },
+    {
+      "qno": 229,
+      "question": "Mr. Patel is likely to win the elections in the sweeping majority.",
+      "exam_source": "",
+      "options": {
+        "a": "elections at a sweeping majority",
+        "b": "elections of a sweeping majority",
+        "c": "elections on a sweeping majority",
+        "d": "elections by a sweeping majority"
+      },
+      "correct": "d",
+      "explanation": "elections by a sweeping majority of use",
+      "format": "regular"
+    },
+    {
+      "qno": 230,
+      "question": "The Sumo wrestler seemed to be incapable in being tired.",
+      "exam_source": "",
+      "options": {
+        "a": "incapable to being tired",
+        "b": "incapable of being tired",
+        "c": "incapable by being tired",
+        "d": "incapable of tired"
+      },
+      "correct": "b",
+      "explanation": "incapable of being tired of use will be, because",
+      "format": "regular"
+    },
+    {
+      "qno": 231,
+      "question": "She met my cousin, whose she later married.",
+      "exam_source": "",
+      "options": {
+        "a": "whom she later married",
+        "b": "she later married",
+        "c": "who she later married",
+        "d": "No substitution required"
+      },
+      "correct": "a",
+      "explanation": "Whom she later married of use will be, because",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 232,
+      "question": "I can't wait to go on camping next weekend.",
+      "exam_source": "",
+      "options": {
+        "a": "No improvement",
+        "b": "going to camping",
+        "c": "go to camping",
+        "d": "go camping"
+      },
+      "correct": "d",
+      "explanation": "Go camping of use will be, because go + V-ing",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 233,
+      "question": "Most of the Indian workers are as healthy as, if not healthier than, British workers.",
+      "exam_source": "",
+      "options": {
+        "a": "as healthier as if not healthier",
+        "b": "healthier but not as healthy",
+        "c": "as healthy, if not healthier",
+        "d": "No improvement"
+      },
+      "correct": "d",
+      "explanation": "No improvement",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 234,
+      "question": "An emerging form to the Delta variant which allows the coronavirus to escape antibodies, in recently approved treatment regimes, is appearing on the radar of Indian scientists.",
+      "exam_source": "",
+      "options": {
+        "a": "An emerged form of the Delta variant",
+        "b": "An emerging form of the Delta variant",
+        "c": "An emerged from of the Delta variant",
+        "d": "No improvement required"
+      },
+      "correct": "b",
+      "explanation": "An emerging form of the Delta variant that",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 235,
+      "question": "According to the investment bank Morgan Stanley, up to million Australians are exposed to the most affected industries such as tourism, retail and hospitality.",
+      "exam_source": "",
+      "options": {
+        "a": "exposed to the most effective industry",
+        "b": "exposed to the most affected industry",
+        "c": "exposed to the most effected industries",
+        "d": "No improvement required"
+      },
+      "correct": "d",
+      "explanation": "No improvement",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 236,
+      "question": "But equally, it should be made clear that there is no escape for those who take justice to their own hand.",
+      "exam_source": "",
+      "options": {
+        "a": "take justice at their own hands",
+        "b": "taken justice in their own hand",
+        "c": "take justice into their own hands",
+        "d": "No correction required"
+      },
+      "correct": "c",
+      "explanation": "Correct idiomatic phrase \"take justice into",
+      "format": "regular"
+    },
+    {
+      "qno": 237,
+      "question": "In the audit report it was clearly mentioned that myself along with the senior auditors was responsible for reviewing the final draft before it was circulated among the board members.",
+      "exam_source": "",
+      "options": {
+        "a": "I, along with the senior auditors, were",
+        "b": "I, along with the senior auditors was",
+        "c": "I, along with the senior auditors was",
+        "d": "No improvement required"
+      },
+      "correct": "c",
+      "explanation": "Reflexive pronoun subject of use",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 238,
+      "question": "Jeff was given a medal of honour in recognition by the twenty-five years he spent fighting for Answer Key 235. (d) 236. (c) 237. (c) 238. (b) 239.",
+      "exam_source": "",
+      "options": {
+        "d": "236.",
+        "c": "237.",
+        "b": "239.",
+        "a": "Solut"
+      },
+      "correct": "b",
+      "explanation": "\"In recognition of\" correct phrase gS, meaning",
+      "format": "regular"
+    },
+    {
+      "qno": 239,
+      "question": "At the international exhibition, the skilled weaver’s intricate designs for luxurious fabrics did captivated the attention of fashion enthusiasts and collectors from many different countries.",
+      "exam_source": "",
+      "options": {
+        "a": "skilled weaver’s intricate designs on",
+        "b": "skilled weaver’s intricate designs on",
+        "c": "skilled weaver’s intricate designs of",
+        "d": "No improvement required"
+      },
+      "correct": "a",
+      "explanation": "Skilled weaver's intricate designs on",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 240,
+      "question": "Despite renewable energy’s potential to reduce pollution and dependence on fossil fuels, the global economy remains heavily reliant on fossil fuels, complicating the shift to sustainability and making it difficult to meet climate targets in the near future.",
+      "exam_source": "",
+      "options": {
+        "a": "remain heavily reliant on fossil fuels",
+        "b": "remains heavy reliant in fossil fuels",
+        "c": "remains heavily reliant on fossil fuels",
+        "d": "No correction required"
+      },
+      "correct": "d",
+      "explanation": "No improvement",
+      "format": "sentence_improve"
+    }
+  ]
+}

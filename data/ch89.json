@@ -1,0 +1,225 @@
+{
+  "chapter_no": 89,
+  "title": "Simple Present Tense",
+  "section": "A",
+  "start_page": 231,
+  "end_page": 232,
+  "theory": "Uses\n        Simple Present (Present Indefinite) tense is used to express:\n\n       1 Routine Action → Ravi goes to school every day.\n       2 Irregular Action → She seldom visits her grandparents.\n       3 Habits → Rahul drinks tea every morning.\n       4 Universal Truth → The sun rises in the east.\n       5 General Facts → Water boils at 100°C.\n       6 Geographical Truth → The Ganga flows into the Bay of Bengal.\n       7 Stative Verbs → I believe your story.\n       8 Socially Accepted Belief → Girls are more sincere than boys.\n       9 Proverbs → Honesty pays in the long run.\n      10 Fixed Schedule → The train leaves at 6 P.M.\n\n       Keywords\n    With keywords like daily, usually, often, always, every day, every morning, every week, once\n    a week, twice a day, seldom, rarely, sometimes, generally, frequently, occasionally, never,\n    barely, hardly, scarcely, repeatedly etc., we use Present Indefinite Tense.\n\n      Structure\n         Subject + V1/ (V1 + s/es) + Object.\n         Subject + do/does + not + V1 + Object.\n         Do/does + Subject + not + V1 + Object?\n         WH word + do/does + Subject + not + V1 + Object?\n\n       Note\n      I/ We/ You/ They/ Plural noun → V1/ do\n      He/ She/ It/ Singular noun → (V1 + s/es)/ does",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "It is sad?",
+      "exam_source": "(SSC CHSL, 2024)",
+      "options": {
+        "a": "/ that you",
+        "b": "/ are believing",
+        "c": "/ in",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "Are believing should be replaced with believe of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "I goes to?",
+      "exam_source": "(SSC CHSL, 2024)",
+      "options": {
+        "a": "/ attend dance classes at",
+        "b": "/ the",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "Goes should be replaced with go of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "My teacher said to me that?",
+      "exam_source": "(SSC MTS, 2021)",
+      "options": {
+        "a": "/ all that",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "Were should be replaced with is of use will be, because All",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "A rolling stone had gathered no moss,?",
+      "exam_source": "(SSC MTS, 2021)",
+      "options": {
+        "c": "/ No error",
+        "d": "Simple Present Tense",
+        "a": "/ a close eye on",
+        "b": "/ the"
+      },
+      "correct": "a",
+      "explanation": "Had gathered should be replaced with gathers of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "I don't?",
+      "exam_source": "",
+      "options": {
+        "a": "/ know where",
+        "b": "/ does he live."
+      },
+      "correct": "c",
+      "explanation": "Does he live should be replaced with he lives of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "When someone speaks to us?",
+      "exam_source": "",
+      "options": {
+        "a": "/ we saw him",
+        "b": "/ but when we read",
+        "c": "/ we don't see the"
+      },
+      "correct": "b",
+      "explanation": "Saw should be replaced with see of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "Whenever we have a puncture?",
+      "exam_source": "",
+      "options": {
+        "a": "/ she just",
+        "b": "/ and reads a book",
+        "c": "/ while I"
+      },
+      "correct": "d",
+      "explanation": "Changed should be replaced with change of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "A misogynist is a person?",
+      "exam_source": "",
+      "options": {
+        "a": "/ who is hating",
+        "b": "/ but a philogynist is a person"
+      },
+      "correct": "b",
+      "explanation": "Is hating should be replaced with hates of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "The chief idea of?",
+      "exam_source": "",
+      "options": {
+        "a": "/ a very common type of",
+        "b": "/ is to see as many objects",
+        "c": "/ of"
+      },
+      "correct": "d",
+      "explanation": "Could should be replaced with can of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "She is going everyday?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for a morning walk",
+        "b": "/ with her friends and neighbours.",
+        "c": "/ No"
+      },
+      "correct": "a",
+      "explanation": "Is going should be replaced with goes of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "I am owning?",
+      "exam_source": "(UPSC CDS, 2024)",
+      "options": {
+        "a": "/ two houses",
+        "b": "/ in Bengaluru.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "Am owning should be replaced with own of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "The sun rise in the east and sets in the west. \b (AIRFORCE Intake 01, 2027 [30/March/2026]) Answers 1. (c) 2.",
+      "exam_source": "",
+      "options": {
+        "c": "2.",
+        "a": "3.",
+        "d": "12.",
+        "b": "13."
+      },
+      "correct": "a",
+      "explanation": "17. (b) 18. (b) 19. (c) 20. (b) tions D;ksafd sentence esa general fact crk;k x;k gSA",
+      "format": "regular"
+    },
+    {
+      "qno": 17,
+      "question": "The river flowing under the bridge. \b?",
+      "exam_source": "(SSC CGL, 2023)",
+      "options": {
+        "a": "was flow",
+        "b": "flows",
+        "c": "is flow",
+        "d": "is flowed"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 18,
+      "question": "I am having two sisters.",
+      "exam_source": "",
+      "options": {
+        "a": "have had",
+        "b": "have",
+        "c": "had",
+        "d": "No improvement"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 19,
+      "question": "He is wanting in a little common sense. \b?",
+      "exam_source": "(SSC CGL, 2015)",
+      "options": {
+        "a": "No improvement",
+        "b": "is lacking in",
+        "c": "lacks",
+        "d": "needs some"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 20,
+      "question": "Where are you coming from? \b?",
+      "exam_source": "(SSC GD, 2015)",
+      "options": {
+        "a": "No improvement",
+        "b": "do you come from",
+        "c": "were you from",
+        "d": "you are coming from"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    }
+  ]
+}

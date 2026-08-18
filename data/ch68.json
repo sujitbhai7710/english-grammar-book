@@ -1,0 +1,332 @@
+{
+  "chapter_no": 68,
+  "title": "Fixed Preposition 'For'",
+  "section": "A",
+  "start_page": 181,
+  "end_page": 184,
+  "theory": " There are some words and phrases that take preposition \"For\" after them. Such words\n      and phrases are:\n\n  Word + Preposition                   English Meaning               Hindi Meaning\n  1       Affection for     Love/deep care                    izse@Lusg\n  2       Appetite for      Strong desire for food            Hkkstu dh bPNk\n  3       Atone for         Make amends for                   izk;f'pr djuk\n  4       Aptitude for      Natural ability for               ;ksX;rk@{kerk\n  5       Craving for       Strong desire for                 rhoz bPNk\n  6       Cure for          Treatment for                     bykt@mipkj\n  7       Clamour for       Loud demand for                   tksjnkj ekax\n  8       Desire for        Wish for                          bPNk\n  9       Eligible for      Qualify for                       ;ksX; gksuk\n 10       Fondness for      Attachment/liking for             yxko@'kkSd\n 11       Pretext for       A false reason for                cgkuk\n 12       Passion for       Strong enthusiasm for             tquwu@mRlkg\n 13       Regard for        Respect for                       lEeku\n 14       Remorse for       Deep regret for                   i'pkrki\n 15       Sorry for         Feeling sorry for                 osQ fy, [ksn gksuk\n 16       Strive for        Make efforts for                  iz;kl djuk\n 17       Yearn for         Deep longing for                  rhoz ykylk\n 18       Apply for         Request for (job/leave etc.)      osQ fy, vkosnu djuk\n 19       Known for         Famous for                        osQ fy, izfl¼\n 20       Famous for        Well-known for                    osQ fy, fo[;kr\n 21       Responsible for   In charge of                      osQ fy, ftEesnkj\n 22       Suitable for      Right for/appropriate for         osQ fy, mi;qDr                          ll\n\n 23       Ready for         Prepared for                      osQ fy, rS;kj                    df\n\n 24       Knack for         Natural skill for                                        @f\n                                                              osQ fy, fo'ks\"k ;ksGX-;rk\n\n 25       Vote for          Vote in favour of                               onV nsuk\n                                                              osQ i{k cesha oks\n\n26   Leave for        Go to a place                         osQ fy, jokuk gksuk\n27   Ask for          Request for                           osQ fy, iwNuk\n28   Blame for        Hold responsible for                  osQ fy, nks\"k nsuk\n29   Apologize for    Express regret for                    osQ fy, {kek ekaxuk\n30   Rewarded for     Given a prize for                     osQ fy, iqjLÑr\n31   Punished for     Give a penalty for                    osQ fy, nafMr\n32   Grateful for     Thankful for                          osQ fy, vkHkkjh\n33   Thankful for     Feeling gratitude for                 osQ fy, /U;okn\n34   Liking for       Preference for                        osQ fy, ilan\n35   Qualified for    Having the required qualification     osQ fy, ;ksX;\n36   Useful for       Helpful                               osQ fy, mi;ksxh\n37   Remedy for       Solution                              osQ fy, mik;\n38   Ambition for     Strong desire to achieve              osQ fy, egRokdka{kk\n39   Need for         Necessity                             osQ fy, vko';drk\n40   Compensate for   To make up for a loss or injury       HkjikbZ djuk\n41   Hope for         To have a desire for                  vk'kk djuk\n42   Mourn for        To express deep sorrow                'kksd eukuk\n43   Search for       To try to find something              [kkstuk\n44   Vouch for        To give a guarantee for               leFkZu djuk\n45                    To stay in a place until someone or\n     Wait for                                               izrh{kk djuk\n                      something arrives\n46   Anxious for      To worry or feel nervous              fpafrr gksuk\n47   Notorious for    Famous for something bad              oqQ[;kr gksuk\n\n                                                                                 - @f",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The new manager?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "/ is responsible of the",
+        "b": "/ marketing campaign.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "responsible of should be replaced with responsible for of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "Nirmala has a passion?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "/ in writing one-act",
+        "b": "/ based on realities, and",
+        "c": "/she is"
+      },
+      "correct": "b",
+      "explanation": "passion in should be replaced with passion for of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "One of the greatest responsibilities?",
+      "exam_source": "(SSC CGL, 2019)",
+      "options": {
+        "a": "/ of",
+        "c": "/ overall"
+      },
+      "correct": "c",
+      "explanation": "to the overall development should be replaced with for the",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "Sita has?",
+      "exam_source": "(SSC CGL, 2019)",
+      "options": {
+        "a": "/ no taste",
+        "b": "/ in classical dance."
+      },
+      "correct": "c",
+      "explanation": "taste in should be replaced with taste for of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Anirudh had a natural knack?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for solving",
+        "b": "/ and quickly took a",
+        "c": "/ during his early"
+      },
+      "correct": "c",
+      "explanation": "liking on should be replaced with liking for of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "Yashika was deeply grateful?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to her mother",
+        "b": "/ on guiding her throughout the journey"
+      },
+      "correct": "c",
+      "explanation": "on guiding should be replaced with for guiding of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "The young officer had a knack?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in handling",
+        "b": "/ and was appreciated",
+        "c": "/ during the mission."
+      },
+      "correct": "b",
+      "explanation": "knack in should be replaced with knack for of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "Politicians show no remorse over their corrupt practices,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ even when their actions cause",
+        "b": "/ to public trust and national",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "remorse over should be replaced with remorse for of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "Scientists across the world are working tirelessly?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to develop a permanent cure",
+        "c": "/ can be effectively controlled in the coming"
+      },
+      "correct": "c",
+      "explanation": "cure of COVID-19 should be replaced with cure for",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "Drinking warm tea?",
+      "exam_source": "",
+      "options": {
+        "a": "/ with honey is a popular",
+        "b": "/ remedy of a sore throat.",
+        "c": "/ No error",
+        "d": "."
+      },
+      "correct": "c",
+      "explanation": "remedy of a sore throat should be replaced with remedy",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "Monuments are known for their historical?",
+      "exam_source": "",
+      "options": {
+        "a": "/ significance and architectural beauty",
+        "b": "/ the rich cultural heritage and",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "The politician was under pressure to account on his actions.",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "account for",
+        "b": "account of",
+        "c": "account to",
+        "d": "No substitution"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 13,
+      "question": "We waited for him since two hours.",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "until two hours",
+        "b": "from two hours",
+        "c": "by two hours",
+        "d": "for two hours"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 14,
+      "question": "The meeting has been scheduled on Friday afternoon.",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "in Friday afternoon",
+        "b": "for Friday afternoon",
+        "c": "at Friday afternoon",
+        "d": "No substitution"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 15,
+      "question": "She arrived early for preparing the meeting. \b?",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "to prepare in",
+        "b": "to prepare for",
+        "c": "to prepare on",
+        "d": "No substitution"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 16,
+      "question": "Many freedom fighters pined .......... the independence of their motherland, sacrificing their comfort and lives.",
+      "exam_source": "",
+      "options": {
+        "a": "With",
+        "b": "in",
+        "c": "for",
+        "d": "by"
+      },
+      "correct": "c",
+      "explanation": "17. (d) 18. (b) 19. (b) 20. (b) tions",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 17,
+      "question": "She has great affection …….. her brother.",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "to",
+        "b": "of",
+        "c": "with",
+        "d": "for"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 18,
+      "question": "The officer is accountable .......... any errors in the report.",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "by",
+        "b": "for",
+        "c": "of",
+        "d": "to"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 19,
+      "question": "The committee is responsible .......... organizing the annual function.",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "to",
+        "b": "for",
+        "c": "with",
+        "d": "of"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 20,
+      "question": "Rahul is working .......... a multinational company.",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "on",
+        "b": "for",
+        "c": "at",
+        "d": "by pd e"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 21,
+      "question": "The secretary has signed the document .......... the chairman of the selection committee.",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "on",
+        "b": "in",
+        "c": "for",
+        "d": "of"
+      },
+      "correct": "a",
+      "explanation": "22. (c) 23. (c) 24. (a) Solut",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 22,
+      "question": "Despite her growing fondness .......... classical music, she rarely finds the time to attend live concerts in the city.",
+      "exam_source": "",
+      "options": {
+        "a": "of",
+        "b": "to",
+        "c": "for",
+        "d": "with"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 23,
+      "question": "Mathura is famous .......... its temples. \b (CUET, 1/June/2023)",
+      "exam_source": "",
+      "options": {
+        "a": "with",
+        "b": "by",
+        "c": "for",
+        "d": "among"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 24,
+      "question": "He is all out to blame everyone .......... his mistakes.\b?",
+      "exam_source": "(UPSC CDS, 2021)",
+      "options": {
+        "a": "for",
+        "b": "in",
+        "c": "on",
+        "d": "with"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "chapter_no": 82,
+  "title": "Concept of Adjectives",
+  "section": "A",
+  "start_page": 214,
+  "end_page": 215,
+  "theory": "1 When words like hundred, thousand, million, dozen are used after a specific number,\n           they remain singular in form and function as adjective.\n    \t\t     tc Hundred, thousand, million, dozen ds igys dksbZ la[;k vkrh gS] rks ;g Singular form esa\n           jgrs gS vkSj Adjective dh rjg dke djrs gSA\n    Ex. 1. Three hundred students attended the seminar.\n        2. Five dozen eggs were bought from the market.\n      2 When these words are used with preposition \"of\" they remain plural in form and function\n           as noun.\n    \t\t     tc buds lkFk Preposition \"of\" vkrk gS rks ;s Plural form esa gks tkrs gS vkSj Noun dh rjg dke\n           djrk gSA\n    Ex. 1. Hundreds of students attended the seminar.",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The manager promised?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to donate five lakhs",
+        "b": "/ for the construction of the new school",
+        "c": "/ in the village."
+      },
+      "correct": "b",
+      "explanation": "five lakhs rupees should be replaced with five lakh",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "Balloons filled?",
+      "exam_source": "(SSC CHSL, 2022)",
+      "options": {
+        "a": "/ with helium travel",
+        "c": "/ thousands of mile.",
+        "d": "\b"
+      },
+      "correct": "d",
+      "explanation": "thousands of mile should be replaced with thousands",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The famous singer donated?",
+      "exam_source": "",
+      "options": {
+        "a": "/ several hundreds",
+        "b": "/ to poor villagers",
+        "c": "/ during the"
+      },
+      "correct": "b",
+      "explanation": "several hundreds blankets should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "A five-years plan?",
+      "exam_source": "",
+      "options": {
+        "a": "/ was introduced by",
+        "b": "/ to improve agricultural",
+        "c": "/ in rural areas."
+      },
+      "correct": "a",
+      "explanation": "five-years plan should be replaced with five-year",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "The judge ordered that the criminal?",
+      "exam_source": "",
+      "options": {
+        "a": "/ must",
+        "b": "/ for the",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "ten years imprisonment should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "Some powerful telescopes can observe objects located?",
+      "exam_source": "",
+      "options": {
+        "a": "/ hundreds or even thousands of light",
+        "b": "/ from the earth",
+        "c": "/ in distant"
+      },
+      "correct": "b",
+      "explanation": "thousands of light year away should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "The company appointed?",
+      "exam_source": "",
+      "options": {
+        "a": "/ a thirty five years",
+        "b": "/ to supervise the construction",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "thirty five years old engineer should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "Eighty-five thousand rupees?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is a large sum of",
+        "b": "/ to earn in a month.",
+        "c": "/ No error",
+        "d": "Concept of Adjectives"
+      },
+      "correct": "d",
+      "explanation": "No error.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "There are hundred of superstitions?",
+      "exam_source": "",
+      "options": {
+        "a": "/ which",
+        "b": "/ in the various parts of the country.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "hundred of superstitions should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "Two millions people?",
+      "exam_source": "",
+      "options": {
+        "a": "/ attended the meeting",
+        "b": "/ held in parade grounds.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "Two millions people should be replaced with Two",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "During the massive public rally organised in the capital city?",
+      "exam_source": "",
+      "options": {
+        "a": "/ hundred or even thousands of",
+        "b": "/ to listen to the inspiring",
+        "c": "/ despite the"
+      },
+      "correct": "b",
+      "explanation": "hundred should be replaced with hundreds of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "The committee finally approved?",
+      "exam_source": "",
+      "options": {
+        "a": "/ a six men",
+        "b": "/ to examine the serious",
+        "c": "/ made against the company."
+      },
+      "correct": "b",
+      "explanation": "six men should be replaced with six-man will come,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "The newly introduced scheme is a ten- crore rupees project?",
+      "exam_source": "",
+      "options": {
+        "a": "/ aimed at improving",
+        "b": "/ in government schools"
+      },
+      "correct": "a",
+      "explanation": "ten-crore rupees project should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "The diplomatic delegation?",
+      "exam_source": "",
+      "options": {
+        "a": "/ signed a bilateral",
+        "b": "/ ensuring a five years peace accord",
+        "d": "ee"
+      },
+      "correct": "c",
+      "explanation": "five years peace accord should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "The manager prepared a fifteen-pages report?",
+      "exam_source": "",
+      "options": {
+        "a": "/ analyzing the performance T G of employees",
+        "b": "and suggesting improvements",
+        "c": "for better",
+        "d": "a"
+      },
+      "correct": "a",
+      "explanation": "fifteen-pages report should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "The course is designed as a six-months program?",
+      "exam_source": "",
+      "options": {
+        "b": "/ and prepares",
+        "c": "/ for real-world challenges."
+      },
+      "correct": "a",
+      "explanation": "six-months program should be replaced with six-",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "The executive board?",
+      "exam_source": "",
+      "options": {
+        "a": "/ reluctantly granted the",
+        "b": "/ six months severance pay"
+      },
+      "correct": "c",
+      "explanation": "six months severance pay should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 18,
+      "question": "Forty lakhs are the amount one needs in order to pursue overseas education.\b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "Forty lakhs is the amount",
+        "b": "Forty lakh were the amount",
+        "c": "Forty lakhs have the amount",
+        "d": "Forty lakhs has the amount"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 19,
+      "question": "I bought four dozen of mangoes.",
+      "exam_source": "",
+      "options": {
+        "a": "dozens of mango",
+        "b": "dozens of mangoes",
+        "c": "dozen mangoes",
+        "d": "No improvement"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 20,
+      "question": "The class teacher gave me two dozens pencils, along with a new Parker pen. \b AIRFORCE Intake 01, 2027 (30/March/2026)",
+      "exam_source": "",
+      "options": {
+        "a": "two a dozens pencils",
+        "b": "two of dozens pencils",
+        "c": "two dozens of pencils",
+        "d": "two dozen pencils"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "chapter_no": 18,
+  "title": "Superfluous Expressions",
+  "section": "A",
+  "start_page": 59,
+  "end_page": 61,
+  "theory": " Superfluous words are unnecessary or extra words used in a sentence that gives the\n      same meaning or are not required for grammatically correct expression.\n (Superfluous 'kCn okD; esa fcuk t:jr osQ use fd;s tkrs gS rFkk grammatically vko';d\n\n      ugha gksrsA)\n Common Superfluous Expression\n  1   Return back                              Return\n\n  2   Recede back                              Recede\n  3   Reimburse back                           Reimburse\n  4   Recall back                              Recall\n  5   Revert back                              Revert\n  6   Repeat again                             Repeat\n  7   Retreat again                            Retreat\n  8   Equally as good as                       As good as\n  9   Final conclusion                         Conclusion / Final\n 10 Two twins                                  Twins\n 11 The Reason why ...... Because              The reason why ...... that\n 12 Despite of                                 Despite\n 13 With bag and baggage                       Bag and baggage\n 14 With tooth and nail                        Tooth and nail\n  15 With heart and soul                       Heart and soul\n  16 Like cats and dogs                        Cats and dogs\n  17 Supposing if                              Suppose or If\n  18 In case if                                In case or If\n  19 Illustrate about                          Illustrate\n  20 Kindly requested                          Requested\n  21 And + Relative pronoun                    Relative pronoun\n  22 Exceed More than                          Exceed or More than                                          ll\n\n  23 Sufficient enough                         Sufficient or Enough                             ep\n\n                                                                                        -  @f\n  24 Can / could able to                       Can / could or Be able to               G\n\n  25 May / might possibly                      May / might                    ch\n\n    26 Relatively / comparatively +                         Use positive degree instead of Comparative\n         Comparative degree                                 degree\n    27 Completely full                                      Full\n    28 More preferable                                      Preferable\n    29 More Junior / Superior                               Junior / Superior\n    30 Free gift                                            Gift\n    31 As well as also                                      As well as\n    32 Come across with                                     Come across\n    33 Quite too                                            Quite\n    34 Cope up with                                         Cope with\n    35 Kindly please                                        Kindly or Please\n    36 On the contrary .... but                             On the contrary\n    37 Cousin sister/brother                                Cousin\n    38 Will / Shall likely to + V1                          Will / Shall + V1 or Be likely to + V1\n       Until, Unless, Lest, Deny, Forbid,\n                                                            Until, Unless, Lest, Deny, Forbid,\n    39 Nothing, Without, Never, Barely,\n                                                            Nothing, Without, Never, Barely, Seldom\n       Seldom ....... + Not\n    40 Await for                                            Await",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The report was more preferable?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ to the",
+        "b": "/ due to its structured",
+        "c": "/ and clarity of language."
+      },
+      "correct": "a",
+      "explanation": "More preferable should be replaced with preferable of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "The tumult among the gathered spectators?",
+      "exam_source": "(UPSC CDS, 2025)",
+      "options": {
+        "b": "/ upon the arrival of their",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "Most favourite should be replaced with favourite of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The new media?",
+      "exam_source": "(SSC MTS, 2022)",
+      "options": {
+        "a": "/ is more faster",
+        "b": "/ and more",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "More faster should be replaced with faster of use will be.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "Your name?",
+      "exam_source": "(SSC CGL, 2021)",
+      "options": {
+        "a": "/ precedes before",
+        "b": "/ mine in the",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "Precedes before should be replaced with precedes of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "This book is equally as good as the one?",
+      "exam_source": "",
+      "options": {
+        "a": "/ recommended by the professor",
+        "b": "/ for",
+        "c": "/ last year."
+      },
+      "correct": "a",
+      "explanation": "Equally as good as should be replaced with as good as",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The reason for visiting?",
+      "exam_source": "(SSC CGL, 2020)",
+      "options": {
+        "a": "/ Meerut was because",
+        "b": "/ my mother needed to be looked after.",
+        "c": "/ No",
+        "d": "\b Use positive degree instead of Comparative"
+      },
+      "correct": "b",
+      "explanation": "Was because should be replaced with was that of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "The project is?",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "/ tough and I",
+        "b": "/ can't be able to",
+        "c": "/ complete it by Monday."
+      },
+      "correct": "c",
+      "explanation": "Cant be able to should be replaced with can't of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The road was blocked?",
+      "exam_source": "(SSC GD, 2021)",
+      "options": {
+        "a": "/ so we had",
+        "b": "/ to turn",
+        "c": "/ find another one route."
+      },
+      "correct": "d",
+      "explanation": "Another one route should be replaced with another",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "The young officer could not?",
+      "exam_source": "",
+      "options": {
+        "a": "/ cope up with",
+        "b": "/ despite"
+      },
+      "correct": "b",
+      "explanation": "Cope up with should be replaced with cope with of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "I returned?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ back from Mumbai",
+        "b": "/ last week.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "At the place of 'Returned back' only 'returned' will be used",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "It was raining like cats and dogs?",
+      "exam_source": "",
+      "options": {
+        "a": "/ when",
+        "b": "/ after travelling",
+        "c": "/ for several hours.",
+        "d": "ll"
+      },
+      "correct": "a",
+      "explanation": "Raining like cats and dogs should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "Anuj completed the assignment yesterday d?",
+      "exam_source": "",
+      "options": {
+        "b": "@/f before the",
+        "c": "deadline.",
+        "d": "nT o"
+      },
+      "correct": "c",
+      "explanation": "May possibly present should be replaced with may",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "After analyzing the data?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the scientists arrived",
+        "b": "/ which was widely",
+        "c": "/ by the research community."
+      },
+      "correct": "b",
+      "explanation": "Final conclusion of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "The company assured its employees?",
+      "exam_source": "",
+      "options": {
+        "a": "/that it",
+        "c": "/ without"
+      },
+      "correct": "b",
+      "explanation": "Reimburse back of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "The flood waters began to recede back slowly?",
+      "exam_source": "",
+      "options": {
+        "a": "/ after the rainfall stopped completely",
+        "c": "/ in the affected areas."
+      },
+      "correct": "a",
+      "explanation": "17. (c) 18. (b) 19. (b) 20. (b) tions",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "The guide instructed the tourists?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to stay",
+        "b": "/ suppose if they got",
+        "c": "3.",
+        "d": "‘Another one route’ osQ LFkku ij ‘another"
+      },
+      "correct": "c",
+      "explanation": "At the place of 'Suppose if' only if will be used",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 18,
+      "question": "The total cost of the project?",
+      "exam_source": "",
+      "options": {
+        "a": "/ exceeded more",
+        "b": "/ due to the increase",
+        "c": "/during the execution"
+      },
+      "correct": "b",
+      "explanation": "At the place of 'Exceeded more than' only 'exceeded' will be used because Exceed's meaning is only to become more, therefore more than is superfluous",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 20,
+      "question": "This question is?",
+      "exam_source": "(SSC CGL, 2021)",
+      "options": {
+        "a": "/ quite too simple for",
+        "b": "/ me",
+        "c": "/ No error",
+        "d": "6."
+      },
+      "correct": "b",
+      "explanation": "At the place of 'Quite too' only 'too' will be used because Too expresses sufficient degree, therefore quite is considered superfluous -@f n TG c ho",
+      "format": "error_spotting"
+    }
+  ]
+}

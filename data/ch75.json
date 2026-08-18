@@ -1,0 +1,236 @@
+{
+  "chapter_no": 75,
+  "title": "Inversion",
+  "section": "A",
+  "start_page": 198,
+  "end_page": 199,
+  "theory": " Inversion is the reversal of Subject and Verb. It is done for emphasis, question formation\n          or stylistic purposes.\n\n     Inversion dk vFkZ gS] okD; esa Subject vkSj Verb ds normal order dks myV & nsukA bldk ç;ksx ”kksj\n     nsus] ç'u cukus ;k okD; dks vf/d çHkko'kkyh cukus ds fy, fd;k tkrk gSA\n        Part-A\n        $ Hardly / Scarcely / Rarely / Barely / Never / Seldom / No Sooner / Not only / Not\n          until / little +\n                           Helping verb +     Subject      +  Main verb\n\n                                               Partial inversion\n        Part-B\n\n      Under no circumstance\n\n      At no time\n\n      No where\n\n      So + Adverb of Manner\n                                            + Helping verb +         Subject         +      Main verb\n\n      Only + Time\n\n      Only + Adverb of Manner                                      Partial inversion\n\n      To Such a degree\n\n      To Such an extent\n        Part-C\n\n      On the roof/On the hill/\n\n      Under the table/\n\n      Along the northern frontier/\n                                                  Main verb             +                Subject\n\n      Two miles beyond the field/\n\n      Round the corner/                                       Complete inversion\n\n      There/Here",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "Rarely had the court encountered a petition?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "b": "/ to attract media attention rather",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "\"nor\" should be replaced with \"or\" of use will be because \"rarely\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "Never?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the committee was faced with",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"the committee was faced\" should be replaced with \"was",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Nowhere we can find such dedication?",
+      "exam_source": "",
+      "options": {
+        "a": "/ among employees who are willing to",
+        "b": "/ without any",
+        "c": "/ No error",
+        "d": "Inversion"
+      },
+      "correct": "a",
+      "explanation": "\"we can find\" should be replaced with \"can we find\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "Not until the final results were declared?",
+      "exam_source": "",
+      "options": {
+        "a": "/ he did realize the seriousness",
+        "b": "/ of the",
+        "c": "/ for the first"
+      },
+      "correct": "b",
+      "explanation": "\"he did realize\" should be replaced with \"did he realize\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Never I have seen?",
+      "exam_source": "",
+      "options": {
+        "a": "/ such a strange situation",
+        "b": "/ where everyone blamed others",
+        "c": "/ for the"
+      },
+      "correct": "a",
+      "explanation": "\"I have seen\" should be replaced with \"have I seen\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "Under no circumstances?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the employees f ha",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"the employees should\" should be replaced with \"should",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "Little he realised that?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the",
+        "b": "/owould",
+        "d": "change his life.",
+        "c": "/ Norerror"
+      },
+      "correct": "a",
+      "explanation": "\"he realised\" should be replaced with \"did he realise\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "Little did the committee knew?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ about the",
+        "b": "/ when it approved the",
+        "c": "/ late last quarter.",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"knew\" should be replaced with \"know\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "At no time?",
+      "exam_source": "",
+      "options": {
+        "a": "/ they should disclose",
+        "b": "/ any",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"they should disclose\" should be replaced with \"should",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "Not a word he spoke?",
+      "exam_source": "",
+      "options": {
+        "a": "/ when the manager",
+        "b": "/ of leaking the confidential",
+        "c": "/ during the investigation."
+      },
+      "correct": "a",
+      "explanation": "\"he spoke\" should be replaced with \"did he speak\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "Round the corner?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the postman came",
+        "c": "/ no error"
+      },
+      "correct": "b",
+      "explanation": "\"the postman came\" should be replaced with \"came the",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "To such an extent the wildfire?",
+      "exam_source": "",
+      "options": {
+        "a": "/ spread",
+        "b": "/ that the local",
+        "c": "/ three entire"
+      },
+      "correct": "a",
+      "explanation": "\"the wildfire spread\" should be replaced with \"did the",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "Seldom modern democracies have experienced such widespread constitutional instability.",
+      "exam_source": "",
+      "options": {
+        "a": "does modern democracies experience",
+        "b": "have modern democracies experienced",
+        "c": "did modern democracies experienced",
+        "d": "No improvement"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 14,
+      "question": "Under the ancient bridge an abandoned boat was lying covered with layers of dust and algae.",
+      "exam_source": "",
+      "options": {
+        "a": "lying an abandoned boat",
+        "b": "was lying an abandoned boat",
+        "c": "was an abandoned boat lying",
+        "d": "No improvement"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 15,
+      "question": "Barely ........... the announcement concluded when inquiries flooded the hotline. \b?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "had",
+        "b": "has",
+        "c": "did",
+        "d": "was"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 16,
+      "question": "Not until the auditors had submitted their exhaustive report ............ the full extent of procedural lapses become evident. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "did",
+        "b": "had",
+        "c": "was",
+        "d": "has"
+      },
+      "correct": "a",
+      "explanation": "17. (c) tions",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 17,
+      "question": "At no point during the trial ........... his composure.\b?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "he lost",
+        "b": "had he lost",
+        "c": "did he lose",
+        "d": "lost he"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

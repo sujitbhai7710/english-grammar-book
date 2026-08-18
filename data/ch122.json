@@ -1,0 +1,165 @@
+{
+  "chapter_no": 122,
+  "title": "Nouns with Different Meanings",
+  "section": "A",
+  "start_page": 316,
+  "end_page": 317,
+  "theory": " Some nouns change their meanings when they are used in singular and plural forms.\n\n dqN Nouns ,sls gksrs gSa ftudk Singular vkSj Plural :i dsoy la[;k (one/many) ugha cnyrk]\n cfYd mudk iwjk vFkZ cny tkrk gSA dbZ nouns esa plural form vkus ij u;k vFkZ cu tkrk gSA\n\n      Noun                 Used as              Noun                      Used as\n 1   Wood      Material / ydM+h               Woods      Forest / taxy\n\n 2   Water     Material / ikuh                Waters     Sea / leqæ\n\n 3   Asset     Quality / xq.k ;k ;ksX;rk      Assets     Property / laifÙk\n\n 4   Sand      Material / jsr                 Sands      Land / jsfxLrku\n\n 5   Iron      Material / yksgk               Irons      Chains / tathjsa\n\n 6   Cloth     Material / diM+k               Clothes    Dress / diM+s\n\n 7   Abuse     Indecent words / vi'kCn        Abuses     Corrupt practices / dqjhfr;k¡\n\n 8   Work      Labour / dke                   Works      Literary writings / lkfgR; ys•\n\n 9   Air       Element / gok                  Airs       Behaviour / fn•koVh O;ogkj\n\n10 Advice      Suggestion / lq>ko             Advices    Bills / Hkqxrku lwpuk\n\n11 Custom Traditional practices / fjok”k      Customs    Tax / lhek 'kqYd\n\n12 Effect      Result / çHkko@ifj.kke         Effects    Goods / lkeku\n\n13 Fruit       Edible thing / iQy             Fruits     Results / ifj.kke\n\n14 Wit         Ability to talk / okdiVqrk     Wits       Intelligence / cqf¼erk\n\n 15 Arm        Organ / ck¡g                   Arms       Weapons / gfFk;kj\n\n 16 Good       High quality or nice / vPNk    Goods      Articles / lkeku\n\n 17 Return     Coming back / okilh            Returns    Profits / ykHk\n\n 18 Manner Way of doing / rjhdk               Manners    Behaviour / O;ogkj\n\n 19 Pain       Suffering / nnZ                Pains      Hardwork / esgur\n\n 20 Quarter One-fourth part / pkSFkkbZ Hkkx   Quarters   Rooms / dejs\n\n 21 Letter     Written message / i=k          Letters    Alphabet / v{kj/lkfgR;\n\n                                                                                        -  @f",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "During his stay in Rajasthan,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the traveller",
+        "b": "/ by the vast sand spread"
+      },
+      "correct": "c",
+      "explanation": "sand should be replaced with sands will be because sands of meaning",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "The old professor was respected?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for his",
+        "b": "/ and remarkable sense of",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "Wits should be replaced with wit correct gS because wit of meaning",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The poet described?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the beauty of the deep",
+        "b": "/ wood surrounding",
+        "c": "/ the ancient temple."
+      },
+      "correct": "c",
+      "explanation": "wood should be replaced with woods will be because woods",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "Even after being kept in heavy iron?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for",
+        "b": "/ to",
+        "c": "/ No"
+      },
+      "correct": "a",
+      "explanation": "iron should be replaced with irons will be because irons of meaning",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "After years of continuous struggle?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and",
+        "b": "/ the fruit of his hard work and research.",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "fruit should be replaced with fruits will be because fruits of meaning",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The artist displayed many beautiful work?",
+      "exam_source": "",
+      "options": {
+        "b": "/ in collaboration with local art",
+        "c": "/No error"
+      },
+      "correct": "a",
+      "explanation": "work should be replaced with works will be because works of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "Although he belongs to a middle-class family,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ he behaves with such air that many people",
+        "b": "/ consider him arrogant and unfriendly",
+        "d": "Answers",
+        "c": "2."
+      },
+      "correct": "b",
+      "explanation": "air should be replaced with airs will be because airs of meaning ?keaM",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The businessman was detained at the airport because?",
+      "exam_source": "",
+      "options": {
+        "a": "/ he failed to declare several",
+        "b": "/ before passing through",
+        "c": "/ for"
+      },
+      "correct": "c",
+      "explanation": "custom should be replaced with customs will be because customs",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "The explorer claimed that he had sailed?",
+      "exam_source": "",
+      "options": {
+        "b": "/ during his",
+        "c": "/ around the world."
+      },
+      "correct": "b",
+      "explanation": "water should be replaced with waters will be because waters of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "The businessman suffered?",
+      "exam_source": "",
+      "options": {
+        "a": "/ a heavy",
+        "b": "/ good was",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "good should be replaced with goods will be because goods of meaning",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "The government imposed?",
+      "exam_source": "",
+      "options": {
+        "a": "/ strict restrictions",
+        "b": "/ after the",
+        "c": "/ increased in the region."
+      },
+      "correct": "b",
+      "explanation": "arm should be replaced with arms will be because arms of meaning",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "He took pain to finish the task on time. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "had pain",
+        "b": "took pains",
+        "c": "gave pain",
+        "d": "took the pain"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    }
+  ]
+}

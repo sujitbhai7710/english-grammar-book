@@ -1,0 +1,350 @@
+{
+  "chapter_no": 31,
+  "title": "Double Comparatives and Superlatives",
+  "section": "A",
+  "start_page": 90,
+  "end_page": 91,
+  "theory": " Using two comparative forms or two superlative forms together in the same clause\n            is grammatically incorrect.\n    \t\t ,d gh okD; esa nks comparative ;k superlative forms dk ,d lkFk ç;ksx djuk grammatically\n       incorrect gksrk gSA\n\n                  Incorrect Forms                                                Correct Forms\n                     More Better                                                      Better\n                    Most Highest                                                     Highest\n                     More Faster                                                      Faster\n                      Most Best                                                        Best",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "She is?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ more smarter",
+        "b": "/ than her sister.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "'more smarter' should be replaced with 'smarter'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "Mount Everest is more?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ highest peak",
+        "b": "/ in",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "'more highest' of 'the highest'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "San Francisco is more bigger?",
+      "exam_source": "(SSC MTS, 2020)",
+      "options": {
+        "a": "/ than Boston in",
+        "b": "/ population density.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "'more bigger' should be replaced with 'bigger'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The new employee seems?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "/ to be a fast learner",
+        "b": "/ more smarter than the last one.",
+        "c": "/ No",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "'more smarter' should be replaced with 'smarter'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "The new smartphone is?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "/ much more sleeker",
+        "b": "/ the previous model.",
+        "c": "/ No",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "much more sleeker should be replaced with much",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "This is the?",
+      "exam_source": "",
+      "options": {
+        "a": "/ most easiest question",
+        "b": "/ in the",
+        "c": "/ test paper."
+      },
+      "correct": "b",
+      "explanation": "'most easiest' should be replaced with 'easiest'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "He is more smarter?",
+      "exam_source": "(SSC CGL, 2018)",
+      "options": {
+        "a": "/ than his brother though",
+        "b": "/ he does not earn much money.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "'more smarter' should be replaced with 'smarter'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "Mathematics and Chemistry?",
+      "exam_source": "(SSC CPO, 2017)",
+      "options": {
+        "a": "/ are more easier",
+        "b": "/ Physics and Biology.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "'more easier' should be replaced with 'easier'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "Though we both are of the same height?",
+      "exam_source": "",
+      "options": {
+        "a": "/ you",
+        "b": "/ than I.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "'very heavier' of 'much heavier'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "Nikhil is?",
+      "exam_source": "(SSC CPO, 2018)",
+      "options": {
+        "a": "/ more braver than",
+        "b": "/ Sushant who",
+        "c": "/ afraid of the dark.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "'more braver' should be replaced with 'braver'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "I am more lonelier?",
+      "exam_source": "",
+      "options": {
+        "a": "/ here than",
+        "b": "/ I was in the",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "'more lonelier' should be replaced with 'lonelier'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "This route is?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ most safer than",
+        "b": "/ the highway.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "'most safer' should be replaced with 'safer' because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "According to many experienced mountaineers uble Comparatives and Superlatives perlative forms together in the same clause ve forms dk ,d lkFk ç;ksx djuk grammatically Correct Forms Better Highest Faster Best?",
+      "exam_source": "",
+      "options": {
+        "a": "/ Mount Everest is the most highest peak in",
+        "b": "/ and attracts thousands of climbers",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "'most highest' should be replaced with 'highest'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "The athlete runs more faster?",
+      "exam_source": "",
+      "options": {
+        "a": "/ than all the",
+        "b": "/ players in the team.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "'more faster' should be replaced with 'faster' because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "Although both the roads are narrow?",
+      "exam_source": "",
+      "options": {
+        "a": "/ this lane",
+        "b": "/ than the main street.",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "'more wider' should be replaced with 'wider'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "Among all the historical monuments that attract tourists?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to the ancient city of Jaipur, the",
+        "b": "/ one of the most",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "one of the most finest should be replaced with one",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "The more harder she studied for the exams?",
+      "exam_source": "",
+      "options": {
+        "b": "/ from all",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "'more harder' should be replaced with 'harder' will",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 18,
+      "question": "Nisha is more funnier than Natasha.",
+      "exam_source": "",
+      "options": {
+        "a": "funnier",
+        "b": "funniest",
+        "c": "quite funny",
+        "d": "No improvement"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 19,
+      "question": "It is more better to take this route than the other one.\b (SSC Phase XIII, 2025)",
+      "exam_source": "",
+      "options": {
+        "a": "good",
+        "b": "better",
+        "c": "more good",
+        "d": "No improvement"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 20,
+      "question": "He is more tall than his brother. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "taller to hall",
+        "b": "much taller than ep",
+        "c": "taller than",
+        "d": "more taller than G"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 21,
+      "question": "The book is more better than nT o the previous one. ar?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "much better than",
+        "b": "better from",
+        "c": "more good than",
+        "d": "better than"
+      },
+      "correct": "d",
+      "explanation": "22. (b) 23. (d) 24. (d) 25. (b) Solut",
+      "format": "regular"
+    },
+    {
+      "qno": 22,
+      "question": "This is the most toughest exam that I have ever taken.\b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "the most tough exam",
+        "b": "the toughest exam",
+        "c": "the most toughest exam",
+        "d": "is toughest exam"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 23,
+      "question": "He is more wiser than his brother . \b?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "very wise than",
+        "b": "more wise than",
+        "c": "5.",
+        "d": "22."
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 24,
+      "question": "Of the three paths, this is the most shortest. \b (SSC Selection Post Phase 13, 2025)",
+      "exam_source": "",
+      "options": {
+        "a": "more short",
+        "b": "shorter",
+        "c": "most short",
+        "d": "shortest"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 25,
+      "question": "This new smartphone is much more better than the previous model.",
+      "exam_source": "",
+      "options": {
+        "a": "more better",
+        "b": "far better",
+        "c": "most better",
+        "d": "No improvement"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    }
+  ]
+}

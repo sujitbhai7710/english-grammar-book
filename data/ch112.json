@@ -1,0 +1,173 @@
+{
+  "chapter_no": 112,
+  "title": "Each other Vs One another",
+  "section": "A",
+  "start_page": 295,
+  "end_page": 295,
+  "theory": " EACH OTHER: Each other is used to show a mutual action between two people or things.\n    Each other dk use nks O;fDr;ksa ;k oLrqvksa ds chp mutual action fn•kus ds fy, fd;k tkrk gSA\n   ONE ANOTHER: One another is used to show a mutual action among more than two\n    people or things.\n One another dk use nks ls vf/d O;fDr;ksa ;k oLrqvksa ds chp mutual action fn•kus ds fy, fd;k tkrk gSA\n\n                Note\n\t\t                       Each other → nks                      One another → nks ls T;knk",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The three of them?",
+      "exam_source": "(SSC CGL, 2020)",
+      "options": {
+        "a": "/ shouted out to each",
+        "b": "/ when the train",
+        "c": "/ started moving.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "each other should be replaced with one another will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "It is the committee members?",
+      "exam_source": "",
+      "options": {
+        "a": "/ who should",
+        "b": "/ rather than",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "one another decisions should be replaced with one",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The two rival companies decided to collaborate with?",
+      "exam_source": "",
+      "options": {
+        "a": "/ one another to expand their market",
+        "b": "/ and improve their global presence",
+        "c": "/ No error",
+        "d": "4. \"I'm tired of my boys,\" said the mother"
+      },
+      "correct": "b",
+      "explanation": "one another should be replaced with each other will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "The players?",
+      "exam_source": "",
+      "options": {
+        "a": "/ appreciated one another",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "one another performance should be replaced with one",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "All the players in the team?",
+      "exam_source": "",
+      "options": {
+        "a": "/ were blaming",
+        "b": "/ instead of",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "each other should be replaced with one another will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "It is difficult to make out?",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "/ that they are twins",
+        "b": "/ because they do not",
+        "c": "/ resemble one other.",
+        "d": "\b"
+      },
+      "correct": "d",
+      "explanation": "one other should be replaced with each other will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The two friends?",
+      "exam_source": "",
+      "options": {
+        "a": "/ look up to",
+        "b": "/ one another.",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "one another should be replaced with each other will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "The office staff members wished each and other on New Year's Day. Answers 1. (b) 2. (c) 3. (b) 4. (c) 5. (b) 11. (c) 12.",
+      "exam_source": "",
+      "options": {
+        "b": "2.",
+        "c": "3.",
+        "a": "13.",
+        "d": "No improvement"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 10,
+      "question": "Our team is likely to lose unless all members learn to cooperate with one other.",
+      "exam_source": "",
+      "options": {
+        "a": "with one and all",
+        "b": "with one another",
+        "c": "one other with",
+        "d": "No improvement"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 11,
+      "question": "In a classroom students are to be trained to love ...................",
+      "exam_source": "",
+      "options": {
+        "a": "each other",
+        "b": "all others",
+        "c": "one another",
+        "d": "altogether"
+      },
+      "correct": "c",
+      "explanation": "12. (a) 13. (a) Solut",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 12,
+      "question": "His wife has a twin who resembles her so much that at first he had great trouble telling ..........",
+      "exam_source": "",
+      "options": {
+        "a": "one from the other",
+        "b": "one from another",
+        "c": "each other",
+        "d": "who is which"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 13,
+      "question": "Robert and Rooney aren't very good friends although they have known .......... for a long time.",
+      "exam_source": "",
+      "options": {
+        "a": "each other",
+        "b": "one another",
+        "c": "one other",
+        "d": "altogether"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

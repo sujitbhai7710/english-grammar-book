@@ -1,0 +1,142 @@
+{
+  "chapter_no": 50,
+  "title": "Compound Subject as a Single Unit",
+  "section": "A",
+  "start_page": 133,
+  "end_page": 134,
+  "theory": " “When two or more nouns joined by ‘and’ express a single person, thing, or idea, they are\n      considered a single unit; therefore, a singular verb is used with them.”\n\n tc nks ;k vf/d Nouns \"and\" ls tqM+dj ,d gh O;fDr] oLrq ;k fopkj dks O;Dr djrs gSa] rks mUgsa ,d\n gh bdkbZ (single unit) ekuk tkrk gS] blfy, muds lkFk singular verb dk ç;ksx fd;k tkrk gSA\n                                 Noun + and + Noun + Singular Verb\n\n                                     Some Important Single Units\n      1     Bread and Butter                             14    Bag and Baggage\n\n      2     Rice and Curry                               15 Fish and Chips\n      3     Law and Order                                16 Drinking and Driving\n      4     Long and Short                               17 Hammer and Sickle\n      5     Peace and Harmony                            18 Truth and Honesty\n      6     Name and Fame                                19 Rise and Fall\n      7     Sum and Substance                            20 Part and Parcel\n      8     Lime and Soda                                21 Art and Culture (As a subject)\n      9     Ebb and Flow                                 22 Heart and Soul\n     10     Horse and Carriage                           23 Science and Technology (As a subject)\n     11     Power and Influence                          24 Salt and pepper\n     12     Null and Void                                25 Black and White\n     13     Slow and Steady                              26 Pros and Cons",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "Strict rules have been implemented by the authorities?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to reduce road accidents in",
+        "b": "/ as drinking and driving are",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"are\" should be replaced with \"is\" of use will be because \"drinking",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "Slow and?",
+      "exam_source": "",
+      "options": {
+        "a": "/ steady win",
+        "b": "/ the race.",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "\"win\" should be replaced with \"wins\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Bread and Butter have become more expensive?",
+      "exam_source": "",
+      "options": {
+        "a": "/ due to rising inflation",
+        "b": "/ affecting",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"have\" should be replaced with \"has\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The sum and substance?",
+      "exam_source": "",
+      "options": {
+        "a": "/ of this chapter are",
+        "b": "/ comprehensible to me.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"are\" should be replaced with \"is\" of use will be because \"The",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "The rise and fall of the stock market?",
+      "exam_source": "",
+      "options": {
+        "a": "/ are",
+        "b": "/ to make",
+        "c": "/ No error",
+        "d": "Compound Subject as a Single Unit"
+      },
+      "correct": "b",
+      "explanation": "\"are\" should be replaced with \"is\" of use will be because \"The",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The hammer and sickle?",
+      "exam_source": "",
+      "options": {
+        "a": "/ are powerful",
+        "b": "/ representing unity and strength",
+        "c": "/ in certain political ideologies."
+      },
+      "correct": "b",
+      "explanation": "\"are powerful symbol\" should be replaced with \"is a",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "Truth and honesty?",
+      "exam_source": "",
+      "options": {
+        "a": "/ are the best",
+        "b": "/policy",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"are\" should be replaced with \"is\" of use will be because \"Truth",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "Lime and soda is a popular drink?",
+      "exam_source": "",
+      "options": {
+        "a": "/ served",
+        "b": "/ during the summer",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "The ebb and flow?",
+      "exam_source": "",
+      "options": {
+        "a": "/ of the stock market",
+        "b": "/ l",
+        "c": "/ fNo ha",
+        "d": "ep"
+      },
+      "correct": "c",
+      "explanation": "\"are\" should be replaced with \"is\" of use will be because \"The",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "Law and Order .......... to be maintainedf re at any cost.",
+      "exam_source": "",
+      "options": {
+        "a": "is n have",
+        "c": "are",
+        "d": "will"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "chapter_no": 115,
+  "title": "More than one",
+  "section": "A",
+  "start_page": 299,
+  "end_page": 299,
+  "theory": "Part-1          More than one + Singular noun + Singular Verb.\n\n                   Part-2          More than two / three / four / ..... + Plural noun + Plural Verb.\n\n                   Part-3          More + Plural noun + than + one + Plural Verb.",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "More than five child?",
+      "exam_source": "",
+      "options": {
+        "a": "/ have been admitted to",
+        "b": "/ after the incident.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "child should be replaced with children will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "More employees than one?",
+      "exam_source": "",
+      "options": {
+        "a": "/ has protested",
+        "b": "/ introduced by the",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "has should be replaced with have will be because More +",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "More than two teacher?",
+      "exam_source": "",
+      "options": {
+        "a": "/ have complained",
+        "b": "/ implemented in the",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "teacher should be replaced with teachers will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "More than three books on history?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is lying on",
+        "b": "/ which belongs to the professor."
+      },
+      "correct": "b",
+      "explanation": "is should be replaced with are will be because More than",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "In his sharpest comments yet, the Dalai Lama compared?",
+      "exam_source": "",
+      "options": {
+        "a": "/ China's actions in Tibet to the",
+        "b": "/ who",
+        "c": "Solut"
+      },
+      "correct": "c",
+      "explanation": "more than million Cambodians should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "More than one book?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is missing from the",
+        "b": "/ after the annual audit.",
+        "c": "/ No"
+      },
+      "correct": "d",
+      "explanation": "No error",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "More medals than one?",
+      "exam_source": "",
+      "options": {
+        "a": "/ was given",
+        "b": "/ to the",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "was given should be replaced with were given will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "More than one successful candidate?",
+      "exam_source": "",
+      "options": {
+        "a": "/ have",
+        "b": "/ of the popular",
+        "c": "/ being published from India."
+      },
+      "correct": "b",
+      "explanation": "have should be replaced with has will be because More",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "More than one countries?",
+      "exam_source": "",
+      "options": {
+        "a": "/ was taking part",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "countries should be replaced with country will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "More than one experienced player?",
+      "exam_source": "",
+      "options": {
+        "a": "/ have",
+        "b": "/ in the recent",
+        "c": "/ No error",
+        "d": "6."
+      },
+      "correct": "b",
+      "explanation": "have should be replaced with has will be because More than",
+      "format": "error_spotting"
+    }
+  ]
+}

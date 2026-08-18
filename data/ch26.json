@@ -1,0 +1,170 @@
+{
+  "chapter_no": 26,
+  "title": "Apparently Plural but Functionally Singular Noun",
+  "section": "A",
+  "start_page": 79,
+  "end_page": 79,
+  "theory": "Apparently Plural but Functionally\n           There are some nouns that look plural because they end with ‘-s’, but they are singular\n      in meaning and therefore take a singular verb.\n      oqQN Nouns ,ls gksrs gSa tks fn[kus esa Plural yxrs gS D;ksafd muosQ var esa ‘–s’ gksrk gS] ysfdu mudk\n\n      vFkZ Singular gksrk gSA\n          Important Words\n          Mathematics, Economics, Statistics, Civics, Politics, Linguistics, Measles, Mumps, Rickets,\n          Diabetes, Rabies, Shingles, Billiards, Darts, Draughts, Gymnastics, Athletics, The United\n          Nations, The Netherlands, The Arabian Nights, Three Idiots, The Three Musketeers,\n          Summons, Ethics, Mechanics, News, Innings etc.",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The news are?",
+      "exam_source": "",
+      "options": {
+        "a": "/ quite surprising",
+        "b": "/ and",
+        "c": "/ for the public."
+      },
+      "correct": "a",
+      "explanation": "\"are\" should be replaced with \"is\" will be because \"news\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "He played well in the match?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and helped",
+        "b": "/ as his inning",
+        "c": "/ against a strong"
+      },
+      "correct": "c",
+      "explanation": "\"inning\" should be replaced with \"innings\" will be.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The news about the earthquake?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ were",
+        "b": "/ to everyone",
+        "c": "/ in the city.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "\"were\" should be replaced with \"was\" will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The Three Musketeers?",
+      "exam_source": "",
+      "options": {
+        "a": "/ are considered",
+        "c": "/ in"
+      },
+      "correct": "b",
+      "explanation": "\"are\" should be replaced with \"is\" will be because \"The",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Linguistics is a fascinating subject?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that",
+        "c": "/ in the world."
+      },
+      "correct": "c",
+      "explanation": "\"their\" should be replaced with \"its\" will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The lawyer, who was handling a sensitive corruption case,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ became anxious after",
+        "b": "/ as he feared political interference in",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"a summon\" should be replaced with \"a summons\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "Billiards have gained?",
+      "exam_source": "",
+      "options": {
+        "a": "/ popularity among",
+        "b": "/ players in recent years.",
+        "c": "/ No"
+      },
+      "correct": "a",
+      "explanation": "\"have\" should be replaced with \"has\" will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The United Nations are responsible for maintaining international security. Answers 1.",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "2.",
+        "c": "3.",
+        "b": "4.",
+        "d": "No improvement"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 10,
+      "question": "Shingles ........ a reactivation of a virus that has stayed inactive in the body for years.",
+      "exam_source": "",
+      "options": {
+        "a": "is",
+        "b": "are",
+        "c": "have",
+        "d": "were"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 11,
+      "question": "Mechanics ................ an essential foundation for subjects like engineering and physics.",
+      "exam_source": "",
+      "options": {
+        "a": "provide",
+        "b": "have providing",
+        "c": "provides",
+        "d": "were providing"
+      },
+      "correct": "c",
+      "explanation": "12. (a) 13. (b) Solut",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 12,
+      "question": "Civics ............. essential for building responsible citizens.",
+      "exam_source": "",
+      "options": {
+        "a": "is considered",
+        "b": "have considered",
+        "c": "were considered",
+        "d": "are considered"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 13,
+      "question": "Ethics ................ guidance on what is right and wrong.",
+      "exam_source": "",
+      "options": {
+        "a": "provide",
+        "b": "provides",
+        "c": "have provided",
+        "d": "was providing"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "chapter_no": 58,
+  "title": "Present Subjunctive Mood",
+  "section": "A",
+  "start_page": 155,
+  "end_page": 156,
+  "theory": " Present Subjunctive mood is used to express a suggestion, demand, order, necessity, or\n        importance.\n        Note\n      The base form of the verb is used here, regardless of whether the subject is singular or plural.\n      ;gk¡ ij ges'kk Verb dh Base form dk Use fd;k tkrk gS] pkgs Subject singular gks ;k plural gksA\n                                            Present Subjunctive Mood\n\n                                   Active Voice                         Passive Voice\n\n                                            VBase                       Be+V3\n\n                                                           VBase (Active Voice)\n             Subject1 + Verb + that + Subject2 +\n                                                           Be + V3 (Passive Voice)\n\n                                                           VBase (Active Voice)\n             It is + Adjective + that + Subject +\n                                                           Be + V3 (Passive Voice)\n\n         Verbs that trigger Present Subjunctive                 Adjectives that trigger Present Subjunctive\n\n    Suggest, Insist, Order, Advise, Command, Necessary, Essential, Important, Mandatory,\n    Request, Propose, Recommend, Urge        Advisable,    Indispensable,    Compulsory,\n                                             Imperative, Crucial",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "Choose the correct sentence.\b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "He suggested me to take rest.",
+        "b": "He suggested that I take rest.",
+        "c": "He suggested me that I take rest.",
+        "d": "He suggested for me to take rest."
+      },
+      "correct": "b",
+      "explanation": "suggested me to take rest should be replaced with",
+      "format": "regular"
+    },
+    {
+      "qno": 2,
+      "question": "The consultant suggested that the firm?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "b": "/ so as",
+        "c": "/ on innovation.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "discontinues should be replaced with discontinue of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "If the policy were to be implemented nationwide?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ it would necessitate that every regional office",
+        "b": "/ conducts a comprehensive audit",
+        "c": "/within a"
+      },
+      "correct": "c",
+      "explanation": "conducts should be replaced with conduct of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The committee recommended?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "/ that the faulty",
+        "b": "/ were repaired immediately to",
+        "c": "/ No error",
+        "d": "\b Present Subjunctive Mood"
+      },
+      "correct": "c",
+      "explanation": "were repaired should be replaced with be repaired of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "It is imperative that strict measures to control pollution levels?",
+      "exam_source": "",
+      "options": {
+        "a": "/ are implemented by the",
+        "b": "/ environmental degradation in urban areas.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "are implemented osQ LFkku ij be implemented ll dk use gksxk, D;ksafd present subjunctive mood d e ep osQ passive esa be + V vkrk gSA",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "I suggested that?",
+      "exam_source": "",
+      "options": {
+        "a": "/ she goes to the",
+        "b": "/ doctor",
+        "c": "/ was feeling unwell."
+      },
+      "correct": "b",
+      "explanation": "12. (a) 13. (a) 14. (b) 15. (a) Solut",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "She insisted me to take the medicine.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "That I take the medicine",
+        "b": "Me that I take medicine",
+        "c": "Me taking the medicine",
+        "d": "To take medicine by me"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 13,
+      "question": "The teacher insisted that the student to be honest.\b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "Be honest",
+        "b": "Is honest",
+        "c": "Should honest",
+        "d": "Should be honest"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 14,
+      "question": "The committee recommended that the manager resigns immediately to avoid further scandal.",
+      "exam_source": "",
+      "options": {
+        "a": "should resign",
+        "b": "resign",
+        "c": "shall resign",
+        "d": "No improvement"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 15,
+      "question": "The captain insisted that every player is present on the field by 6:00 AM sharp.",
+      "exam_source": "",
+      "options": {
+        "a": "be present",
+        "b": "was presented",
+        "c": "should be presented",
+        "d": "No improvement"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 16,
+      "question": "It is essential that every citizen pays his taxes on time for the development of the nation.",
+      "exam_source": "",
+      "options": {
+        "a": "pay",
+        "b": "paid",
+        "c": "should be paying",
+        "d": "No improvement"
+      },
+      "correct": "a",
+      "explanation": "17. (a) 18. (a) 19. (b) 20. (c) tions",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 17,
+      "question": "She insisted that he ………. present during the signing of the agreement.",
+      "exam_source": "(SSC PHASE XIII, 2025)",
+      "options": {
+        "a": "Be",
+        "b": "Was",
+        "c": "Would be",
+        "d": "Is"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 18,
+      "question": "The doctor advised that the patient ......... immediately.",
+      "exam_source": "",
+      "options": {
+        "a": "be admitted",
+        "b": "is admitted",
+        "c": "admit",
+        "d": "was admitted"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 19,
+      "question": "It is important that she ......... the meeting.",
+      "exam_source": "",
+      "options": {
+        "a": "attends",
+        "b": "attend",
+        "c": "is attended",
+        "d": "attended"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 20,
+      "question": "The health inspector insisted that the cafeteria ......... closed until the sanitation issues are fully resolved.",
+      "exam_source": "",
+      "options": {
+        "a": "is",
+        "b": "was",
+        "c": "be",
+        "d": "will be"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

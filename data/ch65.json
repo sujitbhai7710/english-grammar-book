@@ -1,0 +1,268 @@
+{
+  "chapter_no": 65,
+  "title": "Exam Oriented Homonyms",
+  "section": "A",
+  "start_page": 174,
+  "end_page": 176,
+  "theory": " Homonyms are words that sound similar or look alike but have different meanings and usages.\n ,sls 'kCn tks fn•us ;k lquus esa leku gksrs gSa] ysfdu muds vFkZ vkSj ç;ksx vyx gksrs gSaA\n\n        1      Affect (v) – to influence → izHkkfor djuk\n               Effect (n) – result → izHkko\n\n        2      Principal (n) – head of school@most important (adj) → ç/kukpk;Z / egÙoiw.kZ\n               Principle (n) – rule or belief → fl¼kar\n\n        3      Stationary (adj) – not moving → fLFkj\n               Stationery (n) – writing materials → ys•u lkexzh\n\n        4      Loose (adj) – not tight → <hyk\n               Lose (v) – to misplace / fail to keep → •ks nsuk\n               Advice (n) – suggestion\n\n               Advise (v) – to suggest\n               Practice (n) – exercise → vH;kl\n\n               Practise (v) – to perform repeatedly → vH;kl djuk\n\n        7      Device (n) – tool → midj.k\n               Devise (v) – to plan → ;kstuk cukuk\n\n        8      Your (adj) – belonging to you → rqEgkjk\n               You’re – you are\n\n        9      Historic (adj) – important in history → ,sfrgkfld (egÙoiw.kZ)\n               Historical (adj) – related to history → bfrgkl ls lacf/r\n\n       10      Economic (adj) – related to economy → vFkZ'kkL=k ls lacf/r\n               Economical (adj) – cost-saving → fdiQk;rh\n               Assure (v) – to promise → vk'oLr djuk\n       11      Ensure (v) – to make certain → lqfuf'pr djuk\n               Insure (v) – to provide insurance → chek djuk\n               Accept (v) – to receive → Lohdkj djuk\n\n               Except (prep) – excluding → dks NksM+dj\n\n               Adopt (v) – to take up → viukuk\n       13      Adapt (v) – to adjust → vuqowQy cukuk\n               Adept (adj) – skilled → oqQ'ky\n\n               Discreet (adj) – careful → lko/ku\n\n               Discrete (adj) – separate → vyx vyx                                                                    ll\n\n               Cite (v) – to quote → m¼`r djuk                                                                 df\n\n               Site (n) – place → LFkku                                                           -  @f\n\n               Sight (n) – vision → n`f\"V                                                     nT\n\n                Elicit (v) to bring out / get information → tkudkjh fudkyuk@çfrfØ;k ysuk\n\n                Illicit (adj) illegal → voS/@xSjdkuwuh\n\n                Bear (v) – to carry / to tolerate → <ksuk @ lgu djuk\n\n                Bare (adj) – without covering → uaxk @ fcuk <dk gqvk\n\n                Moral (adj/n) – related to ethics → uSfrd @ uSfrdrk\n\n                Morale (n) – confidence or enthusiasm → eukscy @ mRlkg\n\n                Appraise (v) – to evaluate → ewY;kadu djuk\n\n                Apprise (v) – to inform → lwfpr djuk\n\n                Compliment (n/v) – expression of praise → ç'kalk @ rkjhiQ djuk\n\n                Complement (n/v) – something that completes → iwjd cuuk @ iwjk djuk",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "She could not bare the pain?",
+      "exam_source": "",
+      "options": {
+        "a": "/ caused by the",
+        "b": "/ and had to be taken",
+        "c": "/ to"
+      },
+      "correct": "a",
+      "explanation": "bare should be replaced with bear of use will be, because bare of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "He objected to the new policy?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ on the",
+        "b": "/ it violated the principle",
+        "c": "/ of the employees.",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "principle should be replaced with principal of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The tourists gathered at the historical sight?",
+      "exam_source": "",
+      "options": {
+        "b": "/ that had been",
+        "c": "/ for centuries."
+      },
+      "correct": "a",
+      "explanation": "sight should be replaced with site of use will be, because sight",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The government introduced several economical?",
+      "exam_source": "",
+      "options": {
+        "a": "/ reforms to improve",
+        "b": "/ the",
+        "c": "/ over the"
+      },
+      "correct": "a",
+      "explanation": "economical should be replaced with economic of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "The team’s moral?",
+      "exam_source": "",
+      "options": {
+        "a": "/ was very high",
+        "b": "/ after",
+        "c": "/ convincingly."
+      },
+      "correct": "a",
+      "explanation": "moral should be replaced with morale of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The new policy has had?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "/ a positive affect on",
+        "b": "/ bottom line, but it has",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "affect should be replaced with effect of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "The manager asked his assistant to appraise him of?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the latest developments",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "appraise him of should be replaced with apprise him of of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The current debate involves key economic issues. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "The swimmer fought against the current.",
+        "b": "The current trends favor decentralization.",
+        "c": "His current address is unknown.",
+        "d": "The minister spoke on current policy."
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 9,
+      "question": "The main affect?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "/ of the new policy",
+        "b": "/ will",
+        "c": "/ in productivity.",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "He will ................ the award at the ceremony tomorrow. \b?",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "except",
+        "b": "accept",
+        "c": "access",
+        "d": "aspect"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 11,
+      "question": "The interior designer received a ........... from her client for choosing furniture that would perfectly .......... the walls and floors. \b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "counsel, council",
+        "b": "complement, compliment",
+        "c": "compliment, complement",
+        "d": "council, counsel"
+      },
+      "correct": "c",
+      "explanation": "12. (a) 13. (b) 14. (a) 15. (d) Solut",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 12,
+      "question": "The undercover officer managed to .............. a confession about the gang's .............. activities.",
+      "exam_source": "",
+      "options": {
+        "a": "elicit, illicit",
+        "b": "illicit, elicit",
+        "c": "solstice, solici",
+        "d": "solicit, solstice"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 13,
+      "question": "The engineer visited the construction .............. to check the progress of the building. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "Scythe",
+        "b": "site",
+        "c": "sight",
+        "d": "cite"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 14,
+      "question": "The teacher's decision was guided by the e ep core .............. of fairness, even though ther .............. disagreed with her approach. G- \b n T STENO, 2025) o(SSC?",
+      "exam_source": "",
+      "options": {
+        "a": "principle, principal",
+        "b": "principal, principle",
+        "c": "principle, principle",
+        "d": "principal, principal"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 15,
+      "question": "The farmer used a ............ to cut the grass. it the groce\b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "cite",
+        "b": "sight",
+        "c": "site",
+        "d": "scythe"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 16,
+      "question": "It is important for every participant to .............. regularly before the final presentation so that they can speak confidently and perform well during the event.",
+      "exam_source": "",
+      "options": {
+        "a": "practice",
+        "b": "practise",
+        "c": "practised",
+        "d": "practicing"
+      },
+      "correct": "b",
+      "explanation": "17. (d) 18. (b) 19. (d) tions",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 17,
+      "question": "Find the sentence with the correct homonym usage.\b Answers 1.",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "2.",
+        "c": "3.",
+        "b": "14.",
+        "d": "Solut"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 18,
+      "question": "The car remained .......... at the red light. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "stationerie",
+        "b": "stationary",
+        "c": "stationery",
+        "d": "stationry"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 19,
+      "question": "The officer was .......... in his conduct, revealing nothing about the investigation into his superior's involvement in several .......... incidents of bribery. \b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "discrete, discreet",
+        "b": "eminent, imminent",
+        "c": "imminent, eminent",
+        "d": "discreet, discrete"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

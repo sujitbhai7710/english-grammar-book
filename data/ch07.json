@@ -1,0 +1,274 @@
+{
+  "chapter_no": 7,
+  "title": "Verb Follows Main Subject",
+  "section": "A",
+  "start_page": 30,
+  "end_page": 31,
+  "theory": " In a sentence, the verb must agree with the main subject, not with any qualifying phrase,\n  modifier, or object that comes after it.\n  fdlh okD; esa Verb, Subject ds vuqlkj vkrh gS] u fd mlds ckn vkus okys fdlh qualifying phrase,\n\n  modifier ;k object ds vuqlkjA\n                                     Qualifying Phrase/\n                 Main Subject +        Modifier/Object +          Verb\n\n                                         Verb according to the main subject",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The discovery of a rare manuscript in the ancient monastery?",
+      "exam_source": "",
+      "options": {
+        "a": "/ drawing the attention of historians",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "open should be replaced with opens of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "The sudden rise in the number of private educational institutions across urban regions?",
+      "exam_source": "",
+      "options": {
+        "a": "/ despite the",
+        "b": "/ indicate growing demand for",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "indicate should be replaced with indicates of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Hearing those harsh and unexpected words from his mouth in front of everyone present there?",
+      "exam_source": "",
+      "options": {
+        "b": "/ and left me completely speechless for a",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "were should be replaced with was of use will be, because subject",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The quality?",
+      "exam_source": "",
+      "options": {
+        "a": "/ of apples",
+        "b": "/ is good.",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "The sharp contrast between the outdated teaching practices followed in many rural schools?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and",
+        "b": "/ reveal a significant",
+        "c": "/ across several"
+      },
+      "correct": "c",
+      "explanation": "reveal should be replaced with reveals of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The sudden collapse of the old bridge, causing severe damage to?",
+      "exam_source": "",
+      "options": {
+        "a": "/ several nearby houses and vehicles",
+        "b": "/ the entire local community who"
+      },
+      "correct": "b",
+      "explanation": "have shocked should be replaced with has shocked of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "The students of?",
+      "exam_source": "",
+      "options": {
+        "a": "/ Amity University",
+        "b": "/ are not",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The continuous decline in the standard of public healthcare facilities in several remote districts?",
+      "exam_source": "",
+      "options": {
+        "a": "/ coupled with the shortage of trained medical",
+        "b": "/ pose a serious",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "pose should be replaced with poses of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "The cost of?",
+      "exam_source": "(SSC CGL, 2019)",
+      "options": {
+        "a": "/ fruits and vegetables",
+        "b": "/ have risen",
+        "c": "/ abnormally this month.",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "have risen should be replaced with has risen of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "In modern hospitals, administration of strong antibiotics?",
+      "exam_source": "",
+      "options": {
+        "a": "/ stimulate the immune system",
+        "b": "/ to",
+        "c": "/ in critical patients.",
+        "d": "Verb Follows Main Subject"
+      },
+      "correct": "b",
+      "explanation": "stimulate should be replaced with stimulates of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "The growing gap in the quality of education in many rural institutions?",
+      "exam_source": "",
+      "options": {
+        "a": "/ despite the various reforms",
+        "b": "/ continue to",
+        "c": "/ in"
+      },
+      "correct": "c",
+      "explanation": "continue should be replaced with continues of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "Atmospheric rivers are long, narrow bands of moisture in the atmosphere that extends from the tropical regions?",
+      "exam_source": "",
+      "options": {
+        "a": "/ across vast oceanic areas and",
+        "b": "/ to higher latitudes where",
+        "c": "/ during extreme"
+      },
+      "correct": "a",
+      "explanation": "extends should be replaced with extend of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "It was Pawan, not his friends,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ who were",
+        "b": "/ at late hours",
+        "c": "/ last night."
+      },
+      "correct": "b",
+      "explanation": "were should be replaced with was of use will be, because verb",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "The two states frequently?",
+      "exam_source": "(SSC CHSL, 2019)",
+      "options": {
+        "a": "/ has differences",
+        "c": "/ especially during",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "has differences should be replaced with have differences",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "The prices of tomatoes has?",
+      "exam_source": "(SSC CPO, 2019)",
+      "options": {
+        "a": "/ soared up",
+        "b": "/ to Rs.",
+        "c": "/ in many parts of the country.",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "has should be replaced with have of use will be, because subject",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "The contrast between?",
+      "exam_source": "(SSC CGL, 2022)",
+      "options": {
+        "a": "/ Britain and other countries",
+        "b": "/ of Europe",
+        "c": "/ are striking.",
+        "d": "\b"
+      },
+      "correct": "d",
+      "explanation": "are should be replaced with is of use will be, because subject",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "The box?",
+      "exam_source": "(SSC CPO, 2019)",
+      "options": {
+        "a": "/ of paper clips",
+        "b": "/ are kept",
+        "c": "/ in the",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "are kept should be replaced with is kept of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 18,
+      "question": "The list of candidates?",
+      "exam_source": "(SSC CPO, 2019)",
+      "options": {
+        "a": "/ to be called",
+        "b": "/ for the",
+        "c": "/ were put up on the board.",
+        "d": "\b"
+      },
+      "correct": "d",
+      "explanation": "were put up should be replaced with was put up of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 19,
+      "question": "Providing a wide range of digital services to customers across different regions?",
+      "exam_source": "",
+      "options": {
+        "a": "/ was",
+        "b": "/ but rapid",
+        "c": "/ No error",
+        "d": "pd f"
+      },
+      "correct": "d",
+      "explanation": "No error.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 20,
+      "question": "India's claim to be a?",
+      "exam_source": "(SSC MTS, 2023)",
+      "options": {
+        "a": "/ world frleader",
+        "b": "/ are heavily compromised.",
+        "d": "nT o"
+      },
+      "correct": "c",
+      "explanation": "are heavily compromised should be replaced with is",
+      "format": "error_spotting"
+    }
+  ]
+}

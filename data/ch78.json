@@ -1,0 +1,336 @@
+{
+  "chapter_no": 78,
+  "title": "Who Vs Whom",
+  "section": "A",
+  "start_page": 205,
+  "end_page": 206,
+  "theory": " Both \"who\" and \"whom\" are Relative Pronouns used to connect a relative clause to a\n       noun or pronoun representing a person.\n\n      Who (Subject)                                      Whom (Object)\n      Person                          Subject             Person                              Object\n\n                           who                                                 whom\n\n     Antecedent         Relative Pronoun                 Antecedent          Relative Pronoun\n\n     Points to Remember\n     Who is used as Subject.\n     Whom is used as Object.\n     Who and whom are used when antecedent is a person.\n\n     Trick",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The student which secured the highest?",
+      "exam_source": "",
+      "options": {
+        "b": "/ the principal during the annual function.",
+        "c": "/ no error"
+      },
+      "correct": "a",
+      "explanation": "\"Which\" should be replaced with \"who\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "Who?",
+      "exam_source": "(UPSC CDS, 2023)",
+      "options": {
+        "a": "/ do you wish",
+        "b": "/ to see?",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"Who\" should be replaced with \"Whom\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "I tried to meet the person?",
+      "exam_source": "(UPSC CDS, 2016)",
+      "options": {
+        "a": "/ whom you said",
+        "b": "/ was looking for me.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "\"whom\" should be replaced with \"who\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The teachers, who I worked with?",
+      "exam_source": "(SSC CPO, 2016)",
+      "options": {
+        "a": "/ were",
+        "b": "/ towards children’s needs.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"who\" should be replaced with \"whom\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Ayesha is among the few people?",
+      "exam_source": "(SSC CPO, 2017)",
+      "options": {
+        "a": "/ in the",
+        "b": "/ blindly follow the",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "\"which\" should be replaced with \"who\" \"that\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "Can you tell me?",
+      "exam_source": "(SSC CPO, 2017)",
+      "options": {
+        "a": "/ the name of the person",
+        "b": "/ whom wrote the book.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "\"whom\" should be replaced with \"who\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "I know the cobbler?",
+      "exam_source": "(SSC CGL, 2019)",
+      "options": {
+        "a": "/ which mends the shoes",
+        "b": "/ the gate of our colony.",
+        "c": "/ No",
+        "d": "\b Who Vs Whom"
+      },
+      "correct": "b",
+      "explanation": "\"which\" should be replaced with \"who\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "Who?",
+      "exam_source": "(SSC CGL, 2015)",
+      "options": {
+        "a": "/ do you think",
+        "b": "/ I met.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"Who\" should be replaced with \"Whom\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "Do you know?",
+      "exam_source": "(SSC CGL, 2016)",
+      "options": {
+        "a": "/ whom the",
+        "b": "/ next speaker",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "\"whom\" should be replaced with \"who\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "The children which are assembled?",
+      "exam_source": "(SSC CGL, 2015)",
+      "options": {
+        "a": "/ in the",
+        "b": "/ chosen for the field trip.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"which\" should be replaced with \"who\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "The person whom?",
+      "exam_source": "",
+      "options": {
+        "a": "/ you saw in the market",
+        "b": "/ works in a reputed company.",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "Anirudh is the candidate who?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the",
+        "b": "/ after",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"who\" should be replaced with \"whom\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "She is the person?",
+      "exam_source": "",
+      "options": {
+        "a": "/ who I was talking to",
+        "b": "/ which needs",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"who\" should be replaced with \"whom\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "The company has requested funds from investors?",
+      "exam_source": "",
+      "options": {
+        "a": "/ who will be utilized to expand",
+        "b": "/ in emerging markets across thell",
+        "c": "/ No error",
+        "d": "ha"
+      },
+      "correct": "b",
+      "explanation": "\"who\" should be replaced with Non-living entity for",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "Rajiv Shukla is a teacher whomre?",
+      "exam_source": "",
+      "options": {
+        "a": "/ e the",
+        "b": "/ has taught",
+        "c": "/ No error",
+        "d": "TG"
+      },
+      "correct": "a",
+      "explanation": "\"whom\" should be replaced with \"who\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "May I know?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to who",
+        "b": "/ I am speaking?",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"who\" should be replaced with \"whom\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "Although the recruitment process is rigorous,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the panel will always favor candidates",
+        "b": "/ they believe are capable of handling",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 18,
+      "question": "It was the legendary professor, whom I?",
+      "exam_source": "",
+      "options": {
+        "b": "/ failed a",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"whom\" should be replaced with \"who\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 19,
+      "question": "She is one of?",
+      "exam_source": "",
+      "options": {
+        "a": "/ those rare players",
+        "b": "/ whom",
+        "c": "/ are destined for greatness."
+      },
+      "correct": "c",
+      "explanation": "\"whom\" should be replaced with \"who\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 20,
+      "question": "I saw a man ........... was wearing a black coat. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "which",
+        "b": "whom",
+        "c": "whose",
+        "d": "who"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 21,
+      "question": "I have a son ........... is studying in class 10th.",
+      "exam_source": "",
+      "options": {
+        "a": "who",
+        "b": "whom",
+        "c": "which",
+        "d": "whose"
+      },
+      "correct": "a",
+      "explanation": "22. (b) 23. (b) 24. (a) 25. (a) Solut",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 22,
+      "question": "Yesterday we met Mr. Sharma ........... we know well.",
+      "exam_source": "",
+      "options": {
+        "a": "who",
+        "b": "whom",
+        "c": "which",
+        "d": "whose"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 23,
+      "question": "What was the name of the person to ........... you spoke on the phone?\b?",
+      "exam_source": "(UPSC CDS, 2023)",
+      "options": {
+        "a": "who",
+        "b": "whom",
+        "c": "whose",
+        "d": "which"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 24,
+      "question": "The professor, ........ the students admitted had inspired them greatly, retired after serving the institution for forty years.",
+      "exam_source": "",
+      "options": {
+        "a": "who",
+        "b": "whom",
+        "c": "whose",
+        "d": "which"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

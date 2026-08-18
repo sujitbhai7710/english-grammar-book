@@ -1,0 +1,144 @@
+{
+  "chapter_no": 121,
+  "title": "Such...as, Such...that",
+  "section": "A",
+  "start_page": 315,
+  "end_page": 315,
+  "theory": " Such that – It is used to express result or consequence, showing the effect of something.\n\t\tbldk ç;ksx ifj.kke ;k çHkko O;Dr djus ds fy, fd;k tkrk gS] tks fdlh pht ds vlj dks n'kkZrk gSA\n Such as – It is used to express similarity or comparison, meaning of the same kind/type.\n\n bldk ç;ksx lekurk ;k rqyuk O;Dr djus ds fy, fd;k tkrk gS] ftldk vFkZ gS mlh çdkj @ mlh rjg\n dk @ tSlk fdA\n  Note\n \t\tSuch ds lkFk 'That' Conjunction dk dk;Z djrk gS vkSj 'As' Relative Pronoun dk dk;Z djrk\n   gSA blfy, ;fn gesa Subject ;k Object dh t:jr iM+rh gS rks as yxk,axs vkSj vxj Conjunction\n   dh t:jr iM+rh gS rks that yxk,axsA",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The sowing of winter crops?",
+      "exam_source": "",
+      "options": {
+        "a": "/ such that wheat",
+        "b": "/ has been affected due to",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "Such that should be replaced with such as of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "It was such a serious mistake?",
+      "exam_source": "",
+      "options": {
+        "a": "/ committed by",
+        "b": "/ the final match as it resulted",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "As should be replaced with that of use will be, because result",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The new principal is not such an efficient administrator?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that the teachers and students",
+        "b": "/ when he joined the",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "That should be replaced with as of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "He is not such a responsible officer?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that",
+        "b": "/ when he was"
+      },
+      "correct": "b",
+      "explanation": "That should be replaced with as of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "He is such a clever boy?",
+      "exam_source": "",
+      "options": {
+        "a": "/ as he can solve even",
+        "b": "/without any help.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "As should be replaced with that of use will be, because result",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "Such candidates ......... are careless will be rejected in the exam.",
+      "exam_source": "",
+      "options": {
+        "a": "who",
+        "b": "that",
+        "c": "as",
+        "d": "which"
+      },
+      "correct": "c",
+      "explanation": "7. (a) 8. (c) 9. (d) 10. (c) tions",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 7,
+      "question": "It was such a heavy loss .......... the company shut down. Answers 1. (b) 2. (c) 3. (b) 4. (b) 5. (b) 11. (c) 12. (b) Solut 1. (b) ‘Such that’ osQ LFkku ij ‘such as’ dk use gksxk, D;ksafd sentence esa crops osQ examples fn, x, gSaA 2. (c) ‘As’ osQ LFkku ij ‘that’ dk use gksxk, D;ksfa d result crkus osQ fy, ‘such + noun + that’ dk use fd;k tkrk gSA 3. (b) ‘That’ osQ LFkku ij ‘as’ dk use gksxk, D;ksafd comparison crkus osQ fy, ‘not such + noun + as’ dk use fd;k tkrk gSA Such ---------as, Such --------- that consequence, showing the effect of something. , fd;k tkrk gS] tks fdlh pht ds vlj dks n'kkZrk gSA r comparison, meaning of the same kind/type. , fd;k tkrk gS] ftldk vFkZ gS mlh çdkj @ mlh rjg djrk gS vkSj 'As' Relative Pronoun dk dk;Z djrk :jr iM+rh gS rks as yxk,axs vkSj vxj Conjunction?",
+      "exam_source": "",
+      "options": {
+        "b": "2.",
+        "c": "3.",
+        "a": "that",
+        "d": "which"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 10,
+      "question": "This is such a book .......... you should read for SSC preparation.",
+      "exam_source": "",
+      "options": {
+        "a": "who",
+        "b": "that",
+        "c": "as",
+        "d": "which"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 11,
+      "question": "You are not such a leader .......... we had expected.",
+      "exam_source": "",
+      "options": {
+        "a": "who",
+        "b": "that",
+        "c": "as",
+        "d": "which"
+      },
+      "correct": "c",
+      "explanation": "12. (b) Solut",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 12,
+      "question": "Preeti is such an intelligent girl .......... everyone admires her.",
+      "exam_source": "",
+      "options": {
+        "a": "who",
+        "b": "that",
+        "c": "as",
+        "d": "which"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

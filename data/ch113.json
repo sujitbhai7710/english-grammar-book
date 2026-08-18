@@ -1,0 +1,141 @@
+{
+  "chapter_no": 113,
+  "title": "Very Vs Much",
+  "section": "A",
+  "start_page": 296,
+  "end_page": 296,
+  "theory": " Very – It modifies adjectives and adverbs in the positive degree and is also used with\n         present participles (as adjectives).\n         ;g adjectives vkSj adverbs dks positive degree esa modify djrk gS vkSj present participles (as\n         adjectives) osQ lkFk Hkh use gksrk gSA\n     Much – It modifies comparative adjectives and is also used with past participles (as\n         adjectives).\n         ;g comparative adjectives dks modify djrk gS vkSj past participles (as adjectives) osQ lkFk Hkh\n         use gksrk gSA\n                    Note\n                The + very + Superlative degree Adjective\n                Much + the + Superlative degree Adjective",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "He was listening?",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "/ to the news and",
+        "b": "/ found it",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "much surprising should be replaced with very",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "Rehan is?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the much best student",
+        "b": "/ of my",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "the much best should be replaced with the very best",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Virat Kohli is?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the very best player",
+        "b": "/ in the",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "He is?",
+      "exam_source": "",
+      "options": {
+        "a": "/ a much",
+        "b": "/ hardworking student."
+      },
+      "correct": "b",
+      "explanation": "much hardworking should be replaced with very",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Sumit is very?",
+      "exam_source": "",
+      "options": {
+        "a": "/ smarter than",
+        "b": "/ any other",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "very smarter should be replaced with much smarter",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "All cuddled down?",
+      "exam_source": "",
+      "options": {
+        "a": "/ together and were",
+        "c": "/ No error",
+        "d": "Answers",
+        "b": "3."
+      },
+      "correct": "c",
+      "explanation": "quite very happy should be replaced with very happy",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "The movie, which was released last week,?",
+      "exam_source": "",
+      "options": {
+        "b": "/ and failed to impress the audience who",
+        "c": "/ to be very entertaining."
+      },
+      "correct": "b",
+      "explanation": "much boring should be replaced with very boring will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The condition of the roads has become very worse?",
+      "exam_source": "",
+      "options": {
+        "a": "/ after the heavy rainfall which continued for",
+        "b": "/ making it much difficult for",
+        "c": "/ to travel safely across the city."
+      },
+      "correct": "a",
+      "explanation": "very worse should be replaced with much worse will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "This thing happens?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to be more",
+        "b": "/ important",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "more important should be replaced with very",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "Our last session on the day?",
+      "exam_source": "",
+      "options": {
+        "a": "/ ended on a sad",
+        "b": "/ much distressing to Howie.",
+        "c": "/ No error",
+        "d": "6."
+      },
+      "correct": "c",
+      "explanation": "much distressing should be replaced with very",
+      "format": "error_spotting"
+    }
+  ]
+}

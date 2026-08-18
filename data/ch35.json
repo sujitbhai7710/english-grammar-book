@@ -1,0 +1,115 @@
+{
+  "chapter_no": 35,
+  "title": "Order of Pronouns",
+  "section": "A",
+  "start_page": 102,
+  "end_page": 103,
+  "theory": "Part-A\n            When different Pronouns are used in a normal/positive sentence, follow the given\n               order:\n                                 2        +      3      +       1\n\n                                     Second Person + Third Person + First Person\n          Part-B\n            When a mistake, fault, guilt, crime, or blame is expressed, follow the given order:\n                                   1          +      2       +      3\n\n                                     First Person + Second Person + Third Person\n          Part-C\n            When all Pronouns are used together in a plural or collective sense, follow the given\n               order:\n                                  1        +       2       +       3\n\n                                     First Person + Second Person + Third Person\n           Note\n                1st Person                       I, We\n                2 Person\n\n                                                 You\n                3 Person\n\n                                                 He, She, It, They, Nouns",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "John, I and Hari?",
+      "exam_source": "",
+      "options": {
+        "a": "/ have finished",
+        "b": "/ our",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"John, I and Hari\" should be replaced with \"John, Hari",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "After a detailed investigation by the authorities?",
+      "exam_source": "",
+      "options": {
+        "a": "/ it was discovered that you, he and I",
+        "c": "/ to the media."
+      },
+      "correct": "b",
+      "explanation": "\"you, he and I\" should be replaced with \"I, you and he\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Me and my friends?",
+      "exam_source": "(SSC CHSL, 2021)",
+      "options": {
+        "a": "/ often go",
+        "b": "/ to the",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"Me and my friends\" should be replaced with \"My",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "I and my friend?",
+      "exam_source": "(SSC CGL, 2016)",
+      "options": {
+        "a": "/ were declared",
+        "b": "/ the best",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"I and my friend\" should be replaced with \"My friend",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "You, we and they?",
+      "exam_source": "",
+      "options": {
+        "a": "/ will represent the university",
+        "b": "/ in the inter-college debate competition"
+      },
+      "correct": "a",
+      "explanation": "\"You, we and they\" should be replaced with \"We, you",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "I and he?",
+      "exam_source": "",
+      "options": {
+        "a": "/ have prepared",
+        "b": "/ the lesson",
+        "c": "/ No error",
+        "d": "Answers"
+      },
+      "correct": "a",
+      "explanation": "\"I and he\" should be replaced with \"He and I\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "The manager informed the team that?",
+      "exam_source": "",
+      "options": {
+        "a": "/ I",
+        "b": "/ must take responsibility for"
+      },
+      "correct": "b",
+      "explanation": "\"I, you and he\" should be replaced with \"you, he and",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "The teacher announced that?",
+      "exam_source": "",
+      "options": {
+        "a": "/ Ravi and myself",
+        "b": "/ the school in the debate",
+        "c": "/ next week.",
+        "d": "h all"
+      },
+      "correct": "b",
+      "explanation": "\"myself\" should be replaced with \"I\" of use will be because",
+      "format": "error_spotting"
+    }
+  ]
+}

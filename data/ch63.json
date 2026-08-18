@@ -1,0 +1,214 @@
+{
+  "chapter_no": 63,
+  "title": "Helping Verb Vs Main Verb",
+  "section": "A",
+  "start_page": 169,
+  "end_page": 171,
+  "theory": "Same Helping Verb with Same Form of Main Verbs\n   When a helping verb supports more than one main verb in the same sentence, it is not\n      repeated. The form of all the main verbs remains the same to maintain consistency in\n      tense, mood and voice.\n tc ,d helping verb ,d gh sentence esa ,d ls T;knk main verbs dks support djrh gS] rks mls\n\n ckj&ckj ugha nksgjk;k tkrk] cfYd ,d gh ckj use fd;k tkrk gSA lkFk gh lHkh actions esa tense, mood\n vkSj voice ,d leku j[ks tkrs gSaA\n                                        Main Verb1\n                       Helping Verb1             Main Verb2            Same form\n                                                 Main Verb3\n   Ex. 1 He has finished his homework and submitted it.\n \t\t      Helping verb: has     Main verbs: finished, submitted\n\n     Different Helping Verb with Different Form of Main Verbs\n   A structure where each helping verb supports its own main verb, and the verb may\n      express different tense or meanings.\n tc ,d gh sentence esa nks helping verbs gksrh gSa vkSj izR;sd helping verb vius&vius main verb\n\n dks support djrh gS] rks ,sls structure vyx&vyx tense ;k meaning dks O;Dr djrs gaSA\n                      Helping Verb1                                   Different form\n                                                  Main Verb\n                      Helping Verb2                                   Different form\n   Ex. 1 He has completed his task and is working.\n \t\t\t Helping verbs: is, has       Main verbs: completed, working",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "Rahul Gandhi has accused the government?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and say it is engaging in anti-national",
+        "b": "/ during the delimitation process",
+        "c": "/ in the country."
+      },
+      "correct": "b",
+      "explanation": "say should be replaced with said will be because has helping",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "The Supreme Court has refused to intervene?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and decline to entertain the petition",
+        "c": "/ in the state."
+      },
+      "correct": "b",
+      "explanation": "decline should be replaced with declined will be because has",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The school administration has organized multiple awareness programs?",
+      "exam_source": "",
+      "options": {
+        "a": "/ regarding",
+        "b": "/ and educating students about the risks"
+      },
+      "correct": "c",
+      "explanation": "educating should be replaced with educated will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The rescue team has reached the flood- affected villages safely despite severe weather conditions?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and distributes food packets",
+        "b": "/ to provide",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "distributes should be replaced with distributed will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Mumbai Indians have managed only 11 wickets?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and are struggle to improve their",
+        "b": "/ across three matches",
+        "c": "/ in the tournament."
+      },
+      "correct": "b",
+      "explanation": "are struggle should be replaced with are struggling",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The company has eliminated thousands of jobs?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and reallocating payroll cost to Al",
+        "b": "/ to improve efficiency",
+        "c": "/ in"
+      },
+      "correct": "b",
+      "explanation": "and reallocating should be replaced with and",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "Analysts have predicted cost reductions and is l expecting?",
+      "exam_source": "",
+      "options": {
+        "a": "/ higher profits due to increased al",
+        "b": "/ in the coming years.",
+        "d": "fre"
+      },
+      "correct": "a",
+      "explanation": "expecting should be replaced with are expecting",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "He has written the article?",
+      "exam_source": "",
+      "options": {
+        "c": "/ in the",
+        "b": "/ before publishing"
+      },
+      "correct": "b",
+      "explanation": "and editing should be replaced with and edited will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "They have finished the work?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and are",
+        "b": "/ to the senior officer",
+        "c": "/ for approval."
+      },
+      "correct": "b",
+      "explanation": "are submit should be replaced with are submitting",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "During the security operation carried out near the international border?",
+      "exam_source": "",
+      "options": {
+        "a": "/ late last night",
+        "b": "/ one",
+        "c": "/ by"
+      },
+      "correct": "c",
+      "explanation": ".interrogated should be replaced with was interrogated",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "India has experienced reduced rainfall earlier?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and was facing one of the worst drought",
+        "b": "/ due to poor monsoon conditions"
+      },
+      "correct": "b",
+      "explanation": "was facing should be replaced with faced will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "During the unfortunate accident that occurred late at night on the highway,?",
+      "exam_source": "",
+      "options": {
+        "b": "/ due to the reckless driving of the",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "one seriously injured should be replaced with one was",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "His assistants have, Inspite of facing continuous pressure from the higher Answers 1. (b) 2. (b) 3. (c) 4. (b) 5. (b) 11. (b) 12. (b) 13.",
+      "exam_source": "",
+      "options": {
+        "b": "2.",
+        "c": "4.",
+        "a": "14."
+      },
+      "correct": "a",
+      "explanation": "are still doing should be replaced with still done will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "She had prepared thoroughly?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for the",
+        "b": "/ in all the",
+        "c": "excellent"
+      },
+      "correct": "b",
+      "explanation": "perform should be replaced with performed will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "The university administration has revised the academic curriculum recently and introduce?",
+      "exam_source": "",
+      "options": {
+        "a": "/ interdisciplinary courses related to",
+        "b": "/ to",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "introduce should be replaced with introduced will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "The manager has carefully reviewed all the documents?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and make necessary",
+        "b": "/ to the",
+        "c": "/ No error",
+        "d": "6."
+      },
+      "correct": "b",
+      "explanation": "make should be replaced with made will be because has",
+      "format": "error_spotting"
+    }
+  ]
+}

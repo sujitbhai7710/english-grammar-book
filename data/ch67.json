@@ -1,0 +1,250 @@
+{
+  "chapter_no": 67,
+  "title": "Position of Adverbs",
+  "section": "A",
+  "start_page": 179,
+  "end_page": 180,
+  "theory": " Adverbs are placed in a sentence according to their type (manner, place, time, frequency,\n     degree) to show how, where, when, how often, or to what extent an action happens.\n\n Adverb dks sentence esa mlds çdkj (manner, place, time, frequency, degree) ds vuqlkj j•k tkrk gS\n      rkfd ;g Li\"V gks lds fd dksbZ dke dSls] dgk¡] dc] fdruh ckj ;k fdl ek=kk esa gks jgk gSA\n  1 Adverb of Manner – (Politely, well, carefully)\n Subject + Verb + Object + Adverb of Manner\n\n  2 Adverb of Place – (Here, there, Abroad)\n Subject + Verb + Object + Adverb of Place\n\n  3 Adverb of Time – (Tomorrow, yesterday, today)\n Subject + Verb + Object + Adverb of Time\n\n  Note\n \t\t If all the three come in a sentence, follow the order:\n  Subject + Verb + Object + Adverb of Manner + Adverb of Place + Adverb of Time\n\n  4 Adverb of Frequency – (Always, often, never)\n Subject + Helping Verb + Adverb of Frequency + Main Verb + Object\n\n  5 Adverb of Degree – (Very, too, almost)\n Before the Adjective / Verb / Adverb it modifies.\n\n   Note\n\n  Adverbs like only, even, and just are used before the word they modify",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The student completed yesterday the assignment carefully?",
+      "exam_source": "",
+      "options": {
+        "a": "/ given by the teacher",
+        "b": "/ in spite of facing many difficulties",
+        "c": "/ No"
+      },
+      "correct": "a",
+      "explanation": "completed yesterday the assignment",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "I have finished already?",
+      "exam_source": "",
+      "options": {
+        "a": "/ my work in the",
+        "b": "/ before the deadline",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "have finished already should be replaced with have",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "They were discussing?",
+      "exam_source": "",
+      "options": {
+        "a": "/ seriously the issue",
+        "b": "/ in the meeting last Monday",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "seriously the issue should be replaced with the issue",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The child almost had eaten?",
+      "exam_source": "",
+      "options": {
+        "a": "/ all the food",
+        "b": "/ before the guests arrived.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "almost had eaten should be replaced with had almost",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "She spoke?",
+      "exam_source": "",
+      "options": {
+        "a": "/ at the conference fluently last",
+        "b": "/ about the new research findings."
+      },
+      "correct": "b",
+      "explanation": "at the conference fluently last week of place",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "Girls eat junk food never?",
+      "exam_source": "",
+      "options": {
+        "a": "/ as they are",
+        "b": "/ about their health nowadays.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "eat junk food never should be replaced with never eat junk",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "I am tired extremely?",
+      "exam_source": "",
+      "options": {
+        "a": "/ right now because",
+        "b": "/ since",
+        "c": "/ No error",
+        "d": "Position of Adverbs"
+      },
+      "correct": "a",
+      "explanation": "tired extremely should be replaced with extremely tired",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "I only allowed?",
+      "exam_source": "",
+      "options": {
+        "a": "/ my younger sister",
+        "b": "/ to",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "only allowed should be replaced with allowed only of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "He visits his relatives seldom during holidays because of his job?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in another city",
+        "b": "/ far",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "visits his relatives seldom should be replaced with seldom",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "The teacher, while explaining the topic to the students who were preparing for competitive exams,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ only explained the basic concepts",
+        "b": "/ due to lack of",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "only explained should be replaced with explained only of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "She speaks English always?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in public",
+        "b": "/ without hesitation.",
+        "c": "/ No"
+      },
+      "correct": "a",
+      "explanation": "speaks English always should be replaced with always",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "Experts have been closely?",
+      "exam_source": "",
+      "options": {
+        "a": "/ monitoring pd the",
+        "b": "/ since last fr e",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "since last month regularly should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "Resolutions must be introduced o nT quickly to repeal the outdated laws. ch?",
+      "exam_source": "",
+      "options": {
+        "a": "be introducing to quick repeal",
+        "b": "have to be introduced to quick repealing",
+        "c": "be quickly introduced to repeal",
+        "d": "be quick introducing to repeal"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 16,
+      "question": "He takes his always dog for a walk in the park.\b?",
+      "exam_source": "(SSC CHSL, 2024)",
+      "options": {
+        "a": "his dog for a walk always takes",
+        "b": "always takes his dog for a walk",
+        "c": "takes his dog for always a walk",
+        "d": "takes his dog for an always walk"
+      },
+      "correct": "b",
+      "explanation": "17. (d) 18. (c) 19. (b) 20. (d) tions",
+      "format": "regular"
+    },
+    {
+      "qno": 17,
+      "question": "The governor assured the media that the crisis was under control and would be soon overcome by the efforts of the administration. \b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "will soon be overcome for",
+        "b": "was soon overcome due to",
+        "c": "No improvement required",
+        "d": "would soon be overcome by"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 18,
+      "question": "Check all radiators for (meagre leaks, special) round pipework connections. \b?",
+      "exam_source": "(SSC CHSL, 2023)",
+      "options": {
+        "a": "modest, leaks, specially",
+        "b": "cramped ,leaks, specially",
+        "c": "small, leaks, especially",
+        "d": "No improvement"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 19,
+      "question": "The moment the manager came to know of the fraudulent action of his assistant, he order immediately dismissed him.",
+      "exam_source": "",
+      "options": {
+        "a": "immediately ordered his dismissed",
+        "b": "ordered his immediate dismissal",
+        "c": "immediately ordered dismissal of his",
+        "d": "ordered for immediately dismissal him"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 20,
+      "question": "Many artisans were almost without any work during the pandemic.\b?",
+      "exam_source": "(SSC CGL, 2021)",
+      "options": {
+        "a": "any without almost",
+        "b": "without any almost",
+        "c": "almost any without",
+        "d": "No substitution required"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "sentence_improve"
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "chapter_no": 54,
+  "title": "Indefinite Articles: A/An",
+  "section": "A",
+  "start_page": 143,
+  "end_page": 145,
+  "theory": " A/An dk use singular countable noun ls igys fd;k tkrk gS vkSj bldk use vxys word\n          dh sound ij fuHkZj djrk gS uk fd spelling ijA\n    Article A → Consonant Sound.\n\n    Article An → Vowel Sound.\n\n                           A                                                   An\n    X A University        X A European                  X An X-ray              X An S.D.O\n                            Country                       Machine\n    X A Union             X A unanimous                 X An F.I.R              X An I.A.S officer\n                            decision\n    X A unique            X A Euphemism                 X An N.G.O              X An N.C.C Cadet\n      idea\n    X A unit              X A Eureka Moment             X An M.P                X An N.R.I\n    X A united            X A one-day Match             X An M.L.A              X An L.I.C Agent\n      team\n    X A useful book       X A one-eyed man              X An M.B.A              X An S.P\n    X A user              X A Ewe                       X An hour               X An S.B.I employee\n    X A Unicorn           X A U-turn                    X An heir               X An honest teacher\n    X A universal         X A USB device                X An umbrella           X An honorarium\n      truth\n    X A eulogy            X A UGC guideline             X An honor              X An L.L.B graduate\n    X A U.P.S.C           X A Uranium mine              X An honourable         X An R.B.I employee\n      aspirant                                            person\n    X A Eucalyptus        X A Utopian idea              X An MSc degree         X An S.O.S message\n      tree                                                holder\n    X A Eugenics          X A UNESCO Project            X An XUV vehicle        X An H.D.M.I port\n      theory\n    X A Usurper           X A Year                      X An heirloom           X An S.H.O\n      king",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "In response to an alarming spike in fraudulent transactions,?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "/ the bank introduced",
+        "b": "/ to verify customer identities",
+        "c": "/ biometric"
+      },
+      "correct": "b",
+      "explanation": "\"introduced mechanism\" should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "They went to?",
+      "exam_source": "(SSC PHASE XIII, 2025)",
+      "options": {
+        "a": "/ an university",
+        "b": "/ known for",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"an university\" should be replaced with \"a university\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The auditorium is spacious and can accommodate?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ large number of participants",
+        "b": "/ for the seminar on rural banking",
+        "c": "/ being",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "\"large number of\" should be replaced with \"a large",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The report lacks a clear justification?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "/ for the",
+        "b": "/ and overlooks the",
+        "c": "/ on a environment.",
+        "d": "l l"
+      },
+      "correct": "d",
+      "explanation": "\"on a environment\" should be replaced with \"on the",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Do you mind?",
+      "exam_source": "",
+      "options": {
+        "a": "/ lending me",
+        "b": "/ your df",
+        "c": "/ for a hour?"
+      },
+      "correct": "d",
+      "explanation": "\"a hour\" should be replaced with \"an hour\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "Our bicycles are fully?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "/ equipped",
+        "c": "/ and",
+        "b": "/ taillights, gear shifts",
+        "d": "\b rch"
+      },
+      "correct": "d",
+      "explanation": "\"a air pump\" should be replaced with \"an air pump\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "She consulted an honest lawyer who works for an NGO?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and later approached",
+        "b": "/ to get advice",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"an university professor\" should be replaced with \"a",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The shepherd carefully carried?",
+      "exam_source": "",
+      "options": {
+        "a": "/ a ewe that",
+        "b": "/ during an heavy storm",
+        "c": "/ across the rocky hillside."
+      },
+      "correct": "c",
+      "explanation": "\"an heavy storm\" should be replaced with \"a heavy",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "It was an?",
+      "exam_source": "",
+      "options": {
+        "a": "/ one-time opportunity for him",
+        "b": "/ to prove his capabilities in front of the",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"an one-time opportunity\" should be replaced with \"a",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "The environmentalists planted an?",
+      "exam_source": "",
+      "options": {
+        "b": "/ to",
+        "c": "/ in"
+      },
+      "correct": "a",
+      "explanation": "\"an eucalyptus tree\" should be replaced with \"a eucalyptus",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "She is a?",
+      "exam_source": "",
+      "options": {
+        "a": "/ heir to a vast property",
+        "b": "/ that was",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"a heir\" should be replaced with \"an heir\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "It was a once-in-the-lifetime opportunity that many would consider invaluable, but very few got the chance to experience.",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "the once-in-a-lifetime",
+        "b": "an once-in-a-lifetime",
+        "c": "a once-in-a-lifetime",
+        "d": "No improvement required"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 13,
+      "question": "My brother works for a M.N.C.",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "M.N.C",
+        "b": "an M.N.C",
+        "c": "wherever M.N.C",
+        "d": "any M.N.C"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 14,
+      "question": "She aspires to become .......... UN envoy for climate affairs.\b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "an",
+        "b": "a",
+        "c": "the",
+        "d": "No article"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 15,
+      "question": "There was .......... robbery in .......... university campus. .......... thief entered .......... boy's hostel and took away .......... laptop. .......... FIR was lodged by .......... Principal.\b?",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "a, the, a, the, a, an, the",
+        "b": "a, the, the, the, a, a, the",
+        "c": "the, the, the, the, the, the, a",
+        "d": "a, a, a, the, the, a, the"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 16,
+      "question": "He mentioned that a colleague had recommended .......... excellent movie. \b AIRFORCE Intake 01, 2027 (30/March/2026)",
+      "exam_source": "",
+      "options": {
+        "a": "a",
+        "b": "the",
+        "c": "an",
+        "d": "no article required"
+      },
+      "correct": "c",
+      "explanation": "17. (b) 18. (d) 19. (b) 20. (d)",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 17,
+      "question": "The players are accorded, .......... aura that outshines the limelight of movie stars.",
+      "exam_source": "(IB ACIO, 2025)",
+      "options": {
+        "a": "a",
+        "b": "an",
+        "c": "No article required",
+        "d": "the"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 18,
+      "question": "Everyone was shocked to know that the girl was the daughter of .......... influential millionaire.",
+      "exam_source": "(IB ACIO, 2025)",
+      "options": {
+        "a": "a",
+        "b": "the",
+        "c": "No article required",
+        "d": "an"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 19,
+      "question": "All I need is .......... hour and I'll be finished with .......... work. \b AIRFORCE Intake 01, 2027 (30/March/2026)",
+      "exam_source": "",
+      "options": {
+        "a": "an, an",
+        "b": "an, the",
+        "c": "a, an",
+        "d": "the, a"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 20,
+      "question": "I need to buy .......... pair of glasses.",
+      "exam_source": "(IB ACIO, 2025)",
+      "options": {
+        "a": "the",
+        "b": "No article required",
+        "c": "an",
+        "d": "a"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 21,
+      "question": "Shyam's hostel mate has become .......... IAS officer.\b (CUET, 1/June/2023)",
+      "exam_source": "",
+      "options": {
+        "a": "a",
+        "b": "the",
+        "c": "an",
+        "d": "zero article"
+      },
+      "correct": "c",
+      "explanation": "22. (a) 23. (c) 24. (c) 25. (d) Solut",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 22,
+      "question": "She has always wanted to be .......... university professor.\b?",
+      "exam_source": "(IB ACIO, 2025)",
+      "options": {
+        "a": "a",
+        "b": "an",
+        "c": "the",
+        "d": "No article required"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 23,
+      "question": "She's .......... cousin of the king's.",
+      "exam_source": "(IB ACIO, 2025)",
+      "options": {
+        "a": "No article required",
+        "b": "the",
+        "c": "a",
+        "d": "an"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 24,
+      "question": "You have to do .......... intensive training to become a nurse.\b?",
+      "exam_source": "(SSC MTS, 2019)",
+      "options": {
+        "a": "the",
+        "b": "a",
+        "c": "an",
+        "d": "on"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 25,
+      "question": "There is .......... apple on the table.",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "one",
+        "b": "a",
+        "c": "the",
+        "d": "an"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 26,
+      "question": "A woman is more sensitive than .......... man. \b (CUET, 1/June/2023) h all?",
+      "exam_source": "",
+      "options": {
+        "a": "a",
+        "b": "an f",
+        "c": "the",
+        "d": "some ee"
+      },
+      "correct": "a",
+      "explanation": "27. (a) 28. (c) 29. (a) 30. (d) tions",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 27,
+      "question": "This is too ........ grave sin to be pardoned?",
+      "exam_source": "",
+      "options": {
+        "a": "a",
+        "b": "Tan",
+        "c": "the o n",
+        "d": "No article"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 28,
+      "question": "It was ......... honour of seema to be selected as a teacher trainer.\b?",
+      "exam_source": "(SSC MTS, 2019)",
+      "options": {
+        "a": "the",
+        "b": "No article",
+        "c": "an",
+        "d": "a"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 29,
+      "question": "Educators have .............. unique responsibility towards the empowerment of their students. Answers 1. (b) 2. (b) 3. (b) 4. (d) 5. (d) 11.",
+      "exam_source": "(SSC CPO, 2019)",
+      "options": {
+        "b": "2.",
+        "d": "5.",
+        "a": "12.",
+        "c": "13."
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 30,
+      "question": "Teachers Day shall be observed as ...... non- teaching day in our campus.",
+      "exam_source": "",
+      "options": {
+        "a": "the",
+        "b": "No article",
+        "c": "an",
+        "d": "a"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

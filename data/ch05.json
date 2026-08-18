@@ -1,0 +1,456 @@
+{
+  "chapter_no": 5,
+  "title": "Transitive Verbs and Superfluous Prepositions",
+  "section": "A",
+  "start_page": 25,
+  "end_page": 28,
+  "theory": "Transitive Verbs and Superfluous\n   There are some transitive verbs that do not take any preposition after them in active\n      voice and they are directly followed by their object.\n\n oqQN ,slh Transitive Verbs gSa] tks Active Voice esa vius ckn Preposition u ysdj lh/k Object\n ysrh gSaA\n\n    Verb        Remove Preposition           Meaning (English)                Meaning (Hindi)\n  Comprise                of             To consist of / be made up of'kkfey gksuk@ls cuk gksuk\n Emphasize                on            To give special importance to           tksj nsuk\n   Discuss              about               To talk or write about            ppkZ djuk\n   Describe             about                To explain in detail             o.kZu djuk\n    Enter            into (Place)             To go into a place              izos'k djuk\n Investigate             into           To examine/carry out research     tk¡p&iM+rky djuk\n   Despite                of              Without being affected by           osQ ckotwn\n(Preposition)\n     Sign                 on               To write your name on a                 gLrk{kj djuk\n                                             document/signature\n   Succeed               after                  To come after                      osQ ckn vkuk\n   Precede              before                 To come before                      ls igys vkuk\n    Order                 for              To give a command for                      vkns'k nsuk\n  Approach               near                   To come near                         fudV vkuk\n    Reach             at (Place)                 To arrive at                          igq¡puk\n  Resemble                to              To look like someone else               osQ tSlk fn[kkuk\n    Marry                with             To take as a husband/wife                  'kknh djuk\n    Attack                on              To take aggressive action                  geyk djuk\n                                                   against\n    Await                 for                     To wait for                      bartkj djuk\n   Control                on                 To have power over                   fu;a=k.k djuk\n     Lack                 in                To not have enough of                    deh gksuk\n   Pervade           through/in         To spread through every part                 iSQy tkuk\n   Explain              about             To make something clear                     le>kuk\n    Stress                on                    To emphasize                     cy nsuk@tksj nsuk\n Accompany                by            To go somewhere with some-                   lkFk tkuk                  ll\n                                                   one                                                     ha\n\n     Face                with              To deal with a situation                 lkeuk djuk      e\n\n    Resist              against                To fight against                             -\n                                                                                    fojksT/Gdjuk\n  Consider              about                   To think about                      on\n                                                                                rch fopkj djuk\n\n        Verb         Remove Preposition                Meaning (English)                      Meaning (Hindi)\n       Request                   to                        To politely ask for                     fuosnu djuk\n         Ask                   from                               To inquire                            iwNuk\n      Address                 about                   To speak to/deal with                       lacksf/r djuk\n       Ensure                    of                         To make certain                       lqfuf'pr djuk\n        Board                  into                    To get on (bus/train)                         lokj gksuk\n        Affect                  on                   To produce a change in                       izHkkfor djuk\n       Invade                   on                         To enter by force                      vkozQe.k djuk\n      Told/Tell                  to                         To communicate                              crkuk\n       Advise                    to                        To give suggestion                        lykg nsuk\n       Inform                    to                              To give facts                      lwfpr djuk\n     Command                     to                          To give order                           vkns'k nsuk\n       Violate                against                       To break a rule                       mYya?ku djuk\n      Demand                    for                To ask for something force-                       ek¡x djuk\n                                                               fully\n       Combat                 against              To fight or struggle against                  eqdkcyk djuk\n       Oppose                 against                  To disagree or resist                       fojks/ djuk\n        Mind                  about              To object to or be annoyed by                cqjk ekuuk@è;ku nsuk\n       Answer                    to              To reply to a question/person                       mÙkj nsuk\n        Obey                     to               To follow orders/commands                        vkKk ekuuk\n        Thank                    to                    To express gratitude                       /U;okn djuk\n        Warn                     to                    To caution someone                          psrkouh nsuk\n        Meet                   with                    To come face to face                           feyuk\n         Visit                   to                  To go to a place/person                 eqykdkr djuk @ ?kweuk\n         Flee                  away                 To run away from danger                         Hkkx tkuk\n       Afford                 to / for            To have enough money/abil-                       lkeF;Z gksuk\n                                                            ity for",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The finance team?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ comprises of experts",
+        "b": "/ in risk, audit, and compliance",
+        "c": "/ from",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "'comprises of' should be replaced with 'comprises'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "Despite of?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "/ being intelligent",
+        "b": "/ he failed",
+        "c": "/to qualify the exam.",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "'Despite of' should be replaced with 'Despite' 'In",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "He promised to?",
+      "exam_source": "",
+      "options": {
+        "a": "/ accompany with his",
+        "c": "/ No error."
+      },
+      "correct": "b",
+      "explanation": "'accompany with' should be replaced with 'accompany'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "We need to discuss about?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "/ the new",
+        "b": "/ in the next meeting.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "'discuss about' should be replaced with 'discuss'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "My elder sister?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is married",
+        "b": "/ with a",
+        "c": "/ No error",
+        "d": "ll"
+      },
+      "correct": "c",
+      "explanation": "'with a doctor' of place 'to a doctor'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The committee?",
+      "exam_source": "",
+      "options": {
+        "a": "/ decided to",
+        "b": "/freconsider",
+        "d": "about the",
+        "c": "/ proposal in the meeting."
+      },
+      "correct": "c",
+      "explanation": "'consider about' should be replaced with 'consider'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "The chief guest?",
+      "exam_source": "",
+      "options": {
+        "a": "/ entered oninto",
+        "b": "/ the room.",
+        "c": "/ No error",
+        "d": "r c h"
+      },
+      "correct": "b",
+      "explanation": "'entered into' should be replaced with 'entered'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "She?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ resembles with",
+        "b": "/ her mother.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "'resembles with' should be replaced with 'resembles'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "The army attacked on the enemy base?",
+      "exam_source": "",
+      "options": {
+        "b": "/ from",
+        "c": "/ stationed near the"
+      },
+      "correct": "a",
+      "explanation": "'attacked on should be replaced with 'attacked",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "This book?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ comprises of",
+        "b": "five chapters.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "'comprises of' should be replaced with 'comprises'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "The manager asked from the employees?",
+      "exam_source": "",
+      "options": {
+        "b": "/ before the",
+        "c": "/ for the weekend."
+      },
+      "correct": "a",
+      "explanation": "'asked from' should be replaced with 'asked'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "The coach advised the players?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to remain",
+        "b": "/ and resist against",
+        "c": "/ from the opposing team."
+      },
+      "correct": "c",
+      "explanation": "'resist against provocation' should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "We need to?",
+      "exam_source": "",
+      "options": {
+        "a": "/ discuss about the",
+        "b": "/ new",
+        "c": "/ in the meeting."
+      },
+      "correct": "b",
+      "explanation": "'discuss about' should be replaced with 'discuss'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "The Chairman signed on the agreement?",
+      "exam_source": "",
+      "options": {
+        "b": "/ between two",
+        "c": "/ involved in the deal."
+      },
+      "correct": "a",
+      "explanation": "'signed on' should be replaced with 'signed'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "The government introduced new safety measures?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to ensure of better protection",
+        "c": "/ across the country."
+      },
+      "correct": "b",
+      "explanation": "ensure of should be replaced with ensure will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "The teacher advised to?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the student to",
+        "b": "/ a book from the library within",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "'advised to' should be replaced with 'advised'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "I ordered?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for a cup",
+        "b": "/ of tea.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "'ordered for' should be replaced with 'ordered'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 18,
+      "question": "The teacher explained?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the topic in detail",
+        "b": "/ on the importance",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "'emphasise on' of place 'emphasise'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 19,
+      "question": "Our company?",
+      "exam_source": "",
+      "options": {
+        "a": "/ does not",
+        "b": "/ lack of"
+      },
+      "correct": "c",
+      "explanation": "'lack of' should be replaced with 'lack' because lack",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 20,
+      "question": "The soldiers?",
+      "exam_source": "",
+      "options": {
+        "a": "/ were ordered",
+        "b": "/ to invade",
+        "c": "/ enemy territory at dawn."
+      },
+      "correct": "c",
+      "explanation": "'invade on' should be replaced with 'invade'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 21,
+      "question": "The employees were warned?",
+      "exam_source": "",
+      "options": {
+        "a": "/ not to violate",
+        "b": "/ the rules under any circumstances.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "'violate against' should be replaced with 'violate'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 22,
+      "question": "So intense was the resistance?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ that the",
+        "b": "/ but also face with",
+        "c": "/ across institutional",
+        "d": "\b Answers"
+      },
+      "correct": "c",
+      "explanation": "'face with' should be replaced with 'faced' because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 23,
+      "question": "The rescue team?",
+      "exam_source": "",
+      "options": {
+        "a": "/ finally reached at the",
+        "c": "/ trekking for ten hours."
+      },
+      "correct": "b",
+      "explanation": "'reached at' should be replaced with 'reached'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 24,
+      "question": "Despite of?",
+      "exam_source": "(SSC\n      CHSL, 2025)",
+      "options": {
+        "a": "/ his low score in the test",
+        "b": "/ he",
+        "c": "/ the course.",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "'Despite of' should be replaced with 'Despite' 'In",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 25,
+      "question": "The young boy?",
+      "exam_source": "",
+      "options": {
+        "a": "/ strongly resembles to his",
+        "b": "/ grandfather in both",
+        "c": "/ appearance and"
+      },
+      "correct": "b",
+      "explanation": "'resembles to' should be replaced with 'resembles'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 26,
+      "question": "The detectives?",
+      "exam_source": "",
+      "options": {
+        "a": "/ decided to",
+        "b": "/ investigate",
+        "c": "/ mysterious disappearance of the"
+      },
+      "correct": "c",
+      "explanation": "'investigate into' should be replaced with 'investigate'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 27,
+      "question": "The manager?",
+      "exam_source": "",
+      "options": {
+        "a": "/ will address",
+        "b": "/ about the",
+        "c": "/ of the employees tomorrow."
+      },
+      "correct": "c",
+      "explanation": "'address about' should be replaced with 'address'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 28,
+      "question": "Passengers are?",
+      "exam_source": "",
+      "options": {
+        "a": "/ requested to",
+        "b": "/ board into",
+        "c": "/ aircraft in an orderly manner."
+      },
+      "correct": "c",
+      "explanation": "'board into' should be replaced with 'board' because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 29,
+      "question": "The local authorities?",
+      "exam_source": "",
+      "options": {
+        "a": "/ will ensure of the",
+        "c": "/ to every household."
+      },
+      "correct": "b",
+      "explanation": "'ensure of' should be replaced with 'ensure' because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 30,
+      "question": "I would request to you?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to consider my",
+        "b": "/ and grant me a job as early as",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "'request to you' should be replaced with 'request you'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 31,
+      "question": "The teacher?",
+      "exam_source": "",
+      "options": {
+        "a": "/ will explain",
+        "b": "/ about the new",
+        "c": "/ lesson in the next class."
+      },
+      "correct": "c",
+      "explanation": "'explain about' should be replaced with 'explain'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 32,
+      "question": "He did not succeed despite of his hard work. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "in spite of his working hard.",
+        "b": "despite his hard work.",
+        "c": "although his hard work.",
+        "d": "although he worked hard."
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 33,
+      "question": "Despite of his persistent efforts, the proposal was rejected. (SSC Phase XIII, 2025)",
+      "exam_source": "",
+      "options": {
+        "a": "Despite his persistence",
+        "b": "Though of his persistence",
+        "c": "Although his persistent",
+        "d": "In spite his persistence"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 34,
+      "question": "The government has strictly banned ............ the use of plastic bags in the city.",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "on",
+        "b": "for",
+        "c": "to",
+        "d": "No preposition required"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

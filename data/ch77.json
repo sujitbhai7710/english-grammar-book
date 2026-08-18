@@ -1,0 +1,194 @@
+{
+  "chapter_no": 77,
+  "title": "Fraction Vs Percent",
+  "section": "A",
+  "start_page": 203,
+  "end_page": 204,
+  "theory": "quantity\n\n      Points to Remember\n   Plural noun dk dksbZ Hkh Fraction ;k Percent Plural gksxk vkSj Verb Hkh Plural gksxhA\n   Singular noun dk dksbZ Hkh Fraction ;k Percent Singular gksxk vkSj Verb Hkh Singular gksxhA\n      Uncountable noun dk dksbZ Hkh Fraction ;k Percent Uncountable gksxk vkSj Verb Hkh Singular gksxhA\n      Note\n      The Percentage of + noun osQ case esa ges'kk Singular Verb vk,xhA",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "Nearly one-third of the students studying?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in the remote tribal schools of the district",
+        "b": "/ is unable to attend regular classes.",
+        "c": "/ No"
+      },
+      "correct": "c",
+      "explanation": "\"is\" should be replaced with \"are\" of use will be because Plural",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "Two-thirds of the work?",
+      "exam_source": "",
+      "options": {
+        "a": "/ have been",
+        "b": "/ by the workers.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"have\" should be replaced with \"has\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Almost sixty percent of the agricultural land?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in this region is affected by severe drought",
+        "b": "/ which have continued for",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "Five percent of the books?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is missing from",
+        "b": "/ the library shelf.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"is\" should be replaced with \"are\" of use will be because Plural",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "The percentage of the players who?",
+      "exam_source": "",
+      "options": {
+        "a": "/ got",
+        "b": "/ the World Cup have",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"have\" should be replaced with \"has\" of use will be because tc",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The percentage of the polluted water?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"have\" should be replaced with \"has\" of use will be because tc",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "Ten percent of the candidates who?",
+      "exam_source": "",
+      "options": {
+        "a": "/ have",
+        "b": "/ was rejected.",
+        "c": "/ No"
+      },
+      "correct": "c",
+      "explanation": "\"was\" should be replaced with \"were\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "More than one-third of the water?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in the",
+        "b": "/ have evaporated",
+        "c": "/ due to heat.",
+        "d": "Fraction Vs Percent"
+      },
+      "correct": "c",
+      "explanation": "\"have\" should be replaced with \"has\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "A large percent of the employees?",
+      "exam_source": "",
+      "options": {
+        "a": "/ working",
+        "b": "/ is dissatisfied with the",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"is\" should be replaced with \"are\" of use will be because Plural",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "According to the report,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ two-thirds of",
+        "b": "/ stored in the city's main",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"have\" should be replaced with \"has\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "A large percentage of?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the employees",
+        "b": "/ is",
+        "c": "/ No"
+      },
+      "correct": "d",
+      "explanation": "No error.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "While sixty percent?",
+      "exam_source": "",
+      "options": {
+        "a": "/ of the books donated",
+        "b": "/ in good condition, the",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"was\" should be replaced with \"were\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "Ten percent of the scenery in this valley ......... breathtaking. h all?",
+      "exam_source": "",
+      "options": {
+        "a": "is",
+        "b": "are d f",
+        "c": "were",
+        "d": "have rbeen"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 15,
+      "question": "A significant fraction of the wealth G -@ ........ spent on charitable causes last year. o nT?",
+      "exam_source": "",
+      "options": {
+        "a": "were",
+        "b": "was",
+        "c": "are a rch",
+        "d": "have"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

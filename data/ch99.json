@@ -1,0 +1,211 @@
+{
+  "chapter_no": 99,
+  "title": "Confusing Adjectives and Adverbs",
+  "section": "A",
+  "start_page": 259,
+  "end_page": 260,
+  "theory": "Fast (rs”k)                                         Hard                                    Hardly\n\n    Adjective             Adverb            Adjective (dfBu)             Adverb (esgur ls)          Adverb (eqf'dy ls)\n\n         Quiet                    Quite                              Free                               Freely\n\n      Adjective             Adverb (degree)                    Adjective/Adverb                    Adverb (Openly)\n       (Silent)             (dkiQh gn rd)                       (vktkn@eqÝr esa)                       (vk”kknh ls)\n\n               Most                                 Mostly                     Late (Delay)                 Lately\n\n     Superlative degree                 Mainly/Generally/For the               Adjective/                  Adverb\n    Maximum (lcls ”;knk)                  most part (”;knkrj)                 Adverb (nsj)         Recently (gky gh esa)\n\n    At Present                  Presently                             Loudly (Adverb)                        Aloud\n\n    Now (vHkh)           Very Soon (tYn gh)                              (rs”k vkokt esa)               (m¡Qph vkok”k esa)\n\n                                          Good                            Well\n\n                                        Adjective                        Adverb\n                                          (vPNk)                       (vPNs ls)",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "Yesterday some students came lately?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in the",
+        "b": "/ for",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "lately should be replaced with late of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "The lecture was delivered with clarity?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and",
+        "b": "/ making the",
+        "c": "/ for even novice"
+      },
+      "correct": "c",
+      "explanation": "quiet understandable should be replaced with quite",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Presently?",
+      "exam_source": "",
+      "options": {
+        "a": "/ we are working in",
+        "b": "/ a reputed",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "Presently should be replaced with At present/Currently of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "My brother performed?",
+      "exam_source": "(SSC CGL, 2024)",
+      "options": {
+        "a": "/ extremely good",
+        "b": "/ in",
+        "c": "/ held yesterday.",
+        "d": "\b Confusing Adjectives and Adverbs"
+      },
+      "correct": "b",
+      "explanation": "extremely good should be replaced with extremely well",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "During the exciting moment of the match?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the",
+        "b": "/ when their",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "aloudly should be replaced with aloud/loudly of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The teacher asked the student?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to read the",
+        "b": "/ so that everyone in the classroom",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "loud should be replaced with aloud of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "He is a fastly?",
+      "exam_source": "",
+      "options": {
+        "a": "/ growing leader",
+        "b": "/ in fh all",
+        "c": "/ No error",
+        "d": "d"
+      },
+      "correct": "a",
+      "explanation": "fastly should be replaced with fast of use will be, because fast",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "We can't lose?",
+      "exam_source": "",
+      "options": {
+        "a": "/ our hardly won",
+        "b": "/ for",
+        "c": "/ a precious gift.",
+        "d": "on"
+      },
+      "correct": "b",
+      "explanation": "hardly won freedom should be replaced with hard-won",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "The citizens of the country?",
+      "exam_source": "",
+      "options": {
+        "a": "/ should always",
+        "b": "/ which was achieved after decades of struggle",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "hardly earned freedom should be replaced with hard-",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "The citizens were allowed to express their opinions?",
+      "exam_source": "",
+      "options": {
+        "a": "/ during the public forum",
+        "b": "/ where they could",
+        "c": "/ on matters of"
+      },
+      "correct": "c",
+      "explanation": "speak free should be replaced with speak freely of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "The young musician plays the violin very good?",
+      "exam_source": "",
+      "options": {
+        "b": "/ in national",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "very good should be replaced with very well of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "She spoke?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "/ so fastly that",
+        "b": "/ I could barely",
+        "c": "/ what she was saying.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "fastly should be replaced with fast of use will be, because fast of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "He worked very hardly to pass the exam. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "sincerely",
+        "b": "regularly",
+        "c": "hard",
+        "d": "harder"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 14,
+      "question": "The participants were most from urban backgrounds, with only a few from rural areas.",
+      "exam_source": "",
+      "options": {
+        "a": "from most",
+        "b": "most of from",
+        "c": "mostly from",
+        "d": "No improvement"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 15,
+      "question": "The students were instructed to remain .......... during the examination. \b AIR FORCE Intake 01, 2027 (30/March/2026)",
+      "exam_source": "",
+      "options": {
+        "a": "quit",
+        "b": "quiet",
+        "c": "quilt",
+        "d": "quite"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

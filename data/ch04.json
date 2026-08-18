@@ -1,0 +1,279 @@
+{
+  "chapter_no": 4,
+  "title": "Subject-Verb Agreement with Additive Phrases",
+  "section": "A",
+  "start_page": 23,
+  "end_page": 24,
+  "theory": " If two nouns or pronouns are joined by the expressions given below, the verb follows\n     the first subject, not the added phrase.\n     ;fn nks nouns or pronouns dks uhps fn, x, 'kCnksa ls tksM+k tkrk gSa] rks okD; dh verb ges'kk igys\n\n     subject osQ vuqlkj vkrh gSA\n\n       as well as, along with, together with, besides, with, including, in addition to,\n          accompanied by, rather than, nothing but, like / unlike, except, no less than, more than,\n          and not, led by, headed by.\n                Structure\n                         as well as / along with/\n              Subject1 +                          --------- + Subject2 + Verb\n                         together with / ....",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The CEO along with his deputies?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ were",
+        "b": "/ with",
+        "c": "/ and regulators.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "Subject1 'The CEO' (Singular) therefore",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "The teacher who had conducted the workshop earlier,?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ along with his assistants",
+        "b": "/have",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "Subject1 'The teacher' (Singular) therefore",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The manager?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ together with his staff",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "Subject1 'The manager' (Singular) therefore",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The owner?",
+      "exam_source": "(UPSC NDA, 2018)",
+      "options": {
+        "a": "/as well as his servants",
+        "b": "/ is",
+        "c": "/ No error",
+        "d": "."
+      },
+      "correct": "d",
+      "explanation": "No error.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "The group of students,?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "/ along with the",
+        "b": "/ were discussing the new",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "Subject1 'The group' (Singular collective",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The members?",
+      "exam_source": "(SSC CHSL, 2019)",
+      "options": {
+        "a": "/of the victorious football",
+        "b": "/ as well as the captain",
+        "c": "/was",
+        "d": "\b"
+      },
+      "correct": "d",
+      "explanation": "Subject1 'The members' (Plural) gS and Verb",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "The manager including?",
+      "exam_source": "",
+      "options": {
+        "a": "/ his assistants",
+        "c": "/ No error",
+        "d": "rb Agreement with Additive Phrases"
+      },
+      "correct": "c",
+      "explanation": "Subject1 'The manager' (Singular) therefore",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "Nothing but the trees?",
+      "exam_source": "",
+      "options": {
+        "a": "/ were seen",
+        "b": "/ in the",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "'Nothing but' after Verb always Singular",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "The Principal,?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "/ along with the teachers",
+        "c": "/ the new syllabus.",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "Subject1 'The Principal' (Singular) therefore",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "The father?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ with his sons",
+        "b": "/ are arriving",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "Subject1 'The father' (Singular) therefore",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "The Principal accompanied by the senior teachers?",
+      "exam_source": "",
+      "options": {
+        "a": "/ are planning a detailed orientation",
+        "b": "/ for the newly admitted students.",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "Subject1 'The Principal' (Singular) therefore",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "The chairperson of the ethics committee,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ as",
+        "b": "/ during the confidential deliberations that",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "Subject1 'The chairperson' (Singular)",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "He as well as?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ his brothers",
+        "b": "/ were present.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "Subject1 'He' (Singular) therefore 'were' of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "The players unlike?",
+      "exam_source": "",
+      "options": {
+        "a": "/ their coach",
+        "b": "/ were",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "The mother as well as?",
+      "exam_source": "",
+      "options": {
+        "a": "/her children a ll",
+        "b": "/ to the police station p",
+        "c": "/ No error",
+        "d": "@f"
+      },
+      "correct": "b",
+      "explanation": "Subject1 'The mother' (Singular) therefore",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "The Principal no less?",
+      "exam_source": "",
+      "options": {
+        "a": "/ than the teacher",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "17. (b) 18. (d) 19. (a) 20. (c) tions",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "The committee, along with its chairperson, .............. scheduled to meet on Monday. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "are",
+        "b": "is",
+        "c": "were",
+        "d": "have been"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 18,
+      "question": "The actress, accompanied by her managers, ................... the red carpet. Answers 1. (b) 2. (c) 3. (c) 4. (d) 5. (c) 11. (b) 12. (b) 13. (c) 14. (d) 15. (b) Solut 1. (b) Subject1 'The CEO' (Singular) gS] blfy, 'were' osQ LFkku ij 'was' vk,xkA 2. (c) Subject1 'The teacher' (Singular) gS] blfy, 'have' osQ LFkku ij 'has' vk,xkA 3. (c) Subject1 'The manager' (Singular) gS] blfy, 'have' osQ LFkku ij 'has' vk,xkA 4. (d) No error. 5. (c) Subject1 'The group' (Singular collective noun) gS] blfy, 'were' osQ LFkku ij 'was' vk,xkA 6. (d) Subject1 'The members' (Plural) gS vkSj Verb 'was' osQ LFkku ij 'were' gksuk pkfg,A 7. (c) Subject1 'The manager' (Singular) gS] blfy, 'were' osQ LFkku ij 'was' vk,xkA 8. (b) 'Nothing but' osQ ckn Verb ges'kk Singular vkrh gS; blfy, 'were' osQ LFkku ij 'was' vk,xkA?",
+      "exam_source": "",
+      "options": {
+        "b": "2.",
+        "c": "3.",
+        "d": "5.",
+        "a": "are walking"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 19,
+      "question": "The principal along with the teachers ............... present in the meeting.",
+      "exam_source": "",
+      "options": {
+        "a": "was",
+        "b": "were",
+        "c": "have",
+        "d": "has"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 20,
+      "question": "You and not I ............... guilty of the crime.",
+      "exam_source": "",
+      "options": {
+        "a": "is",
+        "b": "am",
+        "c": "are",
+        "d": "have"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

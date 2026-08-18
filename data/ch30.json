@@ -1,0 +1,540 @@
+{
+  "chapter_no": 30,
+  "title": "Distributive Adjectives Vs Pronouns",
+  "section": "A",
+  "start_page": 87,
+  "end_page": 89,
+  "theory": "1    Each/ Every/ Either/ Neither/ Each and Every + Singular Noun + Singular Verb + ..... + Singular\n         Adjective + .....\n    2    Each of/ Either of/ Neither of/ Any of + Plural Noun + Singular Verb + .....+ Singular Adjective + .....\n\n     Either – One of the two. (nks esa ls dksbZ ,d)\n     Neither – Not one nor the other. (nks esa ls dksbZ Hkh ugha)\n     Each – One by one (Individual focus) (nks ;k nks ls ”;knk esas ls gj ,d). It can be used for two or\n      more than two.\n     Every – All members as a group (Collective sense). (lHkh) It is used for more than two only. It is\n      only a determiner; therefore, we cannot use ‘of ’ after every.\n     Each and every – Strong emphasis on every individual member. (gj ,d & ^tksj nsdj*). It is used\n      for more than two only.\n     Any – It means one out of more than two. (nks ls T;knk esa ls dksbZ ,d)\n     None – Not any of more than two. (nks ls T;knk esa ls dksbZ Hkh ugha)",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "Neither of the two boys?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "/ have completed",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "'have' should be replaced with 'has' will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "Each participant who registered online for the event?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ were given a welcome kit",
+        "b": "/ along",
+        "c": "/ at the",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "'were' should be replaced with 'was' will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "He is a university professor?",
+      "exam_source": "(SSC CGL, 2016)",
+      "options": {
+        "a": "/ but of his three",
+        "b": "/ neither has any merit.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "'neither' should be replaced with 'none' will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "Neither of the proposed strategies?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ seem to",
+        "b": "/ that the committee",
+        "c": "/ during last month's review.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "'seem' should be replaced with 'seems' will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Each players must play?",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "/ according to his",
+        "b": "/ potential and not think",
+        "c": "/ only about",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "'players' should be replaced with 'player' will",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "Neither of the?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ two brothers",
+        "b": "/ are",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "'are' should be replaced with 'is' will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "Each of the committee members?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ were",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "'were' should be replaced with 'was' will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "Neither of the two proposals?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "/ were approved",
+        "b": "/ the committee found",
+        "c": "/ both of",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "'were' should be replaced with 'was' will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "Not any of the documents submitted?",
+      "exam_source": "",
+      "options": {
+        "b": "/ by the Verification",
+        "c": "/ during the recruitment process.",
+        "d": "ibutive Adjectives Vs Pronouns"
+      },
+      "correct": "b",
+      "explanation": "'were' should be replaced with 'was' will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "Every of the participants?",
+      "exam_source": "",
+      "options": {
+        "a": "/ was asked to submit",
+        "b": "/ his feedback forms",
+        "c": "after the seminar"
+      },
+      "correct": "a",
+      "explanation": "'Every' should be replaced with 'Each' will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "Every women in the city?",
+      "exam_source": "",
+      "options": {
+        "a": "keeps complete",
+        "b": "/ about the history of ancient",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "'women' should be replaced with 'woman' will",
+      "format": "regular"
+    },
+    {
+      "qno": 12,
+      "question": "Neither of the many?",
+      "exam_source": "",
+      "options": {
+        "a": "/ strategies discussed",
+        "b": "/ the marathon meeting",
+        "c": "/ was"
+      },
+      "correct": "a",
+      "explanation": "'Neither' should be replaced with 'None' from",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "The essay is divided?",
+      "exam_source": "(SSC MTS, 2019)",
+      "options": {
+        "a": "/ into five paragraphs and",
+        "b": "/ every of these",
+        "c": "/ has seven sentences.",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "'every' should be replaced with 'each' because Every",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "Vini bought two new?",
+      "exam_source": "(SSC CPO, 2019)",
+      "options": {
+        "a": "/ dresses but either is",
+        "b": "/ suitable for the festival.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "'either' should be replaced with 'neither' because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "The draft policy outlines?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ that each employee",
+        "b": "/ the code of conduct",
+        "d": "\b"
+      },
+      "correct": "d",
+      "explanation": "'their' should be replaced with 'his' because singular",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "Neither of the three candidates, despite having impressive qualifications?",
+      "exam_source": "",
+      "options": {
+        "a": "/ has demonstrated",
+        "b": "and clarity expected",
+        "c": "No error"
+      },
+      "correct": "a",
+      "explanation": "'Neither' should be replaced with 'None' because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "Each of the students?",
+      "exam_source": "",
+      "options": {
+        "a": "/ who have participated",
+        "b": "/ in the national qualifiers",
+        "c": "/ have been"
+      },
+      "correct": "d",
+      "explanation": "'have been' should be replaced with 'has been'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 18,
+      "question": "Every people?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in the world",
+        "b": "/ deserves",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "'Every people' should be replaced with 'Every person'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 19,
+      "question": "Each of the students in the computer class?",
+      "exam_source": "",
+      "options": {
+        "a": "ll",
+        "b": "/ their own research paper d this",
+        "c": "/ No error",
+        "d": "e ep"
+      },
+      "correct": "c",
+      "explanation": "'their' should be replaced with 'his' because singular",
+      "format": "regular"
+    },
+    {
+      "qno": 20,
+      "question": "Neither of the two children?",
+      "exam_source": "",
+      "options": {
+        "a": "/ said",
+        "b": "/ before going to bed.",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "'their' should be replaced with 'his' because singular",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 21,
+      "question": "Each of these boys?",
+      "exam_source": "",
+      "options": {
+        "a": "/ play",
+        "b": "/ in the",
+        "c": "/ No e ar",
+        "d": "error"
+      },
+      "correct": "b",
+      "explanation": "'play' should be replaced with 'plays' because subject",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 22,
+      "question": "Each student must bring?",
+      "exam_source": "",
+      "options": {
+        "a": "/ them notebook for",
+        "b": "/ the practical examination tomorrow.",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "'them' should be replaced with 'his' because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 23,
+      "question": "Each of the students?",
+      "exam_source": "",
+      "options": {
+        "a": "/ have completed",
+        "b": "/ the",
+        "c": "/ already."
+      },
+      "correct": "b",
+      "explanation": "'have' should be replaced with 'has' because subject",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 24,
+      "question": "Each new word?",
+      "exam_source": "(UPSC CDS, 2024)",
+      "options": {
+        "a": "/in this book",
+        "b": "/have a",
+        "c": "/No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "'have' should be replaced with 'has' because main",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 25,
+      "question": "Each of?",
+      "exam_source": "(UPSC CDS, 2023)",
+      "options": {
+        "a": "/ these substances",
+        "b": "/are found in",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "'are found' should be replaced with 'is found'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 26,
+      "question": "There are three sandwiches?",
+      "exam_source": "",
+      "options": {
+        "a": "/ on the plate;",
+        "c": "/ either of them."
+      },
+      "correct": "d",
+      "explanation": "'either of them' should be replaced with 'any of them'",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 27,
+      "question": "Which sentence is grammatically correct?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "Each of the players are given a trophy.",
+        "b": "Every boy and girl have their task.",
+        "c": "Either of the answers is acceptable.",
+        "d": "Neither she nor her friends is ready."
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 28,
+      "question": "Identify the incorrect sentence.",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "Mitali's hair is long and black.",
+        "b": "Either of the alternatives seem to present",
+        "c": "One of the cars in the garage is fifty years",
+        "d": "Sharon has six brothers."
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 29,
+      "question": "Each of the candidates have submitted their documents for verification.\b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "had submitted their document",
+        "b": "No substitution required",
+        "c": "has submitted their documents",
+        "d": "is submitted their documents"
+      },
+      "correct": "",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 30,
+      "question": "Neither of the options are suitable for this task. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "is suitable to the task",
+        "b": "is suitable for this task",
+        "c": "were suitable in this task",
+        "d": "is suitable at this task"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 31,
+      "question": "Each of the representatives from the various states have presented their reports on healthcare reforms.\b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "have presented their report",
+        "b": "were presented their reports",
+        "c": "has presented his reports",
+        "d": "has presented their reports"
+      },
+      "correct": "c",
+      "explanation": "32. (c) 33. (b) 34. (b) 35. (d) 32. Each of the girls narrated their story . \b (SSC CHSL, 2025) (a) Each of the girls narrated there story. (b) Each of the girls narrated his story. (c) Each of the girls narrated her story. (d) Each of the girls narrated their stories. 33. Each and every one of the boys took their seat in the bus.\b (SSC CHSL, 2025) (a) Each and every one of the boys took there seat (b) Each and every one of the boys took his seat (c) Each of the boy took his seat (d) Each of the boys took their seat 34. .......... each of the data sets been anonymized before release?\b (SSC CGL, 2025) (a) Have (b) Has (c) Are (d) Were 35. I called the office two or three times, but .......... time no one responded.\b (UPSC CDS, 2026) (a) all (b) some (c) any (d) each 36. I don't want .......... more vegetables. \b (UPSC CDS, 2026) (a) one (b) much (c) many (d) any 37. Each of these paintings .......... made by a famous painter.\b (UPSC CDS, 2024) (a) are (b) is (c) be (d) should 38. Of the several candidates who applied for the senior management role, .......... was found to possess the unique blend of leadership and technical expertise required. (a) Neither (b) Either (c) None (d) Each 39. Not .......... metal is necessarily solid in its natural state. \b (UPSC CDS, 2025) (a) each (b) every (c) all (d) any 40. Each of the scholars .......... \b (UPSC CDS, 2023) (a) have done well (b) has done well (c) shall done well (d) will done well hall",
+      "format": "regular"
+    },
+    {
+      "qno": 32,
+      "question": "Each of the girls narrated their story . \b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "Each of the girls narrated there story.",
+        "b": "Each of the girls narrated his story.",
+        "c": "Each of the girls narrated her story.",
+        "d": "Each of the girls narrated their stories."
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 33,
+      "question": "Each and every one of the boys took their seat in the bus.\b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "Each and every one of the boys took there",
+        "b": "Each and every one of the boys took his seat",
+        "c": "Each of the boy took his seat",
+        "d": "Each of the boys took their seat"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 35,
+      "question": "I called the office two or three times, but .......... time no one responded.\b?",
+      "exam_source": "(UPSC CDS, 2026)",
+      "options": {
+        "a": "all",
+        "b": "some",
+        "c": "any",
+        "d": "each"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 36,
+      "question": "I don't want .......... more vegetables. \b?",
+      "exam_source": "(UPSC CDS, 2026)",
+      "options": {
+        "a": "one",
+        "b": "much",
+        "c": "many",
+        "d": "any"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 37,
+      "question": "Each of these paintings .......... made by a famous painter.\b?",
+      "exam_source": "(UPSC CDS, 2024)",
+      "options": {
+        "a": "are",
+        "b": "is",
+        "c": "be",
+        "d": "should"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 38,
+      "question": "Of the several candidates who applied for the senior management role, .......... was found to possess the unique blend of leadership and technical expertise required.",
+      "exam_source": "",
+      "options": {
+        "a": "Neither",
+        "b": "Either",
+        "c": "None",
+        "d": "Each"
+      },
+      "correct": "c",
+      "explanation": "rc 39. (b) 40. (b) Solut",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 39,
+      "question": "Not .......... metal is necessarily solid in its natural state. \b?",
+      "exam_source": "(UPSC CDS, 2025)",
+      "options": {
+        "a": "each",
+        "b": "every",
+        "c": "all",
+        "d": "any"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 40,
+      "question": "Each of the scholars .......... \b?",
+      "exam_source": "(UPSC CDS, 2023)",
+      "options": {
+        "a": "have done well",
+        "b": "has done well",
+        "c": "shall done well",
+        "d": "will done well"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

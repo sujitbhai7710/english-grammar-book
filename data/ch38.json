@@ -1,0 +1,204 @@
+{
+  "chapter_no": 38,
+  "title": "As/Since/Because Vs So/Therefore",
+  "section": "A",
+  "start_page": 108,
+  "end_page": 109,
+  "theory": "1    Showing Reason                                         2     Showing Result\n\n                             Reason    Result                     Reason                       Result\n As | Since | Because +              +                                     + So | Therefore +\n                             Clause 1 Clause 2                    Clause 1                    Clause 2\n\n Conjunctions of Reason                                                          Result Connectors\n\n       As / Since / Because – These are used to show the reason or cause of an action.\n   \t\tbudk ç;ksx fdlh dk;Z dk dkj.k ;k otg crkus ds fy, fd;k tkrk gSA\n    So / Therefore – These are used to show the result or consequence of an action.\n    budk ç;ksx fdlh dk;Z ds ifj.kke ;k urhts dks crkus ds fy, fd;k tkrk gSA\n\n               Because (Conjunction)                                   Because of (Preposition)\n       Used to join two clauses.                         Used before a Noun/Pronoun/Noun Phrase.\n       Followed by a clause (Sub + verb)                 Not followed by a complete clause.\n   Structure:                                       Structure:\n   \t\t    Because + Subject + Verb (Clause)          \t\t    Because of + Noun/Pronoun/Noun Phrase\n   Example:                                         Example:\n    She is happy because she passed\n   \t\t                                                She missed the bus because of heavy traffic.\n\n          the exam.",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "So he was not aware of the rules?",
+      "exam_source": "",
+      "options": {
+        "a": "/ he",
+        "b": "/ while filling the",
+        "c": "/ for the examination."
+      },
+      "correct": "a",
+      "explanation": "So should be replaced with since/as of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "The roads were blocked due to heavy rain?",
+      "exam_source": "",
+      "options": {
+        "b": "/ during the entire day",
+        "c": "/ in the city."
+      },
+      "correct": "b",
+      "explanation": "Since should be replaced with so of use will be, because before",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The match was postponed by the authorities?",
+      "exam_source": "",
+      "options": {
+        "a": "/ due to unfavourable weather conditions",
+        "b": "/ because of heavy rainfall had flooded the",
+        "c": "/ since early morning."
+      },
+      "correct": "c",
+      "explanation": "Because of should be replaced with because of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "Because the server was down?",
+      "exam_source": "",
+      "options": {
+        "a": "/ so the users",
+        "b": "/ the website for several",
+        "c": "/ during the peak time."
+      },
+      "correct": "b",
+      "explanation": "Because with so of use not is, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "The company suffered heavy losses?",
+      "exam_source": "",
+      "options": {
+        "a": "/ on",
+        "b": "/ because poor",
+        "c": "/ and weak internal"
+      },
+      "correct": "c",
+      "explanation": "Because should be replaced with because of of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The project was abandoned midway?",
+      "exam_source": "",
+      "options": {
+        "b": "/ that remained unresolved",
+        "c": "/ despite"
+      },
+      "correct": "b",
+      "explanation": "Because of should be replaced with because of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "He was persuaded?",
+      "exam_source": "",
+      "options": {
+        "a": "/ by his friends",
+        "b": "/ to",
+        "c": "/ because of his condition had",
+        "d": "As/Since/Because Vs So/Therefore"
+      },
+      "correct": "d",
+      "explanation": "Because of should be replaced with because of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The event was postponed?",
+      "exam_source": "",
+      "options": {
+        "a": "/ as the organizers",
+        "b": "/ so it was rescheduled"
+      },
+      "correct": "c",
+      "explanation": "So should be replaced with and of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "As the employees were not satisfied?",
+      "exam_source": "",
+      "options": {
+        "a": "/ so",
+        "b": "/ against the new",
+        "c": "/ introduced by the management."
+      },
+      "correct": "b",
+      "explanation": "So go,xk, because conjunction of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "Although the roads were blocked due to heavy rainfall?",
+      "exam_source": "",
+      "options": {
+        "a": "/and continuous landslides",
+        "b": "/ tourists had to"
+      },
+      "correct": "a",
+      "explanation": "Although should be replaced with as/since of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "As he is honest?",
+      "exam_source": "",
+      "options": {
+        "a": "/ so he is",
+        "b": "/ liked by all.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "So go,xk, because as with so of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "During the discussion, the finance?",
+      "exam_source": "",
+      "options": {
+        "a": "/ minister",
+        "b": "/ because their",
+        "c": "/ in rural areas"
+      },
+      "correct": "c",
+      "explanation": "Because should be replaced with because of of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "She didn't have the required qualifications, and she was not selected for the role.fr \b PHASE?",
+      "exam_source": "(SSC T\n\n                                               G XIII, 2025)",
+      "options": {
+        "a": "therefore",
+        "c": "however r ch",
+        "d": "thus"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 14,
+      "question": "Since the people who gave me a ride decided to leave the concert early, so I had to take a bus home. \b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "so I had to get a bus home",
+        "b": "and I had to take a bus home",
+        "c": "but I had to take a bus home",
+        "d": "I had to take a bus home"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 15,
+      "question": "As Gagan wanted to be selected in the team, so he worked very hard. \b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "so he work very hard",
+        "b": "he worked very hard",
+        "c": "and he worked very hard",
+        "d": "because he worked very hard"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    }
+  ]
+}

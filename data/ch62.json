@@ -1,0 +1,397 @@
+{
+  "chapter_no": 62,
+  "title": "Fixed Preposition 'With'",
+  "section": "A",
+  "start_page": 165,
+  "end_page": 168,
+  "theory": " There are some words and phrases that take preposition \"With\" after them. Such words\n     and phrases are:\n\n Word + Preposition                English Meaning                       Hindi Meaning\n1     Deal with          To manage or take care of             laHkkyuk@fuiVuk\n2     Agree with         To have the same opinion as           lger gksuk\n      Angry with         Feeling or      showing     anger     fdlh ls ukjkt gksuk\n\n                         towards\n4     Satisfied with     Contented with                        larq\"V gksuk\n5     Popular with       Liked or admired by many              yksdfiz; gksuk\n      Sympathise with    To feel sorry        for;      have   lgkuqHkwfr j[kuk\n\n                         compassion\n7     Comply with        To obey or follow                     ikyu djuk\n8     Trifle with        To treat something as unimportant     gYosQ esa ysuk\n9     Tamper with        To interfere with; meddle in          n[ky nsuk\n10    Cope with          To deal successfully with             laHkkyuk@lkeuk djuk\n11    Part with          To separate from                      ls vyx gksuk\n      Overwhelmed        To be deeply affected by              Hkkoukvksa ls vfHkHkwr gksuk\n\n      with\n13    Plead with         To earnestly request or beg           fourh djuk\n14    Infected with      Affected by disease or virus          laØfer gksuk\n15    Afflicted with     To suffer from a problem/disease      ihfM+r gksuk\n      Beset with         Troubled or surrounded          by    leL;kvksa ls f?kjk gksuk\n\n                         many problems\n17    Infested with      Filled with                           ls Hkjk gksuk\n18    Teeming with       Full of                               ls Hkjk gksuk\n      Entrust Someone Give responsibility                      fdlh dks ftEesnkjh lkSaiuk\n\n      with Something\n20    Endowed with       Gifted with                           ls lEiUu gksuk\n      Provide Someone To give                                  fdlh dks oqQN iznku djuk                        ll\n\n      with Something                                                                                    df\n\n22    Charge with        Accuse                                vkjksi yxkuk                      re\n\n      Furnished with     Provided with                                                    G-\n23                                                             ls lqlfTtr gksuk on T\n\n     Equipped with     Provided        with     necessary   midj.kksa ls ySl gksuk\n\n                       equipment\n     Commensurate      Proportional to                      osQ vuqikr esa\n\n     with\n26   Filled with       Full of                              ls Hkjk gksuk\n27   Replace with      To substitute with                   ls cnyuk\n28   Covered with      Having a covering of                 ls <dk gksuk\n29   Dispense with     To get rid of                        ls NqVdkjk ikuk\n30   Do away with      To get rid of completely             dk var djuk\n31   Busy with         Engaged in                           esa O;Lr gksuk\n32   Replete with      Completely filled with               ls iwjh rjg Hkjk gqvk\n33   Fill with         To put or make full                  ls Hkjuk\n34   Grapple with      To struggle with                     ls la?k\"kZ djuk\n35   Ill with          Suffering from illness               ls chekj\n36   Disgusted with    Feeling strong dislike for           ls ?k`.kk djuk\n37   Annoyed with      Slightly angry with someone          fdlh ls fp<+k gqvk\n38   Content with      Happy with one's situation           ls larq\"V gksuk\n39   Drenched with     Soaked or wet with                   ls iwjh rjg Hkhxk gqvk\n40   Fed up with       Tired of; annoyed with               ls rax vkuk\n41   Fraught with      Filled with                          ls Hkjk gqvk\n42   Consistent with   In agreement with                    osQ vuq:i@lqlaxr\n43   Supply with       To provide with                      dks iznku djuk\n44   Acquainted with   Familiar with                        ls ifjfpr gksuk\n45   Gifted with       Endowed with                         ls laiu gksuk\n46   Associated with   Connected or linked with             ls tqM+k gqvk\n47   Cluttered with    Filled or covered with clutter       ls vO;ofLFkr\n48   Compatible with   Able to exist or work well with      osQ lkFk vuqowQy                                ll\n\n                                                                                        -  @f",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The Golden Temple was?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "/ crowded by millions",
+        "b": "/ of devotees from all",
+        "c": "/ around the world on"
+      },
+      "correct": "b",
+      "explanation": "Crowded by millions should be replaced with crowded",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "There is an irreparable?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "/ problem of the",
+        "b": "/ system of the car, which has",
+        "c": "/ to"
+      },
+      "correct": "b",
+      "explanation": "problem of the ignition system of place",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The researchers found that?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the sudden",
+        "c": "/ No"
+      },
+      "correct": "c",
+      "explanation": "associated to should be replaced with associated with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The recruiters?",
+      "exam_source": "(SSC CGL, 2020)",
+      "options": {
+        "a": "/ were pleased",
+        "b": "/ to John’s"
+      },
+      "correct": "c",
+      "explanation": "pleased to Johns should be replaced with pleased with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Won’t you?",
+      "exam_source": "(SSC CGL, 2020)",
+      "options": {
+        "a": "/ please come",
+        "b": "/ to help me",
+        "d": "\b"
+      },
+      "correct": "d",
+      "explanation": "along this heavy box should be replaced with with this",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The organization?",
+      "exam_source": "",
+      "options": {
+        "a": "/ was provided by sufficient",
+        "b": "/ to carry out the research project",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "provided by sufficient funds should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "He has been?",
+      "exam_source": "(SSC MTS, 2021)",
+      "options": {
+        "a": "/ presented off",
+        "b": "/honorary",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "presented off should be replaced with presented with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "I cannot?",
+      "exam_source": "(UPSC NDA, 2020)",
+      "options": {
+        "a": "/ cope up",
+        "b": "/ with this pressure.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "cope up with should be replaced with cope with of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "We must sympathize?",
+      "exam_source": "(UPSC NDA, 2016)",
+      "options": {
+        "a": "/ for others",
+        "b": "/ in their",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "sympathize for others should be replaced with sympathize",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "The government?",
+      "exam_source": "(SSC CGL, 2014)",
+      "options": {
+        "a": "/ representative furnished",
+        "b": "/ reporters all details.",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "furnished the reporters all details of place",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "The old warehouse at?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the edge of the city",
+        "c": "/ because it is"
+      },
+      "correct": "d",
+      "explanation": "infested by dangerous pests should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "The organization decided to dispense?",
+      "exam_source": "",
+      "options": {
+        "a": "/ of the",
+        "b": "/ to improve efficiency",
+        "c": "/ in the system."
+      },
+      "correct": "b",
+      "explanation": "dispense of should be replaced with dispense with of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "The villagers living near the polluted river?",
+      "exam_source": "",
+      "options": {
+        "b": "/ due to the continuous discharge of",
+        "c": "/ into the water over the years."
+      },
+      "correct": "b",
+      "explanation": "afflicted from should be replaced with afflicted with of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "The company decided to replace?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the outdated",
+        "b": "/ to improve",
+        "c": "/ in production."
+      },
+      "correct": "b",
+      "explanation": "replace the outdated machines by of place",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "The country?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is beset of numerous economic",
+        "b": "/ that need immediate attention"
+      },
+      "correct": "b",
+      "explanation": "beset of should be replaced with beset with of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "The review panel concluded that the policy was replete in inconsistencies and therefore required immediate revision.\b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "replete by inconsistencies",
+        "b": "replete with inconsistencies",
+        "c": "replete of inconsistencies",
+        "d": "No improvement required"
+      },
+      "correct": "b",
+      "explanation": "17. (a) 18. (d) 19. (c) 20. (a)",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 17,
+      "question": "The witness was unable to provide a statement consistent to the facts presented earlier in the court.",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "consistent with the facts presented earlier",
+        "b": "consistent on the facts presented earlier",
+        "c": "consistent of the facts present earlier",
+        "d": "No improvement required"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 18,
+      "question": "I am not familiar with the system you're talking about.\b?",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "familiar in",
+        "b": "familiar by",
+        "c": "familiar to",
+        "d": "No substitution"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 19,
+      "question": "The wall is decorated by posters.",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "full of posters",
+        "b": "painted in posters",
+        "c": "decorated with posters",
+        "d": "covered in posters"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 20,
+      "question": "The truck was loaded on crates of fresh product for the market.\b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "loaded with",
+        "b": "loaded by",
+        "c": "loaded in",
+        "d": "No substitution"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 21,
+      "question": "The principal stated that the proposed plan was in accordance to the guidelines issued by the education department.",
+      "exam_source": "",
+      "options": {
+        "a": "in accordance with the guidelines",
+        "b": "in accordance for the guidelines",
+        "c": "in accordance on the guidelines",
+        "d": "No improvement required"
+      },
+      "correct": "a",
+      "explanation": "22. (a) 23. (b) 24. (b) 25. (b) Solut",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 22,
+      "question": "The manager was satisfied .......... the team's performance this quarter.\b?",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "with",
+        "b": "by",
+        "c": "in",
+        "d": "about"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 23,
+      "question": "The manager was frustrated .............. the team for missing the deadline despite repeated warnings. \b?",
+      "exam_source": "(IB ACIO, 2025)",
+      "options": {
+        "a": "in",
+        "b": "with",
+        "c": "for",
+        "d": "of hall"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 24,
+      "question": "He was entrusted .............. confidential documents.\b r 2025) (SSCfCPO,?",
+      "exam_source": "",
+      "options": {
+        "a": "for",
+        "b": "G -@",
+        "c": "to"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 25,
+      "question": "The manager was satisfied .............. the work.",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "for",
+        "b": "with",
+        "c": "to",
+        "d": "by"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 26,
+      "question": "You must cope .............. difficulties.",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "for",
+        "b": "in",
+        "c": "by",
+        "d": "with"
+      },
+      "correct": "d",
+      "explanation": "27. (a) 28. (a) 29. (b) tions",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 27,
+      "question": "The teacher was furious .............. the students for their indiscipline.\b?",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "with",
+        "b": "on",
+        "c": "for",
+        "d": "of"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 28,
+      "question": "The manager is dissatisfied .............. the team's performance this quarter.",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "with",
+        "b": "of",
+        "c": "at",
+        "d": "on"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 29,
+      "question": "The company provides employees .............. health insurance.",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "for",
+        "b": "with",
+        "c": "of",
+        "d": "to"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

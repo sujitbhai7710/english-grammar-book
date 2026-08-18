@@ -1,0 +1,204 @@
+{
+  "chapter_no": 127,
+  "title": "Degree Modifiers and Multiplicative Comparison",
+  "section": "A",
+  "start_page": 327,
+  "end_page": 328,
+  "theory": "Degree Modifiers and\n       Degree Modifiers\n    Relatively vkSj Comparatively tSls degree modifiers osQ lkFk comparative degree dk iz;ksx\n        ugha fd;k tkrk] D;ksafd ;s 'kCn [kqn gh comparison n'kkZrs gSaA blfy, buosQ ckn adjective ges'kk\n        positive degree esa vkrh gSA\n\n       Multiplicative Comparison\n    Half, twice, thrice, four times tSls multiplicative comparison okys 'kCnksa osQ lkFk comparative\n        degree dk iz;ksx ugha fd;k tkrkA buosQ lkFk adjective dk positive degree (as + positive degree\n        + as) :i gh bLrseky fd;k tkrk gSA",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "My house is?",
+      "exam_source": "",
+      "options": {
+        "a": "/ twice bigger than",
+        "b": "/ hers.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "twice bigger than should be replaced with twice as big",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "The new model of the car is relatively better than the previous version?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in terms of fuel",
+        "b": "/ as claimed by",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "relatively better should be replaced with relatively good of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "During peak traffic hours in the city?",
+      "exam_source": "",
+      "options": {
+        "a": "/ it",
+        "b": "/ this road is twice longer than the",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "twice longer than should be replaced with twice as long",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The speed of this processor is three times faster than that of its predecessor,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ which",
+        "b": "/ a few years ago",
+        "c": "/ in the"
+      },
+      "correct": "a",
+      "explanation": "three times faster than should be replaced with three times",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "He is twice taller than his brother?",
+      "exam_source": "",
+      "options": {
+        "a": "/ who",
+        "b": "/ in our city."
+      },
+      "correct": "a",
+      "explanation": "twice taller than should be replaced with twice as tall as of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "This box is three times heavier than that one?",
+      "exam_source": "",
+      "options": {
+        "a": "/ kept in the storage room",
+        "b": "/ of the",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "three times heavier than should be replaced with three",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "The quality of this product?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is comparatively",
+        "b": "/ than all other brands",
+        "c": "/ available",
+        "d": "Answers"
+      },
+      "correct": "b",
+      "explanation": "comparatively better should be replaced with comparatively",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "This building?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is three times taller than",
+        "c": "/ in this area."
+      },
+      "correct": "b",
+      "explanation": "three times taller should be replaced with three times as",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "The new system?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is comparatively more",
+        "b": "/ than the previous one",
+        "c": "/ in all aspects."
+      },
+      "correct": "b",
+      "explanation": "comparatively more reliable should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "This road is twice as wider?",
+      "exam_source": "",
+      "options": {
+        "a": "/ as the one near",
+        "b": "/ and more convenient for daily",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "twice as wider should be replaced with twice as wide of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "The population of this city is three times?",
+      "exam_source": "",
+      "options": {
+        "b": "/ which",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "higher than should be replaced with as high as of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "This building is five times?",
+      "exam_source": "",
+      "options": {
+        "a": "/ taller than any",
+        "b": "/ making it a",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "taller than should be replaced with as tall as of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "This method is relatively easy?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and three",
+        "b": "/ the traditional",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "three times more reliable should be replaced with three",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "This phone is twice as costly than?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the basic",
+        "b": "/ in the same price",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "twice as costly than should be replaced with twice as",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "This method is relatively more effective?",
+      "exam_source": "",
+      "options": {
+        "b": "/ under strict time limits.",
+        "c": "/ No error",
+        "d": "6.",
+        "a": "7."
+      },
+      "correct": "a",
+      "explanation": "relatively more effective should be replaced with relatively",
+      "format": "error_spotting"
+    }
+  ]
+}

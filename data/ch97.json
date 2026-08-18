@@ -1,0 +1,253 @@
+{
+  "chapter_no": 97,
+  "title": "Fixed Preposition 'At'",
+  "section": "A",
+  "start_page": 254,
+  "end_page": 256,
+  "theory": " There are some words and phrases that take preposition \"At\" after them. Such words\n     and phrases are:\n\n     Word + Preposition          English Meaning                      Hindi Meaning\n 1     Bad at             Not good in skill             detksj gksuk\n 2     Good at            Skilled in                    vPNk gksuk\n 3     Angry at           Actions and situations        xqLlk gksuk\n 4     Annoyed at         Slightly angry                fp<+uk\n 5     Vexed at           Irritated                     ijs'kku gksuk\n 6     Astonished at      Very surprised                vk'p;Zpfdr gksuk\n 7     Surprised at       Feeling shocked               gSjku gksuk\n 8     Amazed at          Greatly surprised             vpafHkr gksuk\n 9     Shocked at         Deeply surprised              LrC/ gksuk\n10     Clever at          Skilled/smart in              oqQ'ky gksuk\n11     Slow at            Learning/work                 /hek gksuk\n12     Present at         Physically existing           mifLFkr gksuk\n13     Arrive at          Reach a place                 igq¡puk\n14     Laugh at           Make fun of                   etkd mM+kuk\n15     Stare at           Look continuously             ?kwjuk\n16     Glance at          Look quickly                  >yd ns[kuk\n17     Aim at             Intend for                    y{; cukuk\n18     Indignant at       Angry due to injustice        Øksf/r gksuk\n19     Delighted at       Very happy                    izlUu gksuk\n20     Pleased at         Happy/satisfied               larq\"V gksuk\n21     Alarmed at         Suddenly worried              fpafrr gksuk\n22     Startled at        Suddenly surprised            pkSaduk\n23     Rejoice at         Feeling great happiness       [kq'k gksuk\n24     Marvel at          Wonder at                     vk'p;Z djuk\n25     Sneer at           Mock                          frjLdkj djuk                                 ll\n\n26     Scoff at           Mock rudely                   etkd mM+kuk                      ep\n\n       Jeer at            Insult/mock                                            -  @f\n27                                                      rkuk ekjuk              G\n\n28     Bark at            Shout angrily                 HkkSaduk@fpYykukrch o\n\n    29     Hint at                  Suggest indirectly                    laosQr djuk\n    30     Guess at                 Estimate                              vuqeku yxkuk\n    31     Yell at                  Shout loudly                          fpYykuk\n    32     Shout at                 Speak loudly angrily                  tksj ls cksyuk\n    33     Shudder at               Tremble suddenly                      dk¡iuk\n    34     Wink at                  Close one eye briefly                 vk¡[k ekjuk\n    35     Knock at                 Hit a door                            [kV[kVkuk\n    36     Alight at                Get down from (a vehicle)             okgu ls mrjuk\n    37     Get at                   Discover truth                        lPpkbZ tkuuk\n    38     Grieve at                Feel sorrow                           'kksd djuk\n    39     Amuse at                 Find funny                            euksjatu gksuk\n    40     Blush at                 Become red (shy)                      yfTtr gksuk\n    41     Disgust at               Feel revulsion                        ?k`.kk gksuk\n    42     Enrage at                Make very angry                       Øksf/r djuk\n    43     Exult at                 Rejoice greatly                       cgqr [kq'k gksuk\n    44     Irritated at             Slightly angry                        fp<+ tkuk\n    45     Incensed at              Extremely angry                       vR;f/d Øksf/r gksuk\n    46     Live at                  Reside at particular place            jguk\n    47     Quick at                 Fast in doing something               rst gksuk\n    48     Grumble at               Complain in a low voice               cM+cM+kuk@ f'kdk;r djuk\n    49     Peer at                  Look closely with difficulty          è;ku ls ns[kuk\n    50     Connived at              Secretly      allow   something       xyr dke esa feyhHkxr djuk\n                                    wrong",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "You should?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ not laugh",
+        "b": "/ on others.",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "laugh on should be replaced with laugh at of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "Johnsy was so angry?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "/ with the stranger that",
+        "b": "/ threw her sandals",
+        "c": "/ to him hurting"
+      },
+      "correct": "d",
+      "explanation": "to him should be replaced with at him of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "She is?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ better in",
+        "b": "/ mathematics than",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "better in should be replaced with better at of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "She arrived?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ to the office",
+        "b": "/ early this",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "arrived to should be replaced with arrived at of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "He took a hurried?",
+      "exam_source": "(SSC CPO, 2022)",
+      "options": {
+        "a": "/ glance on the newspaper",
+        "b": "/ and swiftly left for work.",
+        "c": "/ No error",
+        "d": "ly laosQr djuk"
+      },
+      "correct": "b",
+      "explanation": "glance on should be replaced with glance at of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "Deepika walked?",
+      "exam_source": "(SSC CGL, 2019)",
+      "options": {
+        "a": "/ down the road slowly",
+        "b": "/ without looking anybody.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "looking anybody should be replaced with looking at",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "Everybody was?",
+      "exam_source": "(SSC CGL, 2014)",
+      "options": {
+        "a": "/ alarmed with the",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "alarmed with should be replaced with alarmed at of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The passengers quickly got down?",
+      "exam_source": "",
+      "options": {
+        "a": "/ from all",
+        "b": "/ and alighted in thednext fh",
+        "c": "/ without any delay.",
+        "d": "f r ee"
+      },
+      "correct": "c",
+      "explanation": "alighted in should be replaced with alighted at of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "The journalist worked hard?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to@uncover the",
+        "b": "/ and finally got",
+        "c": "/ after years",
+        "d": "r ch"
+      },
+      "correct": "c",
+      "explanation": "got into the truth should be replaced with got at the truth",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "The king was deeply grieved?",
+      "exam_source": "",
+      "options": {
+        "a": "/ on the tragic",
+        "b": "/ and continued",
+        "c": "/ for several days after"
+      },
+      "correct": "b",
+      "explanation": "grieved on should be replaced with grieved at of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "He was extremely annoyed?",
+      "exam_source": "",
+      "options": {
+        "a": "/ over the",
+        "b": "/ and snapped at his",
+        "c": "/ during the meeting."
+      },
+      "correct": "b",
+      "explanation": "annoyed over should be replaced with annoyed at of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "The officer was shocked?",
+      "exam_source": "",
+      "options": {
+        "a": "/ about the sudden",
+        "b": "/ and could not help but stare",
+        "c": "/ in disbelief."
+      },
+      "correct": "b",
+      "explanation": "shocked about should be replaced with shocked at of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "The young cadet felt a sudden chill?",
+      "exam_source": "",
+      "options": {
+        "a": "/ as",
+        "c": "/ in the Indian Armed Forces."
+      },
+      "correct": "c",
+      "explanation": "shuddered by should be replaced with shuddered at of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "He is good in mathematics.\b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "is better in",
+        "b": "is good at",
+        "c": "is good for",
+        "d": "is best at"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 15,
+      "question": "She is good in dancing.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "at dance",
+        "b": "with dancing",
+        "c": "at dancing",
+        "d": "on dancing"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 16,
+      "question": "Ramanujam is competent ........ solving all types of mathematical sums.\b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "for",
+        "b": "from",
+        "c": "by",
+        "d": "at"
+      },
+      "correct": "d",
+      "explanation": "17. (d) 18. (b) tions",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 17,
+      "question": "The officials connived ........ the illegal activities.\b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "with",
+        "b": "for",
+        "c": "on",
+        "d": "at"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 18,
+      "question": "Roy was quick ........ picking up more than eleven languages.\b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "to",
+        "b": "at",
+        "c": "for",
+        "d": "about"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "chapter_no": 15,
+  "title": "Since Vs For",
+  "section": "A",
+  "start_page": 51,
+  "end_page": 53,
+  "theory": "'Since' and 'For' are prepositions when they are used with time expressions.\n                                                     Since/For\n\n                               Point of time                             Period of time\n\n             Note: Subject + is/am/are/was/were + V1+ing + Object + Since/for + time\n\n                                  has/have/had+been\n\nUse of Since                 Since- It is used to show a specific point of time in the past. (dc ls)\n      $ Since + Name of the day               (Since Monday, Since Friday)\n      $ Since + Name of the month             (Since March, Since April)\n      $ Since + Parts of the day              (Since morning, Since evening, Since last night)\n      $ Since + Name of the year              (Since 1947, Since 2020)\n      $ Since + Name of the occasion          (Since Holi, Since marriage)\n      $ Since + Time\t\t                        (Since 5 o'clock, Since 2 PM)\n      $ Since + Stage of life                 (Childhood, Teenage, Adolescence)\n      $ Since + Date\t\t                        (Since 5th March, Since 1st January)\n      $ Since arrival, Since departure, Since inception, Since time immemorial, Since the\n        beginning of + Noun\n  Use of for                for- It is used to show duration/ period length of time (fdrus le; rd)\n\n     $ For 2 hours, For 3 hours, For a long time, For several days, For a month, For a while,\n       For an hour, For the last two weeks, For the past 3 years, for years.",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "She has been?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ teaching in this",
+        "b": "/ school since",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "Since five years should be replaced with for five years",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "My friend?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ lives in a",
+        "b": "/ village since 2015.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "Lives should be replaced with has been living of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Since childhood, Monty?",
+      "exam_source": "(SSC CHSL, 2024)",
+      "options": {
+        "a": "/ ate his food",
+        "b": "/ fast",
+        "c": "/ will not change."
+      },
+      "correct": "b",
+      "explanation": "Ate should be replaced with has eaten of use will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "I am?",
+      "exam_source": "(SSC CHSL, 2023)",
+      "options": {
+        "a": "/ walking in the",
+        "b": "/ Cross Road Garden",
+        "c": "/ since morning",
+        "d": "."
+      },
+      "correct": "a",
+      "explanation": "Am walking should be replaced with have been",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Elina is?",
+      "exam_source": "(SSC CHSL, 2021)",
+      "options": {
+        "a": "/travelling",
+        "b": "/since",
+        "c": "/yesterday.",
+        "d": "\b Since Vs For"
+      },
+      "correct": "a",
+      "explanation": "Is travelling should be replaced with has been travelling",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "We are waiting?",
+      "exam_source": "(SSC CHSL, 2021)",
+      "options": {
+        "a": "/ for the minister for",
+        "b": "/ the",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "Are waiting should be replaced with have been waiting",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "I have played?",
+      "exam_source": "(UPSC CDS, 2021)",
+      "options": {
+        "a": "/ basketball",
+        "b": "/ for the past",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "Have played should be replaced with have been playing",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The project has been under consideration?",
+      "exam_source": "",
+      "options": {
+        "c": "/ before",
+        "d": "d f"
+      },
+      "correct": "b",
+      "explanation": "Since several months should be replaced with for",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "He said that?",
+      "exam_source": "(SSC MTS, 2020)",
+      "options": {
+        "a": "/ he had being",
+        "b": "/ playing",
+        "c": "/ since he was eight.",
+        "d": "-@"
+      },
+      "correct": "b",
+      "explanation": "Had being should be replaced with had been of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "She has been working?",
+      "exam_source": "(SSC CPO, 2020)",
+      "options": {
+        "a": "/ tirelessly",
+        "b": "/ since",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "Since hours should be replaced with for hours of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "We have been staying?",
+      "exam_source": "(SSC MTS, 2019)",
+      "options": {
+        "a": "/ at the hotel",
+        "b": "/ since",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "Since should be replaced with for of use will be.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "I have been trying?",
+      "exam_source": "(SSC CHSL, 2016)",
+      "options": {
+        "a": "/ to catch you as",
+        "b": "/ you",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "As should be replaced with since of use will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "I have been?",
+      "exam_source": "(SSC GD, 2015)",
+      "options": {
+        "a": "/ waiting for you",
+        "b": "/ since two",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "Since should be replaced with for of use will be.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "The company has been working on this project?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for centuries, but it has not yet achieved the",
+        "b": "/ despite investing a large",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "He has not been in touch with his old friends?",
+      "exam_source": "",
+      "options": {
+        "b": "/ during their time together in the",
+        "c": "/ in the past."
+      },
+      "correct": "b",
+      "explanation": "For his college days should be replaced with since his",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "The company is expanding its operations in international markets?",
+      "exam_source": "",
+      "options": {
+        "a": "/ since its establishment",
+        "b": "/ and"
+      },
+      "correct": "a",
+      "explanation": "Is expanding should be replaced with has been",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "The baby was sleeping since two hours.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "from two hours",
+        "b": "for two hours",
+        "c": "by two hours",
+        "d": "since two hours"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 18,
+      "question": "She has been working in this organisation since 5 years.\b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "till 5 years",
+        "b": "for 5 years",
+        "c": "across 5 years",
+        "d": "No substitution"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 19,
+      "question": "I have not seen him since twenty years so I cannot say with certainty how he looks now.",
+      "exam_source": "",
+      "options": {
+        "a": "for twenty years",
+        "b": "from twenty years",
+        "c": "since twenty years",
+        "d": "No improvement"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 20,
+      "question": "The research team .......... on the project for six months before publishing their findings. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "has been working",
+        "b": "worked",
+        "c": "had been working",
+        "d": "were working"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 21,
+      "question": "It has been raining continually .......... morning.",
+      "exam_source": "",
+      "options": {
+        "a": "in",
+        "b": "since",
+        "c": "from",
+        "d": "for"
+      },
+      "correct": "b",
+      "explanation": "22. (a) 23. (d) 24. (b) 25. (b) 19. I have not seen him since twenty years so I cannot say with certainty how he looks now. (a) for twenty years (b) from twenty years (c) since twenty years (d) No improvement 20. The research team .......... on the project for six months before publishing their findings. \b (SSC STENO, 2025) (a) has been working (b) worked (c) had been working (d) were working 21. It has been raining continually .......... morning. (a) in (b) since (c) from (d) for 22. The company has grown by leaps and bounds .......... its establishment in 2005. (a) since (b) for (c) from (d) during 23. We .......... there for ten years. \b (HC LDC, 2023) (a) will have been lived (b) live (c) living (d) lived 24. Prakash .......... tennis for an hour when the news of his selection came in. (HC LDC, 2022) (a) had play (b) had been playing (c) had played (d) had been played 25. I have known her .......... a long time. (UPSC NDA, 2020) (a) since (b) for (c) at (d) before",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 22,
+      "question": "The company has grown by leaps and bounds .......... its establishment in 2005.",
+      "exam_source": "",
+      "options": {
+        "a": "since",
+        "b": "for",
+        "c": "from",
+        "d": "during"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 23,
+      "question": "We .......... there for ten years. \b?",
+      "exam_source": "(HC LDC, 2023)",
+      "options": {
+        "a": "will have been lived",
+        "b": "live",
+        "c": "living",
+        "d": "lived"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 24,
+      "question": "Prakash .......... tennis for an hour when the news of his selection came in.",
+      "exam_source": "(HC LDC, 2022)",
+      "options": {
+        "a": "had play",
+        "b": "had been playing",
+        "c": "had played",
+        "d": "had been played"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 25,
+      "question": "I have known her .......... a long time.",
+      "exam_source": "(UPSC NDA, 2020)",
+      "options": {
+        "a": "since",
+        "b": "for",
+        "c": "at",
+        "d": "before"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "chapter_no": 22,
+  "title": "Concept of Multiple Adjectives",
+  "section": "A",
+  "start_page": 68,
+  "end_page": 69,
+  "theory": " When multiple adjectives are used before a Noun to qualify it, they must be in a fixed\n       order.\n tc fdlh Noun ls igys ,d ls T;knk Adjectives vkrs gSa] rks mUgsa ,d fuf'pr Øe esa fy[kk tkrk gSA\n\n    The Fixed Order\n      O             S             A        S           C             O           M              P+Noun\n    Opinion        Size          Age     Shape       Colour        Origin      Material      Purpose+Noun\n\n    Letter                Type                       Example                            Meaning\n      O                Opinion                    Beautiful, Nice                       jk; @ er\n      S                   Size                      Big, Small                            vkdkj\n      A                   Age                        Old, New                               vk;q\n      S                 Shape                     Round, Square                           vkÑfr\n      C                Colour                       Red, Black                               jax\n      O                 Origin                   Indian, German                     mRifÙk @ ewy LFkku\n      M                Material                  Wooden, Plastic                      inkFkZ @ lkexzh\n      P                Purpose                   Sleeping, Racing                    mís'; @ ç;kstu",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "My friend has started a?",
+      "exam_source": "(SSC CGL, 2018)",
+      "options": {
+        "a": "/ restaurant in a",
+        "b": "/ in Manali.",
+        "c": "/ No",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "wooden big building should be replaced with big",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "He likes to put?",
+      "exam_source": "(SSC CGL, 2018)",
+      "options": {
+        "a": "/ all the garbage into a",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "black small bag should be replaced with small",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Each child?",
+      "exam_source": "(SSC CGL, 2016)",
+      "options": {
+        "a": "/ was given a",
+        "b": "/ red beautiful",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "red beautiful balloon should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "She has married?",
+      "exam_source": "",
+      "options": {
+        "a": "/ a young tall",
+        "b": "/ Australian",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "young tall should be replaced with tall young",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Mr. Jain is an?",
+      "exam_source": "",
+      "options": {
+        "a": "/ honest young intelligent",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "honest young intelligent should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The police arrested a?",
+      "exam_source": "",
+      "options": {
+        "a": "/ twenty five year old",
+        "b": "/ for committing a crime.",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "Anju adopted a?",
+      "exam_source": "",
+      "options": {
+        "a": "/ small cute black",
+        "b": "/ puppy",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "small cute black should be replaced with cute",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The robber flashed?",
+      "exam_source": "",
+      "options": {
+        "a": "/ a sharp big knife and",
+        "b": "/ to fill the black leather bag",
+        "c": "/ No error",
+        "d": "Concept of Multiple Adjectives"
+      },
+      "correct": "b",
+      "explanation": "sharp big knife should be replaced with big sharp",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "They live in a?",
+      "exam_source": "",
+      "options": {
+        "a": "/ modern spacious two-storey",
+        "b": "/ apartment in Mumbai currently.",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "modern spacious should be replaced with spacious",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "Pratima is?",
+      "exam_source": "",
+      "options": {
+        "a": "/ an intelligent",
+        "b": "/ Indian young",
+        "c": "/ in the army."
+      },
+      "correct": "c",
+      "explanation": "Indian young should be replaced with young",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "During the inspection, the officer noticed?",
+      "exam_source": "",
+      "options": {
+        "a": "/ an old damaged steel small",
+        "b": "/ storage",
+        "c": "/ which had been"
+      },
+      "correct": "b",
+      "explanation": "an old damaged steel small of place",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "Shikha was carrying?",
+      "exam_source": "",
+      "options": {
+        "a": "/ an extremely",
+        "b": "/ black leather stylish handbag",
+        "c": "/ during the trip."
+      },
+      "correct": "c",
+      "explanation": "black leather stylish should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "What is the?",
+      "exam_source": "(SSC CHSL, 2023)",
+      "options": {
+        "a": "/ price of this",
+        "b": "/ fancy dress",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "fancy dress pink should be replaced with pink",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "When we bought the house, we could tell that l it was a large, new, compact, tinted house.ha d f?",
+      "exam_source": "",
+      "options": {
+        "a": "it was a new, large and compact house ep",
+        "b": "it was a new, large and as tintedf rehouse",
+        "c": "it was a new, large, compact",
+        "d": "No improvement on"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 15,
+      "question": "We’ve got a new big house. \b?",
+      "exam_source": "(SSC CHSL, 2015)",
+      "options": {
+        "a": "big new house",
+        "b": "house new big",
+        "c": "No improvement",
+        "d": "house’s new big"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 16,
+      "question": "He found a wooden chair that has broken in the room.",
+      "exam_source": "",
+      "options": {
+        "a": "wooden and broken chair",
+        "b": "broken wooden chair",
+        "c": "broken and wooden chair",
+        "d": "No improvement"
+      },
+      "correct": "b",
+      "explanation": "tions 8. (b) At the place of \"sharp big knife\" \"big sharp knife\" will be used, because size quality comes first",
+      "format": "sentence_improve"
+    }
+  ]
+}

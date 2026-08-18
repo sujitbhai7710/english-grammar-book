@@ -1,0 +1,283 @@
+{
+  "chapter_no": 9,
+  "title": "Concept of Modals",
+  "section": "A",
+  "start_page": 38,
+  "end_page": 39,
+  "theory": " MODALS (Helping Verbs): Auxiliary verbs that are used with main verbs to show possibility,\n      ability, permission, obligation, advice, etc.\n       Helping Verbs, eq[; fØ;k ds lkFk iz;ksx gksus okyh lgk;d fØ;k,¡ gSa] tks laHkkouk] {kerk] vuqefr]\n       drZO;] lykg vkfn dks n'kkZrh gSaA\n     COMMON MODALS: can, could, may, might, shall, should, will, would, must, ought to,\n       need, dare, used to\n\n                                                    Modals\n\n                  Modal Indefinite                                      Modal Perfect\n\n       Modal + V1             Modal + be + V3          Modal + have + V3        Modal + have + been + V3\n       Active Voice            Passive Voice             Active Voice                  Passive Voice\n\n     Modal Indefinite – It is used to express present or future possibility, ability, permission,\n      obligation, etc.\n\t\tbldk mi;ksx orZeku ;k Hkfo\"; dh laHkkouk] {kerk] vuqefr] drZO; vkfn crkus osQ fy, fd;k tkrk gSA\n Modal Perfect – It is used to express past possibility, regret, criticism, deduction etc.\n        bldk mi;ksx Hkwrdky dh laHkkouk] iNrkok] vkykspuk vkfn crkus osQ fy, fd;k tkrk gSA",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The manager hoped?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that the issue would",
+        "b": "/ before the clients arrive",
+        "c": "/ at"
+      },
+      "correct": "b",
+      "explanation": "Would be resolving should be replaced with would be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "If you manage your work efficiently?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and",
+        "b": "/ the project on time.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "‘May possibly’ osQ LFkku ij osQoy ‘may’ dk use gksxk, D;ksafd ‘may’ esa already possibility dk vFkZ gksrk gSA",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Ranbir could not went?",
+      "exam_source": "(SSC CGL, 2020)",
+      "options": {
+        "a": "/ to the award",
+        "b": "/as he was busy shooting",
+        "c": "/for",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "Went should be replaced with go of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "That the framework lacks provisions for backward compatibility?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ is less problematic",
+        "b": "/ that all peripheral",
+        "c": "/ adheres",
+        "d": "\b"
+      },
+      "correct": "d",
+      "explanation": "Adheres should be replaced with adhere of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "The experienced financial analysts examining the rapidly declining market trends?",
+      "exam_source": "",
+      "options": {
+        "a": "/ warned",
+        "c": "/ for",
+        "d": "Concept of Modals"
+      },
+      "correct": "c",
+      "explanation": "Could liable should be replaced with could be liable of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The medical experts studying the sudden spread of the rare infection in the remote villages?",
+      "exam_source": "",
+      "options": {
+        "a": "/ warned that the disease could",
+        "b": "/ for elderly people",
+        "c": "/ during the winter"
+      },
+      "correct": "b",
+      "explanation": "Could severely dangerous should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "Renewable energy?",
+      "exam_source": "(SSC CGL, 2024)",
+      "options": {
+        "a": "/ sources like solar and",
+        "b": "/ will replaced traditional fossil",
+        "c": "/ and help reduce carbon emissions.",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "Replaced should be replaced with replace of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "She said that if?",
+      "exam_source": "",
+      "options": {
+        "a": "/ she worked hard, she",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "He could not be able to finish the work on time?",
+      "exam_source": "",
+      "options": {
+        "a": "/ due to the lack of proper resources",
+        "b": "/ provided by the management",
+        "c": "/ during",
+        "d": "d"
+      },
+      "correct": "a",
+      "explanation": "Could not be able to should be replaced with could not",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "If he continues to work hard and fr remains focused?",
+      "exam_source": "",
+      "options": {
+        "a": "/ on his goals throughout",
+        "b": "/ he will likely n T",
+        "c": "/ No errorc"
+      },
+      "correct": "c",
+      "explanation": "Will likely achieve should be replaced with is likely to",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "My younger brother will teaches English language to the graduate students. \b?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "will teach",
+        "b": "can teach",
+        "c": "could teach",
+        "d": "would have teach"
+      },
+      "correct": "a",
+      "explanation": "12. (b) 13. (d) 14. (d) 15. (a) Solut",
+      "format": "regular"
+    },
+    {
+      "qno": 12,
+      "question": "I wish I can help you with this difficult problem.\b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "No substitution required",
+        "b": "could",
+        "c": "may",
+        "d": "would"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 13,
+      "question": "The snowstorm in that region will effect thousands of travellers.\b?",
+      "exam_source": "(SSC MTS, 2022)",
+      "options": {
+        "a": "would affecting thousand",
+        "b": "will effect thousands",
+        "c": "No improvement required",
+        "d": "will affect thousands"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 14,
+      "question": "Don't try to force the window open, or you might broken it.\b?",
+      "exam_source": "(SSC MTS, 2023)",
+      "options": {
+        "a": "you might breaks",
+        "b": "you have break",
+        "c": "No improvement",
+        "d": "you might break"
+      },
+      "correct": "d",
+      "explanation": "on't try to force the window open, or you might broken it.\b (SSC MTS, 2023) (a) you might breaks (b) you have break (c) No improvement (d) you might break 15. He decided to take the help of a guide lest he may miss the way. (a) he should miss (b) he will miss Answers",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 15,
+      "question": "He decided to take the help of a guide lest he may miss the way.",
+      "exam_source": "",
+      "options": {
+        "a": "he should miss",
+        "b": "he will miss",
+        "d": "5.",
+        "c": "11."
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 16,
+      "question": "Pedestrians is to be careful when crossing busy roads.\b?",
+      "exam_source": "(SSC CPO, 2019)",
+      "options": {
+        "a": "need be caring when crossing",
+        "b": "would care if they are crossing",
+        "c": "No improvement",
+        "d": "must be careful when crossing"
+      },
+      "correct": "d",
+      "explanation": "17. (d) 18. (b) 19. (d) 20. (c) tions",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 17,
+      "question": "Keep him at arm's length lest you may not repent in the long run.\b?",
+      "exam_source": "(SSC CGL, 2022)",
+      "options": {
+        "a": "or you may no",
+        "b": "No Improvement",
+        "c": "unless you may",
+        "d": "lest you should"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 18,
+      "question": "You need not .......... so much fuss about wearing a mask when you go out. \b?",
+      "exam_source": "(SSC CGL, 2020)",
+      "options": {
+        "a": "generate",
+        "b": "make",
+        "c": "do",
+        "d": "data"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 19,
+      "question": "This answer can't be right; It .......... be wrong. \b (CUET, 1/June/2023)",
+      "exam_source": "",
+      "options": {
+        "a": "may",
+        "b": "can",
+        "c": "ought to",
+        "d": "must"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 20,
+      "question": "Researchers say that about 33% of people with diabetes may .......... a skin disorder in their lifetime.\b?",
+      "exam_source": "(SSC GD, 2019)",
+      "options": {
+        "a": "have been",
+        "b": "has been",
+        "c": "have",
+        "d": "has"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "chapter_no": 46,
+  "title": "Fixed Preposition 'To'",
+  "section": "A",
+  "start_page": 123,
+  "end_page": 126,
+  "theory": " There are some words and phrases that take preposition \"To\" after them. Such words\n     and phrases are:\n\n      Word + Preposition         English Meaning               Hindi Meaning\n1     Accustomed to              Used to                       vknh gksuk\n2     Listen to                  Pay attention                 è;ku ls lquuk\n3     Lead to                    Result in                     ifj.kke gksuk\n4     Addicted to                Habitually dependent on       yr gksuk\n5     Indifferent to             Having no interest            mnklhu gksuk (iQoZQ u iM+uk)\n6     Access to                  Right or ability to enter     igq¡p@izos'k gksuk\n7     Accessible to              Easy to reach                 vklkuh ls igq¡puk\n8     Accession to               Attaining a position/power    lÙkk@in izkIr djuk\n9     Adjacent to                Next to/beside                ikl gksuk\n10    Amenable to                Open/responsive to            ckr ekuus okyk\n11    Applicable to              Relevant/suitable             ykxw gksuk\n12    Assent to                  Agree to                      lger gksuk\n13    Averse to                  Strong dislike                ukilan djuk\n14    Accede to                  Agree/consent                 lgefr nsuk\n15    Adhere to                  Follow strictly               ikyu djuk\n16    Antidote to                Remedy against                bykt@dkV\n17    Belong to                  To be owned by                lacaf/r gksuk\n18    Blind to (Faults)          Unable to notice              vuns[kk djuk\n19    Affectionate to            Showing love                  Lusgh gksuk\n20    Akin to                    Similar to                    leku@osQ tSlk\n21    Analogous to               Comparable to                 rqyuh;\n22    Confined to                Restricted to                 lhfer gksuk\n23    Contrary to                Opposite to                   osQ foijhr\n24    Detrimental to             Harmful to                    gkfudkjd gksuk\n25    Entitled to                Having the right              vf/dkj gksuk                            ll\n\n      Equal to                   Same as                                                        df\n26                                                             osQ cjkcj                   ep\n\n27    Exception to               Excluded from general         viokn                - @f\n\n      Faithful to                Loyal to                                      nT\n28                                                             oiQknkj ch o\n\n29   Hostile to                 Unfriendly                  'k=kqrkiw.kZ@fojks/h\n30   Impertinent to             Irrelevant                  vlaxr\n31   Inferior to                Lower than                  fuEu@?kfV;k\n32   Inimical to                Harmful/unfriendly          fojks/h@gkfudkjd\n33   Injurious to               Causing harm                gkfudkjd\n34   Inured to                  Accustomed to hardship      dfBukb;ksa dk vknh gksuk\n35   Invitation to              Request to attend           fuea=k.k@vkea=k.k\n36   Invite to                  Ask to come                 cqykuk\n37   Loyal to                   Faithful                    oiQknkj\n38   Menace to                  Danger/Threat               [krjk\n39   Object to                  Oppose to                   fojks/ djuk\n40   Pertinent to               Relevant to                 lacaf/r\n41   Preface to                 Introduction to             izLrkouk@Hkwfedk\n42   Prefer to                  Like more                   vf/d ilan djuk\n43   Relevant to                Related to                  lacaf/r\n44   Resemblance to             Similarity                  lekurk\n45   Responsible to (Someone)   Accountable to              mÙkjnk;h@tokcnsg\n46   Recourse to                Turning for help            lgkjk ysuk\n47   Sensitive to               Easily affected             laosnu'khy\n48   Succession to              Following in order          mÙkjkf/dkj\n49   Yield to                   Surrender                   >qduk\n50   Attribute to               Give credit to              dkj.k crkuk\n51   Prone to                   Likely to suffer from       laHkkouk gksuk\n52   Allude to                  Refer indirectly            laosQr djuk\n53   Attune to                  Adjusted                    vuqowQy gksuk\n54   Conform to                 Comply with                 vuq:i gksuk\n55   Equivalent to              Equal to                    cjkcj gksuk\n56   Indebted to                Be grateful                 vkHkkjh gksuk                          ll\n\n57   Dedicated to               Devoted entirely            lefiZr gksuk                    df\n\n                                Lower rank/Higher rank in@NksVk ;k cM+k gksu-@ fre\n58   Junior/Senior to\n\n                                than                                 nT\n\n    59    Limit to                            Restrict                          lhfer djuk\n    60    Assent to                           Agree                             lgefr nsuk\n    61    Key to                              Essential factor                  eq[; lk/u\n    62    According to                        In agreement with                 osQ vuqlkj\n    63    Owing to                            Because of                        osQ dkj.k\n    64    With reference to                   Regarding                         osQ lUnHkZ esa@osQ fo\"k; esa\n    65    In relation to                      In connection with                osQ lEcU/ esa\n    66    Look forward to                     To eagerly expect                 mRlqdrk ls izrh{kk djuk",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "He said?",
+      "exam_source": "(UPSC CDS, 2021)",
+      "options": {
+        "a": "/ that he preferred",
+        "b": "/ coffee than",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "Coffee than tea should be replaced with coffee to tea of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "Modern digital cameras are equipped?",
+      "exam_source": "",
+      "options": {
+        "a": "/ with",
+        "b": "/ sensitive",
+        "c": "/ changes in ambient"
+      },
+      "correct": "c",
+      "explanation": "sensitive for should be replaced with sensitive to of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "After negotiations with the management,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the employees finally consented for the",
+        "b": "/ offered by the company."
+      },
+      "correct": "b",
+      "explanation": "consented for should be replaced with consented to of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The Konark temple?",
+      "exam_source": "(SSC STENO, 2020)",
+      "options": {
+        "a": "/ is dedicated",
+        "b": "/ from",
+        "c": "/ Sun god.",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "from should be replaced with to of use will be, because dedicated",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "During SSC exam preparation?",
+      "exam_source": "",
+      "options": {
+        "a": "/ Sanjeev Sir",
+        "b": "/ and advised them to",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "stick with should be replaced with stick to of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "Despite intelligence inputs before the 26/11 attacks,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the security agencies remained",
+        "b": "/ which led to a major",
+        "c": "/ affecting the nation's security."
+      },
+      "correct": "b",
+      "explanation": "blind in should be replaced with blind to of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "He was?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ senior than",
+        "b": "/ me in college.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "senior than should be replaced with senior to of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The recommendations of the Finance Commission were highly relevant for economic reforms?",
+      "exam_source": "",
+      "options": {
+        "a": "/ as they provided key",
+        "b": "/ into resource allocation",
+        "c": "/ for"
+      },
+      "correct": "a",
+      "explanation": "relevant for should be replaced with relevant to of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "I prefer?",
+      "exam_source": "(UPSC NDA, 2020)",
+      "options": {
+        "a": "/ seafood",
+        "b": "/ than Mediterranean",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "than Mediterranean food should be replaced with to",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "The indigenous tribes living?",
+      "exam_source": "",
+      "options": {
+        "a": "/ deep within",
+        "b": "/ remained consistently",
+        "c": "/ any outside interference for"
+      },
+      "correct": "c",
+      "explanation": "hostile against should be replaced with hostile to of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "The judge ruled that?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the personal history",
+        "b": "/ defendant was completely not"
+      },
+      "correct": "d",
+      "explanation": "relevant for should be replaced with relevant to of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "The severely injured officer?",
+      "exam_source": "",
+      "options": {
+        "a": "/ succumbed",
+        "b": "/ despite medical help.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "succumbed from should be replaced with succumbed to",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "The structure of Dravidian temples is remarkably similar with those?",
+      "exam_source": "",
+      "options": {
+        "a": "/ constructed",
+        "b": "/ in the same period."
+      },
+      "correct": "a",
+      "explanation": "similar with should be replaced with similar to of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "I am very much?",
+      "exam_source": "(SSC CHSL, 2024)",
+      "options": {
+        "a": "/ obliged of my friend",
+        "c": "/ he rendered to me."
+      },
+      "correct": "b",
+      "explanation": "obliged of should be replaced with obliged to of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "CFC gases are highly sensitive with temperature changes?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and contributes to",
+        "b": "/ in the atmosphere.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "sensitive with should be replaced with sensitive to of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "Many historians?",
+      "exam_source": "",
+      "options": {
+        "a": "/ attributed the decline",
+        "b": "/ that led to its disappearance."
+      },
+      "correct": "b",
+      "explanation": "attributedwith should be replaced with attributedto",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "He is indifferent .......... public opinion.",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "to",
+        "b": "about",
+        "c": "at",
+        "d": "of"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 18,
+      "question": "Despite initial resistance, the fugitive eventually yielded .......... the deceptive assurances provided by undercover agents posing as sympathizers. (IB ACIO, 2025)ll?",
+      "exam_source": "",
+      "options": {
+        "a": "To",
+        "b": "Into ha",
+        "c": "For",
+        "d": "Over ep"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 19,
+      "question": "Repetition without any variation @ isfrabhorrent .......... every person.\b G?",
+      "exam_source": "(IB ACIO, 2025)",
+      "options": {
+        "a": "With n T From",
+        "c": "On",
+        "d": "To"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 20,
+      "question": "I am not used with this kind of work.",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "to this kind of work",
+        "b": "about this kind of work",
+        "c": "at this kind of work",
+        "d": "for this kind of work"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 21,
+      "question": "The lecture was relevant .......... the topic of climate change.\b?",
+      "exam_source": "(DP HCM, 2025)",
+      "options": {
+        "a": "in",
+        "b": "to",
+        "c": "on",
+        "d": "with"
+      },
+      "correct": "b",
+      "explanation": "22. (a) 23. (a) 24. (d) 25. (a) Solut",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 22,
+      "question": "You must adapt with the situation.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "to the situation",
+        "b": "the situation",
+        "c": "from the situation",
+        "d": "by the situation"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 23,
+      "question": "I object for your behaviour.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "to your behaviour",
+        "b": "with your behaviour",
+        "c": "on your behaviour",
+        "d": "against your behaviour"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 24,
+      "question": "The boy was indifferent .......... his studies.",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "on",
+        "b": "at",
+        "c": "in",
+        "d": "to"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 25,
+      "question": "People who are averse .......... hard work, generally do not succeed in life.",
+      "exam_source": "(UPSC NDA, 2020)",
+      "options": {
+        "a": "To",
+        "b": "About",
+        "c": "At",
+        "d": "On"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

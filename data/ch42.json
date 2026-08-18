@@ -1,0 +1,185 @@
+{
+  "chapter_no": 42,
+  "title": "Synthesis of Positive & Comparative Degrees",
+  "section": "A",
+  "start_page": 116,
+  "end_page": 117,
+  "theory": " Synthesis means combining two or more sentences into a single sentence without changing\n      the meaning.\n \"Synthesis\" dk vFkZ gS nks ;k nks ls vf/d okD;ksa dks fcuk vFkZ cnys ,d okD; esa tksM+ukA\n\n     1 Subject1 + Verb + as/so + Positive Degree            2 Subject1 + Verb + Comparative Degree\n        + as + Subject2                                         + than + Subject2\n\n                                                  Combined Pattern\n                       Subject1 + Verb + so/as + Positive Degree + as + Connector (if not, or\n                                  even) + Comparative Degree + than + Subject2",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "She despite facing challenges?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is as",
+        "b": "/ her",
+        "c": "/ preparing for exams."
+      },
+      "correct": "b",
+      "explanation": "if not intelligent than should be replaced with if not",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "Rajat is as clever as, or even cleverer than?",
+      "exam_source": "",
+      "options": {
+        "b": "/ in this organization.",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Virat plays as consistently , or even more consistently than?",
+      "exam_source": "",
+      "options": {
+        "a": "/ any other player in",
+        "b": "/ despite facing strong",
+        "c": "/ No error",
+        "d": "4 This book is as interesting as"
+      },
+      "correct": "a",
+      "explanation": "as consistently should be replaced with as consistently",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Rohit is hardworking or even more hardworking than?",
+      "exam_source": "",
+      "options": {
+        "a": "/ all his classmates",
+        "b": "/ this",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "hardworking should be replaced with as hardworking",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The suggestion given by him?",
+      "exam_source": "(SSC CGL, 2015)",
+      "options": {
+        "a": "/ is as bad, if",
+        "b": "/ than the one suggested by you.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "As bad should be replaced with as bad as of use will",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "The young athlete, who got injured last month?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is as strong, if not stronger than",
+        "b": "/ his",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "as strong should be replaced with as strong as of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "This machine is reliable as or even more reliable than?",
+      "exam_source": "",
+      "options": {
+        "a": "/ those used in earlier",
+        "b": "/ in heavy operations.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "reliable as should be replaced with as reliable as of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "She, despite coming from a non-technical background?",
+      "exam_source": "",
+      "options": {
+        "a": "/ is as skilled as, if not more",
+        "b": "/ her colleagues working in the",
+        "c": "/ in the company."
+      },
+      "correct": "b",
+      "explanation": "as skilled as should be replaced with more skilled than",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "The current economic condition is as stable as, if not stable than the previous year.",
+      "exam_source": "",
+      "options": {
+        "a": "if not more stable than",
+        "b": "if not most stable than",
+        "c": "if not stable as",
+        "d": "No improvement"
+      },
+      "correct": "a",
+      "explanation": "12. (c) 13. (c) 14. (b) 15. (d) Solut",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 12,
+      "question": "The economic reforms introduced this year are as impactful as or even more impactful as those introduced a decade ago.",
+      "exam_source": "",
+      "options": {
+        "a": "most impactful than",
+        "b": "as impactful than",
+        "c": "more impactful than",
+        "d": "No improvement"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 13,
+      "question": "This research paper is as insightful as, if not more insightful as any other papers published in this journal.",
+      "exam_source": "",
+      "options": {
+        "a": "than any other papers",
+        "b": "as any other paper",
+        "c": "than any other paper",
+        "d": "No improvement"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 14,
+      "question": "This software is as user-friendly or even more user-friendly as the earlier version developed by the company.",
+      "exam_source": "",
+      "options": {
+        "a": "is as user-friendly or even more user-",
+        "b": "is as user-friendly as or even more user-",
+        "c": "is more user-friendly as than",
+        "d": "No improvement"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 15,
+      "question": "She was as pretty as, if not prettier than any ll other girl at the party. f ha?",
+      "exam_source": "",
+      "options": {
+        "a": "she was very pretty e ep",
+        "b": "if not more prettier than fr",
+        "c": "she was the prettiest G -@",
+        "d": "No improvement on"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "sentence_improve"
+    }
+  ]
+}

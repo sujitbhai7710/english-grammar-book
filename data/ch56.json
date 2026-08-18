@@ -1,0 +1,222 @@
+{
+  "chapter_no": 56,
+  "title": "'Some' Vs 'Any'",
+  "section": "A",
+  "start_page": 148,
+  "end_page": 149,
+  "theory": "56                                                                 \"Some\" Vs \"Any\"\n\n      'Some' and 'Any' are determiners used to express quantity or number. 'Some' is\n          generally used in affirmative sentences whereas 'Any' is generally used in negative\n          sentences.\n   'Some' rFkk 'Any' Determiners gksrs gSa] ftudk use Quantity ;k Number crkus osQ fy, fd;k\n\n   tkrk gSA Some dk iz;ksx lkekU;r% Affirmative tcfd Any dk iz;ksx Negative sentences esa\n          fd;k tkrk gSA\n\n                                                  Determiners\n\n                        Some                                                     Any\n\n      Affirmative                Interrogative                 Negative                    Interrogative\n                                             Request                                                  Question",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "I want to buy this?",
+      "exam_source": "(SSC CHSL, 2021)",
+      "options": {
+        "a": "/book please give",
+        "b": "/me",
+        "c": "/No error"
+      },
+      "correct": "c",
+      "explanation": "any money should be replaced with some money of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "I do not see?",
+      "exam_source": "(SSC CGL, 2020)",
+      "options": {
+        "a": "/ some reasons why my",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "some reasons should be replaced with any reason of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Can you give me?",
+      "exam_source": "",
+      "options": {
+        "a": "/ any information",
+        "b": "/ about",
+        "c": "/ for defence exams?"
+      },
+      "correct": "b",
+      "explanation": "any information should be replaced with some information",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "Is there?",
+      "exam_source": "",
+      "options": {
+        "a": "/ some water",
+        "b": "/ left in the bottle"
+      },
+      "correct": "b",
+      "explanation": "some water should be replaced with any water of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Do you have?",
+      "exam_source": "",
+      "options": {
+        "a": "/ some idea",
+        "b": "/ about the",
+        "c": "/ for SSC CGL?"
+      },
+      "correct": "b",
+      "explanation": "some idea should be replaced with any idea of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "There are?",
+      "exam_source": "",
+      "options": {
+        "a": "/ no any mistakes in your application",
+        "b": "/ which you need to correct before",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "no any mistakes should be replaced with not any mistakes",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "If you have?",
+      "exam_source": "",
+      "options": {
+        "a": "/ some doubts",
+        "b": "/ regarding the",
+        "c": "/ feel free to ask me."
+      },
+      "correct": "b",
+      "explanation": "some doubts should be replaced with any doubts of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "Since we are expecting a?",
+      "exam_source": "",
+      "options": {
+        "a": "/ large crowd at",
+        "b": "/ please provide any",
+        "c": "/ VIP guests in the"
+      },
+      "correct": "c",
+      "explanation": "any additional seating should be replaced with some",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "Did the tourist?",
+      "exam_source": "",
+      "options": {
+        "a": "/ guide give you",
+        "b": "/ some",
+        "c": "/ about the museum?"
+      },
+      "correct": "c",
+      "explanation": "some information should be replaced with any information",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "Despite the heavy rain,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ there was hardly",
+        "b": "/ damage to the",
+        "c": "/ infrastructure",
+        "d": "\"Some\" Vs \"Any\""
+      },
+      "correct": "b",
+      "explanation": "hardly some visible should be replaced with hardly any",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "If you encounter some?",
+      "exam_source": "",
+      "options": {
+        "a": "/ technical difficulties",
+        "b": "/ contact support immediately.",
+        "c": "/ No"
+      },
+      "correct": "a",
+      "explanation": "some should be replaced with any of use will be.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "He did not give me some books.",
+      "exam_source": "",
+      "options": {
+        "a": "more",
+        "b": "any",
+        "c": "much",
+        "d": "No improvement"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 13,
+      "question": "The manager was so impressed with the presentation that he asked the intern, Would you mind sharing any more insights on the market trends?",
+      "exam_source": "(UPSC CDS, 2026)",
+      "options": {
+        "a": "some",
+        "b": "much",
+        "c": "many",
+        "d": "No improvement"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 15,
+      "question": "I had .......... trouble finding the house.",
+      "exam_source": "(UPSC CDS, 2024)",
+      "options": {
+        "a": "any",
+        "b": "some hall",
+        "c": "few",
+        "d": "all df"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 17,
+      "question": "If you have ................ difficulty in understanding the technical jargon of the contract, please do not hesitate to contact our legal department.",
+      "exam_source": "",
+      "options": {
+        "a": "some",
+        "b": "any",
+        "c": "little",
+        "d": "many"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 18,
+      "question": "I suspect there are .......... glitches in the software that we haven't discovered yet, given how it's lagging.",
+      "exam_source": "",
+      "options": {
+        "a": "Any",
+        "b": "Much",
+        "c": "Some",
+        "d": "Any of"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

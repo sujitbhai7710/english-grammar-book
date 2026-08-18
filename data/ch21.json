@@ -1,0 +1,187 @@
+{
+  "chapter_no": 21,
+  "title": "Until Vs Unless",
+  "section": "A",
+  "start_page": 66,
+  "end_page": 67,
+  "theory": " Both are used to connect two clauses and are negative in meaning.\n        nksuksa dk ç;ksx nks clauses dks tksM+us ds fy, fd;k tkrk gS] vkSj budk vFkZ negative gksrk gSA\n                             Until                                               Unless\n\n                           Negative                                             Negative\n\n                Conjunction/Preposition                                     Conjunction\n\n                   Time limit (tc rd)                                    Condition (if not)\n    \"Until\" is a Subordinating Conjunction.                   \"Unless\" is a subordinating Conjunction.\n    It can be used as preposition too. It                     It is used to introduce a condition. It is\n    denotes the time upto which an action,                    negative in nature.\n    state or event continues.                                 \"Unless\" ,d ,slk Conjunction gS] tks 'krZ\n    \"Until\" ,d Conjunction vkSj Preposition                   (Condition) crkrk gSA ;g negative gksrk gSA\n    gS] ftldk ç;ksx ml le;&lhek (endpoint)\n    dks n'kkZus ds fy, fd;k tkrk gS] tgk¡ rd dksbZ\n    dke ;k fLFkfr tkjh jgrh gS& vFkkZr~ \"tc rd\"A\n     Structure\n\n                                                                      Not\n\n             Clause1                                                             Clause2\n           Main Clause                  Until / Unless             Subordinate Clause / Conditional clause\n\n                                                                   Will/Shall",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "You cannot lead?",
+      "exam_source": "(SSC CPO, 2020)",
+      "options": {
+        "a": "/ a healthy life",
+        "b": "/ although",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "although should be replaced with unless will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "Until I do not?",
+      "exam_source": "(SSC CPO, 2018)",
+      "options": {
+        "a": "/ get the loan",
+        "b": "/ I cannot",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "Until i don't should be replaced with Unless will",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Wheat production in the region?",
+      "exam_source": "",
+      "options": {
+        "a": "/ will fall",
+        "b": "/ something to stop",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "if should be replaced with unless will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "You cannot?",
+      "exam_source": "(SSC CGL, 2019)",
+      "options": {
+        "a": "/ crack SSC, unless you",
+        "b": "/ will",
+        "c": "/ No error",
+        "d": "Until Vs Unless"
+      },
+      "correct": "c",
+      "explanation": "will revise should be replaced with revise will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "She worked continuously on the highly?",
+      "exam_source": "",
+      "options": {
+        "b": "/ without taking any proper rest",
+        "c": "/ No error",
+        "d": "lal"
+      },
+      "correct": "c",
+      "explanation": "unless should be replaced with until will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "If you do not yield?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to the police",
+        "b": "/dyou",
+        "c": "/ No error",
+        "d": "re"
+      },
+      "correct": "d",
+      "explanation": "No error.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "Unless the government?",
+      "exam_source": "",
+      "options": {
+        "a": "/ willGnot",
+        "c": "/ No",
+        "b": "/ the problem will",
+        "d": "rch"
+      },
+      "correct": "b",
+      "explanation": "will not take should be replaced with takes will",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "Wait for me?",
+      "exam_source": "",
+      "options": {
+        "a": "/ until I",
+        "b": "/ do not return."
+      },
+      "correct": "c",
+      "explanation": "do not return should be replaced with return will",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "Wait here ................ I come back from the meeting.",
+      "exam_source": "",
+      "options": {
+        "a": "unless",
+        "b": "until",
+        "c": "although",
+        "d": "because"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 12,
+      "question": "Steve has gone away. He will be away ........... Monday. \b?",
+      "exam_source": "(UPSC CDS, 2023)",
+      "options": {
+        "a": "on",
+        "b": "by",
+        "c": "until",
+        "d": "from"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 13,
+      "question": "I'll be working on this report ......... 10:30 P.M. \b?",
+      "exam_source": "(UPSC CDS, 2024)",
+      "options": {
+        "a": "up to",
+        "b": "since",
+        "c": "until",
+        "d": "in"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 14,
+      "question": "Utkarsh didn’t leave the office ................ he completed his task.",
+      "exam_source": "",
+      "options": {
+        "a": "when",
+        "b": "until",
+        "c": "because",
+        "d": "although"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 15,
+      "question": "You cannot apply for this post ......... you are a graduate. \b?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "unless",
+        "b": "until",
+        "c": "if",
+        "d": "since"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

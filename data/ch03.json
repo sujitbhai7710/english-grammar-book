@@ -1,0 +1,821 @@
+{
+  "chapter_no": 3,
+  "title": "Past Perfect Vs Past Indefinite",
+  "section": "A",
+  "start_page": 18,
+  "end_page": 22,
+  "theory": "Timeline                                Time\n\n                                                                                                Present\n\n                                            Past Perfect       Past Indefinite\n\n                        Past indefinite   Action at a definite time in the past.\n                        Past Perfect    Action completed before another action/time in the past.\n\n  1        PAST INDEFINITE\n\n   Past Indefinite: Past Indefinite tense is used to express an action which takes place in the\n    past at a definite time.\n       Past Indefinite tense dk ç;ksx mu dk;ks± dks O;Dr djus ds fy, fd;k tkrk gS] tks Past esa fdlh fuf'pr\n       le; ij gksrs gSaA\n       Structure\n       Subject + V2 + Object\n       Subject + Did + Not + V1 + Object\n       Did + Subject + V1 + Object ?\n       Did + Subject + Not + V1 + Object?\n       WH- Word + Did + Subject + V1 + Object ?\n       WH- Word + Did + Subject + Not + V1 + Object?\n                                                                                                Past Indefinite\n\n  2        PAST PERFECT\n                                                                       Structure\n   Past Perfect: Past Perfect tense is used to\n                                                                       Subject + Had + V3 + Object\n    express an action which takes place before\n                                                                       Subject + Had + Not + V3 + Object\n    another action or time in the past.                                Had + Subject + V3 + Object ?\n       Past Perfect tense dk ç;ksx mu dk;ks± dks O;Dr                  Had + Subject + Not + V3 + Object?\n       djus ds fy, fd;k tkrk gS] tks Past esa fdlh nwljs dk;Z          WH- Word + Had + Subject + V3 + Object?\n                                                                       WH- \u0007Word + Had + Subject + Not + V3 +\n       ;k le; ls igys iw.kZ gks pqds gksrs gSaA                              Object?",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "Although the manager was keen on getting the work?",
+      "exam_source": "",
+      "options": {
+        "a": "/ done through Sudhir yesterday",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"tries\" should be replaced with \"tried\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "By the time?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ they arrive, the",
+        "b": "/ concert had",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"arrive\" should be replaced with \"arrived\" (past) of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "It was not merely the fragmentation of administrative jurisdictions across sectors?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "b": "/ which, though designed to",
+        "c": "/ ends up",
+        "d": "\b 4. Little did the committee knew",
+        "a": "/ about the"
+      },
+      "correct": "d",
+      "explanation": "\"ends\" should be replaced with \"ended\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "The train had?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "/ left the station",
+        "b": "/ before we",
+        "c": "/ had arrived.",
+        "d": "\b"
+      },
+      "correct": "d",
+      "explanation": "\"had arrived\" should be replaced with \"arrived\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "Only after the final audit report was submitted?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ did the committee realise",
+        "b": "/ that the",
+        "c": "/ has"
+      },
+      "correct": "d",
+      "explanation": "\"has\" should be replaced with \"had\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "Of all the players?",
+      "exam_source": "(UPSC NDA, 2026)",
+      "options": {
+        "a": "/ it was Ramesh",
+        "b": "/ who",
+        "c": "/ with utmost care."
+      },
+      "correct": "c",
+      "explanation": "\"plan\" should be replaced with \"planned\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "He had never seen?",
+      "exam_source": "(SSC PHASE XIII, 2025)",
+      "options": {
+        "a": "/ such a masterpiece",
+        "c": "/ visits the gallery last spring."
+      },
+      "correct": "d",
+      "explanation": "\"visits\" should be replaced with \"visited\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "The student responded to the question so logically?",
+      "exam_source": "(SSC PHASE XIII, 2025)",
+      "options": {
+        "a": "/ that the audience",
+        "b": "/ praise his",
+        "c": "/ despite the"
+      },
+      "correct": "c",
+      "explanation": "\"praise\" should be replaced with \"praised\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "I have met?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ him yesterday",
+        "b": "/ evening at the",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"have met\" should be replaced with \"met\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "She?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ has been to",
+        "b": "/ Paris last year and loved",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"has been to\" should be replaced with \"went to\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "I have?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ visited Agra",
+        "b": "/ last month.",
+        "c": "/ No",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"I have visited\" should be replaced with I visited of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "This is the man?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "/ who I think",
+        "b": "/ had stolen",
+        "c": "/ in the train."
+      },
+      "correct": "c",
+      "explanation": "\"had stolen\" should be replaced with \"stole\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "Jerry was driving home?",
+      "exam_source": "",
+      "options": {
+        "a": "/ late when the",
+        "b": "/ took place.",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "After I retire?",
+      "exam_source": "(SSC CGL, 2024)",
+      "options": {
+        "a": "/ I started a second career",
+        "b": "/ as",
+        "c": "/ which"
+      },
+      "correct": "a",
+      "explanation": "\"retire\" should be replaced with \"retired\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 18,
+      "question": "It was my niece?",
+      "exam_source": "(SSC CHSL, 2024)",
+      "options": {
+        "a": "/ who was leaving college",
+        "c": "/ not my son",
+        "d": "."
+      },
+      "correct": "b",
+      "explanation": "\"was leaving\" should be replaced with \"left\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 19,
+      "question": "While I was?",
+      "exam_source": "(SSC CGL, 2024)",
+      "options": {
+        "a": "/ walking to the store",
+        "b": "/ my",
+        "c": "/ and asked for a favour."
+      },
+      "correct": "c",
+      "explanation": "\"calls\" should be replaced with \"called\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 20,
+      "question": "After working so much?",
+      "exam_source": "(SSC CHSL, 2023)",
+      "options": {
+        "a": "/ in the fields",
+        "b": "/ did you took",
+        "c": "/ a break?"
+      },
+      "correct": "c",
+      "explanation": "\"took\" should be replaced with \"take\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 21,
+      "question": "Her bookstore flourished?",
+      "exam_source": "(SSC GD, 2022)",
+      "options": {
+        "a": "/ because",
+        "b": "/ she",
+        "c": "/ a good location."
+      },
+      "correct": "c",
+      "explanation": "\"picks\" should be replaced with \"picked\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 22,
+      "question": "They eating?",
+      "exam_source": "(SSC GD, 2022)",
+      "options": {
+        "a": "/ three apples after",
+        "b": "/ last night",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"eating\" should be replaced with \"ate\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 23,
+      "question": "After the experiment concluded,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the",
+        "b": "/ and",
+        "c": "/ in"
+      },
+      "correct": "c",
+      "explanation": "\"has discovered\" should be replaced with \"discovered\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 24,
+      "question": "I told Jack that?",
+      "exam_source": "(SSC GD, 2022)",
+      "options": {
+        "a": "/ we seen",
+        "b": "/ a good film last",
+        "c": "/ with our friends from Mexico."
+      },
+      "correct": "b",
+      "explanation": "\"seen\" should be replaced with \"saw\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 25,
+      "question": "The knight was received?",
+      "exam_source": "(SSC CPO, 2022)",
+      "options": {
+        "a": "/ compliments from",
+        "b": "/ for his bravery.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"was received\" should be replaced with \"received\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 26,
+      "question": "Sujini has met her old friend?",
+      "exam_source": "(UPSC NDA, 2022)",
+      "options": {
+        "a": "/ Guru before she",
+        "b": "/ to Hyderabad two years ago.",
+        "c": "/ No",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"has met\" should be replaced with \"had met\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 27,
+      "question": "After making me wait for two agonising hours?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the great man called me in",
+        "b": "/ and asked me",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"what did I want\" should be replaced with \"what I",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 28,
+      "question": "The pilot?",
+      "exam_source": "(SSC GD, 2021)",
+      "options": {
+        "a": "/ follow another airplane",
+        "b": "/ as he",
+        "c": "/ his way in the storm."
+      },
+      "correct": "b",
+      "explanation": "\"follow\" should be replaced with \"followed\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 29,
+      "question": "Did the police find out?",
+      "exam_source": "(SSC GD, 2021)",
+      "options": {
+        "a": "/ who break",
+        "b": "/ into",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "\"break\" should be replaced with \"broke\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 30,
+      "question": "The photographer?",
+      "exam_source": "(SSC GD, 2021)",
+      "options": {
+        "a": "/ climb the tree",
+        "b": "/ and",
+        "c": "/ of the leopard chasing its prey.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "'climb' should be replaced with 'climbed' of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 31,
+      "question": "I entered my room?",
+      "exam_source": "(SSC GD, 2021)",
+      "options": {
+        "a": "/ and switch on the lights",
+        "b": "/ but it was",
+        "c": "/ still dark."
+      },
+      "correct": "b",
+      "explanation": "\"switch\" should be replaced with \"switched\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 32,
+      "question": "I?",
+      "exam_source": "(SSC MTS, 2021)",
+      "options": {
+        "a": "/ seen a beautiful dress",
+        "b": "/ in the market",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "\"seen\" should be replaced with \"saw\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 33,
+      "question": "Lucy was annoyed to discover?",
+      "exam_source": "(SSC MTS, 2021)",
+      "options": {
+        "a": "/ that her",
+        "b": "/ had taking her car keys.",
+        "c": "/ No",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "\"had taking\" should be replaced with \"had taken\" will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 34,
+      "question": "When I reached?",
+      "exam_source": "(SSC MTS, 2021)",
+      "options": {
+        "a": "/ there she have already",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"have\" should be replaced with \"had\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 35,
+      "question": "Lavanya hasn’t gone?",
+      "exam_source": "(UPSC CDS, 2021)",
+      "options": {
+        "a": "/ to work",
+        "b": "/ yesterday.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"hasn't gone\" should be replaced with \"didn't go\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 36,
+      "question": "Even after attending several extra classes and taking?",
+      "exam_source": "",
+      "options": {
+        "a": "/ guidance from experienced mentors",
+        "b": "/ he did not know",
+        "c": "/ unexpectedly in the examination conducted"
+      },
+      "correct": "c",
+      "explanation": "\"appear\" should be replaced with \"appeared\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 37,
+      "question": "The Answer, which was expected to be given correctly by all the?",
+      "exam_source": "",
+      "options": {
+        "a": "/ candidates appearing",
+        "b": "/ because he barely know it properly despitell",
+        "c": "/ studied the concept earlier in fha",
+        "d": "ep"
+      },
+      "correct": "c",
+      "explanation": "\"know\" should be replaced with \"knew\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 38,
+      "question": "Anita enquired of Arjun?",
+      "exam_source": "",
+      "options": {
+        "a": "/ if he will",
+        "b": "/ at the cafe G -to@ discuss the",
+        "c": "/ No errorn"
+      },
+      "correct": "b",
+      "explanation": "\"will\" should be replaced with \"would\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 39,
+      "question": "When John reached his village?",
+      "exam_source": "",
+      "options": {
+        "a": "/ he found that",
+        "b": "/ preceded him.",
+        "c": "/ No"
+      },
+      "correct": "c",
+      "explanation": "\"preceded\" should be replaced with \"had preceded\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 40,
+      "question": "I reached the house exhausted?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and was very",
+        "b": "/ when I learnt that",
+        "c": "/ my"
+      },
+      "correct": "d",
+      "explanation": "\"just left\" should be replaced with \"had just left\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 41,
+      "question": "We have just known?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that he has left",
+        "b": "/ the",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"has left\" should be replaced with \"left\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 42,
+      "question": "By the time the rescue team?",
+      "exam_source": "",
+      "options": {
+        "a": "/ finally reached",
+        "b": "/ the blizzard",
+        "c": "/ and the pathways were clear."
+      },
+      "correct": "c",
+      "explanation": "\"subsided\" should be replaced with \"had subsided\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 43,
+      "question": "The archaeologists discovered?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that the",
+        "b": "/ vanished long before"
+      },
+      "correct": "c",
+      "explanation": "\"vanished\" should be replaced with \"had vanished\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 44,
+      "question": "Long before the scientist?",
+      "exam_source": "",
+      "options": {
+        "a": "/ received the Nobel",
+        "b": "/ he conducted extensive research",
+        "c": "/ in"
+      },
+      "correct": "c",
+      "explanation": "\"conducted\" should be replaced with \"had conducted\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 45,
+      "question": "The ship sank rapidly?",
+      "exam_source": "",
+      "options": {
+        "a": "/ as soon as it hit the",
+        "b": "/ but fortunately",
+        "c": "/ everyone safely"
+      },
+      "correct": "d",
+      "explanation": "\"swim\" should be replaced with \"swam\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 46,
+      "question": "I have bought?",
+      "exam_source": "",
+      "options": {
+        "a": "/ this expensive vintage watch",
+        "b": "/ from an auction",
+        "c": "/ three years ago."
+      },
+      "correct": "a",
+      "explanation": "\"have bought\" should be replaced with \"bought\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 47,
+      "question": "Until the whistle blew?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and the referee",
+        "b": "/ the underdog team",
+        "c": "/ did"
+      },
+      "correct": "d",
+      "explanation": "\"did not realized\" should be replaced with \"did not",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 48,
+      "question": "By the time the curator?",
+      "exam_source": "",
+      "options": {
+        "a": "/ realized the painting",
+        "b": "/ the mysterious dealer who"
+      },
+      "correct": "d",
+      "explanation": "\"disappeared\" should be replaced with \"had disappeared\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 49,
+      "question": "By the time the investigative committee?",
+      "exam_source": "",
+      "options": {
+        "b": "/ to",
+        "c": "/ the primary suspect"
+      },
+      "correct": "d",
+      "explanation": "\"fled\" should be replaced with \"had fled\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 50,
+      "question": "I have finished reading that?",
+      "exam_source": "",
+      "options": {
+        "a": "/ five-hundred-",
+        "b": "/ evening while I was",
+        "c": "/ waiting for my flight to be announced at the"
+      },
+      "correct": "a",
+      "explanation": "\"have finished\" should be replaced with \"finished\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 51,
+      "question": "Long after those five horses finish drinking water from the trough, an old horse appeared over the brow of the hill.\b?",
+      "exam_source": "(SSC CGL, 2020)",
+      "options": {
+        "a": "had finished",
+        "b": "have finished",
+        "c": "No improvement",
+        "d": "had been finishing"
+      },
+      "correct": "a",
+      "explanation": "52. (a) 53. (b) 54. (c) 55. (a)",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 52,
+      "question": "By the time we reached the station, the train left.\b?",
+      "exam_source": "(SSC PHASE XIII, 2025)",
+      "options": {
+        "a": "had left",
+        "b": "has left",
+        "c": "was leaving",
+        "d": "is leaving"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 53,
+      "question": "The price of petrol has increased yesterday.",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "rose yesterday",
+        "b": "increased yesterday",
+        "c": "has been increased yesterday",
+        "d": "rised yesterday"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 54,
+      "question": "Abraham Lincoln has been the sixteenth president of the United States and save the Union at the American Civil War.",
+      "exam_source": "(SSC CGL, 2023)",
+      "options": {
+        "a": "No substitution",
+        "b": "save the Union alongside",
+        "c": "saved the Union during",
+        "d": "saved the Union on"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 55,
+      "question": "They are finishing the project before the deadline yesterday. \b AIRFORCE Intake 01, 2027 (30/March/2026)",
+      "exam_source": "",
+      "options": {
+        "a": "finished",
+        "b": "was finish",
+        "c": "were finished",
+        "d": "will finish"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 56,
+      "question": "The man was convicted for murder by the jury but he is not committed it.",
+      "exam_source": "(SSC CGL, 2023)",
+      "options": {
+        "a": "have not committed it",
+        "b": "has not committed it",
+        "c": "had not committed it",
+        "d": "am not committed it"
+      },
+      "correct": "c",
+      "explanation": "57. (b) 58. (c) 59. (b) 60. (b) tions",
+      "format": "regular"
+    },
+    {
+      "qno": 57,
+      "question": "There was a noise that was wake me up.",
+      "exam_source": "(SSC CHSL, 2024)",
+      "options": {
+        "a": "has woken me up",
+        "b": "woke me up",
+        "c": "had woken me up",
+        "d": "woken me up"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 58,
+      "question": "As Simon had already been to the park, he lead the way for the other children.",
+      "exam_source": "(SSC CPO, 2022)",
+      "options": {
+        "a": "leading the way",
+        "b": "lead a way",
+        "c": "led the way",
+        "d": "No substitution required"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 59,
+      "question": "The ship sank because the engineer has not called for help.\b?",
+      "exam_source": "(SSC CPO, 2022)",
+      "options": {
+        "a": "was not call for help",
+        "b": "did not call for help",
+        "c": "will not call for help",
+        "d": "did not called for help"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 60,
+      "question": "The researchers analyse the data carefully before they submitted the final report. (AIRFORCE Intake 01, 2027 [30/March/2026])",
+      "exam_source": "",
+      "options": {
+        "a": "has analysed",
+        "b": "had analysed all",
+        "c": "analyses",
+        "d": "analysing df"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 61,
+      "question": "He went home and excitedly .......... his re mother the story.\b @ CPO, 2025) (SSC?",
+      "exam_source": "",
+      "options": {
+        "a": "told G-",
+        "b": "Ttelling",
+        "c": "tells n talking"
+      },
+      "correct": "a",
+      "explanation": "62. (a) 63. (d) 64. (d) Solut",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 62,
+      "question": "The other youths .......... to talk about their seeds and the plants.\b?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "began",
+        "b": "begins",
+        "c": "beginning",
+        "d": "is began"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 63,
+      "question": "They .......... their objections by the time the committee convened.\b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "raised",
+        "b": "have raised",
+        "c": "will raise",
+        "d": "had raised"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 64,
+      "question": "The milk in the carton .......... almost over. Someone .......... it last night.",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "has, drank",
+        "b": "have, have drank",
+        "c": "are, has drunk",
+        "d": "is, drank"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

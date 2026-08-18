@@ -1,0 +1,237 @@
+{
+  "chapter_no": 88,
+  "title": "Wrong Uses of Conjunctions",
+  "section": "A",
+  "start_page": 229,
+  "end_page": 230,
+  "theory": "if/ whether\n                                            (Conjunctions)\n                                                                             That\n                Asked/ Enquired                                           Superfluous\n                                                                           (Incorrect)\n                                            why/where/\n                                            how/when\n                                             (Conjunctions)\n\n       Note\n\n     When WH-words (who, what, where, when, why, how, etc.) are used in the middle of\n     sentences, they are called conjunctions.\n     tc WH-words (who, what, where, when, why, how vkfn) fdlh okD; ds chp esa gksrs gSa] rks\n\n     os ç'u iwNus dk dk;Z ugha djrs] cfYd nks clauses dks tksM+us dk dk;Z djrs gSaA bUgsa Conjunctions\n          dgk tkrk gSA\n       Structure\n     Subject +...........+ asked/enquired/wondered + (if/whether/WH-word) + Subject + Verb…\n\n        Examples",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "He asked me?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ that where",
+        "b": "/ I was going.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "2. (b) 3. (c) 4. (b) 5. (a)",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "We must plan?",
+      "exam_source": "(SSC CGL, 2019)",
+      "options": {
+        "a": "/ how can we cope with",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "How can we should be replaced with how we can of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The magistrate?",
+      "exam_source": "(SSC CPO, 2020)",
+      "options": {
+        "a": "/ asked the prisoner",
+        "c": "/ with his hand in the",
+        "d": "\b Wrong Uses of Conjunctions",
+        "b": "/ for"
+      },
+      "correct": "c",
+      "explanation": "What was he should be replaced with what he was of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "I couldn't hear?",
+      "exam_source": "(SSC MTS, 2019)",
+      "options": {
+        "a": "/ what was she saying",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "What was she saying should be replaced with what she",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "I asked my friend?",
+      "exam_source": "(SSC CGL, 2021)",
+      "options": {
+        "a": "/ where had he",
+        "b": "/ learnt",
+        "c": "/ so well.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "Where had he should be replaced with where he had of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "Why the Indian government has?",
+      "exam_source": "",
+      "options": {
+        "a": "/ not yet",
+        "b": "/ the international treaty on"
+      },
+      "correct": "a",
+      "explanation": "has of use the Indian government from before",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "Let us think?",
+      "exam_source": "(SSC CGL, 2019)",
+      "options": {
+        "a": "/ how can we solve",
+        "b": "/ the",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "How can we should be replaced with how we can of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "The teacher asked the student?",
+      "exam_source": "",
+      "options": {
+        "a": "/ why had he",
+        "b": "/ the assignment given the",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "had he should be replaced with he had of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "The officer enquired that?",
+      "exam_source": "",
+      "options": {
+        "a": "/ how many",
+        "b": "/ involved in the incident in",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "Enquired that’ osQ LFkku ij osQoy ‘enquired’ dk use gksxk A",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "Pankaj enquired of me that?",
+      "exam_source": "",
+      "options": {
+        "a": "/ how I had",
+        "b": "/ money for my family.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "Enquired of me that should be replaced with enquired of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "The manager asked the clerk whether what?",
+      "exam_source": "",
+      "options": {
+        "a": "/ he had written in the report",
+        "b": "/ was",
+        "c": "/ No error",
+        "d": "Answers"
+      },
+      "correct": "a",
+      "explanation": "‘Whether what’ osQ LFkku ij osQoy ‘whether’ dk use gksxk A",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "Nobody could explain?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that how the",
+        "b": "/ was leaked to the",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "‘That how’ osQ LFkku ij osQoy ‘how’ dk use gksxkAll",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "She did not know?",
+      "exam_source": "",
+      "options": {
+        "a": "/ where was the library",
+        "b": "/ so she asked",
+        "c": "/ a teacher for directions."
+      },
+      "correct": "b",
+      "explanation": "Where was the library should be replaced with where",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "Under what circumstances?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the board of",
+        "b": "/ to waive off the",
+        "c": "/ imposed on the defaulters?"
+      },
+      "correct": "b",
+      "explanation": "The board of directors has should be replaced with has",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 18,
+      "question": "Could you please tell me ........ the nearest metro station is?",
+      "exam_source": "",
+      "options": {
+        "a": "that where",
+        "b": "where is",
+        "c": "that",
+        "d": "where"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 19,
+      "question": "I asked the traveller where is he going.",
+      "exam_source": "",
+      "options": {
+        "a": "where he is going",
+        "b": "where was he going",
+        "c": "where he was going",
+        "d": "No improvement"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 20,
+      "question": "The stranger asked the little girl what is her name.\b?",
+      "exam_source": "(DSSSB LDC, 2019)",
+      "options": {
+        "a": "what her name is",
+        "b": "what her name was",
+        "c": "what was her name",
+        "d": "No improvement"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    }
+  ]
+}

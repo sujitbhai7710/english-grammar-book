@@ -1,0 +1,250 @@
+{
+  "chapter_no": 12,
+  "title": "Used to",
+  "section": "A",
+  "start_page": 44,
+  "end_page": 45,
+  "theory": "Used to\n\n                                                            Adjective\n                                              l                                 in V\n                                       M  oda                                       erb\n\n                           V1                            V1+ing                                   V1\n\n                      Only Past                   Habitual action in past,                   General use\n                       Routine                       present, future\n\n         1 USED TO as a Modal vius ckn verb dh 1st form ysrk gSA\n      \t\t Structure: Subject + used to + V1 + ..........\n       $ eSa iSny Ldwy tk;k djrk FkkA (I used to go to school on foot.)\n       2 USED TO as an Adjective vius ckn verb dh ing form ysrk gSA\n      \t\t Structure: Subject + Main Verb + used to + V1+ing + ..........\n       $ eSa lqcg tYnh mBus dk vknh gw¡A (I am used to waking up early in the morning.)\n         3 USED TO as a Main Verb vius ckn verb dh 1st form ysrk gSA\n      \t\t Structure: Subject + H.V + used to + V1 + .........\n       $ nw/ dk mi;ksx feBkbZ cukus ds fy, fd;k tkrk gSA (Milk is used to make sweets.)",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "When I was in 5th grade,?",
+      "exam_source": "(SSC CHSL, 2023)",
+      "options": {
+        "a": "/ I use to",
+        "b": "/ ride on",
+        "c": "/ red bicycle."
+      },
+      "correct": "b",
+      "explanation": "\"use to\" should be replaced with \"used to\" of use will be.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "I use?",
+      "exam_source": "(SSC CISF ASI, 2010)",
+      "options": {
+        "a": "/ to go out",
+        "b": "/ to work earlier.",
+        "c": "/No",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"use\" should be replaced with \"used\" of use will be. (past",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The students are used to?",
+      "exam_source": "",
+      "options": {
+        "a": "/ study late at night",
+        "b": "/ during the examination period",
+        "c": "/ every"
+      },
+      "correct": "b",
+      "explanation": "\"study\" should be replaced with \"studying\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "Even though the winters?",
+      "exam_source": "",
+      "options": {
+        "a": "/ here are incredibly",
+        "b": "/ used to trek",
+        "c": "/ get to the grocery"
+      },
+      "correct": "c",
+      "explanation": "\"trek\" should be replaced with \"trekking\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "He will soon get used to work?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in this noisy",
+        "b": "/ after spending a few weeks"
+      },
+      "correct": "a",
+      "explanation": "\"work\" should be replaced with \"working\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "When I was in?",
+      "exam_source": "",
+      "options": {
+        "a": "/ London I got",
+        "b": "/ used to",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"drive\" should be replaced with \"driving\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "Anjali used to not play?",
+      "exam_source": "",
+      "options": {
+        "a": "/ badminton every",
+        "b": "/ she moved to Delhi.",
+        "c": "/ No"
+      },
+      "correct": "a",
+      "explanation": "\"used to not play\" should be replaced with \"used not to",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "In the early days of?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the internet, people",
+        "c": "/ for a single"
+      },
+      "correct": "c",
+      "explanation": "\"used to waiting\" should be replaced with \"used to wait\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "Pawan used to?",
+      "exam_source": "",
+      "options": {
+        "a": "/ working in this company",
+        "c": "/ his own business.",
+        "d": "Used to",
+        "b": "/clock is so used to be"
+      },
+      "correct": "b",
+      "explanation": "\"working\" should be replaced with \"work\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "Since the new CEO?",
+      "exam_source": "",
+      "options": {
+        "a": "/ took over the operations",
+        "b": "/ the staff members have got used to",
+        "c": "/ work"
+      },
+      "correct": "d",
+      "explanation": "\"work\" should be replaced with \"working\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 18,
+      "question": "The old artisan, who?",
+      "exam_source": "",
+      "options": {
+        "a": "/ retired last winter",
+        "c": "/ sculpted intricate"
+      },
+      "correct": "d",
+      "explanation": "\"sculpted\" should be replaced with \"sculpt\" of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 19,
+      "question": "I am used to eat late at night.",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "for eating",
+        "b": "eating",
+        "c": "to eating",
+        "d": "in eating"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 20,
+      "question": "I am used to get up early in the morning.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "to get up early",
+        "b": "with getting up early",
+        "c": "to getting up early",
+        "d": "for getting up early"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 21,
+      "question": "When I was a child, I .......... to the park every morning.\b Answers 1. (b) 2.",
+      "exam_source": "(SSC PHASE XIII, 2025)",
+      "options": {
+        "b": "2.",
+        "a": "3.",
+        "c": "5.",
+        "d": "was going"
+      },
+      "correct": "b",
+      "explanation": "22. (b) 23. (b) 24. (c) 25. (b) Solut",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 22,
+      "question": "When I lived in the village, I .......... walk five miles to reach my school.",
+      "exam_source": "",
+      "options": {
+        "a": "use to",
+        "b": "used to",
+        "c": "am used to",
+        "d": "was use to"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 23,
+      "question": "Having lived in the desert for years, the nomad .......... the extreme heat.",
+      "exam_source": "",
+      "options": {
+        "a": "used to",
+        "b": "is used to",
+        "c": "get used to",
+        "d": "used to be"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 24,
+      "question": "I found it hard at first, but I am slowly .......... waking up at 5 AM.",
+      "exam_source": "",
+      "options": {
+        "a": "used to",
+        "b": "using to",
+        "c": "getting used to",
+        "d": "use to"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 25,
+      "question": "Did you .......... have long hair when you were a teenager?",
+      "exam_source": "",
+      "options": {
+        "a": "used to",
+        "b": "use to",
+        "c": "used",
+        "d": "using to"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

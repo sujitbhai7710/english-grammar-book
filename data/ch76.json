@@ -1,0 +1,335 @@
+{
+  "chapter_no": 76,
+  "title": "Omission of Articles",
+  "section": "A",
+  "start_page": 200,
+  "end_page": 202,
+  "theory": "Conditions\n$ Means of transport (By Bus, By Air)          $ Names of routine meals (lunch,\n$ Institutions for primary purpose (School,      breakfast, dinner)\n  hospital, Region, temple, church)            $ Material Nouns in general (gold,\n$ Nature (general sense)                         coffee, milk)\n$ Man/Mankind (humanity)                       $ Abstract Nouns in general (love,\n                                                 honesty, beauty)\n$ Kind of/Sort of/Type of\n                                               $ For uncountable nouns (advice,\n$ Before Possessive Adjectives\n                                                 feedback)\n$ Titles + Name (Prime Minister Modi,\n                                               $ Name of month/year in general (in\n  President Trump)\n                                                 January, in 1947)\n$ Names of diseases (Malaria, Cancer)\n                                               $ Name of seasons in general\n$ Names of games/sports (Cricket,                (Summer, winter)\n  football)\n                                               $ Society (General sense)\n$ Names of Subject/language\n                                               $ Death/Life (General sense)\n  (Mathematics, English, Hindi)\n\n         Fixed Phrases\n\n   Catch fire – vkx idM+uk                     At midnight – vk/h jkr dks\n   Set on fire – vkx yxuk                      At dawn – Hkksj esa\n   Lose heart – fgEer gkjuk ;k fujk'k gksuk    At sunrise – lw;kZsn; ij\n   Take heart – fgEer tqVkuk ;k lkgl djuk      At sunset – lw;kZLr ij\n   By mistake – xyrh ls                        At once – rqjar\n   By chance – la;ksx ls                       At home – ?kj ij\n   On sale – NwV ij                            At loggerheads – vkilh >xM+s esa ;k\n   On time – le; ij                              Vdjko esa gksuk\n   On duty – MÔwVh ij                          In practice – O;ogkj esa\n   On leave – Nqêðh ij                         In person – O;fDrxr :i ls\n   On foot – iSny                              In progress – çxfr ij\n   In detail – foLrkj ls                       On guard – lroZQ\n   In debt – dtZ esa                           On strike – gM+rky ij\n   In fact – okLro esa                         By law – dkuwu ds vuqlkj\n   In danger – •rjs esa                        On holiday – Nqêðh ij\n   In trouble – eqlhcr esa                     At stake – nkao ij\n   At ease – vkjke ls@fuf'pr                   At times – dHkh&dHkkj\n   At risk – tksf•e esa                        At first sight – igyh utj esa                           ll\n\n   At fault – nks\"kh@xyrh ij                   Send word – lans'k Hkstuk                        df\n\n                                                                                     -  @f",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The Traveler was exhausted?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and",
+        "b": "/ when he saw the",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"took the heart\" should be replaced with \"took heart\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "She gave me?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ a good",
+        "b": "/ advice.",
+        "c": "/ No",
+        "d": "."
+      },
+      "correct": "b",
+      "explanation": "\"advice\" ,d Uncountable Noun gS, ftlosQ igys direct article 'a' dk use ugha fd;k tk ldrkA",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The economist’s analysis?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "/ was replete with",
+        "b": "/ yet lacked the adequate context",
+        "c": "/ for policy formulation.",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "\"the adequate context\" should be replaced with \"adequate",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "I go to the temple?",
+      "exam_source": "",
+      "options": {
+        "a": "/ as often as",
+        "b": "/ I find",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"the temple\" should be replaced with \"temple\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "The only Indian?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to win the Nobel Prize for",
+        "b": "/ was Rabindranath Tagore.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"the Literature\" should be replaced with \"Literature\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The King Juan Carlos of Spain?",
+      "exam_source": "(SSC CGL, 2016)",
+      "options": {
+        "a": "/ arrived in",
+        "b": "/ for a three day visit.",
+        "c": "/ No",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"The King Juan Carlos\" should be replaced with \"King",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "He promised to inform me about the meeting?",
+      "exam_source": "",
+      "options": {
+        "a": "/ but he never sent a word",
+        "b": "/ which caused",
+        "c": "/ among the participants."
+      },
+      "correct": "b",
+      "explanation": "\"sent a word\" should be replaced with \"sent word\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The English is a very?",
+      "exam_source": "(SSC CPO, 2017)",
+      "options": {
+        "a": "/ popular language",
+        "b": "/ amongst South Indians.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"The English\" should be replaced with \"English\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "He went?",
+      "exam_source": "(SSC CGL, 2020)",
+      "options": {
+        "a": "/ to the bed",
+        "b": "/ with a",
+        "c": "/ slight",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "\"the bed\" should be replaced with \"bed\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "Ronaldo is?",
+      "exam_source": "(SSC CHSL, 2021)",
+      "options": {
+        "a": "/ a famous",
+        "b": "/ player of",
+        "c": "/ the",
+        "d": "\b"
+      },
+      "correct": "d",
+      "explanation": "\"the football\" should be replaced with \"football\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "Throughout history, discoveries have played?",
+      "exam_source": "",
+      "options": {
+        "a": "/ a crucial role in shaping the mankind and",
+        "b": "/ across different civilizations",
+        "c": "/ around the globe."
+      },
+      "correct": "b",
+      "explanation": "\"the mankind\" should be replaced with \"mankind\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "The historians?",
+      "exam_source": "(SSC CGL, 2023)",
+      "options": {
+        "a": "/ are a great",
+        "b": "/ asset to the",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"The historians\" should be replaced with \"Historians\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "It was?",
+      "exam_source": "(SSC CGL, 2023)",
+      "options": {
+        "a": "/ by a chance",
+        "b": "/ he saw",
+        "c": "/ a movie",
+        "d": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"by a chance\" should be replaced with \"by chance\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "Have you ever seen?",
+      "exam_source": "",
+      "options": {
+        "a": "/ such kind of",
+        "b": "/ a",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"a novel\" should be replaced with \"novel\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "Usually Praneet does not have?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the",
+        "b": "/ 9 o’ clock.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"the breakfast\" should be replaced with \"breakfast\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "Life is full of uncertainties?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and teaches",
+        "b": "/ that the man is mortal and",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"the man\" should be replaced with \"man\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "After finishing all his office work late in the evening?",
+      "exam_source": "",
+      "options": {
+        "a": "/ he usually goes to the bed",
+        "b": "/ because he has to wake up",
+        "c": "/ for the next day’s meeting."
+      },
+      "correct": "b",
+      "explanation": "\"the bed\" should be replaced with \"bed\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 18,
+      "question": "He was sent to the prison?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for committing a",
+        "b": "/ last year.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"the prison\" should be replaced with \"prison\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 19,
+      "question": "Climate change, whether it is?",
+      "exam_source": "(UPSC NDA, 2021)",
+      "options": {
+        "a": "/ natural or",
+        "b": "/ is stressful for the people.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "\"the people\" should be replaced with \"people\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 20,
+      "question": "People often forget that the nature has the power?",
+      "exam_source": "",
+      "options": {
+        "a": "/to restore balance if not disturbed",
+        "b": "/ by human interference in any",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"the nature\" should be replaced with \"nature\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 21,
+      "question": "Africa has glaciers on the Mount Kilimanjaro in Tanzania and on the Mount Kenya. \b?",
+      "exam_source": "(SSC CHSL, 2023)",
+      "options": {
+        "a": "Mount Kilimanjaro in Tanzania and the",
+        "b": "Mount Kilimanjaro in Tanzania and on",
+        "c": "No improvement",
+        "d": "The Mount Kilimanjaro in Tanzania and"
+      },
+      "correct": "b",
+      "explanation": "22. (d) 23. (b) 24. (a) 25. (d) Solut",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 22,
+      "question": "There was scarcely ........... hope left after multiple failures. \b?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "a",
+        "b": "an",
+        "c": "the",
+        "d": "no article"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 24,
+      "question": "They visited ........... London last summer \b AIR FORCE Intake 01, 2027 (31/March/2026)",
+      "exam_source": "",
+      "options": {
+        "a": "No article required",
+        "b": "an",
+        "c": "the",
+        "d": "a d f"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 25,
+      "question": "Our train leaves from ........... platformrenumber. \b -@ CDS, 2023) (UPSC?",
+      "exam_source": "",
+      "options": {
+        "a": "a",
+        "b": "T an",
+        "c": "the o n",
+        "d": "No article"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

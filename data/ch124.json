@@ -1,0 +1,143 @@
+{
+  "chapter_no": 124,
+  "title": "Emphasis on Subject",
+  "section": "A",
+  "start_page": 320,
+  "end_page": 320,
+  "theory": " When a pronoun comes after the verb \"to be\" (is, am, are, was, were, be, been, being), we use\n   the subjective case of pronouns.\n\t\t Subjective Pronouns: I, He, She, We, They, Who\n    Structure\n Subject + Verb \"to be\" + Subjective Pronoun\n       Examples",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "It will be us?",
+      "exam_source": "",
+      "options": {
+        "a": "/ who will buy",
+        "b": "/ a new house",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "It will be us should be replaced with It will be we of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "Was it?",
+      "exam_source": "",
+      "options": {
+        "a": "/ her who did it",
+        "b": "/ for you?",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "her who did it should be replaced with she who did it",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "It is I,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ not my friend, who has got",
+        "b": "/ 90%",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "who has got should be replaced with who have got",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The real heroes of the rescue?",
+      "exam_source": "",
+      "options": {
+        "a": "/ operation",
+        "b": "/ without caring for their own safety."
+      },
+      "correct": "b",
+      "explanation": "them who should be replaced with those who of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "The scientist who presented the groundbreaking?",
+      "exam_source": "",
+      "options": {
+        "a": "/ research at the",
+        "b": "/ was him who",
+        "c": "/ ten years working on"
+      },
+      "correct": "c",
+      "explanation": "him who should be replaced with he who of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "It was undoubtedly me?",
+      "exam_source": "",
+      "options": {
+        "a": "/ who misunderstood",
+        "b": "/ given by the supervisor",
+        "c": "Solut"
+      },
+      "correct": "a",
+      "explanation": "me who should be replaced with I who of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "It was ......... who completed the entire project before the deadline.",
+      "exam_source": "",
+      "options": {
+        "a": "him",
+        "b": "he",
+        "c": "his",
+        "d": "himself"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 8,
+      "question": "The winners of the competition were ......... who had practised day and night.",
+      "exam_source": "",
+      "options": {
+        "a": "them",
+        "b": "their",
+        "c": "they",
+        "d": "themselves"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 9,
+      "question": "It is ......... who am responsible for maintaining discipline in the classroom.",
+      "exam_source": "",
+      "options": {
+        "a": "me",
+        "b": "mine",
+        "c": "myself",
+        "d": "I"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 10,
+      "question": "Was it ......... who informed the principal about the incident yesterday?",
+      "exam_source": "",
+      "options": {
+        "a": "she",
+        "b": "her",
+        "c": "hers",
+        "d": "herself"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

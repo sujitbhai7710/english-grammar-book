@@ -1,0 +1,256 @@
+{
+  "chapter_no": 10,
+  "title": "Hardly/Scarcely/No Sooner",
+  "section": "A",
+  "start_page": 40,
+  "end_page": 41,
+  "theory": "1   Hardly/ Scarcely\n\n    \t\tHardly/ Scarcely + H.V + Subject1 + M. V + Object + When + Subject2 + Verb + Object\n\n                                                   Clause1                                         Clause2\n       Used to show that one action takes place immediately after the other.\n     ;g n'kkZrk gS fd ,d dk;Z lekIr gksrs gh rqjar nwljk dk;Z ?kfVr gksrk gSA\n\n     2       No Sooner\n\n    \t\tNo Sooner + H.V + Subject1 + M. V + Object + Than + Subject2 + Verb + Object\n\n                                    Clause1                                               Clause2\n       Used to show that two actions take place together.\n     ;g n'kkZrk gS fd nks dk;Z ,d lkFk ?kfVr gksrs gSA",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "No sooner the minister had heard?",
+      "exam_source": "(SSC MTS, 2013)",
+      "options": {
+        "a": "/ about",
+        "b": "/ than he rushed to the spot.",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "2. (b) 3. (d) 4. (a) 5. (b)",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "Hardly had he come out of the cinema hall?",
+      "exam_source": "(SSC CPO, 2017)",
+      "options": {
+        "b": "/ and shattered the",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "\"Then” osQ LFkku ij “when” gksxk] D;ksafd Hardly/Scarcely osQ lkFk when vkrk gSA",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Hardly had I stepped?",
+      "exam_source": "(SSC CHSL, 2016)",
+      "options": {
+        "a": "/ out of my house",
+        "b": "/ I saw them coming towards my",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "d",
+      "explanation": "No error 4. (a) No sooner he had arrived osQ LFkku ij “No sooner had he arrived” gksxk] D;ksafd No sooner sentence dh 'kq:vkr esa vkus ij inversion ysrk gSA",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "No sooner he had arrived?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ than the",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Scarcely did I reach the airport?",
+      "exam_source": "",
+      "options": {
+        "a": "/ nervous",
+        "b": "/ leaving",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "“than” osQ LFkku ij “when” gksxk] D;ksafd Scarcely osQ lkFk when vkrk gSA",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "No sooner had the proposal been circulated?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ that objections were raised",
+        "b": "/ regarding",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "“that” osQ LFkku ij “than” gksxk] D;ksafd No sooner osQ lkFk than vkrk gSA",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "Hardly had he?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ left the room",
+        "b": "/ when the",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "“have” osQ LFkku ij “had” gksxk] D;ksafd guest singular gS vkSj past perfect esa had arrived vkrk gSA 21. Scarcely had the satellite deployed ................. it transmitted its first data packet. \b (SSC CGL, 2025) (a) than (b) when (c) before (d) until 22. Hardly had she entered the room ................. the phone rang.\b (SSC Phase XIII, 2025) (a) when (b) than (c) then (d) while 23. No sooner had he entered the room ................. the fire alarm went off. \b (SSC CGL, 2025) (a) when (b) than (c) but (d) and then 24. Hardly had the meeting begun ................. the auditors requested additional documentation. \b (SSC CGL, 2025) (a) when (b) before (c) than (d) then 25. He had ........ spoken for two minutes when there was a commotion in the crowd. \b (UPSC NDA, 2018) (a) even (b) hardly (c) often (d) little",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "No sooner?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "/ had she left",
+        "b": "/ the room when",
+        "c": "/ the lights went out.",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "“when” osQ LFkku ij “than” gksxk] D;ksafd No sooner osQ lkFk than vkrk gSA",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "Scarcely had the young officer been thrust into the critical situation?",
+      "exam_source": "",
+      "options": {
+        "a": "/ when he began",
+        "b": "/ and",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error 10. (c) \"when\" at the place \"than\" will be, because No sooner's companion than comes is",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "No sooner did Priya?",
+      "exam_source": "(SSC CGL, 2020)",
+      "options": {
+        "a": "/ get her report card",
+        "b": "/ when she started jumping with joy.",
+        "c": "/ No",
+        "d": "\b Hardly/Scarcely/No Sooner"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 18,
+      "question": "No sooner did she shouted, than the thieves ran away leaving all the jewellery on the table. \b?",
+      "exam_source": "(SSC CHSL, 2023)",
+      "options": {
+        "a": "No sooner do she shouts",
+        "b": "No sooner does she shout",
+        "c": "No sooner had she shout",
+        "d": "No sooner did she shout"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 19,
+      "question": "No sooner had he reaching the station than the train began to move. \b?",
+      "exam_source": "(SSC CGL, 2015)",
+      "options": {
+        "a": "No sooner had he reach the station than",
+        "b": "No sooner did he reaching the station",
+        "c": "No sooner had he reached the station",
+        "d": "No improvement"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 20,
+      "question": "No sooner had we reached the station ................. the train left.\b (SSC Phase XIII, 2025)",
+      "exam_source": "",
+      "options": {
+        "a": "than",
+        "b": "when",
+        "c": "then",
+        "d": "that"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 21,
+      "question": "Scarcely had the satellite deployed ................. it transmitted its first data packet. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "than",
+        "b": "when",
+        "c": "before",
+        "d": "until"
+      },
+      "correct": "b",
+      "explanation": "22. (a) 23. (b) 24. (a) 25. (b) Solut",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 22,
+      "question": "Hardly had she entered the room ................. the phone rang.\b (SSC Phase XIII, 2025)",
+      "exam_source": "",
+      "options": {
+        "a": "when",
+        "b": "than",
+        "c": "then",
+        "d": "while"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 23,
+      "question": "No sooner had he entered the room ................. the fire alarm went off. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "when",
+        "b": "than",
+        "c": "but",
+        "d": "and then"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 24,
+      "question": "Hardly had the meeting begun ................. the auditors requested additional documentation. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "when",
+        "b": "before",
+        "c": "than",
+        "d": "then"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 25,
+      "question": "He had ........ spoken for two minutes when there was a commotion in the crowd. \b?",
+      "exam_source": "(UPSC NDA, 2018)",
+      "options": {
+        "a": "even",
+        "b": "hardly",
+        "c": "often",
+        "d": "little"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

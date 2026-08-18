@@ -1,0 +1,272 @@
+{
+  "chapter_no": 60,
+  "title": "Active and Passive Voice",
+  "section": "A",
+  "start_page": 160,
+  "end_page": 162,
+  "theory": "Active Voice                                           Passive Voice\n\n        Subject            Verb            Object              Subject             Verb               Object\n\n         Doer                              Receiver            Receiver                               Doer\n\n        Active Voice — If the Doer of the action is Subject and the receiver of the action is\n             Object, the sentence is in Active Voice.\n     \t\t;fn okD; esa dke djus okyk (Doer) gh Subject gks rFkk ftl ij dke dk izHkko iM+rk gS\n       (Receiver) og Object gks] rks okD; Active Voice esa gksrk gSA\n      Passive Voice — If the Receiver of the action is Subject and the Doer of the action\n       is Object, the sentence is in Passive Voice.\n      ;fn okD; esa dke dk izHkko ftl ij iM+rk gS (Receiver) Subject cu tkrk gS rFkk dke djus\n\n      okyk (Doer) Object cu tkrk gS] rks okD; Passive Voice esa gksrk gSA\n\n                  Condition                     Active Voice                      Passive Voice\n         1     Infinitive                  To + V1                      To + be + V3\n\n         2     Perfect Infinitive          To + have + V3               To + have + been + V3\n\n         3     Modal Indefinite            Modal + V1                   Modal + be + V3\n\n         4     Modal Perfect               Modal + have + V3            Modal + have + been + V3\n\n         5     Present Indefinite          V1/(V1 +s/es)                is/am/are + V3\n\n         6     Past Indefinite             V2                           was/were + V3\n\n         7     Present Continuous          is/am/are+V1+ing             is/am/are + being + V3\n\n         8     Past Continuous             was/were + V1 + ing          was/were + being + V3\n\n         9     Present Perfect             has/have + V3                has/have + been + V3\n\n        10     Past Perfect                had + V3                     had + been + V3",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "Milk products?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "/ was provide protein",
+        "b": "/ for a",
+        "c": "/ balanced diet to everyone."
+      },
+      "correct": "b",
+      "explanation": "was provide should be replaced with provide of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "The psychological actions?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "/ of his wife",
+        "c": "/ No error",
+        "d": "\b Active and Passive Voice",
+        "b": "/ months, they had still"
+      },
+      "correct": "c",
+      "explanation": "was thoroughly upset should be replaced with thoroughly",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "The Minister announced?",
+      "exam_source": "(SSC CHSL, 2021)",
+      "options": {
+        "a": "/ that the bridge",
+        "b": "/ within a week.",
+        "c": "/ no"
+      },
+      "correct": "b",
+      "explanation": "would constructed should be replaced with would be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "Anybody who?",
+      "exam_source": "(SSC CPO, 2020)",
+      "options": {
+        "a": "/ does not stop at",
+        "b": "/ the red",
+        "c": "/ will fined."
+      },
+      "correct": "d",
+      "explanation": "will fined should be replaced with will be fined of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "We must acknowledge?",
+      "exam_source": "(SSC GD, 2022)",
+      "options": {
+        "a": "/ the fact that we",
+        "c": "/ Paris many times with"
+      },
+      "correct": "c",
+      "explanation": "had been visited should be replaced with had visited of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The easiest way to?",
+      "exam_source": "(SSC GD, 2021)",
+      "options": {
+        "a": "/ make pasta is to be",
+        "b": "/ Chef Kapoor’s instructions",
+        "c": "/ on"
+      },
+      "correct": "b",
+      "explanation": "to be followed should be replaced with to follow of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "The report said that?",
+      "exam_source": "(SSC GD, 2021)",
+      "options": {
+        "a": "/ people who are eat meat",
+        "b": "/ are at a higher risk",
+        "c": "/ of fractures."
+      },
+      "correct": "b",
+      "explanation": "are eat should be replaced with eat of use will be, because simple",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "Rohit said that he?",
+      "exam_source": "(SSC MTS, 2020)",
+      "options": {
+        "a": "/ would save me",
+        "b": "/ from",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "been scold should be replaced with being scolded of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "Many workers moving?",
+      "exam_source": "(SSC GD, 2021)",
+      "options": {
+        "a": "/ from one state to",
+        "c": "/ migrant workers."
+      },
+      "correct": "c",
+      "explanation": "called should be replaced with are called of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "The construction of a large commercial complex?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in the center of the city is led to",
+        "b": "/ a"
+      },
+      "correct": "b",
+      "explanation": "is led to should be replaced with has led to of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "The visitors?",
+      "exam_source": "",
+      "options": {
+        "a": "/ were advising not",
+        "b": "/ to enter",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "were advising should be replaced with were advised",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "After the long journey?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the old man was died",
+        "b": "/ in the hospital late at night.",
+        "c": "/ No error",
+        "d": "Answers"
+      },
+      "correct": "b",
+      "explanation": "was died should be replaced with died of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "Why should I suspect by you?",
+      "exam_source": "",
+      "options": {
+        "a": "/ when I have",
+        "b": "/ supported your decisions?",
+        "c": "/ No"
+      },
+      "correct": "a",
+      "explanation": "suspect by you should be replaced with suspected by you",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "She wanted the documents?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to submit before",
+        "b": "/ to avoid any complications in",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "to submit should be replaced with to be submitted of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "The manager expected the project?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to have",
+        "b": "/ before the deadline was",
+        "c": "/ due to unavoidable circumstances."
+      },
+      "correct": "b",
+      "explanation": "to have completed should be replaced with to have been",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 18,
+      "question": "The authorities believed the bridge to have constructed?",
+      "exam_source": "",
+      "options": {
+        "a": "/ within the stipulated time",
+        "b": "/ before the monsoon",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "to have constructed should be replaced with to have been",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 19,
+      "question": "The survey conducting by the independent research?",
+      "exam_source": "",
+      "options": {
+        "a": "/ organisation revealed several",
+        "b": "/ the lifestyle of people",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "conducting should be replaced with conducted of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 20,
+      "question": "The dictator ordered the traitor were jailed.",
+      "exam_source": "",
+      "options": {
+        "a": "was jailed",
+        "b": "to jail",
+        "c": "is jailed",
+        "d": "to be jailed"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 21,
+      "question": "This heap of rubbish has not been remove for 6 months. \b?",
+      "exam_source": "(SSC CHSL, 2023)",
+      "options": {
+        "a": "No improvement",
+        "b": "been removing from",
+        "c": "been removes since",
+        "d": "been removed for"
+      },
+      "correct": "d",
+      "explanation": "22. (a) 15. Why should I suspect by you (a)/ when I have always (b)/ supported your decisions? (c)/ No error (d) 16. She wanted the documents (a)/ to submit before the deadline (b)/ to avoid any complications in the process. (c)/ No error (d) 17. The manager expected the project (a)/ to have completed properly (b)/ before the deadline was extended (c)/ due to unavoidable circumstances. (d) 18. The authorities believed the bridge to have constructed (a)/ within the stipulated time without any delay (b)/ before the monsoon season began in the region. (c)/ No error (d) 19. The survey conducting by the independent research (a)/ organisation revealed several important facts about (b)/ the lifestyle of people living in metropolitan cities. (c)/ No error (d) 20. The dictator ordered the traitor were jailed. (a) was jailed (b) to jail (c) is jailed (d) to be jailed 21. This heap of rubbish has not been remove for 6 months. \b (SSC CHSL, 2023) (a) No improvement (b) been removing from (c) been removes since (d) been removed for 22. The enemy, beating at every point, fled from the field. (a) having been beaten (b) was beaten (c) to beaten (d) No improvement",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 22,
+      "question": "The enemy, beating at every point, fled from the field.",
+      "exam_source": "",
+      "options": {
+        "a": "having been beaten",
+        "b": "was beaten",
+        "c": "to beaten",
+        "d": "No improvement"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    }
+  ]
+}

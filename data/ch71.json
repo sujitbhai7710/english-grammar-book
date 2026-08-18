@@ -1,0 +1,211 @@
+{
+  "chapter_no": 71,
+  "title": "Concept of Short Reply (Inversion)",
+  "section": "A",
+  "start_page": 190,
+  "end_page": 191,
+  "theory": " Positive reply (We use 'So')\n\n       Subject + Verb + ........ + Connector + so + helping Verb + Subject\n\n\t\t                 Positive                               Inversion\n\n e.g. I am happy, and so is she.\n   Negative reply (We use 'Neither/Nor')\n      Subject + Verb + ........ + Connector + Neither/Nor + helping Verb + Subject\n\n\t\t               Negative                                             Inversion\n\n e.g. I don't like coffee, and neither does my brother.\n  Note\n\t\tWe can use \"either\" in case of negative reply, but there is no inversion.\n\n e.g. I don't like coffee, and my brother doesn't either.",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "Janvi does not like travelling?",
+      "exam_source": "",
+      "options": {
+        "a": "/ during",
+        "b": "/ and",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"and neither I do\" should be replaced with \"and neither do",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "She did not attend the important meeting?",
+      "exam_source": "",
+      "options": {
+        "a": "/ organized by the department yesterday",
+        "b": "/ because of an urgent",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"either did I\" should be replaced with \"neither did I\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "I am not interested in watching?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the long",
+        "b": "/ and so am I after such a",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"so am I\" should be replaced with \"neither am I\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The manager did not approve the proposal?",
+      "exam_source": "",
+      "options": {
+        "a": "/ despite several discussions",
+        "b": "/ and the",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "I have never visited Goa?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and neither my",
+        "b": "/ who lives abroad.",
+        "c": "/ No"
+      },
+      "correct": "b",
+      "explanation": "\"neither my brother has\" should be replaced with \"neither",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "I did not understand the complicated explanation?",
+      "exam_source": "",
+      "options": {
+        "a": "/ given by the professor and",
+        "b": "/ who was sitting beside",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"nor does my friend\" should be replaced with \"nor did my",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "I am not satisfied with the performance of the team?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and neither I think they have worked",
+        "b": "/ during the tournament.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"neither I think\" should be replaced with \"nor do I think\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "She did not understand the instructions clearly?",
+      "exam_source": "",
+      "options": {
+        "a": "/ given by the supervisor",
+        "b": "/ and"
+      },
+      "correct": "c",
+      "explanation": "\"did misunderstood her colleague\" of place",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "Riya does not enjoy horror movies, and neither .......... her brother.",
+      "exam_source": "",
+      "options": {
+        "a": "does",
+        "b": "do",
+        "c": "is",
+        "d": "did"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 10,
+      "question": "He plays football well and so ..........",
+      "exam_source": "",
+      "options": {
+        "a": "does he",
+        "b": "did he",
+        "c": "he did",
+        "d": "No improvement"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 11,
+      "question": "The water wasn't clean, and .......... the air.",
+      "exam_source": "",
+      "options": {
+        "a": "so was",
+        "b": "neither was",
+        "c": "neither were",
+        "d": "nor is"
+      },
+      "correct": "b",
+      "explanation": "12. (d) 13. (c) 14. (a) 15. (c) Solut",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 12,
+      "question": "You should study harder for the exam, and .......... your classmate.",
+      "exam_source": "",
+      "options": {
+        "a": "neither should",
+        "b": "nor should",
+        "c": "so must",
+        "d": "so should"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 13,
+      "question": "Sneha doesn't like spicy food, and .......... her parents.",
+      "exam_source": "",
+      "options": {
+        "a": "so do",
+        "b": "neither does",
+        "c": "neither do",
+        "d": "nor does"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 14,
+      "question": "My brother wants to travel to Japan next year, and .......... I.",
+      "exam_source": "",
+      "options": {
+        "a": "so do",
+        "b": "so am",
+        "c": "neither do",
+        "d": "so does dfh"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 15,
+      "question": "The students were not happy withrethe ep new schedule, and .......... the teacher. -@ f?",
+      "exam_source": "",
+      "options": {
+        "a": "so was G",
+        "b": "Tneither were",
+        "c": "neither was o n",
+        "d": "nor were"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

@@ -1,0 +1,989 @@
+{
+  "chapter_no": 1,
+  "title": "Parts of Speech",
+  "section": "A",
+  "start_page": 9,
+  "end_page": 15,
+  "theory": "Parts of Speech                       Definition                                 Examples\n1     Noun              A noun is a word that names a person, Dehradun, Teacher,\n                        place, thing, or idea.                Happiness, Gold, Team,\n                                                              etc.\n2     Pronoun           A pronoun is a word used in place of a I, You, We, It, He, She,\n                        noun to avoid the repetition of the same They, etc.\n                        noun.\n3     Verb              A verb is a word that shows an action, Run, Love,                  Fly,   Smell,\n                        occurrence, or state of being.         Happen etc.\n4     Adjective         An adjective is a word that describes or Smart, Five, Beautiful, Tall,\n                        gives more information about a noun or etc.\n                        pronoun.\n5     Adverb            An adverb is a word that modifies a Quickly, Yesterday, Slowly,\n                        verb, adjective, another adverb, or even Loudly, etc.\n                        a whole sentence.\n6     Preposition       A preposition is a word that shows the In, On, At, With, Between,\n                        relationship between a noun or pronoun etc.\n                        and another word in a sentence.\n7     Conjunction A conjunction is a word that joins or And, But, Either……Or,\n                  connects words, phrases, clauses, or Because, Although, etc.\n                  sentences.\n8     Interjection      An interjection is a word or short Wow!, Ouch!, Alas!,\n                        expression that shows sudden emotion, Hurray!, etc.\n                        feeling, reaction, or surprise.\n\n    Points to Remember\n\n1     Gerund (V1 + ing)                    Noun dh rjg dk;Z djrk gSA\n\n2     Present Participle (V1 + ing)        Adjective dh rjg dk;Z djrk gSA\n\n3     Past Participle (V3)                 Adjective dh rjg dk;Z djrk gSA\n\n4     Perfect Participle (Having + V3)     ,d dk;Z iwjk gksus ds ckn nwljs dk;Z dk gksuk fn•krk gSA\n5     Infinitive (To + V1)                 Noun dh rjg dk;Z djrk gSA\n\n6     Intensifier                          ,d çdkj dk Adverb (Adverb of degree) tks fdlh\n                                           'kCn ds vFkZ dks vf/d etcwr ;k detksj djus dk dk;Z\n                                           djrk gSA\n\n                                                                                             - @f",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "Who came first in the race? \b?",
+      "exam_source": "(UPSC CDS, 2026)",
+      "options": {
+        "a": "Preposition",
+        "b": "Adjective",
+        "c": "Adverb",
+        "d": "Article"
+      },
+      "correct": "c",
+      "explanation": "2. (b) 3. (b) 4. (d) 5. (c)",
+      "format": "regular"
+    },
+    {
+      "qno": 2,
+      "question": "It is obligatory for all employees to wear protective clothing. \b?",
+      "exam_source": "(UPSC CDS, 2026)",
+      "options": {
+        "a": "Noun",
+        "b": "Adjective",
+        "c": "Adverb",
+        "d": "Participle"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 3,
+      "question": "Turn right at the end of the street. \b?",
+      "exam_source": "(UPSC CDS, 2026)",
+      "options": {
+        "a": "Adjective",
+        "b": "Adverb",
+        "c": "Noun",
+        "d": "Preposition"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 4,
+      "question": "Swimming is good for health. \b?",
+      "exam_source": "(UPSC CDS, 2026)",
+      "options": {
+        "a": "Participle",
+        "b": "Verb",
+        "c": "Noun",
+        "d": "Gerund"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 5,
+      "question": "My arms are aching terribly. \b?",
+      "exam_source": "(UPSC CDS, 2026)",
+      "options": {
+        "a": "Noun",
+        "b": "Adjective",
+        "c": "Adverb",
+        "d": "Participle"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 6,
+      "question": "The local council could not finance the project as planned. \b?",
+      "exam_source": "(UPSC CDS, 2026)",
+      "options": {
+        "a": "Noun",
+        "b": "Verb",
+        "c": "Adverb",
+        "d": "Participle"
+      },
+      "correct": "b",
+      "explanation": "7. (b) 8. (c) 9. (d) 10. (b)",
+      "format": "regular"
+    },
+    {
+      "qno": 7,
+      "question": "We met a lot of interesting people during our winter holidays. \b?",
+      "exam_source": "(UPSC CDS, 2026)",
+      "options": {
+        "a": "Conjunction",
+        "b": "Preposition",
+        "c": "Article",
+        "d": "Participle"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 8,
+      "question": "Vicky refused to join the trek to the hills because he is afraid of heights. \b?",
+      "exam_source": "(UPSC CDS, 2026)",
+      "options": {
+        "a": "Verb",
+        "b": "Adverb",
+        "c": "Noun",
+        "d": "Adjective"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 9,
+      "question": "The number of boxes sold leapt from 19,400 to 33,542. \b?",
+      "exam_source": "(UPSC CDS, 2026)",
+      "options": {
+        "a": "Noun",
+        "b": "Adjective",
+        "c": "Adverb",
+        "d": "Verb"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 10,
+      "question": "Amar ensured the timely delivery of the products.\b?",
+      "exam_source": "(UPSC CDS, 2026)",
+      "options": {
+        "a": "Adverb",
+        "b": "Adjective",
+        "c": "Noun",
+        "d": "Preposition"
+      },
+      "correct": "b",
+      "explanation": "mar ensured the timely delivery of the products.\b (UPSC CDS, 2026) (a) Adverb (b) Adjective (c) Noun (d) Preposition 11. He claimed his half share of the booty. \b (UPSC NDA, 2026) (a) Adverb (b) Adjective (c) Noun (d) Determiner 12. I have told you now and again that you must not read such trash. \b (UPSC NDA, 2026) (a) Conjunction (b) Preposition (c) Noun (d) Adverb 13. He succeeded by dint of perseverance and sheer hard work. \b (UPSC NDA, 2026) (a) Conjunctival phrase (b) Adjectival phrase (c) Prepositional phrase (d) Adverbial phrase 14. I need you to return those books I lent you last month. \b (UPSC NDA, 2026) (a) Modal (b) Determiner (c) Noun (d) Adjective 15. List I List II A. Noun 1 Intentional B. Verb 2 Intention C. Present participle 3 Intend D. Adjective 4 Intending (UPSC CDS, 2025) A B C D ll (a) 1 3 4 2 d (b) 2 4 3 1 fr (c) 2 3 4 1 o nT (d) 1 4 3 2 ch 16. List I List II A. Noun 1. Experimental B. Verb 2. Experiment C. \u0007Infinitive form 3. Experimentation of verb D. Adjective 4. To experiment (UPSC CDS, 2025) A B C D (a) 1 4 2 3 (b) 1 2 4 3 (c) 3 4 2 1 (d) 3 2 4 1 17. List I List II A. Noun 1. Discriminatory B. Verb 2. Discrimination C. Gerund 3. Discriminate D. Adjective 4. Discriminating (UPSC CDS, 2025) A B C D (a) 1 3 4 2 (b) 2 4 3 1 (c) 2 3 4 1 (d) 1 4 3 2 18. List I List II A. Noun 1. Suppose B. Verb 2. Supposed C. Adverb 3. Supposition D. Adjective 4. Supposedly (UPSC CDS, 2025) A B C D (a) 3 4 1 2 (b) 3 1 4 2 (c) 2 1 4 3 (d) 2 4 1 3 19. List I List II A. Noun 1. Justify B. Verb 2. Juridical C. Adverb 3. Justice D. Adjective 4. Just (UPSC CDS, 2025) A B C D (a) 2 4 1 3 (b) 2 1 4 3 (c) 3 4 1 2 (d) 3 1 4 2 20. List I List II A. Noun 1. Straight B. Verb 2. Straightest C. Adverb 3. Straighten D. Adjective 4. Straightness (UPSC CDS, 2025) A B C D (a) 2 3 1 4 (b) 2 1 3 4 (c) 4 3 1 2 (d) 4 1 3 2 21. List I List II A. Noun 1. Neglect B. Verb 2. Neglectfulness C. Gerund 3. Neglecting D. Adjective 4. Negligent (UPSC CDS, 2025) A B C D (a) 4 3 1 2 (b) 2 1 3 4 hall (c) 4 1 3 2 df (d) 2 3 1 4 re -@f ear 22. List I List II A. Noun 1. Forbid B. Verb 2. Forbiddingly C. Adverb 3. Forbiddance D. Adjective 4. Forbidden (UPSC CDS, 2025) A B C D (a) 3 1 2 4 (b) 3 2 1 4 (c) 4 2 1 3 (d) 4 1 2 3 23. List I List II A. Noun 1. Hardy B. Verb 2. Hardness C. Adverb 3. Harden D. Adjective 4. Hard (UPSC CDS, 2025) A B C D (a) 1 2 4 2 (b) 2 3 4 1 (c) 2 4 3 1 (d) 1 4 3 2 24. List I List II A. Noun 1. Fastest B. Verb 2. Fasten C. Adverb 3. Fastness D. Adjective 4. Fast (UPSC CDS, 2025) A B C D (a) 1 2 4 3 (b) 3 4 2 1 (c) 3 2 4 1 (d) 1 4 2 3 25. List I List II (Parts of Speech) (Word) A. Noun 1. Qualification B. Verb 2. Conditionally C. Adverb 3. Qualify D. Adjective 4. Qualifying (UPSC CDS, 2025) A B C D (a) 2 4 3 1 (b) 1 2 3 4 (c) 1 3 2 4 (d) 2 3 4 1 26. List I List II (Parts of Speech) (Word) A. Noun 1. Error B. Verb 2. Erroneously C. Adverb 3. Err D. Adjective 4. Erroneous (UPSC CDS, 2025) A B C D (a) 4 3 2 1 (b) 1 2 3 4 (c) 1 3 2 4 (d) 4 2 3 1 27. List I List II (Parts of Speech) (Word) A. Noun 1. Dually B. Verb 2. Duplication C. Adverb 3. Duplicate D. Adjective 4. Duple (UPSC CDS, 2025) A B C D (a) 1 4 3 2 hall (b) 1 3 4 2 ep (c) 2 3 1 4 - @f (d) 2 1 3 4 onT ear 28. List I List II (Parts of Speech) (Word) A. Noun 1. Emanant B. Verb 2. Exodus C. Adverb 3. Outward D. Adjective 4. Exit (UPSC CDS, 2025) A B C D (a) 1 3 4 2 (b) 2 4 3 1 (c) 2 3 4 1 (d) 1 4 3 2 29. List I List II (Parts of Speech) (Word) A. Noun 1. Extremely B. Verb 2. Spectatorial C. Adverb 3. Spectator D. Adjective 4. Spectate (UPSC CDS, 2025) A B C D (a) 2 1 4 3 (b) 2 4 1 3 (c) 3 1 4 2 (d) 3 4 1 2 30. List I List II (Parts of Speech) (Word) A. Noun 1. Knowing B. Verb 2. Know C. Adverb 3. Knowingly D. Adjective 4. Knowledge (UPSC CDS, 2025) A B C D (a) 4 2 3 1 (b) 1 3 2 4 (c) 1 2 3 4 (d) 4 3 2 1 31. List I List II (Parts of Speech) (Word) A. Noun 1. Cogitation B. Verb 2. Pensively C. Adverb 3. Cogitate D. Adjective 4. Cogitative (UPSC CDS, 2025) A B C D (a) 4 2 3 1 (b) 1 2 3 4 (c) 1 3 2 4 (d) 4 3 2 1 32. List I List II (Parts of Speech) (Word) A. Noun 1. Intuitive B. Verb 2. Intuition C. Adverb 4. Intuit D. Adjective 3. Intuitively (UPSC CDS, 2025) A B C D (a) 2 3 4 1 (b) 2 4 3 1 (c) 1 4 3 2 (d) 1 3 4 2 33. She sings much better than I do. (a) Adjective (b) Adverb (c) Verb (d) Conjunction 34. The story was in all the dailies. (a) Noun (b) Adjective (c) Adverb (d) Determiner 35. What made you choose the one rather than the other? (a) Pronoun (b) Verb ll (c) Number (d) Adverb pd 36. There is still some water in the@bottle. (a) Adverb (b)TGConjunction (c) Determiner o n Verb (d) 37. Hurray ! We have won the match. (a) Interjection (b) Conjunction (c) Adjective (d) Interrogative 38. Having finished her work, Sharmila left home at 8:00 PM. (a) Participle (b) Auxiliary verb (c) Adverb (d) Conjunction 39. My teacher always moves around in her class while teaching. (a) Verb (b) Adverb (c) Conjunction (d) Noun 40. The cantankerous men of the town roar around the marketplace. (a) Verb (b) Adverb (c) Determiner (d) Adjective 41. Consequently, this poses a threat to agriculture and human health. \b (UPSC CDS, 2024) (a) Adjective (b) Adverb (c) Verb (d) Noun 42. His only answer was a grunt. \b (UPSC CDS, 2024) (a) Noun (b) Adjective (c) Pronoun (d) Determiner 43. To swim every day is good for health. (a) Participle (b) Infinitive verb (c) Gerund (d) Adjective 44. I didn’t tell him anything except that I needed the money. (UPSC CDS, 2024) (a) Adjective (b) Adverb (c) Preposition (d) Conjunction 45. She married at 18 and gave birth to her first child shortly thereafter. \b (UPSC CDS, 2024) (a) Pronoun (b) Determiner (c) Adjective (d) Adverb 46. The mighty river Brahmaputra flows through the plains of Assam. \b (UPSC CDS, 2024) (a) Adverb (b) Adjective (c) Noun (d) Pronoun 47. The Principal said, “We should always be disciplined.” (a) Preposition (b) Adverb (c) Adjective (d) Determiner 48. I like that boy. (a) Noun (b) Demonstrative Adjective (c) Participle (d) Conjunction 49. Without health there is no happiness. (a) Noun (b) Pronoun (c) Adjective (d) Adverb 50. You have no sense. (a) Noun (b) Determiner (c) Adverb (d) Preposition 51. None of these cars is in use. (a) Reflexive Pronoun (b) Demonstrative Pronoun (c) Personal Pronoun (d) Indefinite Pronoun 52. Owing to his ill health, he retired from business. (a) Conjunction (b) Preposition (c) Participle (d) Determiner 53. Which way shall we go? (a) Noun (b) Gerund (c) Conjunction (d) Adjective 54. The artist pranced around the stage singing enthusiastically. \b (UPSC CDS, 2023) (a) Noun (b) Adjective (c) Adverb (d) Verb 55. Since children have so much homework to do their playtime is very limited. \b (UPSC CDS, 2023) (a) Verb (b) Adjective (c) Pronoun (d) Noun 56. You are most welcome to visit my humble abode. (a) Noun (b) Adjective fha (c) Adverb pd (d) Participle fr@ 57. The situation is beyond our control. (a) Adjective o(b) n Adverb (c) Conjunction rch (d) Preposition 58. Would you like to buy this new item? (a) Determiner (b) Conjunction (c) Interjection (d) Adjective 59. She spoke to him once since he has been in town. \b (UPSC NDA, 2024) (a) Adjective (b) Adverb (c) Conjunction (d) Preposition 60. I don't really want to go. Besides, it's too late now. \b (UPSC NDA, 2024) (a) Adjective (b) Adverb (c) Preposition (d) Conjunction 61. The plane is ready for take-off. (a) Noun (b) Conjunction (c) Verb (d) Gerund 62. How have you earned money ? (a) Noun (b) Pronoun (c) Adverb (d) Adjective 63. The secret is out. (a) Noun (b) Pronoun (c) Adverb (d) Adjective 64. Are you quite sure ? (a) Noun (b) Verb (c) Adverb (d) Adjective 65. I fast twice a week. (a) Noun (b) Pronoun (c) Adverb (d) Verb 66. The only dog I had was stolen. I heard of the accident only yesterday. Answers",
+      "format": "regular"
+    },
+    {
+      "qno": 11,
+      "question": "He claimed his half share of the booty. \b?",
+      "exam_source": "(UPSC NDA, 2026)",
+      "options": {
+        "a": "Adverb",
+        "b": "Adjective",
+        "c": "Noun",
+        "d": "Determiner"
+      },
+      "correct": "b",
+      "explanation": "12. (d) 13. (c) 14. (b) 15. (c)",
+      "format": "regular"
+    },
+    {
+      "qno": 12,
+      "question": "I have told you now and again that you must not read such trash. \b?",
+      "exam_source": "(UPSC NDA, 2026)",
+      "options": {
+        "a": "Conjunction",
+        "b": "Preposition",
+        "c": "Noun",
+        "d": "Adverb"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 13,
+      "question": "He succeeded by dint of perseverance and sheer hard work. \b?",
+      "exam_source": "(UPSC NDA, 2026)",
+      "options": {
+        "a": "Conjunctival phrase",
+        "b": "Adjectival phrase",
+        "c": "Prepositional phrase",
+        "d": "Adverbial phrase"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 14,
+      "question": "I need you to return those books I lent you last month. \b?",
+      "exam_source": "(UPSC NDA, 2026)",
+      "options": {
+        "a": "Modal",
+        "b": "Determiner",
+        "c": "Noun",
+        "d": "Adjective"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 15,
+      "question": "",
+      "exam_source": "(UPSC CDS, 2025)",
+      "options": {
+        "a": "1 3 4 2 d",
+        "b": "2 4 3 1 fr",
+        "c": "2 3 4 1",
+        "d": "1 4 3 2 ch"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "match_following"
+    },
+    {
+      "qno": 16,
+      "question": "",
+      "exam_source": "(UPSC CDS, 2025)",
+      "options": {
+        "a": "1 4 2 3",
+        "b": "1 2 4 3",
+        "c": "3 4 2 1",
+        "d": "3 2 4 1"
+      },
+      "correct": "d",
+      "explanation": "17. (c) 18. (b) 19. (d) 20. (c)",
+      "format": "match_following"
+    },
+    {
+      "qno": 17,
+      "question": "",
+      "exam_source": "(UPSC CDS, 2025)",
+      "options": {
+        "a": "1 3 4 2",
+        "b": "2 4 3 1",
+        "c": "2 3 4 1",
+        "d": "1 4 3 2"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "match_following"
+    },
+    {
+      "qno": 18,
+      "question": "",
+      "exam_source": "(UPSC CDS, 2025)",
+      "options": {
+        "a": "3 4 1 2",
+        "b": "3 1 4 2",
+        "c": "2 1 4 3",
+        "d": "2 4 1 3"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "match_following"
+    },
+    {
+      "qno": 19,
+      "question": "",
+      "exam_source": "(UPSC CDS, 2025)",
+      "options": {
+        "a": "2 4 1 3",
+        "b": "2 1 4 3",
+        "c": "3 4 1 2",
+        "d": "3 1 4 2"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "match_following"
+    },
+    {
+      "qno": 20,
+      "question": "",
+      "exam_source": "(UPSC CDS, 2025)",
+      "options": {
+        "a": "2 3 1 4",
+        "b": "2 1 3 4",
+        "c": "4 3 1 2",
+        "d": "4 1 3 2"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "match_following"
+    },
+    {
+      "qno": 21,
+      "question": "",
+      "exam_source": "(UPSC CDS, 2025)",
+      "options": {
+        "a": "4 3 1 2",
+        "b": "2 1 3 4",
+        "c": "4 1 3 2 df",
+        "d": "2 3 1 4 re"
+      },
+      "correct": "b",
+      "explanation": "22. (a) 23. (b) 24. (c) 25. (c)",
+      "format": "match_following"
+    },
+    {
+      "qno": 22,
+      "question": "",
+      "exam_source": "(UPSC CDS, 2025)",
+      "options": {
+        "a": "3 1 2 4",
+        "b": "3 2 1 4",
+        "c": "4 2 1 3",
+        "d": "4 1 2 3"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "match_following"
+    },
+    {
+      "qno": 23,
+      "question": "",
+      "exam_source": "(UPSC CDS, 2025)",
+      "options": {
+        "a": "1 2 4 2",
+        "b": "2 3 4 1",
+        "c": "2 4 3 1",
+        "d": "1 4 3 2"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "match_following"
+    },
+    {
+      "qno": 24,
+      "question": "",
+      "exam_source": "(UPSC CDS, 2025)",
+      "options": {
+        "a": "1 2 4 3",
+        "b": "3 4 2 1",
+        "c": "3 2 4 1",
+        "d": "1 4 2 3"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "match_following"
+    },
+    {
+      "qno": 25,
+      "question": "",
+      "exam_source": "(UPSC CDS, 2025)",
+      "options": {
+        "a": "2 4 3 1",
+        "b": "1 2 3 4",
+        "c": "1 3 2 4",
+        "d": "2 3 4 1"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "match_following"
+    },
+    {
+      "qno": 26,
+      "question": "",
+      "exam_source": "(UPSC CDS, 2025)",
+      "options": {
+        "a": "4 3 2 1",
+        "b": "1 2 3 4",
+        "c": "1 3 2 4",
+        "d": "4 2 3 1"
+      },
+      "correct": "c",
+      "explanation": "27. (c) 28. (b) 29. (d) 30. (a)",
+      "format": "match_following"
+    },
+    {
+      "qno": 27,
+      "question": "",
+      "exam_source": "(UPSC CDS, 2025)",
+      "options": {
+        "a": "1 4 3 2 hall",
+        "b": "1 3 4 2 ep",
+        "c": "2 3 1 4 - @f",
+        "d": "2 1 3 4 onT"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "match_following"
+    },
+    {
+      "qno": 28,
+      "question": "",
+      "exam_source": "(UPSC CDS, 2025)",
+      "options": {
+        "a": "1 3 4 2",
+        "b": "2 4 3 1",
+        "c": "2 3 4 1",
+        "d": "1 4 3 2"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "match_following"
+    },
+    {
+      "qno": 29,
+      "question": "",
+      "exam_source": "(UPSC CDS, 2025)",
+      "options": {
+        "a": "2 1 4 3",
+        "b": "2 4 1 3",
+        "c": "3 1 4 2",
+        "d": "3 4 1 2"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "match_following"
+    },
+    {
+      "qno": 30,
+      "question": "",
+      "exam_source": "(UPSC CDS, 2025)",
+      "options": {
+        "a": "4 2 3 1",
+        "b": "1 3 2 4",
+        "c": "1 2 3 4",
+        "d": "4 3 2 1"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "match_following"
+    },
+    {
+      "qno": 31,
+      "question": "",
+      "exam_source": "(UPSC CDS, 2025)",
+      "options": {
+        "a": "4 2 3 1",
+        "b": "1 2 3 4",
+        "c": "1 3 2 4",
+        "d": "4 3 2 1"
+      },
+      "correct": "c",
+      "explanation": "32. (b) 33. (b) 34. (a) 35. (a)",
+      "format": "match_following"
+    },
+    {
+      "qno": 32,
+      "question": "",
+      "exam_source": "(UPSC CDS, 2025)",
+      "options": {
+        "a": "2 3 4 1",
+        "b": "2 4 3 1",
+        "c": "1 4 3 2",
+        "d": "1 3 4 2"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "match_following"
+    },
+    {
+      "qno": 33,
+      "question": "She sings much better than I do.",
+      "exam_source": "",
+      "options": {
+        "a": "Adjective",
+        "b": "Adverb",
+        "c": "Verb",
+        "d": "Conjunction"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 34,
+      "question": "The story was in all the dailies.",
+      "exam_source": "",
+      "options": {
+        "a": "Noun",
+        "b": "Adjective",
+        "c": "Adverb",
+        "d": "Determiner"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 35,
+      "question": "What made you choose the one rather than the other?",
+      "exam_source": "",
+      "options": {
+        "a": "Pronoun",
+        "b": "Verb ll",
+        "c": "Number",
+        "d": "Adverb pd"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 36,
+      "question": "There is still some water in the@bottle.",
+      "exam_source": "",
+      "options": {
+        "a": "Adverb",
+        "b": "TGConjunction",
+        "c": "Determiner o n Verb"
+      },
+      "correct": "c",
+      "explanation": "37. (a) 38. (a) 39. (b) 40. (d)",
+      "format": "regular"
+    },
+    {
+      "qno": 37,
+      "question": "Hurray ! We have won the match.",
+      "exam_source": "",
+      "options": {
+        "a": "Interjection",
+        "b": "Conjunction",
+        "c": "Adjective",
+        "d": "Interrogative"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 38,
+      "question": "Having finished her work, Sharmila left home at 8:00 PM.",
+      "exam_source": "",
+      "options": {
+        "a": "Participle",
+        "b": "Auxiliary verb",
+        "c": "Adverb",
+        "d": "Conjunction"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 39,
+      "question": "My teacher always moves around in her class while teaching.",
+      "exam_source": "",
+      "options": {
+        "a": "Verb",
+        "b": "Adverb",
+        "c": "Conjunction",
+        "d": "Noun"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 40,
+      "question": "The cantankerous men of the town roar around the marketplace.",
+      "exam_source": "",
+      "options": {
+        "a": "Verb",
+        "b": "Adverb",
+        "c": "Determiner",
+        "d": "Adjective"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 41,
+      "question": "Consequently, this poses a threat to agriculture and human health. \b?",
+      "exam_source": "(UPSC CDS, 2024)",
+      "options": {
+        "a": "Adjective",
+        "b": "Adverb",
+        "c": "Verb",
+        "d": "Noun"
+      },
+      "correct": "b",
+      "explanation": "42. (b) 43. (b) 44. (d) 45. (d)",
+      "format": "regular"
+    },
+    {
+      "qno": 42,
+      "question": "His only answer was a grunt. \b?",
+      "exam_source": "(UPSC CDS, 2024)",
+      "options": {
+        "a": "Noun",
+        "b": "Adjective",
+        "c": "Pronoun",
+        "d": "Determiner"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 43,
+      "question": "To swim every day is good for health.",
+      "exam_source": "",
+      "options": {
+        "a": "Participle",
+        "b": "Infinitive",
+        "c": "Gerund",
+        "d": "Adjective"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 44,
+      "question": "I didn’t tell him anything except that I needed the money.",
+      "exam_source": "(UPSC CDS, 2024)",
+      "options": {
+        "a": "Adjective",
+        "b": "Adverb",
+        "c": "Preposition",
+        "d": "Conjunction"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 45,
+      "question": "She married at 18 and gave birth to her first child shortly thereafter. \b?",
+      "exam_source": "(UPSC CDS, 2024)",
+      "options": {
+        "a": "Pronoun",
+        "b": "Determiner",
+        "c": "Adjective",
+        "d": "Adverb"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 46,
+      "question": "The mighty river Brahmaputra flows through the plains of Assam. \b?",
+      "exam_source": "(UPSC CDS, 2024)",
+      "options": {
+        "a": "Adverb",
+        "b": "Adjective",
+        "c": "Noun",
+        "d": "Pronoun"
+      },
+      "correct": "b",
+      "explanation": "47. (b) 48. (b) 49. (a) 50. (b)",
+      "format": "regular"
+    },
+    {
+      "qno": 47,
+      "question": "The Principal said, “We should always be disciplined.”?",
+      "exam_source": "",
+      "options": {
+        "a": "Preposition",
+        "b": "Adverb",
+        "c": "Adjective",
+        "d": "Determiner"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 48,
+      "question": "I like that boy.",
+      "exam_source": "",
+      "options": {
+        "a": "Noun",
+        "b": "Demonstrative Adjective",
+        "c": "Participle",
+        "d": "Conjunction"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 49,
+      "question": "Without health there is no happiness.",
+      "exam_source": "",
+      "options": {
+        "a": "Noun",
+        "b": "Pronoun",
+        "c": "Adjective",
+        "d": "Adverb"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 50,
+      "question": "You have no sense.",
+      "exam_source": "",
+      "options": {
+        "a": "Noun",
+        "b": "Determiner",
+        "c": "Adverb",
+        "d": "Preposition"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 51,
+      "question": "None of these cars is in use.",
+      "exam_source": "",
+      "options": {
+        "a": "Reflexive Pronoun",
+        "b": "Demonstrative Pronoun",
+        "c": "Personal Pronoun",
+        "d": "Indefinite Pronoun"
+      },
+      "correct": "d",
+      "explanation": "52. (b) 53. (d) 54. (d) 55. (d)",
+      "format": "regular"
+    },
+    {
+      "qno": 52,
+      "question": "Owing to his ill health, he retired from business.",
+      "exam_source": "",
+      "options": {
+        "a": "Conjunction",
+        "b": "Preposition",
+        "c": "Participle",
+        "d": "Determiner"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 53,
+      "question": "Which way shall we go?",
+      "exam_source": "",
+      "options": {
+        "a": "Noun",
+        "b": "Gerund",
+        "c": "Conjunction",
+        "d": "Adjective"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 54,
+      "question": "The artist pranced around the stage singing enthusiastically. \b?",
+      "exam_source": "(UPSC CDS, 2023)",
+      "options": {
+        "a": "Noun",
+        "b": "Adjective",
+        "c": "Adverb",
+        "d": "Verb"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 55,
+      "question": "Since children have so much homework to do their playtime is very limited. \b?",
+      "exam_source": "(UPSC CDS, 2023)",
+      "options": {
+        "a": "Verb",
+        "b": "Adjective",
+        "c": "Pronoun",
+        "d": "Noun"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 56,
+      "question": "You are most welcome to visit my humble abode.",
+      "exam_source": "",
+      "options": {
+        "a": "Noun",
+        "b": "Adjective fha",
+        "c": "Adverb pd",
+        "d": "Participle"
+      },
+      "correct": "a",
+      "explanation": "57. (d) 58. (a) 59. (c) 60. ha (b) p (c)",
+      "format": "regular"
+    },
+    {
+      "qno": 57,
+      "question": "The situation is beyond our control.",
+      "exam_source": "",
+      "options": {
+        "a": "Adjective",
+        "b": "n Adverb",
+        "c": "Conjunction rch",
+        "d": "Preposition"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 58,
+      "question": "Would you like to buy this new item?",
+      "exam_source": "",
+      "options": {
+        "a": "Determiner",
+        "b": "Conjunction",
+        "c": "Interjection",
+        "d": "Adjective"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 59,
+      "question": "She spoke to him once since he has been in town. \b?",
+      "exam_source": "(UPSC NDA, 2024)",
+      "options": {
+        "a": "Adjective",
+        "b": "Adverb",
+        "c": "Conjunction",
+        "d": "Preposition"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 60,
+      "question": "I don't really want to go. Besides, it's too late now. \b?",
+      "exam_source": "(UPSC NDA, 2024)",
+      "options": {
+        "a": "Adjective",
+        "b": "Adverb",
+        "c": "Preposition",
+        "d": "Conjunction"
+      },
+      "correct": "",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 61,
+      "question": "The plane is ready for take-off.",
+      "exam_source": "",
+      "options": {
+        "a": "Noun",
+        "b": "Conjunction",
+        "c": "Verb",
+        "d": "Gerund"
+      },
+      "correct": "a",
+      "explanation": "62. (c) 63. (c) 64. (c) 65. (d) (a) Adverb & Adverb (b) Adjective & Adjective (c) Adverb & Adjective (d) Adjective & Adverb 67. Come near while I speak to you. Annie is a near relative of mine. There is a lovely cottage near the temple. (a) Adverb, Adverb & Adjective (b) Adverb, Adjective & Preposition (c) Adverb, Adjective & Noun (d) Adjective, Adverb & Preposition 68. Still water runs deep. She is still in business. Her voice could be heard in the still of the night. (a) Adverb, Verb & Adjective (b) Noun, Adjective & Adverb (c) Adverb, Verb & Noun (d) Adjective, Adverb & Noun 69. Why, that is surely Kavita! Why did you do it? (a) Interjection & Adverb (b) Adverb & Interjection (c) Pronoun & Adverb (d) Adverb & Pronoun 70. Let the well alone for a while. I hope you are now well. Well begun is half done. (a) Noun, Adverb & Adjective (b) Adjective, Adverb & Adverb (c) Noun, Adjective & Adverb (d) Adjective, Adverb & Noun",
+      "format": "regular"
+    },
+    {
+      "qno": 62,
+      "question": "How have you earned money ?",
+      "exam_source": "",
+      "options": {
+        "a": "Noun",
+        "b": "Pronoun",
+        "c": "Adverb",
+        "d": "Adjective"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 63,
+      "question": "The secret is out.",
+      "exam_source": "",
+      "options": {
+        "a": "Noun",
+        "b": "Pronoun",
+        "c": "Adverb",
+        "d": "Adjective"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 64,
+      "question": "Are you quite sure ?",
+      "exam_source": "",
+      "options": {
+        "a": "Noun",
+        "b": "Verb",
+        "c": "Adverb",
+        "d": "Adjective"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 65,
+      "question": "I fast twice a week.",
+      "exam_source": "",
+      "options": {
+        "a": "Noun",
+        "b": "Pronoun",
+        "c": "Adverb",
+        "d": "Verb"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 66,
+      "question": "The only dog I had was stolen. I heard of the accident only yesterday. Answers 1. (c) 2. (b) 3. (b) 4. (d) 5. (c) 11. (b) 12. (d) 13. (c) 14. (b) 15. (c) 21. (b) 22.",
+      "exam_source": "",
+      "options": {
+        "c": "2.",
+        "b": "3.",
+        "d": "5.",
+        "a": "23."
+      },
+      "correct": "d",
+      "explanation": "67. (b) 68. (d) 69. (a) e 70. - @f ear",
+      "format": "regular"
+    },
+    {
+      "qno": 67,
+      "question": "Come near while I speak to you. Annie is a near relative of mine. There is a lovely cottage near the temple.",
+      "exam_source": "",
+      "options": {
+        "a": "Adverb, Adverb & Adjective",
+        "b": "Adverb, Adjective & Preposition",
+        "c": "Adverb, Adjective & Noun",
+        "d": "Adjective, Adverb & Preposition"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 68,
+      "question": "Still water runs deep. She is still in business. Her voice could be heard in the still of the night.",
+      "exam_source": "",
+      "options": {
+        "a": "Adverb, Verb & Adjective",
+        "b": "Noun, Adjective & Adverb",
+        "c": "Adverb, Verb & Noun",
+        "d": "Adjective, Adverb & Noun"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 69,
+      "question": "Why, that is surely Kavita! Why did you do it?",
+      "exam_source": "",
+      "options": {
+        "a": "Interjection & Adverb",
+        "b": "Adverb & Interjection",
+        "c": "Pronoun & Adverb",
+        "d": "Adverb & Pronoun"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 70,
+      "question": "Let the well alone for a while. I hope you are now well. Well begun is half done.",
+      "exam_source": "",
+      "options": {
+        "a": "Noun, Adverb & Adjective",
+        "b": "Adjective, Adverb & Adverb",
+        "c": "Noun, Adjective & Adverb",
+        "d": "Adjective, Adverb & Noun"
+      },
+      "correct": "",
+      "explanation": "",
+      "format": "regular"
+    }
+  ]
+}

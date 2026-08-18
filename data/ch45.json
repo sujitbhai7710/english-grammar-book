@@ -1,0 +1,143 @@
+{
+  "chapter_no": 45,
+  "title": "Order of Definite Adjectives",
+  "section": "A",
+  "start_page": 122,
+  "end_page": 122,
+  "theory": "1 Cardinal - Cardinal numbers show quantity (how many) (fdrus@fxurh).\n  \t\t Ex. — one, two, three, four\n   2 Ordinal - Ordinal numbers show position or order (LFkku ;k ozQe).\n  \t\t Ex. — first, second, third, fourth.\n   3 Ordinal Number comes FIRST\n       4 Cardinal Number comes AFTER.\n       Structure: Ordinal Number + Cardinal Number + Noun",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "During the selection process?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the panel",
+        "b": "/ who had applied",
+        "c": "/ for the position."
+      },
+      "correct": "b",
+      "explanation": "the four first candidates should be replaced with the first",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "The lessons of your book?",
+      "exam_source": "",
+      "options": {
+        "a": "/ are very",
+        "b": "/ especially the three last lessons",
+        "c": "/ for the final examination conducted by the"
+      },
+      "correct": "c",
+      "explanation": "the three last lessons should be replaced with the last",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "You must study the two first chapters?",
+      "exam_source": "",
+      "options": {
+        "b": "/ to understand the",
+        "c": "/ before moving to advanced"
+      },
+      "correct": "a",
+      "explanation": "the two first chapters should be replaced with the first two",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "I found?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the three first chapters of the book",
+        "b": "/ particularly interesting.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "the three first chapters should be replaced with the first",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "The report outlines?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the four first highly",
+        "b": "/ located along",
+        "c": "/ across the Pacific"
+      },
+      "correct": "b",
+      "explanation": "the four first highly sensitive seismic zones",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "During the exam, he attempted the first five questions?",
+      "exam_source": "",
+      "options": {
+        "a": "/ which were quite simple and",
+        "b": "/ the difficult",
+        "c": "/ No",
+        "d": "Answers"
+      },
+      "correct": "d",
+      "explanation": "No error",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "The two first to arrive?",
+      "exam_source": "",
+      "options": {
+        "a": "/ were the lucky",
+        "b": "/ of a surprise gift.",
+        "c": "/ No Error"
+      },
+      "correct": "a",
+      "explanation": "The two first should be replaced with The first two of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The party nominated the three first senior leaders for the parliamentary committee.",
+      "exam_source": "",
+      "options": {
+        "a": "the three senior first leaders",
+        "b": "the first three senior leaders",
+        "c": "the senior three first leaders",
+        "d": "No improvement"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 9,
+      "question": "The chronicle records only the first two decisive victories achieved by the army.",
+      "exam_source": "",
+      "options": {
+        "a": "the first two only decisive victories",
+        "b": "only the two first decisive victories",
+        "c": "the only first two decisive victories",
+        "d": "No improvement"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 10,
+      "question": "The government reviewed the five last fiscal policies before presenting the budget.",
+      "exam_source": "",
+      "options": {
+        "a": "the last five fiscal policies",
+        "b": "the fiscal last five policies",
+        "c": "the fiscal five last policies",
+        "d": "No improvement"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    }
+  ]
+}

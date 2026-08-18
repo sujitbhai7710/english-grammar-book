@@ -1,0 +1,194 @@
+{
+  "chapter_no": 44,
+  "title": "Half of / Some of / A Lot of",
+  "section": "A",
+  "start_page": 120,
+  "end_page": 121,
+  "theory": "Rule\n                                                                Plural Noun + Plural Verb\n                                                                 e.g. Half of the girls are here.\n       Half / Half of / Some / Some of /\n                                                                Singular Noun + Singular Verb\n       Enough / Enough of / A lot of / Lots of\n                                                                 e.g. Half of the apple is fresh.\n                                                                Uncountable Noun + Singular Verb\n                                                                 e.g. Half of the water is cold.",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "Lots of luggage?",
+      "exam_source": "",
+      "options": {
+        "a": "/ have been misplaced",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "have should be replaced with has of use will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "A Lots of work?",
+      "exam_source": "",
+      "options": {
+        "a": "/ has been completed",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "A Lots of should be replaced with A lot of lots of of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Some of the senior officials working in the administrative department of the organization?",
+      "exam_source": "",
+      "options": {
+        "a": "/ who own vast experience in handling",
+        "b": "/ believes that"
+      },
+      "correct": "c",
+      "explanation": "believes should be replaced with believe of use will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "Half of the population living in urban?",
+      "exam_source": "",
+      "options": {
+        "b": "/ by",
+        "c": "/ caused by"
+      },
+      "correct": "b",
+      "explanation": "are should be replaced with is of use will because half",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "The unseasonal rain?",
+      "exam_source": "(SSC CGL, 2022)",
+      "options": {
+        "a": "/ caused a lot of",
+        "b": "/ to the crops.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "d",
+      "explanation": "No error",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "Some of the issues discussed?",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "/ on the media",
+        "b": "/ has no relevance",
+        "c": "/ to the",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "has should be replaced with have of use will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "Enough of the participants in the training program?",
+      "exam_source": "",
+      "options": {
+        "a": "/ has understood the core concepts",
+        "b": "/ and are able to apply them",
+        "c": "/ in practical situations."
+      },
+      "correct": "b",
+      "explanation": "has should be replaced with have of use will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "Lots of players selected for the match?",
+      "exam_source": "",
+      "options": {
+        "a": "/ have",
+        "b": "/ while the",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "has should be replaced with have of use will because the",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "Half of the candidates who appeared for the h all examination?",
+      "exam_source": "",
+      "options": {
+        "a": "/ has failed to qualify due f",
+        "b": "/ in the evaluation",
+        "c": "/@f by the",
+        "d": "T G"
+      },
+      "correct": "b",
+      "explanation": "has should be replaced with have of use will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "Some of the information collected during the survey?",
+      "exam_source": "",
+      "options": {
+        "a": "/ are not reliable enough to",
+        "b": "/ about the effectiveness",
+        "c": "/ implemented by the"
+      },
+      "correct": "b",
+      "explanation": "are should be replaced with is of use will because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "A lot of money allocated for development projects was not utilized properly?",
+      "exam_source": "",
+      "options": {
+        "a": "/ due to",
+        "b": "/ followed earlier by the authorities",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "Half of the books available in the library?",
+      "exam_source": "",
+      "options": {
+        "b": "/ but some",
+        "c": "/ No error",
+        "d": "Answers",
+        "a": "3."
+      },
+      "correct": "c",
+      "explanation": "is should be replaced with are of use will because some of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "My professor gave me a lot of useful advices when I was writing my research paper.\b?",
+      "exam_source": "(SSC\n           CHSL, 2019)",
+      "options": {
+        "a": "gave me a lots of useful advices",
+        "b": "gave me a lot of useful advice",
+        "c": "No improvement",
+        "d": "give me lots of useful advices"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 15,
+      "question": "Lot of times she advised him for not being lazy for completing such a tough task. \b?",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "No improvement",
+        "b": "Much of time",
+        "c": "A lot of times",
+        "d": "A lot of time"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "sentence_improve"
+    }
+  ]
+}

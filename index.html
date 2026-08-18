@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Concept Book of English Grammar — Interactive Edition</title>
+  <meta name="description" content="Complete English Grammar book with 132 chapters and 4000+ interactive MCQs. Beautifully designed, point-wise theory with colored callouts and instant-answer MCQs.">
+  <meta name="theme-color" content="#4f46e5">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a class="brand" href="index.html" style="text-decoration:none;">
+        <span class="brand-logo">📚</span>
+        <span class="brand-text">
+          <span class="site-title">Concept Book of English Grammar</span>
+          <span class="site-subtitle">Interactive Edition · 132 Chapters · 4,000+ MCQs</span>
+        </span>
+      </a>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+
+      <!-- Hero -->
+      <section class="hero">
+        <div class="hero-inner">
+          <span class="badge-emoji">✨</span>
+          <h1>Master English Grammar,<br>One Click at a Time</h1>
+          <p class="hero-lead">
+            A complete English grammar reference with beautifully illustrated theory
+            and interactive multiple-choice questions. Click any option to instantly
+            reveal whether you're right (green) or wrong (red) — the correct answer
+            is always highlighted, and a clear explanation appears below.
+          </p>
+          <div class="hero-stats">
+            <div class="hero-stat">
+              <div class="stat-value" id="stat-chapters">132</div>
+              <div class="stat-label">Chapters</div>
+            </div>
+            <div class="hero-stat">
+              <div class="stat-value" id="stat-mcqs">4,000+</div>
+              <div class="stat-label">MCQs</div>
+            </div>
+            <div class="hero-stat">
+              <div class="stat-value" id="stat-sections">4</div>
+              <div class="stat-label">Sections</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Toolbar: search + section tabs -->
+      <div class="toolbar">
+        <div class="search-wrap">
+          <span class="search-icon">🔍</span>
+          <input
+            type="text"
+            class="search-input"
+            id="search-input"
+            placeholder="Search chapters by title or number…"
+            aria-label="Search chapters"
+          >
+        </div>
+        <div class="section-tabs" role="tablist" aria-label="Filter by section">
+          <button class="section-tab active" data-section="ALL" type="button">All</button>
+          <button class="section-tab" data-section="A" type="button">
+            <span class="dot"></span> Section A
+          </button>
+          <button class="section-tab" data-section="B" type="button">
+            <span class="dot"></span> Section B
+          </button>
+          <button class="section-tab" data-section="C" type="button">
+            <span class="dot"></span> Section C
+          </button>
+          <button class="section-tab" data-section="D" type="button">
+            <span class="dot"></span> Section D
+          </button>
+        </div>
+      </div>
+
+      <!-- TOC container (rendered by main.js) -->
+      <div id="toc-container">
+        <div class="loading">
+          <div class="spinner"></div>
+          <div>Loading chapters…</div>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-brand">Concept Book of English Grammar</div>
+      <div>Interactive Edition — designed for learners, by learners.</div>
+      <div class="footer-meta">
+        Hosted on GitHub Pages · Based on the original work by Sanjeev Sir (Rojgar Publication)
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/js/main.js"></script>
+</body>
+</html>

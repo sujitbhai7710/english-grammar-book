@@ -1,0 +1,385 @@
+{
+  "chapter_no": 34,
+  "title": "Fixed Preposition 'From'",
+  "section": "A",
+  "start_page": 98,
+  "end_page": 101,
+  "theory": " There are some words and phrases that take preposition \"From\" after them. Such\n     words and phrases are:\n\n       Word + Preposition           English Meaning               Hindi Meaning\n1         Abstain from          To stay away from / avoid            ijgst djuk\n2         Alienate from       To make someone feel isolated         vyx dj nsuk\n3          Alight from            To get off (bus/train)                mrjuk\n4           Bar from            To be officially prevented          jksd fn;k tkuk\n5          Debar from                  To prohibit                  jksduk@gVk nsuk\n6          Derive from           To obtain from a source               fudyuk\n7          Desist from          To stop doing something                 jksduk\n8          Detach from          To separate or disconnect            vyx djuk\n9          Deter from           To discourage or prevent                jksduk\n10        Deviate from          To turn away from a path                HkVduk\n11         Differ from                To be unlike              vyx gksuk @ fHkUu gksuk\n12        Different from            Not the same as                  vyx @ fHkUu\n13        Dissuade from        To persuade someone not to         euk djuk @ jksduk\n                                      do something\n14        Emerge from                To come out of                fudyuk @ mHkjuk\n15         Escape from              To get free from                cpdj fudyuk\n16        Exclude from               To keep out of                   ckgj j•uk\n17        Exempt from            Free from an obligation               NwV nsuk\n18       Exonerate from         To clear of blame/charge            nks\"keqDr djuk\n19         Expel from               To force to leave                 fudky nsuk\n20          Free from               Not restricted by                 eqDr gksuk\n21        Prevent from        To stop someone from doing                jksduk\n22        Prohibit from            To forbid formally                fu\"ks/ djuk                      ll\n\n23         Protect from             To keep safe from                 j{kk djuk           ep\n\n                                                                                 - @f\n24        Recover from            To become well again            Bhd gksuk @ TmHkjuk\n\n                                                                          o n\n\n        25          Refrain from              To stop oneself from doing             cpuk @ ijgst djuk\n        26          Remove from                        To take away                            gVkuk\n        27          Restrain from            To keep under control / pre-           fu;af=kr djuk @ jksduk\n                                                       vent\n        28            Save from               To rescue or keep safe from                    cpkuk\n        29          Separate from                     To keep apart                       vyx djuk\n        30            Stem from                     To originate from                   ls mRiUu gksuk\n        31           Suffer from               To experience pain/illness                 ihfM+r gksuk\n        32         Withdraw from               To take out or move back            ihNs gVuk @ vyx gksuk",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "Before going to bed,?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "/ the mother ensured",
+        "c": "/ was protected by the chilling",
+        "d": "\b"
+      },
+      "correct": "d",
+      "explanation": "\"protected by\" should be replaced with \"protected",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "The two designs differ significantly with?",
+      "exam_source": "",
+      "options": {
+        "b": "/ and durability",
+        "c": "/ during usage."
+      },
+      "correct": "a",
+      "explanation": "\"differ with\" should be replaced with \"differ from\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "When viewed with his point of view, the?",
+      "exam_source": "",
+      "options": {
+        "b": "/ a different colour",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"with\" should be replaced with \"from\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "He decided to resign voluntarily?",
+      "exam_source": "",
+      "options": {
+        "a": "/ of his",
+        "b": "/ after",
+        "c": "/ with"
+      },
+      "correct": "b",
+      "explanation": "\"resign voluntarily of\" should be replaced with \"resign",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Many young professionals refrain to express their genuine opinions?",
+      "exam_source": "",
+      "options": {
+        "a": "/ during official",
+        "b": "/ because they fear criticism"
+      },
+      "correct": "a",
+      "explanation": "\"refrain to express\" should be replaced with \"refrain",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "I wanted to play tennis?",
+      "exam_source": "(SSC STENO, 2020)",
+      "options": {
+        "a": "/ but my parents",
+        "b": "/ the school team.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "\"prevented me to join\" should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "His cellphone is?",
+      "exam_source": "(SSC CPO, 2022)",
+      "options": {
+        "a": "/ different and costlier",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "\"than\" should be replaced with \"from\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "Please refrain to?",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "/ going out without",
+        "b": "/a face",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"refrain to going\" should be replaced with \"refrain",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "Strict laws and heavy penalties?",
+      "exam_source": "",
+      "options": {
+        "a": "/ were",
+        "b": "/ to deter the",
+        "c": "/ No error",
+        "d": "eself from doing cpuk @ ijgst djuk"
+      },
+      "correct": "c",
+      "explanation": "\"deter to commit\" should be replaced with \"deter",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "He is completely free?",
+      "exam_source": "",
+      "options": {
+        "a": "/ for all kinds of",
+        "b": "/ and can focus on his",
+        "c": "/ without any pressure."
+      },
+      "correct": "b",
+      "explanation": "\"free for\" should be replaced with \"free from\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "This result is far?",
+      "exam_source": "",
+      "options": {
+        "a": "/ than what we had expected",
+        "b": "/ after analyzing the data carefully",
+        "c": "/ in the"
+      },
+      "correct": "b",
+      "explanation": "\"far than\" should be replaced with \"far from\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "His illness unfortunately precluded him to participate in the conference?",
+      "exam_source": "",
+      "options": {
+        "a": "/ which was",
+        "b": "/ by several distinguished scholars",
+        "c": "/ from different countries."
+      },
+      "correct": "a",
+      "explanation": "\"precluded him to participate\" of place",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "The organisation is exempted?",
+      "exam_source": "",
+      "options": {
+        "a": "/ with paying",
+        "b": "/ under the new policy introduced",
+        "c": "/ by the government."
+      },
+      "correct": "b",
+      "explanation": "\"exempted with paying\" should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "In an attempt to establish an independent identity?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the young leader finally decided",
+        "b": "/ to break",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"break away of\" should be replaced with \"break away",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "The health experts repeatedly emphasized that?",
+      "exam_source": "",
+      "options": {
+        "a": "/ abstinence of alcohol and tobacco",
+        "b": "/ is",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"abstinence of\" should be replaced with \"abstinence",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "After a thorough investigation by the committee,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the officer was exonerated of all the charges",
+        "b": "/ that had earlier been brought against him.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"exonerated of\" should be replaced with \"exonerated",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "The sudden surge in inflation stems from thel l disruption of global supply chains. pdf?",
+      "exam_source": "",
+      "options": {
+        "a": "stemming from",
+        "b": "stem from",
+        "c": "has stemmed from T G-",
+        "d": "No improvement h o"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 18,
+      "question": "The villagers are suffering with a shortage of clean water. \b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "suffering by",
+        "b": "suffering in",
+        "c": "suffering from",
+        "d": "No substitution"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 19,
+      "question": "We must prevent him to making the same mistake again. \b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "prevent him for making",
+        "b": "prevent him from making",
+        "c": "prevent him in making",
+        "d": "No substitution"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 20,
+      "question": "The results were different ......... what we had expected.",
+      "exam_source": "",
+      "options": {
+        "a": "to",
+        "b": "from",
+        "c": "than",
+        "d": "with"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 21,
+      "question": "The teacher advised him to abstain .......... bad company. \b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "with",
+        "b": "of",
+        "c": "for",
+        "d": "from"
+      },
+      "correct": "d",
+      "explanation": "22. (a) 23. (b) 24. (a) 25. (d) Solut",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 22,
+      "question": "She refrained .......... commenting publicly and instead focused .......... internal communication. \b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "from, on",
+        "b": "of, in",
+        "c": "for, by",
+        "d": "with, to"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 23,
+      "question": "The politician distanced himself .......... the scandal and shifted blame .......... his aides. \b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "off , to",
+        "b": "from, onto",
+        "c": "with, over",
+        "d": "by, upon"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 24,
+      "question": "Her lecture ranged .......... quantum mechanics to cognitive linguistics. \b?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "from",
+        "b": "between",
+        "c": "among",
+        "d": "over"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 25,
+      "question": "The security guards prevented the common people .......... entering the hall. \b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "against",
+        "b": "out",
+        "c": "about",
+        "d": "from"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 26,
+      "question": "The annoyed lady refrained .......... reprimanding the stranger. \b?",
+      "exam_source": "(SSC MTS, 2025)",
+      "options": {
+        "a": "to",
+        "b": "against",
+        "c": "from",
+        "d": "for"
+      },
+      "correct": "c",
+      "explanation": "27. (c) 28. (c) tions Differ with:- Used for disagreement with a person (ls vlger gksuk)",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 27,
+      "question": "The minister was exempted .......... paying the toll due to his official status. \b?",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "for",
+        "b": "to",
+        "c": "from",
+        "d": "with"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 28,
+      "question": "The witness was finally exonerated ………. all the charges after the new evidence came to light.",
+      "exam_source": "",
+      "options": {
+        "a": "of",
+        "b": "with",
+        "c": "from",
+        "d": "at"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    }
+  ]
+}

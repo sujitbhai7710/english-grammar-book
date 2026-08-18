@@ -1,0 +1,258 @@
+{
+  "chapter_no": 101,
+  "title": "Noun and the Number",
+  "section": "A",
+  "start_page": 264,
+  "end_page": 268,
+  "theory": "Singular         Plural\n1         Goose       Geese\n\n2         Louse        Lice\n\n3        Mouse        Mice\n\n4         Foot         Feet\n\n5         Tooth       Teeth\n\n6         Child      Children\n\n7         Deer         Deer\n\n8         Sheep       Sheep\n\n9          Fish        Fish\n\n10       Aircraft    Aircraft\n\n11       Salmon      Salmon\n\n12       Species     Species\n\n13        Series      Series\n\n14      Offspring   Offspring\n\n15       Cactus       Cacti\n\n16       Fungus       Fungi\n\n17       Radius       Radii\n\n18       Syllabus     Syllabi\n\n19    Phenomenon    Phenomena\n\n20      Criterion    Criteria\n\n21      Bacterium    Bacteria\n\n22       Formula    Formulae\n\n23       Erratum      Errata\n\n24       Medium       Media\n\n25    Memorandum    Memoranda                                 df\n\n26       Datum         Data                      -  @f\n\n27       Analysis    Analyses\n\n28    Thesis      Theses\n\n29    Crisis      Crises\n\n30    Knife       Knives\n\n31     Life       Lives\n\n32     Elf        Elves\n\n33     Wife       Wives\n\n34     Leaf       Leaves\n\n35    Wolf       Wolves\n\n36    Shelf      Shelves\n\n37     City       Cities\n\n38    Baby        Babies\n\n39    Echo        Echoes\n\n40    Cargo      Cargoes\n\n41    Hero       Heroes\n\n42   Mosquito   Mosquitoes\n\n43     Boy        Boys\n\n44     Toy        Toys\n\n45     Turf       Turfs\n\n46    Scarf       Scarfs\n\n47     Roof       Roofs\n\n48    Dwarf      Dwarfs\n\n49    Chief       Chiefs\n\n50    Belief      Beliefs\n\n51     Cliff      Cliffs\n\n52    Piano       Pianos\n\n53   Dynamo     Dynamos                                   df\n\n54     Solo       Solos                      -  @f\n\n55   Memento    Mementos                onT\n\n56        Portfolio            Portfolios\n\n57         Radio                Radios\n\n58         Story                Stories\n\n59         Storey               Storeys\n\n60         Valley               Valleys\n\n61        Monkey               Monkeys\n\n62          Key                  Keys\n\n63          Way                  Ways\n\n64      Father-in-law        Fathers-in-law\n\n65     Editor-in-chief      Editors-in-chief\n\n66     Mother-in-law        Mothers-in-law\n\n67   Commander-in-chief   Commanders-in-chief\n\n68        Step-son             Step-sons\n\n69     Step-daughter        Step-daughters\n\n70      Man-servant          Men-servants\n\n71     Forget-me-not        Forget-me-nots\n\n72        Break-in             Break-ins\n\n73       Looker-on            Lookers-on\n\n74       Passer-by            Passers-by\n\n75       Check-up             Check-ups\n\n76         Lay-off              Lay-offs\n\n77       Mouthful             Mouthfuls\n\n78        Spoonful             Spoonfuls\n\n79         Bagful               Bagfuls\n\n80        Handful              Handfuls\n\n81      Man doctor            Men doctors                             df\n\n82     Woman doctor         Women doctors                -  @f\n\n83    Attorney general     Attorneys general h o\n                                               arc\n\n      84               Officer in-charge                                Officers in-charge\n\n      85               Code of conduct                                   Codes of conduct\n\n      86                   Book shelf                                       Book shelves\n      87               General manager                                  General managers\n      88                    Alumnus                                            Alumni\n      89                    Stimulus                                            Stimuli\n      90                     Nucleus                                            Nuclei\n      91                      Penny                     Pennies (Separate coins) / Pence (Total amount)\n      92                       Alga                                             Algae",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "Several passer-bys?",
+      "exam_source": "",
+      "options": {
+        "a": "/ gathered around the accident",
+        "b": "/ to see what had happened",
+        "c": "/ on the busy"
+      },
+      "correct": "a",
+      "explanation": "passer-bys should be replaced with passers-by of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The biologists observed the offsprings of the rare animals?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in order to understand their behavior",
+        "b": "/ and study their adaptation",
+        "c": "/ to changing"
+      },
+      "correct": "a",
+      "explanation": "offsprings should be replaced with offspring of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The man played?",
+      "exam_source": "(SSC CGL, 2020)",
+      "options": {
+        "a": "/ the flute and led",
+        "b": "/ all the",
+        "c": "/ out of the town.",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "mouse should be replaced with mice of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "In the large farm located near the countryside?",
+      "exam_source": "",
+      "options": {
+        "b": "/ mainly for their wool and milk",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "sheeps should be replaced with sheep of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The administration proudly announced that thousands of alumnus?",
+      "exam_source": "",
+      "options": {
+        "a": "/ from different parts of",
+        "b": "/ to attend the grand",
+        "c": "/ No"
+      },
+      "correct": "a",
+      "explanation": "alumnus should be replaced with alumni of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "The history book describing the great war, the author?",
+      "exam_source": "",
+      "options": {
+        "a": "/ mentioned the commander-in-chiefs of",
+        "b": "/ to plan a major",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "commander-in-chiefs osQ LFkku ij commanders-in-chief dk use gksxk, D;ksafd compound noun esa plural main noun ij yxrk gSA",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "The doctor advised the patient?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to take two",
+        "b": "/ of the medicine",
+        "c": "/ after every meal",
+        "d": "Officers in-charge"
+      },
+      "correct": "b",
+      "explanation": "spoonful should be replaced with spoonfuls of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "The sudden increase in global temperatures?",
+      "exam_source": "",
+      "options": {
+        "b": "/ environmental",
+        "c": "/ to understand its long-term effects."
+      },
+      "correct": "c",
+      "explanation": "phenomena should be replaced with phenomenon of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "The forensic experts recovered several blood-stained?",
+      "exam_source": "",
+      "options": {
+        "a": "/ knifes from the crime scene, which",
+        "b": "/ were",
+        "c": "/ for DNA profiling"
+      },
+      "correct": "b",
+      "explanation": "knifes should be replaced with knives of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "Hardly had the performance begun?",
+      "exam_source": "",
+      "options": {
+        "a": "/ when a",
+        "b": "/ and a few looker-ons",
+        "c": "/ blocking the"
+      },
+      "correct": "c",
+      "explanation": "looker-ons should be replaced with lookers-on of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "The government faced?",
+      "exam_source": "",
+      "options": {
+        "a": "/ multiple economic crisis",
+        "b": "/ due to rising inflation, unemployment",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "crisis should be replaced with crises of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "Several scientific hypothesis were proposed?",
+      "exam_source": "",
+      "options": {
+        "a": "/ last",
+        "b": "/ observed",
+        "c": "/ No"
+      },
+      "correct": "a",
+      "explanation": "hypothesis should be replaced with hypotheses of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "Officials confirmed?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that preventive measures",
+        "b": "/ failed to curb the number of breaks-in occurring",
+        "c": "/ despite increased"
+      },
+      "correct": "c",
+      "explanation": "breaks-in should be replaced with break-ins of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "The government confirmed?",
+      "exam_source": "",
+      "options": {
+        "a": "/ that the proposal",
+        "b": "/ by senior attorney generals",
+        "c": "/ in the cabinet meeting."
+      },
+      "correct": "c",
+      "explanation": "attorney generals should be replaced with attorneys",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "The committee, after reviewing multiple reports, prepared many?",
+      "exam_source": "",
+      "options": {
+        "a": "/ memorandum highlighting",
+        "b": "/ that needed immediate attentiond",
+        "c": "/ No error e"
+      },
+      "correct": "b",
+      "explanation": "memorandum should be replaced with memoranda/",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "The committee received?",
+      "exam_source": "",
+      "options": {
+        "a": "/ several G -@ handful of",
+        "b": "/ from experts across"
+      },
+      "correct": "b",
+      "explanation": "handful should be replaced with handfuls of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 18,
+      "question": "During the family gathering held last weekend, all my?",
+      "exam_source": "",
+      "options": {
+        "a": "/ mothers-in-law were invited",
+        "b": "/ to",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error.",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 19,
+      "question": "The builder planned several storey in the new project to meet the growing demand for housing.",
+      "exam_source": "",
+      "options": {
+        "a": "multiple storey",
+        "b": "several stories",
+        "c": "several storeys",
+        "d": "No improvement"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 20,
+      "question": "The Delhi Birla International School alumnus occupy leading positions in different areas of profession and service. \b?",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "alumnus occupies",
+        "b": "alumni occupy",
+        "c": "No improvement",
+        "d": "alumnus occupying"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "chapter_no": 98,
+  "title": "Degree of Comparison",
+  "section": "A",
+  "start_page": 257,
+  "end_page": 258,
+  "theory": " Degree of comparison refers to the different forms of an adjective used to show the level of\n      quality, quantity, or intensity when comparing one, two, or more persons/things.\n      Degree of comparison dk vFkZ gS adjective ds fofHkUu :iksa dk ç;ksx djds xq.koÙkk] ek=kk ;k rhozrk dk\n      Lrj fn•kuk] tc ,d nks ;k vf/d O;fDr;ksa ;k oLrqvksa dh rqyuk dh tkrh gSA\n   Three degrees of comparison\n\n       Positive degree                Shows no comparison.\n       Comparative degree             To compare two persons or things.\n       Superlative degree             To compare more than two persons or things.\n      Examples\n   \t\t 1. Ram is tall.\t\t 2. Ram is taller than Shyam.                       3. Ram is the tallest in the class.\n     Comparison in Positive degree to show equality / inequality\n \t\t Part A – Subject1 + Verb + So/as + Positive degree adjective + as + Subject2\n \t\t Part B – No other + Subject1 + Verb + So/as + Positive degree adjective + as + Subject2\n     Comparison in comparative degree\n                                                                               +Any other + Singular Noun\n    Subject + Verb + Comparative degree adjective + than\n                                                                               +All other + Plural Noun\n     Comparison in Superlative degree\n       Subject + Verb + the + Superlative degree adjective + of + all + Plural Noun\n     Points to Remember\n     1 One of + Superlative degree\n     2 By far + Superlative degree\n     3 Do not use \"other\" after \"all\" in case of Superlative Degree. (All + Superlative)\n     4 Double Comparatives and double Superlatives are not allowed.",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "No other?",
+      "exam_source": "",
+      "options": {
+        "a": "/ student is as",
+        "b": "/ smarter as Ram."
+      },
+      "correct": "c",
+      "explanation": "smarter should be replaced with smart of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "C.V. Raman was?",
+      "exam_source": "",
+      "options": {
+        "a": "/ one of the greater scientist",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "greater scientist should be replaced with greatest scientists",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Vaibhav is by far?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the most talented player",
+        "c": "/ No error"
+      },
+      "correct": "d",
+      "explanation": "No error",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "Diamond is?",
+      "exam_source": "",
+      "options": {
+        "a": "/ harder than",
+        "b": "/ any other metal",
+        "c": "/ found on Earth."
+      },
+      "correct": "c",
+      "explanation": "any other metal should be replaced with any metal of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Among all the options available in the market today?",
+      "exam_source": "",
+      "options": {
+        "a": "/ this product is better than any other products",
+        "b": "/ in terms of quality and durability.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "any other products should be replaced with any other",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "Among all the diplomatic envoys stationed in the conflict zone,?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "/ she is undoubtedly more",
+        "b": "/ by both factions of",
+        "c": "/ than any other ambassador.",
+        "d": "\b 7. No animal is as fast as the cheetah"
+      },
+      "correct": "b",
+      "explanation": "more trusted should be replaced with the most trusted of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "The cheetah?",
+      "exam_source": "(SSC STENO, 2019)",
+      "options": {
+        "a": "/ can run more nT",
+        "d": "\b arc",
+        "b": "/ faster than"
+      },
+      "correct": "",
+      "explanation": "more because faster before from comparative",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "He is the strongest of all other players?",
+      "exam_source": "",
+      "options": {
+        "a": "/ in the team",
+        "b": "/ due to his strength.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "of all other players should be replaced with of all players",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "Rahul is?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "/ taller",
+        "b": "/ than any boy",
+        "c": "/ in his office.",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "any boy should be replaced with any other boy of use will be,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "She speaks more persuasively than she writes,?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "/ which, according to her critics",
+        "b": "/ makes her",
+        "c": "/ an accomplished"
+      },
+      "correct": "c",
+      "explanation": "rather than should be replaced with than of use will be, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "This is the most toughest exam that I have ever taken.\b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "the most tough exam",
+        "b": "the toughest exam",
+        "c": "the most toughest exam",
+        "d": "is toughest exam"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 15,
+      "question": "Bim believed that silence was the worse betrayal of all, even more than spoken cruelty. \b?",
+      "exam_source": "(SSC PHASE XIII, 2025)",
+      "options": {
+        "a": "more worse",
+        "b": "worse",
+        "c": "worst",
+        "d": "bad"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 16,
+      "question": "The examination was more simpler than I expected it to be.\b?",
+      "exam_source": "(SSC STENO, 2021)",
+      "options": {
+        "a": "much simpler",
+        "b": "most simple",
+        "c": "2.",
+        "d": "4."
+      },
+      "correct": "",
+      "explanation": "17. (b) 18. (b) 19. (a) 20. (d) tions use gksxk, D;ksafd cheetah Hkh animal gS; blfy, comparison esa other yxsxkA",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 17,
+      "question": "Of all the solutions proposed, this one is by far the ..........\b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "more cost-effective",
+        "b": "most cost-effective",
+        "c": "cost-effectiver",
+        "d": "much cost-effective"
+      },
+      "correct": "",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 18,
+      "question": "This is by far the ......... performance we've seen from the team all season. \b?",
+      "exam_source": "(SSC PHASE XIII, 2025)",
+      "options": {
+        "a": "better",
+        "b": "best",
+        "c": "good",
+        "d": "most better"
+      },
+      "correct": "",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 19,
+      "question": "Of all the analysts on the panel, Priya was considered the ......... in macroeconomic interpretation. \b?",
+      "exam_source": "(SSC PHASE XIII, 2025)",
+      "options": {
+        "a": "best",
+        "b": "better",
+        "c": "most better",
+        "d": "more best"
+      },
+      "correct": "",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 20,
+      "question": "This is ......... biryani I have had in a year. It is almost ......... the one from Nizam's House in Hyderabad. \b?",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "a, gooder than",
+        "b": "the better, as good as",
+        "c": "a, better",
+        "d": "the best, as good as"
+      },
+      "correct": "",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

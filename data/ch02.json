@@ -1,0 +1,346 @@
+{
+  "chapter_no": 2,
+  "title": "Recognition of Sentences",
+  "section": "A",
+  "start_page": 16,
+  "end_page": 17,
+  "theory": "Simple Sentence\n      A sentence that contains only one independent clause (one finite verb).\n        1. He works hard.\n        2. To earn money, he started a business.\n\n   Compound Sentence\n     A sentence that contains two or more independent clauses joined by coordinating\n       conjunctions ( FANBOYS= for, and, nor, but, or, yet, so).\n       1. He worked hard, and he passed the exam.\n       2. I wanted to go out, but it was raining.\n\n   Complex Sentence\n     A sentence that contains one independent clause and at least one dependent\n       (subordinate) clause.\n\n    Because, If, Although, Though, Even though, Even if, Unless, Until, When, While,\n    Before, After, As, Since, Who, Whom, Which, What, That etc.\n    1. When he arrived, the meeting had started.\n    2. I know that she is honest.\n\n   Compound-complex Sentence\n     A sentence that has three or more clauses, including at least one main clause joined\n       by a coordinating conjunction and one dependent clause joined by a subordinating\n       conjunction.",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "This deep connection between space and time implies that the passage of time is not universal but relative?\b?",
+      "exam_source": "(SSC PHASE XIII, 2025)",
+      "options": {
+        "a": "Compound sentence",
+        "b": "Complex sentence",
+        "c": "Simple sentence",
+        "d": "Compound-complex sentence"
+      },
+      "correct": "b",
+      "explanation": "2. (c) 3. (a) 4. (a) 5. (c)",
+      "format": "regular"
+    },
+    {
+      "qno": 2,
+      "question": "At the heart of the debate lies a fundamental tension between technological progress and moral responsibility.\b?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "Compound",
+        "b": "Complex",
+        "c": "Simple",
+        "d": "Compound-Complex"
+      },
+      "correct": "c",
+      "explanation": "t the heart of the debate lies a fundamental tension between technological progress and moral responsibility.\b (SSC STENO, 2025) (a) Compound (b) Complex (c) Simple (d) Compound-Complex Recognition of Sentences pendent clause (one finite verb). ss. independent clauses joined by coordinating , but, or, yet, so). e exam. ng. ndent clause and at least one dependent hough, Even if, Unless, Until, When, While, Which, What, That etc. started. es, including at least one main clause joined dependent clause joined by a subordinating as unwell, but she completed the assignment , Furthermore, Nevertheless, Thus, Otherwise, d, Besides vkfn adverbs nks independent clauses 3. Each region contributes a unique weaving style: such as Chanderi, Pochampally Ikat, and Kanjeevaram, reflecting the stories, rituals, and environments of its people. \b (SSC CHSL, 2025) (a) Simple sentence (b) Compound sentence (c) Complex sentence (d) Compound-complex sentence hall 4. Improper disposal of e-waste allowsepthese toxins to seep into soil and water @ fre bodies, causing severe environmental - TG degradation on risks. and posing long-term health ar (SSC CHSL, 2025) (a) Simple sentence (b) Compound sentence (c) Complex sentence (d) Compound-complex sentence 5. When the principal entered the hall, the students stood up, and the teachers welcomed him warmly. (a) Simple (b) Compound (c) Compound-Complex (d) Complex 6. The sun set, and the stars appeared. (a) Compound (b) Simple (c) Compound-Complex (d) Complex 7. Although it was raining, they continued the match. (a) Compound-Complex (b) Compound (c) Complex (d) Simple 8. The lights went off, but the meeting continued. (a) Simple (b) Compound (c) Compound-Complex (d) Complex 9. Despite facing many difficulties, she achieved her goal. (a) Compound (b) Simple (c) Compound-Complex (d) Complex 10. The road was blocked; therefore, we reached late. (a) Simple (b) Compound-Complex (c) Complex (d) Compound 11. Having completed the project, the team celebrated their success. (a) Simple (b) Compound (c) Compound-Complex (d) Complex 12. She opened the window and let in some fresh air. (a) Compound-Complex (b) Compound (c) Complex (d) Simple 13. Although the road was crowded, we reached the station on time, and we boarded the train. (a) Simple (b) Compound (c) Complex (d) Compound-Complex Answers",
+      "format": "regular"
+    },
+    {
+      "qno": 3,
+      "question": "Each region contributes a unique weaving style: such as Chanderi, Pochampally Ikat, and Kanjeevaram, reflecting the stories, rituals, and environments of its people. \b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "Simple sentence",
+        "b": "Compound sentence",
+        "c": "Complex sentence",
+        "d": "Compound-complex sentence hall"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 4,
+      "question": "Improper disposal of e-waste allowsepthese toxins to seep into soil and water @ fre bodies, causing severe environmental - TG degradation on risks. and posing long-term health ar?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "Simple sentence",
+        "b": "Compound sentence",
+        "c": "Complex sentence",
+        "d": "Compound-complex sentence"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 5,
+      "question": "When the principal entered the hall, the students stood up, and the teachers welcomed him warmly.",
+      "exam_source": "",
+      "options": {
+        "a": "Simple",
+        "b": "Compound",
+        "c": "Compound-Complex",
+        "d": "Complex"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 6,
+      "question": "The sun set, and the stars appeared.",
+      "exam_source": "",
+      "options": {
+        "a": "Compound",
+        "b": "Simple",
+        "c": "Compound-Complex",
+        "d": "Complex"
+      },
+      "correct": "a",
+      "explanation": "7. (c) 8. (b) 9. @f (b) 10. (d)",
+      "format": "regular"
+    },
+    {
+      "qno": 7,
+      "question": "Although it was raining, they continued the match.",
+      "exam_source": "",
+      "options": {
+        "a": "Compound-Complex",
+        "b": "Compound",
+        "c": "Complex",
+        "d": "Simple"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 8,
+      "question": "The lights went off, but the meeting continued.",
+      "exam_source": "",
+      "options": {
+        "a": "Simple",
+        "b": "Compound",
+        "c": "Compound-Complex",
+        "d": "Complex"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 9,
+      "question": "Despite facing many difficulties, she achieved her goal.",
+      "exam_source": "",
+      "options": {
+        "a": "Compound",
+        "b": "Simple",
+        "c": "Compound-Complex",
+        "d": "Complex"
+      },
+      "correct": "",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 10,
+      "question": "The road was blocked; therefore, we reached late.",
+      "exam_source": "",
+      "options": {
+        "a": "Simple",
+        "b": "Compound-Complex",
+        "c": "Complex",
+        "d": "Compound"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 11,
+      "question": "Having completed the project, the team celebrated their success.",
+      "exam_source": "",
+      "options": {
+        "a": "Simple",
+        "b": "Compound",
+        "c": "Compound-Complex",
+        "d": "Complex"
+      },
+      "correct": "a",
+      "explanation": "12. (d) 13. (d) 14. (c) 15. (d)",
+      "format": "regular"
+    },
+    {
+      "qno": 12,
+      "question": "She opened the window and let in some fresh air.",
+      "exam_source": "",
+      "options": {
+        "a": "Compound-Complex",
+        "b": "Compound",
+        "c": "Complex",
+        "d": "Simple"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 13,
+      "question": "Although the road was crowded, we reached the station on time, and we boarded the train.",
+      "exam_source": "",
+      "options": {
+        "a": "Simple",
+        "b": "Compound",
+        "c": "Complex",
+        "d": "Compound-Complex"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 14,
+      "question": "She wanted to finish the report, but she left early because she felt unwell.",
+      "exam_source": "",
+      "options": {
+        "a": "Simple",
+        "b": "Compound",
+        "c": "Compound-Complex",
+        "d": "Complex"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 15,
+      "question": "To improve his English, Rohan reads newspapers daily.",
+      "exam_source": "",
+      "options": {
+        "a": "Compound-Complex",
+        "b": "Compound",
+        "c": "Complex",
+        "d": "Simple"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 16,
+      "question": "In spite of being warned repeatedly, he ignored the instructions.",
+      "exam_source": "",
+      "options": {
+        "a": "Simple",
+        "b": "Compound",
+        "c": "Compound-Complex",
+        "d": "Complex"
+      },
+      "correct": "a",
+      "explanation": "17. (b) 18. (b) n 19. TG(d) 20. (c)",
+      "format": "regular"
+    },
+    {
+      "qno": 17,
+      "question": "He was tired, but he completed the work.",
+      "exam_source": "",
+      "options": {
+        "a": "Simple",
+        "b": "Compound",
+        "c": "Compound-Complex",
+        "d": "Complex"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 18,
+      "question": "She studied hard, yet she could not pass the examination.",
+      "exam_source": "",
+      "options": {
+        "a": "Compound-Complex",
+        "b": "Compound",
+        "c": "Complex",
+        "d": "Simple"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 19,
+      "question": "If you study sincerely, you will succeed.",
+      "exam_source": "",
+      "options": {
+        "a": "Simple",
+        "b": "Compound",
+        "c": "Compound-Complex",
+        "d": "Complex"
+      },
+      "correct": "",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 20,
+      "question": "As soon as the train arrived, the passengers rushed towards the doors.",
+      "exam_source": "",
+      "options": {
+        "a": "Compound-Complex",
+        "b": "Compound",
+        "c": "Complex",
+        "d": "Simple"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 21,
+      "question": "He missed the first train; otherwise, he would have reached on time.",
+      "exam_source": "",
+      "options": {
+        "a": "Simple",
+        "b": "Compound",
+        "c": "Compound-Complex",
+        "d": "Complex"
+      },
+      "correct": "b",
+      "explanation": "22. (c) 23. (b) 24. (c) 14. She wanted to finish the report, but she left early because she felt unwell. (a) Simple (b) Compound (c) Compound-Complex (d) Complex 15. To improve his English, Rohan reads newspapers daily. (a) Compound-Complex (b) Compound (c) Complex (d) Simple 16. In spite of being warned repeatedly, he ignored the instructions. (a) Simple (b) Compound (c) Compound-Complex (d) Complex 17. He was tired, but he completed the work. (a) Simple (b) Compound (c) Compound-Complex (d) Complex 18. She studied hard, yet she could not pass the examination. (a) Compound-Complex (b) Compound (c) Complex (d) Simple 19. If you study sincerely, you will succeed. (a) Simple (b) Compound (c) Compound-Complex (d) Complex 20. As soon as the train arrived, the passengers rushed towards the doors. (a) Compound-Complex (b) Compound (c) Complex (d) Simple 21. He missed the first train; otherwise, he would have reached on time. (a) Simple (b) Compound (c) Compound-Complex (d) Complex 22. While the audience was eagerly waiting for the performance to begin, the organizers were making final arrangements. (a) Compound-Complex (b) Compound (c) Complex (d) Simple 23. The road was blocked; consequently, the team arrived late. (a) Simple (b) Compound (c) Compound-Complex (d) Complex 24. Since the students had completed their assignments before the deadline, the teacher praised them in class. (a) Compound-Complex (b) Compound (c) Complex (d) Simple h all",
+      "format": "regular"
+    },
+    {
+      "qno": 22,
+      "question": "While the audience was eagerly waiting for the performance to begin, the organizers were making final arrangements.",
+      "exam_source": "",
+      "options": {
+        "a": "Compound-Complex",
+        "b": "Compound",
+        "c": "Complex",
+        "d": "Simple"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 23,
+      "question": "The road was blocked; consequently, the team arrived late.",
+      "exam_source": "",
+      "options": {
+        "a": "Simple",
+        "b": "Compound",
+        "c": "Compound-Complex",
+        "d": "Complex"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 24,
+      "question": "Since the students had completed their assignments before the deadline, the teacher praised them in class.",
+      "exam_source": "",
+      "options": {
+        "a": "Compound-Complex",
+        "b": "Compound",
+        "c": "Complex",
+        "d": "Simple"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    }
+  ]
+}

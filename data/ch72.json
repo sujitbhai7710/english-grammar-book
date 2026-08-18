@@ -1,0 +1,335 @@
+{
+  "chapter_no": 72,
+  "title": "Use of Preposition 'By'",
+  "section": "A",
+  "start_page": 192,
+  "end_page": 194,
+  "theory": " There are some words and phrases that take preposition \"By\". Such words and\n       phrases are:\n\nWord + Preposition                       English Meaning                     Hindi meaning\n1   By + (doer)         Written by him, designed by her, made by them     drkZ\n2   By chance           Accidentally                                      la;ksx ls\n3   By accident         Unintentionally                                   xyrh ls\n4   By mistake          Error                                             Hkwy ls\n5   By coincidence      Unexpectedly                                      la;ksx ls\n6   By + (time)         Deadline                                          ml le; rd\n7   By + (means)        By bus, by train, by air, by road, by post        osQ }kjk\n8   By heart            Memorized                                         daBLFk\n9   By default          Automatically                                     Lor%\n10 By force             Compulsion                                        tcjnLrh\n11 Abide by             Follow                                            ikyu djuk\n12 Stand by             Support                                           leFkZu djuk\n13 Swear by             Have complete faith in                            iwjk fo'okl djuk\n14 Go by                Follow                                            osQ vuqlkj pyuk\n15 Known by             Recognized                                        igpkuk tkuk\n16 Occupied by          Taken over                                        dCtk fd;k gqvk\n17 Perish by            Die because of                                    ls ejuk\n18 Reduce by            Decrease                                          de djuk\n19 Fascinated by        Attracted                                         eksfgr\n20 Held by              Controlled                                        fu;af=kr\n21 Hidden by            Concealed by                                      fNik gqvk\n22 Judge by             Form an opinion based on                          osQ vk/kj ij vkaduk\n\n23 Accompanied by Along with                                              ds lkFk                      ha\n\n24 Taken aback by       Surprised suddenly                                vpkud pfdr      f  eeuk\n                                                                                            rgks\n\n25 Impressed by         Feeling admiration for                            çHkkforn gksuk",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "The young leader who had strong moral values?",
+      "exam_source": "",
+      "options": {
+        "a": "/ gained immense respect with virtue",
+        "b": "/ among the villagers during",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"with virtue of\" should be replaced with \"by virtue of\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "The young poet’s early writings were deeply influenced with?",
+      "exam_source": "",
+      "options": {
+        "a": "/ classical Persian literature",
+        "b": "/ during his formative",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"influenced with\" should be replaced with \"influenced by\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "The young student who was extremely talented in music?",
+      "exam_source": "",
+      "options": {
+        "a": "/ had memorized the",
+        "b": "/ before",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"with heart\" should be replaced with \"by heart\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "He always lives on his principles?",
+      "exam_source": "",
+      "options": {
+        "a": "/ and",
+        "b": "/ even under",
+        "c": "/ in difficult situations."
+      },
+      "correct": "a",
+      "explanation": "lives on his principles\" should be replaced with \"lives by",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "All employees are expected to abide?",
+      "exam_source": "",
+      "options": {
+        "a": "/ with",
+        "b": "/ to maintain",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"abide with\" should be replaced with \"abide by\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "You should always go on the instructions?",
+      "exam_source": "",
+      "options": {
+        "a": "/ given by your teacher",
+        "b": "/ if you want to",
+        "c": "/ in the examination."
+      },
+      "correct": "a",
+      "explanation": "\"go on the instructions\" should be replaced with \"go by the",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "The patient?",
+      "exam_source": "",
+      "options": {
+        "a": "/ was accompanied",
+        "b": "/ with his",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"accompanied with\" should be replaced with \"accompanied",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "We should abide?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to the promise",
+        "b": "/ that",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"abide to\" should be replaced with \"abide by\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "The report?",
+      "exam_source": "",
+      "options": {
+        "a": "/ was submitted",
+        "b": "/ by the",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"to Friday evening\" should be replaced with \"by Friday",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "There are many?",
+      "exam_source": "",
+      "options": {
+        "a": "/ ways of which",
+        "b": "/ this",
+        "c": "/ be solved."
+      },
+      "correct": "b",
+      "explanation": "\"ways of which\" should be replaced with \"ways by which\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "What is?",
+      "exam_source": "(UPSC NDA, 2020)",
+      "options": {
+        "a": "/ the time",
+        "b": "/ in your watch?",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "\"in your watch\" should be replaced with \"by your watch\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "She improved her English with reading books and listening to podcasts.",
+      "exam_source": "",
+      "options": {
+        "a": "through reading books",
+        "b": "from reading books",
+        "c": "by reading books",
+        "d": "over reading books"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 13,
+      "question": "She goes to office in bus every day. \b?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "by the bus",
+        "b": "in the bus",
+        "c": "by a bus",
+        "d": "by bus"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 14,
+      "question": "The fraud comes at a time when the unregulated finance industry is facing a crisis on its way of high interest rates and low repayment of loans. \b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "because manner of",
+        "b": "since ways are",
+        "c": "by way of",
+        "d": "in the way of"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 15,
+      "question": "Please submit your assignments by Friday. \b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "till Friday.",
+        "b": "until Friday.",
+        "c": "at Friday.",
+        "d": "No substitution"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 16,
+      "question": "His room is 5 meters on 5 meters. \b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "by 5 meters.",
+        "b": "of 5 meters.",
+        "c": "at 5 meters.",
+        "d": "No substitution"
+      },
+      "correct": "a",
+      "explanation": "17. (b) 18. (b) 19. (b) 20. (a) tions",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 17,
+      "question": "I prefer travelling on train than travelling by bus as I suffer from motion sickness. \b?",
+      "exam_source": "(SSC CHSL, 2025)",
+      "options": {
+        "a": "prefer travelling in train to travelling by",
+        "b": "prefer travelling by train to travelling by",
+        "c": "prefer travelling by train than travelling",
+        "d": "No substitution"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 18,
+      "question": "She inspires from her mother’s success. \b?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "is inspiring from",
+        "b": "is inspired by",
+        "c": "is inspiring by",
+        "d": "is inspired with"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 19,
+      "question": "He did not abide with my decision.",
+      "exam_source": "",
+      "options": {
+        "a": "to",
+        "b": "by",
+        "c": "for",
+        "d": "No improvement"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 20,
+      "question": "This sauce has to be used .......... 23rd September. \b?",
+      "exam_source": "(UPSC CDS, 2021)",
+      "options": {
+        "a": "by",
+        "b": "for",
+        "c": "into",
+        "d": "with"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 21,
+      "question": "He lives .......... his pen. p df (UPSCfrCDS, 2021)",
+      "exam_source": "",
+      "options": {
+        "a": "by",
+        "b": "G",
+        "c": "on",
+        "d": "T off"
+      },
+      "correct": "a",
+      "explanation": "22. (d) 23. (b) 24. (a) Solut",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 22,
+      "question": "She is standing .......... her husband in this crisis. \b (CUET, 13/May/2025)",
+      "exam_source": "",
+      "options": {
+        "a": "with",
+        "b": "in",
+        "c": "for",
+        "d": "by"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 23,
+      "question": "The room was lit .......... candlelight, creating a cozy atmosphere. Answers 1. (b) 2.",
+      "exam_source": "",
+      "options": {
+        "b": "2.",
+        "a": "3.",
+        "c": "12.",
+        "d": "14."
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 24,
+      "question": "Most of the guests arrived for the concert .......... bus. \b (CUET, 15/May/2024)",
+      "exam_source": "",
+      "options": {
+        "a": "by",
+        "b": "with",
+        "c": "from",
+        "d": "through"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

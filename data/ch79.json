@@ -1,0 +1,333 @@
+{
+  "chapter_no": 79,
+  "title": "Zero Vs First Conditional",
+  "section": "A",
+  "start_page": 207,
+  "end_page": 209,
+  "theory": " A conditional sentence expresses a condition and its result. It usually has two parts.\n      Conditional sentence fdlh 'krZ vkSj mlosQ ifj.kke dks O;Dr djrk gS vkSj blesa lkekU;r% nks Hkkx gksrs\n      gSa%\n\t\t1. Condition Clause\t\t2. Main Clause (Result)\n\n     Zero conditional\n            tc dksbZ condition ges'kk ,d gh result nsrh gS] rc nksuksa clauses esa Present Indefinite tense dk\n             iz;ksx gksrk gS] vkSj ;g universal truth, fact ;k general situation dks O;Dr djrk gSA\n\n                                        Condition                                                Result\n   Zero Conditional\n                                   (Present Indefinite)                                (Present Indefinite)\n    (Universal Truth)                   Clause 1                                              Clause 2\n\n      First conditional\n            tc dksbZ condition present ;k future esa laHko gksrh gS] rc condition clause esa Present\n             Indefinite vkSj result clause esa Future Indefinite dk iz;ksx gksrk gS] vkSj ;g real ;k likely\n             situations dks O;Dr djrk gSA\n\n                                        Condition                                                Result\n     First Conditional\n                                   (Present Indefinite)                                 (Future Indefinite)\n      (Real Possibility)                 Clause 1                                             Clause 2",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "If the weather improves tomorrow,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ we",
+        "b": "/ with our friends",
+        "c": "/ in the"
+      },
+      "correct": "b",
+      "explanation": "we go should be replaced with we will go will come, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "If she will study hard,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ she will pass",
+        "b": "/ the",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "will study should be replaced with studies will come, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Should the authorities not take immediate?",
+      "exam_source": "",
+      "options": {
+        "a": "/ steps to control illegal encroachments",
+        "c": "/ no error"
+      },
+      "correct": "c",
+      "explanation": "increase should be replaced with will increase will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The teacher will?",
+      "exam_source": "(SSC GD, 2022)",
+      "options": {
+        "a": "/ certainly help you",
+        "b": "/ if you",
+        "c": "/ ask her."
+      },
+      "correct": "c",
+      "explanation": "will ask should be replaced with ask will come, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "In case you will follow the instructions carefully,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ you will complete the task",
+        "b": "/ without",
+        "c": "/ No error",
+        "d": "Zero Vs First Conditional"
+      },
+      "correct": "a",
+      "explanation": "will follow should be replaced with follow will come, because In",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "When he will come tomorrow?",
+      "exam_source": "",
+      "options": {
+        "a": "/ I will make",
+        "b": "/ I meet him personally",
+        "c": "/ during the"
+      },
+      "correct": "a",
+      "explanation": "will come should be replaced with comes will come, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "If you?",
+      "exam_source": "(SSC CPO, 2020)",
+      "options": {
+        "a": "/ will search",
+        "b": "/ his pockets",
+        "c": "/you"
+      },
+      "correct": "b",
+      "explanation": "will search should be replaced with search will come,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "As soon as the train will reach the station?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the",
+        "b": "/ from the",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "will reach should be replaced with reaches will come, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "If the organisation will invest more money in research,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ scientists will discover",
+        "b": "/ new",
+        "c": "/ in the"
+      },
+      "correct": "a",
+      "explanation": "will invest should be replaced with invests will come,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "When Mayank came,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ I shall go",
+        "b": "/ with",
+        "c": "/ the circus.",
+        "d": "fr"
+      },
+      "correct": "a",
+      "explanation": "come should be replaced with comes will come, because main",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "If she be found guilty of any nT o misconduct during her tenure,?",
+      "exam_source": "(SSC CPO, 2025)",
+      "options": {
+        "a": "/ the disciplinary committee",
+        "b": "/ to withhold her pending",
+        "c": "/ or initiate further legal action."
+      },
+      "correct": "a",
+      "explanation": "be found should be replaced with is found will come, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "If I join?",
+      "exam_source": "(SSC CPO, 2019)",
+      "options": {
+        "a": "/ a software company",
+        "b": "/ I am getting",
+        "c": "/ a good deal of experience."
+      },
+      "correct": "c",
+      "explanation": "I am getting should be replaced with I will get will come, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "Should a student study?",
+      "exam_source": "",
+      "options": {
+        "a": "/ regularly and",
+        "b": "/ he get good marks",
+        "c": "/ in the"
+      },
+      "correct": "c",
+      "explanation": "he get should be replaced with he will get will come, because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "If I will meet?",
+      "exam_source": "(SSC GD, 2021)",
+      "options": {
+        "a": "/ my friend today",
+        "b": "/ I shall give",
+        "c": "/ him this book."
+      },
+      "correct": "a",
+      "explanation": "If I will meet should be replaced with If I meet will come,",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "She will accept his love proposal if he will express impressively. \b?",
+      "exam_source": "(SSC CHSL, 2023)",
+      "options": {
+        "a": "if he has been expressed",
+        "b": "if he had express",
+        "c": "if he expresses",
+        "d": "if he expressed"
+      },
+      "correct": "c",
+      "explanation": "",
+      "format": "regular"
+    },
+    {
+      "qno": 16,
+      "question": "I am think that tomorrow I will take leave and stay at home.",
+      "exam_source": "",
+      "options": {
+        "a": "No improvement",
+        "b": "I was thinking that the next day I will be",
+        "c": "I think that tomorrow I will take",
+        "d": "I have thought that tomorrow I am taking"
+      },
+      "correct": "c",
+      "explanation": "17. (b) 18. (d) 19. (a) 20. (a) h all -@f ear Solut",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 17,
+      "question": "If you park your car here, the traffic police has fined you.",
+      "exam_source": "",
+      "options": {
+        "a": "fine you",
+        "b": "will fine you",
+        "c": "fined you",
+        "d": "No improvement"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 18,
+      "question": "If you join this job now, it proves to be good in the long run.",
+      "exam_source": "",
+      "options": {
+        "a": "No improvement",
+        "b": "it has proved to be good",
+        "c": "4.",
+        "d": "22."
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 19,
+      "question": "If you will bring a letter of introduction, I will consider your request.",
+      "exam_source": "",
+      "options": {
+        "a": "If you bring",
+        "b": "If you brings",
+        "c": "If you will be bringing",
+        "d": "No substitution"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 20,
+      "question": "I will not be able to leave for home until my boss arrived in the office.",
+      "exam_source": "",
+      "options": {
+        "a": "until my boss arrives at the office",
+        "b": "No improvement",
+        "c": "until my boss has arrive to the office",
+        "d": "until my boss is arrived in the office"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 21,
+      "question": "If I .......... enough time tomorrow, I will finish the assignment. \b (CUET, 2/June/2025)",
+      "exam_source": "",
+      "options": {
+        "a": "had",
+        "b": "will have",
+        "c": "has",
+        "d": "have"
+      },
+      "correct": "d",
+      "explanation": "22. (c) 23. (b) 24. (b) 25. (d) (c) it proves good (d) it will prove to be good 19. If you will bring a letter of introduction, I will consider your request. (a) If you bring (b) If you brings (c) If you will be bringing (d) No substitution 20. I will not be able to leave for home until my boss arrived in the office. (a) until my boss arrives at the office (b) No improvement (c) until my boss has arrive to the office (d) until my boss is arrived in the office 21. If I .......... enough time tomorrow, I will finish the assignment. \b (CUET, 2/June/2025) (a) had (b) will have (c) has (d) have 22. If you study hard, you .......... the exam. \b (SSC Phase XIII, 2025) (a) pass (b) passed (c) will pass (d) passing 23. If the security protocol .......... breached, the system alerts administrators instantly. (SSC CGL, 2025) (a) were (b) is (c) has (d) had been 24. I .......... your remaining project if you get groceries for me from the market. (SSC MTS, 2022) (a) would do (b) will do (c) will have done (d) would have done",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 22,
+      "question": "If you study hard, you .......... the exam. \b (SSC Phase XIII, 2025)",
+      "exam_source": "",
+      "options": {
+        "a": "pass",
+        "b": "passed",
+        "c": "will pass",
+        "d": "passing"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 23,
+      "question": "If the security protocol .......... breached, the system alerts administrators instantly.",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "were",
+        "b": "is",
+        "c": "has",
+        "d": "had been"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    },
+    {
+      "qno": 24,
+      "question": "I .......... your remaining project if you get groceries for me from the market.",
+      "exam_source": "(SSC MTS, 2022)",
+      "options": {
+        "a": "would do",
+        "b": "will do",
+        "c": "will have done",
+        "d": "would have done"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "fill_blank"
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "chapter_no": 92,
+  "title": "Infinitive (To + V1)",
+  "section": "A",
+  "start_page": 241,
+  "end_page": 243,
+  "theory": " An Infinitive does not show tense, person, or number. It is a non-finite verb. It can function\n        as a subject as well as an object.\n Infinitive verb dk og :i gksrk gS ftlesa verb ds igys lkekU;r% \"to\" yxk;k tkrk gSA ;g ,d non-finite\n\n verb gS D;ksafd ;g tense, person vkSj number ugha crkrkA ;g Subject rFkk Object nksuksa dh rjg dke\n        djrk gSA\n     Examples\n     1. To win this match is difficult.\n\n      (Subject)\n     2. To learn English, Hindi, and Sanskrit is/are important for exams. (Subject)\n\n      (Subject)\n     3. I want to go home.\n\n             (Object)\n     4. She decided to study hard.\n\n                        (Object)\n\n     Where to use Infinitive\n          After Verbs: Seem, Appear, Decide, Refuse, Want, Desire, Prove, Happen, Hurry, Plan,\n          Hope, Wish, Agree, Choose, Promise, Try, Manage, Fail, Tend, Pretend\n         Adjective + enough + to + v1\n         So as + infinitive\n         WH word + infinitive → what to do, how to solve, where to go, when to start.\n         It + be + Adjective + to + v1\n         Request/ order/ ask/ told/ command/ advise + Object + to + v1\n\n          Exception\n                                   Remember\n\n     V1 + ing (past action)                             to + v1 (Future action)\n         Ex. I remember locking the door.                 Ex. Please remember to lock the door.\n\n         eq>s ;kn gS fd eSus njoktk ykWd fd;k FkkA\n                                                         Ñi;k njoktk ykWd djuk ;kn j[kukA\n\n                                      Stop\n\n     V1 + ing (Ending an activity)                   to + v1 (Interrupting to do something else) fha\n\n        Ex. He stopped smoking.                                                               epd\n                                                        Ex. He stopped to smoke.          fre\n\n      mlus smoking NksM+ fn;k@can dj fn;kA            \t\t                        G-QA\n                                                       og :dk] rkfd Smoke dj Tlos\n\n                                                                         rch",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "She was attempting?",
+      "exam_source": "(DP HCM, 2026)",
+      "options": {
+        "a": "/ to crossing the road",
+        "b": "/ but was scared",
+        "c": "/ as there was heavy",
+        "d": "\b"
+      },
+      "correct": "d",
+      "explanation": "\"to crossing\" should be replaced with \"to cross\" (Infinitive",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "What he regretted the most?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ was not the",
+        "b": "/ but that he",
+        "c": "/ his intent",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "\"communicating\" osQ LFkku ij \"to communicate\" dk use gksxk D;ksafd \"fail\" osQ ckn Infinitive dk use fd;k tkrk gSA",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "She asked her?",
+      "exam_source": "",
+      "options": {
+        "a": "/ mentor whether",
+        "c": "/ both the exams"
+      },
+      "correct": "c",
+      "explanation": "\"to appearing\" should be replaced with \"to appear\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The manager who was on leave last week?",
+      "exam_source": "",
+      "options": {
+        "a": "/ forgot bringing the files",
+        "b": "/ that were",
+        "c": "/ despite"
+      },
+      "correct": "b",
+      "explanation": "\"bringing\" should be replaced with \"to bring\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Had he not deferred the proposal for weeks,?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ the board would have had a better chance",
+        "b": "/ to evaluating the project's long-term",
+        "c": "/ before the deadline lapsed.",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "\"to evaluating\" should be replaced with \"to evaluate\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "He didn't know?",
+      "exam_source": "(SSC STENO, 2020)",
+      "options": {
+        "a": "/ how getting to the Guest",
+        "b": "/ House so he stopped",
+        "c": "/ to ask the way.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "\"how getting\" should be replaced with \"how to get\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "I'm going to?",
+      "exam_source": "(SSC CGL, 2018)",
+      "options": {
+        "a": "/ the airport",
+        "b": "/ to receives my",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "\"to receives\" should be replaced with \"to receive\" (Infinitive",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "She forgot lock?",
+      "exam_source": "(SSC CGL, 2018)",
+      "options": {
+        "a": "/ the door when she",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"forgot lock\" should be replaced with \"forgot to lock\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "I'd like?",
+      "exam_source": "(SSC CPO, 2016)",
+      "options": {
+        "a": "/ a bike",
+        "b": "/ in commuting to work.",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "\"in commuting\" should be replaced with \"to commute\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "The murder was?",
+      "exam_source": "(UPSC CDS, 2024)",
+      "options": {
+        "a": "/ too abominable",
+        "b": "/ to",
+        "c": "No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "\"to described\" should be replaced with \"to be described\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "Many people came?",
+      "exam_source": "(UPSC NDA, 2023)",
+      "options": {
+        "a": "/ from faraway places to",
+        "b": "/ an animal is called sharing.",
+        "c": "/ No",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "\"to prayed\" should be replaced with \"to pray\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "I was made complete?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the work on time but",
+        "b": "/ nobody appreciated me.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"made complete\" should be replaced with \"made to",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "To teach thousands?",
+      "exam_source": "",
+      "options": {
+        "a": "/ of students daily",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"are\" should be replaced with \"is\" of use will be because tc",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "The manager is unlikely for accepting the proposal?",
+      "exam_source": "",
+      "options": {
+        "a": "/ submitted by the employees",
+        "b": "/ making necessary changes in the",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"unlikely for accepting\" should be replaced with \"unlikely",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "The manager called an urgent meeting?",
+      "exam_source": "",
+      "options": {
+        "a": "/ so",
+        "b": "/ that had",
+        "c": "/ during the"
+      },
+      "correct": "b",
+      "explanation": "\"so as discuss\" should be replaced with \"so as to discuss\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 18,
+      "question": "The results of the recent survey seem indicating?",
+      "exam_source": "",
+      "options": {
+        "a": "/ a significant improvement in",
+        "b": "/ performance of the students in",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"seem indicating\" should be replaced with \"seem to",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 19,
+      "question": "She is always willing for helping her colleagues in completing?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the assigned tasks within",
+        "b": "/ the given deadline even under pressure.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"willing for helping\" should be replaced with \"willing to",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 20,
+      "question": "The new employees were confused about?",
+      "exam_source": "",
+      "options": {
+        "a": "/ how solving the technical issues",
+        "b": "/ that",
+        "c": "/ during"
+      },
+      "correct": "b",
+      "explanation": "\"how solving\" should be replaced with \"how to solve\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 21,
+      "question": "The company plans launching a new product in the market?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to attract more customers",
+        "b": "/ in the coming financial year.",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"plans launching\" should be replaced with \"plans to",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 22,
+      "question": "It was extremely difficult?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to understand",
+        "b": "/ given by the",
+        "c": "/ because they were not clear"
+      },
+      "correct": "d",
+      "explanation": "\"explaining\" should be replaced with \"to explain\" of use",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 23,
+      "question": "He was completely unable for solving the complex problems?",
+      "exam_source": "",
+      "options": {
+        "a": "/ given in the examination",
+        "b": "/ proper preparation during",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"unable for solving\" should be replaced with \"unable to",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 24,
+      "question": "She wishes going abroad for higher studies?",
+      "exam_source": "",
+      "options": {
+        "a": "/ after completing her graduation",
+        "b": "/ from",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"wishes going\" should be replaced with \"wishes to go\" of",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 25,
+      "question": "The duo's network was made to learn identify true signals using previously vetted signals; ll they then studied the weaker signals. f ha \b re 2018) (SSC CGL,?",
+      "exam_source": "",
+      "options": {
+        "a": "made to learn to identify - @f",
+        "b": "nT",
+        "c": "ch",
+        "d": "No improvement ear"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    }
+  ]
+}

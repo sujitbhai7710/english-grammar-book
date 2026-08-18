@@ -1,0 +1,130 @@
+{
+  "chapter_no": 49,
+  "title": "It Vs There (Dummy Subjects)",
+  "section": "A",
+  "start_page": 131,
+  "end_page": 132,
+  "theory": " It dk use Dummy Subject ds :i esa rc fd;k tkrk gS tc okD; esa real subject Li\"V ugha gksrk gSA\n\n                       No real meaning                       Has meaning\n\n                    Dummy Subject                               Personal pronoun\n                 (Impersonal pronoun)\n\n           Used for weather/time/situation/                       Replaces a noun\n              day/distance/temperature\n\n   \"It\" ges'kk Singular ekuk tkrk gS] blfy, blosQ lkFk Singular verb vk,xhA\n\n It + Singular verb + ......\n\n   There dk use dummy subject ds :i esa fdlh O;fDr ;k oLrq osQ vfLrRo (existence) ;k mifLFkfr\n      (presence) dks n'kkZus ds fy, fd;k tkrk gSA bldk use Adverb of Place dh rjg Hkh fd;k tkrk gSA\n                                             There\n                     No real meaning                        Has meaning\n\n                  Dummy Subject                            Adverb of Place (ogk¡)\n\n              Shows existence/presence.\n\n  \"There\" osQ ckn vkus okyh verb vkxs fn;s x;s Noun ;k Pronoun ij vk/kfjr gksrh gSA\n\n\t\tThere + Verb + Subject\n\n     Examples",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "Rarely if ever have there been a time?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "a": "/ when",
+        "b": "/ with such institutional",
+        "c": "/ as in the present administration.",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "\"have\" should be replaced with \"has\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "The committee's observation regarding the issue?",
+      "exam_source": "",
+      "options": {
+        "a": "/ makes it evident that there remains",
+        "b": "/ in implementing the",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"remains\" should be replaced with \"remain\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "There have always existed?",
+      "exam_source": "",
+      "options": {
+        "a": "/ some kind of",
+        "b": "/ but there have not always",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"have\" should be replaced with \"has\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "During the survey conducted in the lake area last month?",
+      "exam_source": "",
+      "options": {
+        "a": "/ there was fish in the water near",
+        "b": "/ which attracted a large",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"was\" should be replaced with \"were\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "During the audit process?",
+      "exam_source": "",
+      "options": {
+        "a": "/ there seem to be",
+        "b": "/ submitted by the organization",
+        "c": "/ which",
+        "d": "Answers"
+      },
+      "correct": "d",
+      "explanation": "\"needs\" should be replaced with \"need\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "The rise in global temperatures over the past decades?",
+      "exam_source": "",
+      "options": {
+        "a": "/ indicates that there have been",
+        "b": "/ in environmental",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"have\" should be replaced with \"has\" of use will be",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "The report clearly shows there is necessary?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to adopt new strategies",
+        "b": "/ to improve the",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"there is necessary\" should be replaced with \"it is necessary\"",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "During the verification process?",
+      "exam_source": "",
+      "options": {
+        "a": "/ there",
+        "b": "/ submitted by the candidates.",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"seems\" should be replaced with \"seem\" of use will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "There has always been?",
+      "exam_source": "",
+      "options": {
+        "a": "/ some form of",
+        "b": "/ but there has not always been",
+        "c": "/ No error",
+        "d": "10. ......... is 10 o'clock by my watch."
+      },
+      "correct": "c",
+      "explanation": "\"has\" should be replaced with \"have\" of use will be because",
+      "format": "error_spotting"
+    }
+  ]
+}

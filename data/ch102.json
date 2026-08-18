@@ -1,0 +1,341 @@
+{
+  "chapter_no": 102,
+  "title": "Participle",
+  "section": "A",
+  "start_page": 269,
+  "end_page": 271,
+  "theory": "Present Participle\n   Present participle verb dk \"-ing\" :i gksrk gSA bldk mi;ksx adjective ;k connector dh rjg\n      gksrk gS vkSj ;g ongoing action (tks py jgk gS) dks fn[kkrk gSA\n Ex. 1. India is a developing country.\n\n  \t\tUsed as Adjective\n    2. The crying baby needs help.\n\n  \t\tUsed as Adjective\n    3. Walking along the road, I saw a snake.\n\n  Used as Connector\n    4. Being a rainy day, we did not go out.\n\n  Used as Connector\n\n    Past Participle\n   Past Participle verb dk 3rd (v3) :i gksrk gSA bldk mi;ksx adjective ;k connector dh rjg\n      gksrk gS vkSj ;g completed action (tks iwjk gks pqdk gS) dks fn[kkrk gSA\n Ex. 1. A broken chair was lying on the floor.\n\n \t\t  Used as Adjective",
+  "mcqs": [
+    {
+      "qno": 1,
+      "question": "Illegal sand mining has become?",
+      "exam_source": "",
+      "options": {
+        "a": "/ a boom business",
+        "b": "/ by the ever-increasing demand",
+        "c": "/ of"
+      },
+      "correct": "b",
+      "explanation": "\"boom business\" should be replaced with \"booming",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 2,
+      "question": "The minister has?",
+      "exam_source": "",
+      "options": {
+        "a": "/ recently announced",
+        "b": "/ a",
+        "c": "/ meet the needs of the"
+      },
+      "correct": "c",
+      "explanation": "\"a detail insurance plan\" should be replaced with \"a",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 3,
+      "question": "Being?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ a doctor",
+        "b": "/ the patient's health is my",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "d",
+      "explanation": "\"Being a doctor\" of logical doer \"I\" gS, u fd",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 4,
+      "question": "The books written by the famous author over the years?",
+      "exam_source": "",
+      "options": {
+        "a": "/ have been widely appreciated",
+        "b": "/ and",
+        "c": "/ to him for his contributions."
+      },
+      "correct": "c",
+      "explanation": "gave should be replaced with were given will be because",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 5,
+      "question": "Having completed the training successfully,?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the",
+        "b": "/ appreciating",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "Present Participle \"appreciating\" should be replaced with",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 6,
+      "question": "Having realize?",
+      "exam_source": "",
+      "options": {
+        "a": "/ his mistake",
+        "b": "/ Rohan",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"Having realize\" should be replaced with \"Having",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 7,
+      "question": "Effective leaders are self-direct individuals?",
+      "exam_source": "",
+      "options": {
+        "a": "/ who",
+        "b": "/ to make important decisions",
+        "c": "/ without relying heavily on"
+      },
+      "correct": "a",
+      "explanation": "\"self-direct individuals\" should be replaced with \"self-",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 8,
+      "question": "Nobody from the gathering?",
+      "exam_source": "(SSC CHSL, 2023)",
+      "options": {
+        "a": "/ of odd people could",
+        "b": "/ the accident occurring blast.",
+        "c": "No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "occurring blast\" should be replaced with \"occurred",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 9,
+      "question": "The professor delivered?",
+      "exam_source": "",
+      "options": {
+        "a": "/ an interested lecture",
+        "b": "/ on ancient Indian history that attracted many",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"interested lecture\" should be replaced with \"interesting",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 10,
+      "question": "India has become one of the most important markets in?",
+      "exam_source": "",
+      "options": {
+        "a": "/ the emerge economies",
+        "b": "/ of the world",
+        "c": "/ No error"
+      },
+      "correct": "b",
+      "explanation": "\"the emerge economies\" should be replaced with \"the",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 11,
+      "question": "Three more elevated roads?",
+      "exam_source": "(SSC CHSL, 2019)",
+      "options": {
+        "a": "/ have been propose",
+        "b": "/ in the new plan",
+        "c": "/ to unclog the traffic in",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "\"have been propose\" should be replaced with \"have been",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 12,
+      "question": "The exhausted workers returned home?",
+      "exam_source": "",
+      "options": {
+        "a": "/ after",
+        "b": "/ feeling greatly tire and",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"feeling greatly tire\" should be replaced with \"feeling",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 13,
+      "question": "The speaker delivered an inspiring speech?",
+      "exam_source": "",
+      "options": {
+        "b": "/ making the",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"deeply convince\" should be replaced with \"deeply",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 14,
+      "question": "Running across the playground, my pen fell in the mud;?",
+      "exam_source": "",
+      "options": {
+        "a": "/ fortunately, I noticed it",
+        "b": "/ and picked it",
+        "c": "/ No error"
+      },
+      "correct": "a",
+      "explanation": "\"Running across the playground\" of logical",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 15,
+      "question": "The teacher tried to make the lecture amused?",
+      "exam_source": "",
+      "options": {
+        "b": "/ that would",
+        "c": "/ remain attentive in class."
+      },
+      "correct": "a",
+      "explanation": "amused lecture\" should be replaced with \"amusing",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 16,
+      "question": "The government is struggling?",
+      "exam_source": "",
+      "options": {
+        "a": "/ to meet the ever-",
+        "b": "/ demand for clean energy",
+        "c": "/ across the"
+      },
+      "correct": "b",
+      "explanation": "ever-grow demand\" should be replaced with \"ever-",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 17,
+      "question": "The audience appeared highly amusing?",
+      "exam_source": "",
+      "options": {
+        "a": "/ after",
+        "b": "/ which were",
+        "c": "/ during the evening show."
+      },
+      "correct": "a",
+      "explanation": "\"highly amusing\" should be replaced with \"highly",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 18,
+      "question": "Being largely ignored in the early discussions,?",
+      "exam_source": "(SSC CGL, 2025)",
+      "options": {
+        "b": "/ to",
+        "c": "/ who had earlier",
+        "d": "\b"
+      },
+      "correct": "a",
+      "explanation": "Being largely ignored should be replaced with Having",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 19,
+      "question": "The children returned home late in the evening?",
+      "exam_source": "",
+      "options": {
+        "b": "/ feeling",
+        "c": "/ No error"
+      },
+      "correct": "c",
+      "explanation": "\"feeling exhaust\" should be replaced with \"feeling",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 20,
+      "question": "Having just?",
+      "exam_source": "(SSC CGL, 2019)",
+      "options": {
+        "a": "/ taking a heavy",
+        "b": "/ lunch, she was",
+        "c": "/ to have any fruit.",
+        "d": "\b"
+      },
+      "correct": "b",
+      "explanation": "\"Having just taking\" should be replaced with \"Having",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 21,
+      "question": "The judge ordered?",
+      "exam_source": "(SSC STENO, 2025)",
+      "options": {
+        "a": "/ the prisoner",
+        "b": "/ to hung till",
+        "c": "/ No error",
+        "d": "\b"
+      },
+      "correct": "c",
+      "explanation": "\"to hung till death\" should be replaced with \"to be hanged",
+      "format": "error_spotting"
+    },
+    {
+      "qno": 22,
+      "question": "Have taken permission, Shivam went horse riding.\b?",
+      "exam_source": "(SSC CPO, 2020)",
+      "options": {
+        "a": "Having taking permission",
+        "b": "No substitution required",
+        "c": "Have took permission",
+        "d": "Having taken permission"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 23,
+      "question": "Learning a poem by heart is meaningless if you do not understand it.\b?",
+      "exam_source": "(SSC CGL, 2022)",
+      "options": {
+        "a": "To learning a poem at heart",
+        "b": "No improvement required",
+        "c": "Learning a poem in heart",
+        "d": "Learn a poem by heart"
+      },
+      "correct": "b",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 24,
+      "question": "Gel ingredients work well on waved, curled, relax and texture hair in the long run. \b?",
+      "exam_source": "(SSC MTS, 2022)",
+      "options": {
+        "a": "relaxed and textured",
+        "b": "No substitution textured",
+        "c": "relaxed and texturing",
+        "d": "relaxing and textured"
+      },
+      "correct": "a",
+      "explanation": "",
+      "format": "sentence_improve"
+    },
+    {
+      "qno": 25,
+      "question": "The Arabian Sea region is very important for India as several major ports are locating there. \b?",
+      "exam_source": "(SSC CHSL, 2020)",
+      "options": {
+        "a": "have been locating",
+        "b": "No improvement",
+        "c": "was locating hall",
+        "d": "are located ep"
+      },
+      "correct": "d",
+      "explanation": "",
+      "format": "sentence_improve"
+    }
+  ]
+}
